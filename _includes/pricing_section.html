@@ -1,0 +1,108 @@
+<!-- ============================================ -->
+<!--                   Pricing                    -->
+<!-- ============================================ -->
+
+<!-- ============================================ -->
+<!--                MZed Pro Pricing              -->
+<!-- ============================================ -->
+
+<section id="pricing-1262">
+  <div class="cs-container">
+    <div class="cs-container-left">
+      <div id="get-started">
+        <div class="cs-title">
+          {{ pricing.headline | default: 'Ready to Get Started with <span class="title-highlight">MZed Pro?</span>' }}
+        </div>
+        <p class="cs-text">
+          {{ pricing.description | default: 'Make a commitment to becoming a better filmmaker, today. Seven-day money-back guarantee' }}
+          (<a href="{{ pricing.terms_link | default: 'https://www.mzed.com/terms-of-service#section-6' }}" class="cs-link">{{ pricing.terms_text | default: 'view full terms here' }}</a>).
+        </p>
+      </div>
+    </div>
+
+    <div class="cs-container-right">
+      <!-- MZed Pro -->
+      <div class="cs-pricing-card">
+        <div class="cs-column feature">
+          <img src="{{ '/courses/assets/icons/MZed-PRO-CMYK.svg' | relative_url }}" alt="MZed PRO" class="cs-logo" />
+        </div>
+        <div class="cs-column cs-monthly">
+          <div class="cs-title">{{ pricing.monthly_title | default: 'Monthly Membership' }}</div>
+        </div>
+        <div class="cs-column cs-annual">
+          <div class="cs-title annual">{{ pricing.annual_title | default: 'Annual Membership' }}</div>
+        </div>
+        <div class="cs-row">
+          <div class="feature">{{ pricing.price_label | default: 'Monthly price' }}</div>
+          <div class="monthly-container">
+            <div class="monthly price">{{ pricing.monthly_price | default: '$49/month' }}</div>
+          </div>
+          <div class="annual price">
+            {{ pricing.annual_price | default: '$29/month' }}
+            <div class="billed-annually">{{ pricing.billed_annually_text | default: '(billed annually)' }}</div>
+          </div>
+        </div>
+        
+        {% for feature in pricing.features %}
+          <div class="cs-row">
+            <div class="feature border-top">{{ feature.text }}</div>
+            <div class="monthly border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+            <div class="annual border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+          </div>
+        {% else %}
+          <!-- Default features if none provided -->
+          <div class="cs-row">
+            <div class="feature border-top">Unlimited access to all courses</div>
+            <div class="monthly border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+            <div class="annual border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+          </div>
+          <div class="cs-row">
+            <div class="feature border-top">
+              Learn from Academy Award and Pulitzer Prize winning educators
+            </div>
+            <div class="monthly border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+            <div class="annual border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+          </div>
+          <div class="cs-row">
+            <div class="feature border-top">
+              Offline download and viewing with the MZed iOS app
+            </div>
+            <div class="monthly border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+            <div class="annual border-top">
+              <span class="cs-checkmark"><img src="{{ '/courses/assets/icons/round-check.svg' | relative_url }}" /></span>
+            </div>
+          </div>
+        {% endfor %}
+        
+        <!-- Call to Action Buttons -->
+        <div class="cs-row cta-row">
+          <div class="feature border-top"></div>
+          <div class="monthly border-top">
+            <a href="{{ pricing.monthly_cta_url | default: 'https://www.mzed.com/subscription/checkout?plan=monthly' }}" class="cs-button-solid">
+              {{ pricing.monthly_cta_text | default: 'Join Now' }}
+            </a>
+          </div>
+          <div class="annual border-top">
+            <a href="{{ pricing.annual_cta_url | default: 'https://www.mzed.com/subscription/checkout?plan=yearly' }}" class="cs-button-solid">
+              {{ pricing.annual_cta_text | default: 'Join Now' }}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> 

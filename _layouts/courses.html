@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="canonical" href="{{ page.canonical_url | default: site.url | append: page.url }}" />
+
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+
+    <!-- Preload -->
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="{{ "/assets/fonts/roboto-v29-latin-regular.woff2" | relative_url }}"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="{{ "/assets/fonts/roboto-v29-latin-700.woff2" | relative_url }}"
+      crossorigin
+    />
+
+    <link rel="stylesheet" href="{{ "/assets/css/core-styles.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/courses.css" | relative_url }}" />
+    
+    {% if page.custom_css %}
+      {% for css_file in page.custom_css %}
+        <link rel="stylesheet" href="{{ css_file | relative_url }}">
+      {% endfor %}
+    {% endif %}
+    
+    <title>{{ page.title | default: "Courses" }} | {{ site.title }}</title>
+  </head>
+
+  <body>
+    <main id="main">
+      <!-- Content from the page -->
+      {{ content }}
+      
+      <!-- Include MZed Pro section -->
+      {% if page.show_mzed_pro != false %}
+        {% include mzed_pro_section.html section=page.mzed_pro_section %}
+      {% endif %}
+      
+      <!-- Include pricing section -->
+      {% if page.show_pricing != false %}
+        {% include pricing_section.html pricing=page.pricing %}
+      {% endif %}
+    </main>
+    
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+        <script src="{{ js_file | relative_url }}"></script>
+      {% endfor %}
+    {% endif %}
+  </body>
+</html> 

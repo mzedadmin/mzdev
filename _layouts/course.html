@@ -1,0 +1,107 @@
+---
+layout: default
+custom_css:
+  - /courses/css/core-styles.css
+  - /courses/css/index.css
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="canonical" href="{{ page.canonical_url | default: site.url | append: page.url }}" />
+
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+
+    <!-- Preload -->
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="{{ "/assets/fonts/roboto-v29-latin-regular.woff2" | relative_url }}"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="{{ "/assets/fonts/roboto-v29-latin-700.woff2" | relative_url }}"
+      crossorigin
+    />
+
+    <link rel="stylesheet" href="{{ "/assets/css/core-styles.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/course.css" | relative_url }}" />
+    
+    {% if page.custom_css %}
+      {% for css_file in page.custom_css %}
+        <link rel="stylesheet" href="{{ css_file | relative_url }}">
+      {% endfor %}
+    {% endif %}
+    
+    <title>{{ page.title }} | {{ site.title }}</title>
+  </head>
+
+  <body>
+    <main id="main">
+      <!-- Course Header -->
+      <section id="course-header">
+        <div class="cs-container">
+          <div class="cs-content">
+            <h1 class="cs-title">{{ page.title }}</h1>
+            <h2 class="cs-educator">{{ page.educator }}</h2>
+            <p class="cs-text">{{ page.description }}</p>
+            <div class="cs-button-group">
+              <a href="{{ page.course_url | default: '#' }}" class="cs-button-solid">Watch this course</a>
+            </div>
+            
+            <!-- Course Stats -->
+            <div class="course-card-stats">
+              {% if page.lessons %}
+                <span class="course-card-stat">
+                  <span class="course-card-stat-text">{{ page.lessons }} Lessons</span>
+                </span>
+              {% endif %}
+              
+              {% if page.runtime %}
+                <span class="course-card-stat">
+                  <span class="course-card-stat-text">{{ page.runtime }}</span>
+                </span>
+              {% endif %}
+            </div>
+          </div>
+          
+          <!-- Course Image -->
+          <div class="cs-image">
+            <img src="{{ page.image | relative_url }}" alt="{{ page.title }} by {{ page.educator }}" />
+          </div>
+        </div>
+      </section>
+
+      <!-- Course Content -->
+      <section id="course-content">
+        <div class="cs-container">
+          {{ content }}
+        </div>
+      </section>
+
+      <!-- MZed Pro Section -->
+      {% if page.show_stats %}
+        {% include mzed_pro_section.html section=page.mzed_pro_section %}
+      {% endif %}
+
+      <!-- Pricing Section -->
+      {% if page.show_pricing %}
+        {% include pricing_section.html pricing=page.pricing %}
+      {% endif %}
+    </main>
+    
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+        <script src="{{ js_file | relative_url }}"></script>
+      {% endfor %}
+    {% endif %}
+  </body>
+</html> 

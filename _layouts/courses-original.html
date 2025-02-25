@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="canonical" href="{{ page.canonical_url | default: site.url | append: page.url }}" />
+
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+
+    <!-- Preload Fonts -->
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="{{ '/courses/assets/fonts/roboto-v29-latin-regular.woff2' | relative_url }}"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="{{ '/courses/assets/fonts/roboto-v29-latin-700.woff2' | relative_url }}"
+      crossorigin
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/courses/css/core-styles.css' | relative_url }}" />
+    
+    {% if page.custom_css %}
+      {% for css_file in page.custom_css %}
+        <link rel="stylesheet" href="{{ css_file | relative_url }}">
+      {% endfor %}
+    {% endif %}
+    
+    <title>{{ page.title | default: "Courses" }} | {{ site.title }}</title>
+  </head>
+
+  <body>
+    <main id="main">
+      {{ content }}
+    </main>
+
+    <!-- JavaScript for filtering -->
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+        <script src="{{ js_file | relative_url }}"></script>
+      {% endfor %}
+    {% else %}
+      <script src="{{ '/courses/js/index.js' | relative_url }}"></script>
+    {% endif %}
+  </body>
+</html> 
