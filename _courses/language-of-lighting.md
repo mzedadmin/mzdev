@@ -1,16 +1,17 @@
 ---
-layout: course
 title: The Language of Lighting
+position: 4
+layout: course
 educator: Tal Lazar
-image: /courses/assets/images/language-of-lighting.jpg
+image: "/courses/assets/images/language-of-lighting.jpg"
 course_url: https://www.mzed.com/courses/the-language-of-lighting
-description: Master the visual language of lighting with professional cinematographer Tal Lazar. Learn to see and design light to enhance your storytelling.
+description: Master the visual language of lighting with professional cinematographer
+  Tal Lazar. Learn to see and design light to enhance your storytelling.
 lessons: 9
 runtime: 3h 53m
-position: 4
 topics:
-  - lighting
-  - cinematography
+- lighting
+- cinematography
 show_stats: true
 show_pricing: true
 ---

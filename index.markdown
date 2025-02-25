@@ -1,7 +1,7 @@
 ---
 title: Home
+permalink: "/"
 layout: default
-permalink: /
 description: MZed is the leading online education platform for filmmakers and photographers.
 ---
 

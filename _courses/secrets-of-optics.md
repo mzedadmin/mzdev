@@ -1,16 +1,17 @@
 ---
-layout: course
 title: The Secrets of Optics
+position: 8
+layout: course
 educator: Mitch Gross
-image: /courses/assets/images/secrets-of-optics.jpg
+image: "/courses/assets/images/secrets-of-optics.jpg"
 course_url: https://www.mzed.com/courses/the-secrets-of-optics
-description: Understand the fundamentals of lenses, from focal length to crop factors, and learn how different manufacturers create their distinctive looks.
+description: Understand the fundamentals of lenses, from focal length to crop factors,
+  and learn how different manufacturers create their distinctive looks.
 lessons: 12
 runtime: 4h 15m
-position: 8
 topics:
-  - cinematography
-  - filmmaking
+- cinematography
+- filmmaking
 show_stats: true
 show_pricing: true
 ---

@@ -1,18 +1,19 @@
 ---
-layout: course
 title: The Indie Film Blueprint
+position: 2
+layout: course
 educator: Rubidium Wu
-image: /courses/assets/images/indie-film-blueprint.jpg
+image: "/courses/assets/images/indie-film-blueprint.jpg"
 course_url: https://www.mzed.com/courses/the-indie-film-blueprint
-description: Learn how to launch a successful filmmaking career while avoiding common pitfalls with instructor Rubidium Wu's comprehensive guide to indie filmmaking.
+description: Learn how to launch a successful filmmaking career while avoiding common
+  pitfalls with instructor Rubidium Wu's comprehensive guide to indie filmmaking.
 lessons: 15
 runtime: 4h 1m
-position: 2
 topics:
-  - filmmaking
-  - producing
-  - directing
-  - visual-storytelling
+- filmmaking
+- producing
+- directing
+- visual-storytelling
 show_stats: true
 show_pricing: true
 ---

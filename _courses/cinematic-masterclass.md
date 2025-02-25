@@ -1,18 +1,20 @@
 ---
-layout: course
 title: Cinematic Masterclass
+position: 1
+layout: course
 educator: Philip Bloom
-image: /courses/assets/images/philip-bloom-cinematic-masterclass.jpg
+image: "/courses/assets/images/philip-bloom-cinematic-masterclass.jpg"
 course_url: https://www.mzed.com/courses/philip-bloom-cinematic-masterclass
-description: Travel with Philip Bloom through Ireland and the Mojave desert as he demonstrates essential techniques for capturing stunning cinematic images in various challenging environments.
+description: Travel with Philip Bloom through Ireland and the Mojave desert as he
+  demonstrates essential techniques for capturing stunning cinematic images in various
+  challenging environments.
 lessons: 9
 runtime: 9h 27m
-position: 1
 topics:
-  - cinematography
-  - lighting
-  - visual-storytelling
-  - filmmaking
+- cinematography
+- lighting
+- visual-storytelling
+- filmmaking
 show_stats: true
 show_pricing: true
 ---
