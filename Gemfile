@@ -8,7 +8,7 @@ gem "jekyll-sass-converter", "~> 3.0"
 
 # Required gems for newer Ruby versions
 gem "csv", "~> 3.2"
-gem "base64", "~> 0.1.1"
+gem "base64", "~> 0.2.0"
 gem "bigdecimal", "~> 3.1"
 
 # If you have any plugins, put them here!
