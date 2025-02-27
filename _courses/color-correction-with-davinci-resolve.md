@@ -1,14 +1,16 @@
 ---
-layout: course
 title: Color Correction with DaVinci Resolve
+position: 34
+layout: course
 educator: Ollie Kenchington
-image: /assets/images/courses/color-correction-with-davinci-resolve.jpg
+image: "/assets/images/courses/color-correction-with-davinci-resolve.jpg"
 course_url: https://www.mzed.com/courses/color-correction-with-davinci-resolve
-description: Master color correction in DaVinci Resolve with hands-on exercises and practical workflows. Prepare for Blackmagic's certification exam.
+description: Master color correction in DaVinci Resolve with hands-on exercises and
+  practical workflows. Prepare for Blackmagic's certification exam.
 lessons: 10
 runtime: 7h 19m
-position: 34
 topics: editing, color-grading, filmmaking
 show_stats: true
 show_pricing: true
---- 
+---
+
