@@ -1,8 +1,5 @@
 ---
 layout: default
-custom_css:
-- "/courses/css/core-styles.css"
-- "/courses/css/index.css"
 ---
 
 <!DOCTYPE html>
@@ -34,6 +31,7 @@ custom_css:
 
     <link rel="stylesheet" href="{{ "/assets/css/core-styles.css" | relative_url }}" />
     <link rel="stylesheet" href="{{ "/assets/css/course.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/courses-index.css" | relative_url }}" />
     
     {% if page.custom_css %}
       {% for css_file in page.custom_css %}
