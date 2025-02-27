@@ -6,8 +6,7 @@ description: Browse our full catalog of MZed courses taught by award-winning fil
   and industry professionals.
 canonical_url: https://www.mzed.com/courses
 custom_css:
-- "/assets/css/courses.css"
-- "/assets/css/courses-index.css"
+- "/assets/css/main.css"
 custom_js:
 - "/assets/js/courses-index.js"
 head: |

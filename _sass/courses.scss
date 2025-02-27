@@ -7,7 +7,7 @@
         min-height: 100dvh;
         /* 200px - 300px top */
         /* 60px - 100px bottom */
-        padding: clamp(12.5rem, 12vw, 18.75rem) (16/16rem) clamp(3.75rem, 8vw, 6.25rem) (16/16rem);
+        padding: clamp(12.5rem, 12vw, 18.75rem) 1rem clamp(3.75rem, 8vw, 6.25rem) 1rem;
         position: relative;
         display: flex;
         align-items: flex-end;
@@ -15,7 +15,7 @@
 
         .cs-container {
             width: 100%;
-            max-width: (1369/16rem);
+            max-width: 85.5625rem;
             margin: 0 auto;
             display: flex;
             flex-direction: column;
@@ -38,24 +38,24 @@
         .cs-title {
             /* 39px - 61px */
             font-size: clamp(2.4375rem, 5vw, 3.8125rem);
-            margin-bottom: (28/16rem);
+            margin-bottom: 1.75rem;
             color: #fff;
         }
 
         .cs-text {
             /* 16px - 20px */
             font-size: clamp(1rem, 2vw, 1.25rem);
-            margin-bottom: (20/16rem);
+            margin-bottom: 1.25rem;
             color: #fff;
             opacity: 0.8;
         }
 
         .cs-flex-group {
-            max-width: (480/16rem);
+            max-width: 30rem;
         }
 
         .cs-button-solid {
-            font-size: (16/16rem);
+            font-size: 1rem;
             font-weight: 700;
             /* 46px - 56px */
             line-height: clamp(2.875rem, 5.5vw, 3.5rem);
@@ -84,8 +84,9 @@
             }
 
             &:hover {
-                &:before {
-                    width: 100%;
+                .cs-button-solid {
+                    background-color: #d32a1f;
+                    /* Using a darker shade instead of darken function */
                 }
             }
         }
@@ -134,19 +135,19 @@
             flex-direction: row;
             justify-content: space-evenly;
             align-items: flex-start;
-            gap: (32/16rem);
+            gap: 2rem;
         }
 
         .cs-title {
             width: 55%;
-            max-width: (630/16rem);
+            max-width: 39.375rem;
             margin-bottom: 0;
             /* prevents flexbox from squishing it */
             flex: none;
         }
 
         .cs-flex-group {
-            max-width: (480/16rem);
+            max-width: 30rem;
         }
     }
 }
@@ -240,7 +241,7 @@
         }
 
         .cs-icon {
-            width: (24/16rem);
+            width: 1.5rem;
             height: auto;
             display: block;
         }
@@ -979,7 +980,7 @@
             transition: background-color 0.3s ease;
 
             &:hover {
-                background-color: darken(#eb3e33, 10%);
+                background-color: #d32a1f; /* Using a darker shade instead of darken function */
             }
         }
     }
@@ -1152,7 +1153,7 @@
 <--- -------------------------- -*/
 
 .cs-button-12 {
-    font-size: (16/16rem);
+    font-size: 1rem;
     /* 46px - 56px */
     line-height: clamp(2.875rem, 8vw, 3.5rem);
     text-decoration: none;
@@ -1161,13 +1162,13 @@
     margin-top: 1.75rem;
     color: #fff;
     background-color: var(--primary);
-    padding: 0 0 0 (24/16rem);
+    padding: 0 0 0 1.5rem;
     /* prevents padding from affecting height and width */
     box-sizing: border-box;
     display: inline-flex;
     justify-content: center;
     align-items: stretch;
-    gap: (24/16rem);
+    gap: 1.5rem;
     position: relative;
     z-index: 1;
     transition: background-color .3s;
@@ -1190,7 +1191,7 @@
     }
 
     .cs-button-wrapper {
-        width: (56/16rem);
+        width: 3.5rem;
         background-color: #E8E8E8;
         display: flex;
         justify-content: center;
@@ -1216,7 +1217,7 @@
     }
 
     .cs-button-icon {
-        width: (28/16rem);
+        width: 1.75rem;
         height: auto;
         display: block;
     }
