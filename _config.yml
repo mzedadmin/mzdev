@@ -47,8 +47,6 @@ plugins:
 siteleaf:
   build_command: bundle exec jekyll build
   serve_command: bundle exec jekyll serve
-
-# SCSS Configuration
 sass:
   sass_dir: _sass
   style: compressed
