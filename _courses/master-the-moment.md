@@ -1,6 +1,6 @@
 ---
 title: Master the Moment
-position: 1
+position: 2
 layout: course
 educator: Ray Roman
 image: "/assets/images/courses/master-the-moment.jpg"

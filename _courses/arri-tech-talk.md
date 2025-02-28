@@ -1,6 +1,6 @@
 ---
 title: ARRI Tech Talk Live
-position: 29
+position: 28
 layout: course
 educator: ARRI Academy
 image: "/assets/images/courses/arri-tech-talk.jpg"

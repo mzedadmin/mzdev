@@ -1,6 +1,6 @@
 ---
 title: The Secrets of Optics
-position: 0
+position: 1
 layout: course
 educator: Mitch Gross
 image: "/assets/images/courses/secrets-of-optics.jpg"

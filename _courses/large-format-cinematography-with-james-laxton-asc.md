@@ -1,6 +1,6 @@
 ---
 title: Large Format Cinematography with James Laxton ASC
-position: 39
+position: 38
 layout: course
 educator: ARRI Academy
 image: "/assets/images/courses/large-format-cinematography-with-james-laxton-asc.jpg"

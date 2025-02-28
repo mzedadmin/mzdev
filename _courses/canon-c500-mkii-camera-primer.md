@@ -1,6 +1,6 @@
 ---
 title: Canon C500 MkII Camera Primer
-position: 7
+position: 8
 layout: course
 educator: Jem Schofield
 image: "/assets/images/courses/C500MkII-camera-primer.jpg"

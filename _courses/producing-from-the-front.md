@@ -1,6 +1,6 @@
 ---
 title: Producing from the Front
-position: 26
+position: 25
 layout: course
 educator: Graham Ehlers Sheldon
 image: "/assets/images/courses/producing-from-the-front.jpg"

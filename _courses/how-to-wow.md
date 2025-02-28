@@ -1,6 +1,6 @@
 ---
 title: How to Wow
-position: 46
+position: 45
 layout: course
 educator: Jerry Ghionis
 image: "/assets/images/courses/how-to-wow.jpg"

@@ -1,6 +1,6 @@
 ---
 title: How to Photograph Everyone
-position: 54
+position: 53
 layout: course
 educator: Clay Blackmore
 image: "/assets/images/courses/how-to-photograph-everyone.jpg"

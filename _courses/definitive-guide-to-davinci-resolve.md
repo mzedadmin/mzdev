@@ -1,6 +1,6 @@
 ---
 title: The Definitive Guide to DaVinci Resolve
-position: 40
+position: 39
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/definitive-guide-to-davinci-resolve.jpg"

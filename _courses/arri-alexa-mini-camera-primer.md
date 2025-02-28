@@ -1,6 +1,6 @@
 ---
 title: ARRI Alexa Mini Camera Primer
-position: 52
+position: 51
 layout: course
 educator: AbelCine Team
 image: "/assets/images/courses/arri-alexa-mini-camera-primer.jpg"

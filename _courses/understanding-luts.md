@@ -1,6 +1,6 @@
 ---
 title: 'Understanding LUTs: Theory and Application'
-position: 51
+position: 50
 layout: course
 educator: AbelCine Team
 image: "/assets/images/courses/understanding-luts.jpg"

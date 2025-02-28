@@ -1,6 +1,6 @@
 ---
 title: The Art of Visual Storytelling
-position: 57
+position: 56
 layout: course
 educator: Alex Buono
 image: "/assets/images/courses/art-of-visual-storytelling.jpg"

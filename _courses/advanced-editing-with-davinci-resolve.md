@@ -1,6 +1,6 @@
 ---
 title: Advanced Editing with Davinci Resolve
-position: 32
+position: 31
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/advanced-editing-with-davinci-resolve.jpg"

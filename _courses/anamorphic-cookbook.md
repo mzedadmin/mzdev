@@ -1,6 +1,6 @@
 ---
 title: Anamorphic Cookbook
-position: 24
+position: 0
 layout: course
 educator: Tito Ferradans
 image: "/assets/images/courses/anamorphic-cookbook.jpg"

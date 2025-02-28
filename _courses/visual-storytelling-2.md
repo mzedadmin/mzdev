@@ -1,6 +1,6 @@
 ---
 title: Alex Buono's Visual Storytelling 2
-position: 56
+position: 55
 layout: course
 educator: Alex Buono
 image: "/assets/images/courses/visual-storytelling-2.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Short Films 101
-position: 35
+position: 34
 layout: course
 educator: Seth Worley
 image: "/assets/images/courses/short-films-101.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Canon C300 MkII Camera Primer
-position: 49
+position: 48
 layout: course
 educator: AbelCine Team
 image: "/assets/images/courses/canon-c300-mkii-camera-primer.jpg"

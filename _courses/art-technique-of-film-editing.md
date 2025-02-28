@@ -1,6 +1,6 @@
 ---
 title: The Art & Technique of Film Editing
-position: 33
+position: 32
 layout: course
 educator: Tom Cross
 image: "/assets/images/courses/art-technique-of-film-editing.jpg"
