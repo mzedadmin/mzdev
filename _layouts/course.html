@@ -2,102 +2,184 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<main id="main">
+  <!-- ============================================ -->
+  <!--                   Image Hero                 -->
+  <!-- ============================================ -->
 
-    <link rel="canonical" href="{{ page.canonical_url | default: site.url | append: page.url }}" />
+  <section id="video-1314">
+    <div class="cs-big-link">
+      <!--Background Image-->
+      <picture class="cs-background">
+        <source media="(min-width: 1024px)" srcset="{{ page.image | relative_url }}" />
+        <source media="(min-width: 601px)" srcset="{{ page.image | relative_url }}" />
+        <source media="(max-width: 600px)" srcset="{{ page.image | relative_url }}" />
+        <img
+          aria-hidden="true"
+          loading="lazy"
+          decoding="async"
+          src="{{ page.image | relative_url }}"
+          alt="{{ page.title }} course image"
+          width="1920"
+          height="750"
+        />
+      </picture>
+    </div>
+  </section>
 
-    <meta name="description" content="{{ page.description | default: site.description }}" />
+  <!-- Course Content
+  <section id="course-content">
+    <div class="cs-container">{{ content }}</div>
+  </section> -->
 
-    <!-- Preload -->
-    <link
-      rel="preload"
-      as="font"
-      type="font/woff2"
-      href="{{ "/assets/fonts/roboto-v29-latin-regular.woff2" | relative_url }}"
-      crossorigin
-    />
-    <link
-      rel="preload"
-      as="font"
-      type="font/woff2"
-      href="{{ "/assets/fonts/roboto-v29-latin-700.woff2" | relative_url }}"
-      crossorigin
-    />
+  <!-- ============================================ -->
+  <!--                Course Summary                -->
+  <!-- ============================================ -->
 
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
-    
-    {% if page.custom_css %}
-      {% for css_file in page.custom_css %}
-        <link rel="stylesheet" href="{{ css_file | relative_url }}">
-      {% endfor %}
-    {% endif %}
-    
-    <title>{{ page.title }} | {{ site.title }}</title>
-  </head>
+  <section id="sbs-1015">
+    <div class="cs-container">
+      <div class="cs-content">
+        <span class="cs-topper">About the Course</span>
+        <div class="cs-title">{{ page.landing_title }}</div>
+        <p class="cs-text">{{ page.landing_body }}</p>
+        <a href="#pricing-1262" class="cs-button-12">
+          Start watching with MZed Pro
+          <picture class="cs-button-wrapper">
+            <img
+              class="cs-button-icon"
+              src="/assets/icons/angle-arrow.svg"
+              alt="icon"
+              loading="lazy"
+              decoding="async"
+              width="28"
+              height="28"
+            />
+          </picture>
+        </a>
+      </div>
+      <picture class="cs-picture">
+        <!--Mobile Image-->
+        <source media="(max-width: 600px)" srcset="{{ page.landing_image | relative_url }}" />
+        <!--Tablet and above Image-->
+        <source media=" (min-width: 601px)" srcset="{{ page.landing_image | relative_url }}" />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="{{ page.landing_image | relative_url }}"
+          alt="{{ page.title }} course image"
+          width="950"
+          height="480"
+        />
+      </picture>
+    </div>
+    <div class="cs-image-group">
+      <picture class="cs-image">
+        <!--Mobile Image-->
+        <source
+          media="(max-width: 600px)"
+          srcset="./assets/images/sony-fx6-camera-lens-mount.jpg"
+        />
+        <!--Tablet and above Image-->
+        <source
+          media="(min-width: 601px)"
+          srcset="./assets/images/sony-fx6-camera-lens-mount.jpg"
+        />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="./assets/images/sony-fx6-camera-lens-mount.jpg"
+          alt="sony fx6 camera lens mount"
+          width="368"
+          height="284"
+        />
+      </picture>
+      <picture class="cs-image">
+        <!--Mobile Image-->
+        <source
+          media="(max-width: 600px)"
+          srcset="./assets/images/sony-fx6-camera-screen-overlay.jpg"
+        />
+        <!--Tablet and above Image-->
+        <source
+          media="(min-width: 601px)"
+          srcset="./assets/images/sony-fx6-camera-screen-overlay.jpg"
+        />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="./assets/images/sony-fx6-camera-screen-overlay.jpg"
+          alt="sony fx6 camera screen overlay"
+          width="368"
+          height="284"
+        />
+      </picture>
+      <picture class="cs-image">
+        <!--Mobile Image-->
+        <source
+          media="(max-width: 600px)"
+          srcset="./assets/images/sony-fx6-camera-lcd-screen.jpg"
+        />
+        <!--Tablet and above Image-->
+        <source
+          media="(min-width: 601px)"
+          srcset="./assets/images/sony-fx6-camera-lcd-screen.jpg"
+        />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="./assets/images/sony-fx6-camera-lcd-screen.jpg"
+          alt="sony fx6 lcd screen"
+          width="368"
+          height="284"
+        />
+      </picture>
+      <picture class="cs-image">
+        <!--Mobile Image-->
+        <source
+          media="(max-width: 600px)"
+          srcset="./assets/images/sony-fx6-camera-action-shot.jpg"
+        />
+        <!--Tablet and above Image-->
+        <source
+          media="(min-width: 601px)"
+          srcset="./assets/images/sony-fx6-camera-action-shot.jpg"
+        />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="./assets/images/sony-fx6-camera-action-shot.jpg"
+          alt="sony fx6 action shot"
+          width="368"
+          height="284"
+        />
+      </picture>
+      <picture class="cs-image">
+        <!--Mobile Image-->
+        <source media="(max-width: 600px)" srcset="./assets/images/sony-fx6-camera-2.jpg" />
+        <!--Tablet and above Image-->
+        <source media="(min-width: 601px)" srcset="./assets/images/sony-fx6-camera-2.jpg" />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="./assets/images/sony-fx6-camera-2.jpg"
+          alt="sony fx6 cinema camera with lens"
+          width="368"
+          height="284"
+        />
+      </picture>
+    </div>
+  </section>
 
-  <body>
-    <main id="main">
-      <!-- Course Header -->
-      <section id="course-header">
-        <div class="cs-container">
-          <div class="cs-content">
-            <h1 class="cs-title">{{ page.title }}</h1>
-            <h2 class="cs-educator">{{ page.educator }}</h2>
-            <p class="cs-text">{{ page.description }}</p>
-            <div class="cs-button-group">
-              <a href="{{ page.course_url | default: '#' }}" class="cs-button-solid">Watch this course</a>
-            </div>
-            
-            <!-- Course Stats -->
-            <div class="course-card-stats">
-              {% if page.lessons %}
-                <span class="course-card-stat">
-                  <span class="course-card-stat-text">{{ page.lessons }} Lessons</span>
-                </span>
-              {% endif %}
-              
-              {% if page.runtime %}
-                <span class="course-card-stat">
-                  <span class="course-card-stat-text">{{ page.runtime }}</span>
-                </span>
-              {% endif %}
-            </div>
-          </div>
-          
-          <!-- Course Image -->
-          <div class="cs-image">
-            <img src="{{ page.image | relative_url }}" alt="{{ page.title }} by {{ page.educator }}" />
-          </div>
-        </div>
-      </section>
+  {% include course_stats.html course=page %}
 
-      <!-- Course Content -->
-      <section id="course-content">
-        <div class="cs-container">
-          {{ content }}
-        </div>
-      </section>
+  <!-- MZed Pro Section -->
+  {% if page.show_stats %} {% include mzed_pro_section.html section=page.mzed_pro_section %} {%
+  endif %}
 
-      <!-- MZed Pro Section -->
-      {% if page.show_stats %}
-        {% include mzed_pro_section.html section=page.mzed_pro_section %}
-      {% endif %}
+  <!-- Pricing Section -->
+  {% if page.show_pricing %} {% include pricing_section.html pricing=page.pricing %} {% endif %}
+</main>
 
-      <!-- Pricing Section -->
-      {% if page.show_pricing %}
-        {% include pricing_section.html pricing=page.pricing %}
-      {% endif %}
-    </main>
-    
-    {% if page.custom_js %}
-      {% for js_file in page.custom_js %}
-        <script src="{{ js_file | relative_url }}"></script>
-      {% endfor %}
-    {% endif %}
-  </body>
-</html> 
+{% if page.custom_js %} {% for js_file in page.custom_js %}
+<script src="{{ js_file | relative_url }}"></script>
+{% endfor %} {% endif %}

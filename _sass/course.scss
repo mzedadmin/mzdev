@@ -1,0 +1,141 @@
+/*------Course Summary Stats------- -*/
+
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+  #course-summary-stats {
+    padding: var(--sectionPadding);
+    padding-top: 0;
+    position: relative;
+    z-index: 1;
+  }
+  #course-summary-stats .cs-container {
+    width: 100%;
+    max-width: 80rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* 48px - 64px */
+    gap: clamp(3rem, 6vw, 4rem);
+  }
+  #course-summary-stats .cs-content {
+    /* set text align to left if content needs to be left aligned */
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* centers content horizontally, set to flex-start to left align */
+    align-items: center;
+  }
+  #course-summary-stats .cs-card-group {
+    width: 100%;
+    max-width: 31.25rem;
+    padding: 0 1.25rem;
+    /* 40px - 68px */
+    padding-top: clamp(2.5rem, 5.7vw, 4.25rem);
+    /* 48px - 80px */
+    padding-bottom: clamp(3rem, 6.5vw, 5rem);
+    margin: 0;
+    background: #fff;
+    border-top: 2px solid var(--primary);
+    border-radius: 0.3125rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 3.4375em;
+    box-shadow: 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.05);
+    /* prevents padding from adding to the width of the container */
+    box-sizing: border-box;
+  }
+  #course-summary-stats .cs-item {
+    text-align: center;
+    list-style: none;
+  }
+  #course-summary-stats .cs-number {
+    /* 39px - 61px */
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.2em;
+    /* 4px - 8px */
+    margin-bottom: clamp(0.25rem, 0.78vw, 0.5rem);
+    color: var(--primary);
+    display: block;
+  }
+  #course-summary-stats .cs-stat-text {
+    /* 16px - 25px */
+    font-size: clamp(1rem, 2vw, 1.5625rem);
+    font-weight: 700;
+    line-height: 1.2em;
+    margin: 0;
+    color: var(--headerColor);
+  }
+  #course-summary-stats .cs-button-solid {
+    font-size: 1rem;
+    /* 46px - 56px */
+    line-height: clamp(2.875rem, 5.5vw, 3.5rem);
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    color: #fff;
+    min-width: 9.375rem;
+    padding: 0 1.5rem;
+    background-color: var(--primary);
+    border-radius: 0.25rem;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    /* prevents padding from adding to the width */
+    box-sizing: border-box;
+  }
+  #course-summary-stats .cs-button-solid:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 0%;
+    background: #000;
+    opacity: 1;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 0.25rem;
+    transition: width 0.3s;
+  }
+  #course-summary-stats .cs-button-solid:hover:before {
+    width: 100%;
+  }
+}
+/* In-between - 500px */
+@media only screen and (min-width: 31.25rem) {
+  #course-summary-stats .cs-card-group {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 3.4375rem;
+    column-gap: 4.25rem;
+  }
+  #course-summary-stats .cs-item {
+    /* sets even spacing */
+    width: 9.8125rem;
+  }
+  #course-summary-stats .cs-number {
+    font-size: clamp(2.2375rem, 4.7vw, 3.8125rem);
+  }
+}
+/* Tablet - 768px */
+@media only screen and (min-width: 48rem) {
+  #course-summary-stats:before {
+    height: 37.5%;
+  }
+  #course-summary-stats .cs-card-group {
+    max-width: 100%;
+    justify-content: space-around;
+  }
+  #course-summary-stats .cs-item {
+    /* reset width */
+    width: auto;
+  }
+}
