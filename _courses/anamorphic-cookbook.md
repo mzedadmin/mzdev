@@ -1,7 +1,6 @@
 ---
 title: Anamorphic Cookbook
 position: 0
-layout: course
 educator: Tito Ferradans
 image: "/assets/images/courses/anamorphic-cookbook.jpg"
 course_url: https://www.mzed.com/courses/anamorphic-cookbook
@@ -11,14 +10,19 @@ lessons: 6
 runtime: 3h 52m
 topics: cinematography, filmmaking, visual-storytelling
 landing_title: The Ultimate Guide to Anamorphic Lenses
-landing_body: The Anamorphic Cookbook is the ultimate course about the history of
-  anamorphic lenses and how to put together your own rig.<br><br>After five years
-  of experimenting with various lenses, systems, and cameras, educator Tito Ferradans
-  has created a fast-paced and entertaining guide to anamorphics, saving you both
-  time and money on your anamorphic journey.
+landing_body: |-
+  The Anamorphic Cookbook is the ultimate course about the history of anamorphic lenses and how to put together your own rig.
+
+  After five years of experimenting with various lenses, systems, and cameras, educator Tito Ferradans has created a fast-paced and entertaining guide to anamorphics, saving you both time and money on your anamorphic journey.
 landing_image: "/assets/images/courses/anamorphic-cookbook/anamorphic-cookbook-tito.jpg"
-additional_images: 
+additional_images:
+- "/uploads/tito-ferradans-m.jpg"
+- "/uploads/tito-ferradans.jpg"
+- "/uploads/titoferradans.jpg"
+- "/uploads/tito.jpg"
+- "/uploads/tito-ferradans-mzed.jpg"
 show_stats: true
 show_pricing: true
+layout: course
 ---
 
