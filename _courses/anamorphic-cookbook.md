@@ -16,11 +16,11 @@ landing_body: |-
   After five years of experimenting with various lenses, systems, and cameras, educator Tito Ferradans has created a fast-paced and entertaining guide to anamorphics, saving you both time and money on your anamorphic journey.
 landing_image: "/assets/images/courses/anamorphic-cookbook/anamorphic-cookbook-tito.jpg"
 additional_images:
+- "/uploads/tito-ferradans-mzed.jpg"
 - "/uploads/tito-ferradans-m.jpg"
 - "/uploads/tito-ferradans.jpg"
 - "/uploads/titoferradans.jpg"
 - "/uploads/tito.jpg"
-- "/uploads/tito-ferradans-mzed.jpg"
 show_stats: true
 show_pricing: true
 layout: course
