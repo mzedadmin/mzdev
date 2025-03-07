@@ -1,14 +1,14 @@
 ---
 title: Courses
-permalink: '/courses/'
+permalink: "/courses/"
 layout: default
 description: Browse our full catalog of MZed courses taught by award-winning filmmakers
   and industry professionals.
 canonical_url: https://www.mzed.com/courses
 custom_css:
-  - '/assets/css/main.css'
+- "/assets/css/main.css"
 custom_js:
-  - '/assets/js/courses-index.js'
+- "/assets/js/courses-index.js"
 head: |
   <!-- Preload Fonts -->
   <link
@@ -45,17 +45,17 @@ pricing:
   monthly_title: Monthly Membership
   annual_title: Annual Membership
   price_label: Monthly price
-  monthly_price: '$49/month'
-  annual_price: '$29/month'
-  billed_annually_text: '(billed annually)'
+  monthly_price: "$49/month"
+  annual_price: "$29/month"
+  billed_annually_text: "(billed annually)"
   monthly_cta_url: https://www.mzed.com/subscription/checkout?plan=monthly
   monthly_cta_text: Join Now
   annual_cta_url: https://www.mzed.com/subscription/checkout?plan=yearly
   annual_cta_text: Join Now
   features:
-    - text: Unlimited access to all courses
-    - text: Learn from Academy Award and Pulitzer Prize winning educators
-    - text: Offline download and viewing with the MZed iOS app
+  - text: Unlimited access to all courses
+  - text: Learn from Academy Award and Pulitzer Prize winning educators
+  - text: Offline download and viewing with the MZed iOS app
 ---
 
 <main id="main">
