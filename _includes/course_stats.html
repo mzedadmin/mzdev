@@ -14,7 +14,7 @@
         <span class="cs-stat-text">Curated Lessons</span>
       </li>
       <li class="cs-item">
-        <span class="cs-number">{{ include.course.review_average}} / 5</span>
+        <span class="cs-number">{{ include.course.review_average | default: 4.8 }} / 5</span>
         <span class="cs-stat-text">Average Review</span>
       </li>
       <li class="cs-item">

@@ -1,0 +1,98 @@
+<!-- ============================================ -->
+<!--                 MZed Stats                   -->
+<!-- ============================================ -->
+
+<!-- prettier-ignore -->
+{% assign total_lessons = 0 %}
+{% for course in site.courses %}
+  {% assign total_lessons = total_lessons | plus: course.lessons %}
+{% endfor %}
+
+<!-- No headers, so no section tag -->
+<div id="mzed-summary-stats">
+  <div class="cs-content">
+    <span class="cs-topper">Access This Course</span>
+    <div class="cs-title">Only Available with MZed Pro!</div>
+    <p class="cs-text">
+      Join the leading online education membership for filmmakers, and get instant access to our
+      entire library.
+    </p>
+  </div>
+  <ul class="cs-card-group-stats">
+    <li class="cs-item-stats">
+      <picture class="cs-picture">
+        <img
+          class="cs-icon"
+          src="/assets/icons/book-reader-svgrepo-com.svg"
+          alt="icon"
+          width="35"
+          height="40"
+          loading="lazy"
+          decoding="async"
+          aria-hidden="true"
+        />
+      </picture>
+      <div class="cs-flex-group">
+        <span class="cs-number">{{ total_lessons | default: "800+" }}</span>
+        <span class="cs-stat">Lessons</span>
+      </div>
+    </li>
+
+    <li class="cs-item-stats">
+      <picture class="cs-picture">
+        <img
+          class="cs-icon"
+          src="/assets/icons/film-svgrepo-com.svg"
+          alt="icon"
+          width="40"
+          height="35"
+          loading="lazy"
+          decoding="async"
+          aria-hidden="true"
+        />
+      </picture>
+      <div class="cs-flex-group">
+        <span class="cs-number">{{ site.courses.size | default: "57+" }}</span>
+        <span class="cs-stat">Courses</span>
+      </div>
+    </li>
+
+    <li class="cs-item-stats">
+      <picture class="cs-picture">
+        <img
+          class="cs-icon"
+          src="/assets/icons/group-grey.svg"
+          alt="icon"
+          width="40"
+          height="40"
+          loading="lazy"
+          decoding="async"
+          aria-hidden="true"
+        />
+      </picture>
+      <div class="cs-flex-group">
+        <span class="cs-number">{{ section.educators_count | default: "35+" }}</span>
+        <span class="cs-stat">Educators</span>
+      </div>
+    </li>
+
+    <li class="cs-item-stats">
+      <picture class="cs-picture">
+        <img
+          class="cs-icon"
+          src="/assets/icons/dollar-circle-svgrepo-com.svg"
+          alt="icon"
+          width="40"
+          height="40"
+          loading="lazy"
+          decoding="async"
+          aria-hidden="true"
+        />
+      </picture>
+      <div class="cs-flex-group">
+        <span class="cs-number">$9000+</span>
+        <span class="cs-stat">Value</span>
+      </div>
+    </li>
+  </ul>
+</div>

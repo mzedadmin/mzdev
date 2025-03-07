@@ -73,111 +73,34 @@ layout: default
       </picture>
     </div>
     <div class="cs-image-group">
+      {% for image in page.additional_images %}
       <picture class="cs-image">
         <!--Mobile Image-->
-        <source
-          media="(max-width: 600px)"
-          srcset="./assets/images/sony-fx6-camera-lens-mount.jpg"
-        />
+        <source media="(max-width: 600px)" srcset="{{ image | relative_url }}" />
         <!--Tablet and above Image-->
-        <source
-          media="(min-width: 601px)"
-          srcset="./assets/images/sony-fx6-camera-lens-mount.jpg"
-        />
+        <source media="(min-width: 601px)" srcset="{{ image | relative_url }}" />
         <img
           loading="lazy"
           decoding="async"
-          src="./assets/images/sony-fx6-camera-lens-mount.jpg"
-          alt="sony fx6 camera lens mount"
+          src="{{ image | relative_url }}"
+          alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
           width="368"
           height="284"
         />
       </picture>
-      <picture class="cs-image">
-        <!--Mobile Image-->
-        <source
-          media="(max-width: 600px)"
-          srcset="./assets/images/sony-fx6-camera-screen-overlay.jpg"
-        />
-        <!--Tablet and above Image-->
-        <source
-          media="(min-width: 601px)"
-          srcset="./assets/images/sony-fx6-camera-screen-overlay.jpg"
-        />
-        <img
-          loading="lazy"
-          decoding="async"
-          src="./assets/images/sony-fx6-camera-screen-overlay.jpg"
-          alt="sony fx6 camera screen overlay"
-          width="368"
-          height="284"
-        />
-      </picture>
-      <picture class="cs-image">
-        <!--Mobile Image-->
-        <source
-          media="(max-width: 600px)"
-          srcset="./assets/images/sony-fx6-camera-lcd-screen.jpg"
-        />
-        <!--Tablet and above Image-->
-        <source
-          media="(min-width: 601px)"
-          srcset="./assets/images/sony-fx6-camera-lcd-screen.jpg"
-        />
-        <img
-          loading="lazy"
-          decoding="async"
-          src="./assets/images/sony-fx6-camera-lcd-screen.jpg"
-          alt="sony fx6 lcd screen"
-          width="368"
-          height="284"
-        />
-      </picture>
-      <picture class="cs-image">
-        <!--Mobile Image-->
-        <source
-          media="(max-width: 600px)"
-          srcset="./assets/images/sony-fx6-camera-action-shot.jpg"
-        />
-        <!--Tablet and above Image-->
-        <source
-          media="(min-width: 601px)"
-          srcset="./assets/images/sony-fx6-camera-action-shot.jpg"
-        />
-        <img
-          loading="lazy"
-          decoding="async"
-          src="./assets/images/sony-fx6-camera-action-shot.jpg"
-          alt="sony fx6 action shot"
-          width="368"
-          height="284"
-        />
-      </picture>
-      <picture class="cs-image">
-        <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="./assets/images/sony-fx6-camera-2.jpg" />
-        <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="./assets/images/sony-fx6-camera-2.jpg" />
-        <img
-          loading="lazy"
-          decoding="async"
-          src="./assets/images/sony-fx6-camera-2.jpg"
-          alt="sony fx6 cinema camera with lens"
-          width="368"
-          height="284"
-        />
-      </picture>
+      {% endfor %}
     </div>
   </section>
 
+  <!-- Course Stats -->
   {% include course_stats.html course=page %}
 
-  <!-- MZed Pro Section -->
-  {% if page.show_stats %} {% include mzed_pro_section.html section=page.mzed_pro_section %} {%
-  endif %}
+  <!-- MZed Pro Stats -->
+  {% if page.show_stats %} {% include mzed_stats.html section=page.mzed_pro_section %} {% endif %}
 
   <!-- Pricing Section -->
-  {% if page.show_pricing %} {% include pricing_section.html pricing=page.pricing %} {% endif %}
+  {% if page.course_purchase %} {% include course_pricing.html course=page pricing=site.data.prices
+  %} {% else %} {% include mzed_pricing.html pricing=site.data.prices %} {% endif %}
 </main>
 
 {% if page.custom_js %} {% for js_file in page.custom_js %}

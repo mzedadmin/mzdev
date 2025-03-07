@@ -4,15 +4,15 @@
 /* Mobile */
 @media only screen and (min-width: 0rem) {
   :root {
-    --primary: #B41F24;
-    --primaryLight: #D65E62;
+    --primary: #b41f24;
+    --primaryLight: #d65e62;
     --secondary: #222222;
     --secondaryLight: #474747;
     --headerColor: #1a1a1a;
     --bodyTextColor: #4e4e4e;
     --bodyTextColorWhite: #fafafa;
     /* 16px - 24px */
-    --bodyFontSize: clamp(1rem, 1.5vw, 1.5rem);
+    --bodyFontSize: 1rem;
     --headerFontSize: clamp(2rem, 5vw, 3rem);
     /* 60px - 100px top and bottom */
     --sectionPadding: clamp(3.75rem, 7.82vw, 6.25rem) 1rem;
@@ -22,8 +22,10 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    src: local(''), url('/assets/fonts/roboto-v29-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-regular.woff') format('woff');
-    
+    src: local(''), url('/assets/fonts/roboto-v29-latin-regular.woff2') format('woff2'),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-regular.woff')
+        format('woff');
+
     /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
   /* roboto-700 - latin */
@@ -31,8 +33,10 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    src: local(''), url('/assets/fonts/roboto-v29-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-700.woff') format('woff');
-    
+    src: local(''), url('/assets/fonts/roboto-v29-latin-700.woff2') format('woff2'),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-700.woff')
+        format('woff');
+
     /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
   /* roboto-900 - latin */
@@ -40,8 +44,10 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
-    src: local(''), url('/assets/fonts/roboto-v29-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-900.woff') format('woff');
-    
+    src: local(''), url('/assets/fonts/roboto-v29-latin-900.woff2') format('woff2'),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-900.woff')
+        format('woff');
+
     /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
   body,
@@ -49,7 +55,7 @@
     margin: 0;
     padding: 0;
     font-size: var(--bodyFontSize);
-    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     color: var(--bodyTextColor);
     line-height: 1.5;
     background-color: #fff;
@@ -109,7 +115,7 @@
     line-height: 1.2em;
     text-transform: uppercase;
     text-align: inherit;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
     font-weight: 700;
     color: var(--primary);
     margin-bottom: 0.25rem;
@@ -165,7 +171,7 @@
     top: 0;
     left: 0;
     z-index: -1;
-    transition: width .3s;
+    transition: width 0.3s;
   }
   .cs-button-solid:hover:before {
     width: 100%;
@@ -176,137 +182,5 @@
     left: 0;
     opacity: 0;
     z-index: -1111111;
-  }
-}
-/*-- -------------------------- -->
-<---      Dark Mode Toggle      -->
-<--- -------------------------- -*/
-/* Mobile */
-@media only screen and (min-width: 0em) {
-  body.dark-mode #dark-mode-toggle .cs-sun {
-    transform: translate(-50%, -50%);
-    opacity: 1;
-  }
-  body.dark-mode #dark-mode-toggle .cs-moon {
-    transform: translate(-50%, -150%);
-    opacity: 0;
-    fill: #fff;
-  }
-  #dark-mode-toggle {
-    display: block;
-    position: absolute;
-    top: 0.625rem;
-    right: 4.375rem;
-    width: 3rem;
-    height: 3rem;
-    background: transparent;
-    border: none;
-    overflow: hidden;
-    padding: 0;
-    z-index: 1000;
-  }
-  #dark-mode-toggle img,
-  #dark-mode-toggle svg {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 1.25rem;
-    height: 1.25rem;
-    pointer-events: none;
-  }
-  #dark-mode-toggle .cs-moon {
-    z-index: 2;
-    transition: transform .3s, opacity .3s;
-  }
-  #dark-mode-toggle .cs-sun {
-    z-index: 1;
-    transform: translate(-50%, 100%);
-    opacity: 0;
-    transition: transform .3s, opacity .3s;
-  }
-}
-/* Desktop */
-@media only screen and (min-width: 64em) {
-  #dark-mode-toggle {
-    position: relative;
-    transform: none;
-    top: auto;
-    right: auto;
-    margin: 0;
-  }
-  #dark-mode-toggle:hover {
-    cursor: pointer;
-  }
-}
-/*-- -------------------------- -->
-<---          Banner            -->
-<--- -------------------------- -*/
-/* Mobile - 360px */
-@media only screen and (min-width: 0rem) {
-  #banner-712 {
-    /* 175px - 200px top */
-    padding: clamp(10.9375rem, 10vw, 12.5rem) 1rem 6.25rem;
-    position: relative;
-    z-index: 1;
-  }
-  #banner-712 .cs-container {
-    text-align: center;
-    width: 100%;
-    max-width: 80rem;
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 1rem;
-  }
-  #banner-712 .cs-int-title {
-    /* 39px - 61px */
-    font-size: clamp(2.4375rem, 6.4vw, 3.8125rem);
-    font-weight: 900;
-    line-height: 1.2em;
-    text-align: inherit;
-    margin: 0;
-    color: var(--bodyTextColorWhite);
-    position: relative;
-  }
-  #banner-712 .cs-background {
-    width: 100%;
-    height: 100%;
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-  }
-  #banner-712 .cs-background:before {
-    /* background color overlay */
-    content: '';
-    position: absolute;
-    display: block;
-    height: 100%;
-    width: 100%;
-    background: #000;
-    opacity: .75;
-    top: 0;
-    left: 0;
-    z-index: 1;
-  }
-  #banner-712 .cs-background img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    /* Makes img tag act as a background image */
-    object-fit: cover;
-  }
-}
-/* Tablet - 768px */
-@media only screen and (min-width: 48rem) {
-  #banner-712 .cs-background:before {
-    opacity: 1;
-    background: linear-gradient(90.01deg, rgba(0, 0, 0, 0.9) 16.86%, rgba(0, 0, 0, 0) 100%);
   }
 }

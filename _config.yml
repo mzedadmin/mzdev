@@ -1,3 +1,4 @@
+# prettier-ignore
 ---
 title: MZ
 timezone: UTC
@@ -9,9 +10,12 @@ collections:
   posts:
     title: Posts
     output: true
+  settings:
+    title: Settings
+    output: false
   uploads:
     title: Uploads
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
