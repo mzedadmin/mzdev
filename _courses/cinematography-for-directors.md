@@ -1,6 +1,6 @@
 ---
 title: Cinematography for Directors
-position: 11
+position: 12
 layout: course
 educator: Tal Lazar
 image: "/assets/images/courses/cinematography-for-directors.jpg"

@@ -1,6 +1,6 @@
 ---
 title: The Beginner's Guide to DaVinci Resolve 18.5
-position: 15
+position: 16
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/beginners-guide-to-davinci-resolve.jpg"

@@ -1,6 +1,6 @@
 ---
 title: ARRI Amira Camera Primer
-position: 40
+position: 41
 layout: course
 educator: AbelCine Team
 image: "/assets/images/courses/arri-amira-camera-primer.jpg"

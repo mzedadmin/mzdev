@@ -1,6 +1,6 @@
 ---
 title: Learn Everything in Premiere Pro
-position: 23
+position: 24
 layout: course
 educator: Digby Hogan
 image: "/assets/images/courses/learn-everything-in-premiere-pro.jpg"

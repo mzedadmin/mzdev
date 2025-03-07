@@ -1,6 +1,6 @@
 ---
 title: ARRI Lighting Systems Control
-position: 30
+position: 31
 layout: course
 educator: ARRI Academy
 image: "/assets/images/courses/arri-lighting-systems-control.jpg"

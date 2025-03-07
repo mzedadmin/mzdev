@@ -1,6 +1,6 @@
 ---
 title: Mastering Color
-position: 46
+position: 47
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/mastering-color.jpg"

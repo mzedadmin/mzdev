@@ -1,6 +1,6 @@
 ---
 title: ARRI Christmas Master Class with Julio Macat ASC
-position: 35
+position: 36
 layout: course
 educator: ARRI Academy
 image: "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc.jpg"

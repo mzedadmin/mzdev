@@ -1,6 +1,6 @@
 ---
 title: 'Speedlites: The Power in the Possibilities'
-position: 41
+position: 42
 layout: course
 educator: Stephen Eastwood
 image: "/assets/images/courses/speedlites-power-possibilities.jpg"

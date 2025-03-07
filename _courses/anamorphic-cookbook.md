@@ -1,6 +1,6 @@
 ---
 title: Anamorphic Cookbook
-position: 0
+position: 3
 Course Card:
   Title: Anamorphic Cookbook
   Position: 0

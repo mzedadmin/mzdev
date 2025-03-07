@@ -1,6 +1,6 @@
 ---
 title: Fundamentals of Directing
-position: 27
+position: 28
 layout: course
 educator: International Film Institute of NY
 image: "/assets/images/courses/fundamentals-of-directing.jpg"

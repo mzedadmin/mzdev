@@ -1,6 +1,6 @@
 ---
 title: Cinematic Masterclass
-position: 3
+position: 4
 layout: course
 educator: Philip Bloom
 image: "/assets/images/courses/philip-bloom-cinematic-masterclass.jpg"

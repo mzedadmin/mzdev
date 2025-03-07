@@ -1,6 +1,6 @@
 ---
 title: The Language of Lighting
-position: 5
+position: 6
 layout: course
 educator: Tal Lazar
 image: "/assets/images/courses/language-of-lighting.jpg"

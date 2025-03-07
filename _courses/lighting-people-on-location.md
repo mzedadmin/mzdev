@@ -1,6 +1,6 @@
 ---
 title: Lighting People - On Location
-position: 12
+position: 13
 layout: course
 educator: Paul Atkins, ASC & Stephen Lighthill, ASC
 image: "/assets/images/courses/lighting-people-on-location.jpg"

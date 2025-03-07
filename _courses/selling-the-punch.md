@@ -1,6 +1,6 @@
 ---
 title: Selling The Punch
-position: 16
+position: 17
 layout: course
 educator: America Young
 image: "/assets/images/courses/selling-the-punch.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Building a Pitch Deck
-position: 19
+position: 20
 layout: course
 educator: Lesley Powers
 image: "/assets/images/courses/building-a-pitch-deck.jpg"

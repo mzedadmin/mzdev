@@ -1,6 +1,6 @@
 ---
 title: Certified Online Training for Large-Format Camera Systems
-position: 36
+position: 37
 layout: course
 educator: ARRI Academy
 image: "/assets/images/courses/arri-certified-online-training-for-large-format-camera-systems.jpg"

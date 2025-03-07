@@ -1,6 +1,6 @@
 ---
 title: Cinema Sound
-position: 54
+position: 55
 layout: course
 educator: Mark Edward Lewis
 image: "/assets/images/courses/cinema-sound.jpg"

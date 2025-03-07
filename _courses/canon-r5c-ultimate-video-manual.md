@@ -1,6 +1,6 @@
 ---
 title: Canon R5C Ultimate Video Manual
-position: 7
+position: 8
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/Canon-R5C-ultimate-video-manual.jpg"

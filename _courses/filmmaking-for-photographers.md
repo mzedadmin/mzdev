@@ -1,6 +1,6 @@
 ---
 title: Filmmaking for Photographers
-position: 37
+position: 38
 layout: course
 educator: Philip Bloom
 image: "/assets/images/courses/filmmaking-for-photographers.jpg"

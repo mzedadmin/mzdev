@@ -1,6 +1,6 @@
 ---
 title: Directing Color
-position: 52
+position: 53
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/directing-color.jpg"

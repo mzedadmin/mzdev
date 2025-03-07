@@ -1,6 +1,6 @@
 ---
 title: Adventure Filmmaking with Russ Malkin
-position: 21
+position: 22
 layout: course
 educator: Russ Malkin
 image: "/assets/images/courses/adventure-filmmaking-russ-malkin.jpg"

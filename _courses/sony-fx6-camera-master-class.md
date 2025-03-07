@@ -1,6 +1,6 @@
 ---
 title: Doug Jensen's Sony FX6 Camera Master Class
-position: 9
+position: 10
 layout: course
 educator: Doug Jensen
 image: "/assets/images/courses/doug-jensen-sony-fx6-camera-master-class.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Canon C200 Camera Primer
-position: 44
+position: 45
 layout: course
 educator: Matthew Allard ACS
 image: "/assets/images/courses/c200-camera-primer.jpg"

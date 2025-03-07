@@ -1,6 +1,6 @@
 ---
 title: Panasonic EVA1 Camera Primer
-position: 42
+position: 43
 layout: course
 educator: AbelCine Team
 image: "/assets/images/courses/panasonic-eva1-camera-primer.jpg"

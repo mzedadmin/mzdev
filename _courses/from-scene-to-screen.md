@@ -1,6 +1,6 @@
 ---
 title: From Scene to Screen Workshop
-position: 26
+position: 27
 layout: course
 educator: Tal Lazar
 image: "/assets/images/courses/from-scene-to-screen.jpg"

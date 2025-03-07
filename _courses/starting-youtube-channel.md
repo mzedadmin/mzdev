@@ -1,6 +1,6 @@
 ---
 title: Starting a Youtube Channel
-position: 29
+position: 30
 layout: course
 educator: Kitty Peters
 image: "/assets/images/courses/starting-youtube-channel.jpg"

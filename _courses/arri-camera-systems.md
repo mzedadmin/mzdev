@@ -1,6 +1,6 @@
 ---
 title: Certified Online Training for Camera Systems
-position: 6
+position: 7
 layout: course
 educator: ARRI Academy
 image: "/assets/images/courses/arri-camera-systems.jpg"

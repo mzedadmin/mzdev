@@ -1,6 +1,6 @@
 ---
 title: The Cutting Edge
-position: 57
+position: 58
 layout: course
 educator: Adam Epstein
 image: "/assets/images/courses/the-cutting-edge.jpg"

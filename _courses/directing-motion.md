@@ -1,6 +1,6 @@
 ---
 title: Directing Motion
-position: 24
+position: 25
 layout: course
 educator: Vincent Laforet
 image: "/assets/images/courses/directing-motion.jpg"

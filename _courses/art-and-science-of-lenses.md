@@ -1,6 +1,6 @@
 ---
 title: The Art & Science of Lenses
-position: 10
+position: 11
 layout: course
 educator: Tal Lazar
 image: "/assets/images/courses/art-and-science-of-lenses.jpg"
