@@ -34,7 +34,7 @@ defaults:
   values:
     layout: page
 url: http://example.com
-baseurl: ''
+baseurl: 
 description: MZed is the leading online education platform for filmmakers and photographers.
 markdown: kramdown
 permalink: pretty
@@ -53,3 +53,13 @@ siteleaf:
 sass:
   sass_dir: _sass
   style: compressed
+Course Card:
+  Title: 
+  Position: 
+  Educator: 
+  Image: 
+  Description: 
+  Lessons: 
+  Runtime Hours: 
+  Runtime Minutes: 
+  Topics: 
