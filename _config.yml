@@ -6,6 +6,9 @@ collections:
     title: Courses
     output: true
     permalink: "/courses/:name/"
+  educators:
+    title: Educators
+    output: true
   posts:
     title: Posts
     output: true
