@@ -1,9 +1,9 @@
 ---
 title: Courses
-permalink: "/courses/"
+permalink: '/courses/'
 layout: default
 custom_css:
-- "/assets/css/main.css"
+  - '/assets/css/main.css'
 ---
 
 <!-- ============================================ -->
@@ -14,9 +14,9 @@ custom_css:
   <section id="services-1169">
     <div class="cs-container">
       <div class="cs-content">
-        <span class="cs-topper">{{ pages.courses['Header']['Topper'] }}</span>
-        <div class="cs-title">{{ pages.courses['Header']['Title'] }}</div>
-        <p class="cs-text">{{ pages.courses['Header']['Text'] }}</p>
+        <span class="cs-topper">Test {{ pagecontent.courses.test }}</span>
+        <div class="cs-title">{{ pagecontent.courses['Header']['Title'] }}</div>
+        <p class="cs-text">{{ pagecontent.courses['Header']['Text'] }}</p>
       </div>
       <ul class="cs-card-group">
         <!-- Topics -->
