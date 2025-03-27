@@ -1,0 +1,102 @@
+---
+title: Courses
+permalink: '/courses/'
+layout: default
+custom_css:
+  - '/assets/css/main.css'
+---
+
+<!-- ============================================ -->
+<!--                Courses                       -->
+<!-- ============================================ -->
+
+<main id="main">
+  <section id="services-1169">
+    <div class="cs-container">
+      <div class="cs-content">
+        <span class="cs-topper">{{ pages.courses['Header']['Topper'] }}</span>
+        <div class="cs-title">{{ pages.courses['Header']['Title'] }}</div>
+        <p class="cs-text">{{ pages.courses['Header']['Text'] }}</p>
+      </div>
+      <ul class="cs-card-group">
+        <!-- Topics -->
+        <div class="filter-container">
+          <div class="filter-title">Filter Courses by Topic</div>
+          <div class="filter-buttons">
+            <button class="filter-btn" data-topic="audio">Audio</button>
+            <button class="filter-btn" data-topic="cinematography">Cinematography</button>
+            <button class="filter-btn" data-topic="color-grading">Color Grading</button>
+            <button class="filter-btn" data-topic="directing">Directing</button>
+            <button class="filter-btn" data-topic="editing">Editing</button>
+            <button class="filter-btn" data-topic="filmmaking">Filmmaking</button>
+            <button class="filter-btn" data-topic="lighting">Lighting</button>
+            <button class="filter-btn" data-topic="photography">Photography</button>
+            <button class="filter-btn" data-topic="producing">Producing</button>
+            <button class="filter-btn" data-topic="screenwriting">Screenwriting</button>
+            <button class="filter-btn" data-topic="visual-storytelling">Visual Storytelling</button>
+            <button class="filter-btn" data-topic="podcasting">Podcasting</button>
+            <button class="filter-btn reset-btn">Reset Filters</button>
+          </div>
+        </div>
+
+        {% assign sorted_courses = site.courses | sort: "position", "last" %} {% for course in
+        sorted_courses %}
+        <li class="cs-item" data-topics="{{ course.topics | join: ',' }}">
+          <picture class="cs-picture">
+            <!--Mobile Image-->
+            <source media="(max-width: 600px)" srcset="{{ course.image | relative_url }}" />
+            <!--Tablet and above Image-->
+            <source media="(min-width: 601px)" srcset="{{ course.image | relative_url }}" />
+            <img
+              loading="lazy"
+              decoding="async"
+              src="{{ course.image | relative_url }}"
+              alt="{{ course.title }} by {{ course.educator }}"
+              width="413"
+              height="240"
+              aria-hidden="true"
+            />
+          </picture>
+          <div class="cs-info">
+            <h3 class="cs-h3">{{ course.title }}</h3>
+            <h4 class="cs-topper cs-educator">{{ course.educator }}</h4>
+            <p class="cs-item-text">{{ course.description }}</p>
+            <a href="{{ course.url | relative_url }}" class="cs-link">
+              Watch this course
+              <img
+                class="cs-arrow"
+                loading="lazy"
+                decoding="async"
+                src="{{ '/assets/icons/red-arrow-right.svg' | relative_url }}"
+                alt="icon"
+                width="20"
+                height="20"
+                aria-hidden="true"
+              />
+            </a>
+          </div>
+          <div class="course-card-stats">
+            {% if course.lessons %}
+            <span class="course-card-stat">
+              <span class="course-card-stat-text">{{ course.lessons }} Lessons</span>
+            </span>
+            {% endif %} {% if course.runtime %}
+            <span class="course-card-stat">
+              <span class="course-card-stat-text">{{ course.runtime }}</span>
+            </span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <!-- MZed Pro Section -->
+
+  {% include mzed_stats.html section=page.mzed_pro_section %}
+
+  <!-- Pricing Section -->
+
+  {% include pricing_section.html pricing=page.pricing %}
+</main>
