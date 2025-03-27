@@ -2,16 +2,16 @@
 title: MZ
 timezone: UTC
 collections:
-  pages:
-    title: Pages
-    output: false
   courses:
     title: Courses
     output: true
-    permalink: '/courses/:name/'
+    permalink: "/courses/:name/"
   educators:
     title: Educators
     output: true
+  pages:
+    title: Pages
+    output: false
   posts:
     title: Posts
     output: true
@@ -22,37 +22,37 @@ collections:
     title: Uploads
     output: false
 defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-      permalink: '/posts/:title/'
-  - scope:
-      path: ''
-      type: courses
-    values:
-      layout: course
-      permalink: '/courses/:title/'
-  - scope:
-      path: ''
-      type: pages
-    values:
-      layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: courses
+  values:
+    layout: course
+    permalink: "/courses/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 url: http://example.com
-baseurl:
+baseurl: 
 description: MZed is the leading online education platform for filmmakers and photographers.
 markdown: kramdown
 permalink: pretty
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor
+- README.md
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-seo-tag
 siteleaf:
   build_command: bundle exec jekyll build
   serve_command: bundle exec jekyll serve
