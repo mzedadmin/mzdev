@@ -41,7 +41,14 @@ layout: default
       <div class="cs-content">
         <span class="cs-topper">About the Course</span>
         <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
-        <p class="cs-text">{{ page['Course Page']['Main Text']  }}</p>
+        <p class="cs-text">
+          {% assign paragraphs = page['Course Page']['Main Text'] | newline_to_br %}
+          {% for paragraph in paragraphs %}
+            {% if paragraph != '' %}
+              <br/>{{ paragraph }}
+            {% endif %}
+          {% endfor %}
+        </p>
         <a href="#pricing-1262" class="cs-button-12">
           Start watching with MZed Pro
           <picture class="cs-button-wrapper">
