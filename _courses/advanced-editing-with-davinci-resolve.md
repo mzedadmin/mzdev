@@ -21,6 +21,7 @@ Course Page:
     In this certified Blackmagic Design course, Ollie Kenchington builds on "The Definitive Guide to Davinci Resolve" to take you deeper into the fully-featured editing functions and workflow of Resolve.
 
     Using Davinci Resolve 17 and downloadable example projects, Ollie covers the Cut, Edit, Fusion and Fairlight pages in detailed examples to show you how to create professional videos in the most efficient manner.
+
     Completing this course will give you mastery over Resolve's powerful post-production capabilities and allow you to sit Blackmagic Design's official certification exam.
   Main Image: "/assets/images/courses/advanced-editing-with-davinci-resolve/advanced-editing-with-davinci-resolve-main.jpg"
   Additional Images: 
