@@ -1,30 +1,30 @@
 ---
+title: The Art of Visual Storytelling
+position: 57
 Course Card:
   Title: The Art of Visual Storytelling
   Educator: Alex Buono
-  Image: '/assets/images/courses/art-of-visual-storytelling.jpg'
-  Description: Master advanced techniques in lighting, lens selection, blocking, camera movement, and workflow to enhance your visual storytelling.
+  Image: "/assets/images/courses/art-of-visual-storytelling.jpg"
+  Description: Master advanced techniques in lighting, lens selection, blocking, camera
+    movement, and workflow to enhance your visual storytelling.
   Lessons: 14
   Runtime Hours: 4
   Runtime Minutes: 13
   Topics:
-    - cinematography
-    - filmmaking
-    - lighting
-    - visual-storytelling
-
+  - cinematography
+  - filmmaking
+  - lighting
+  - visual-storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: Advanced Visual Storytelling Techniques
-  Main Text: Master advanced techniques in lighting, lens selection, blocking, camera movement, and workflow to enhance your visual storytelling.
-  Main Image: '/assets/images/courses/art-of-visual-storytelling/art-of-visual-storytelling-main.jpg'
-  Additional Images:
-  Review Average:
-
+  Main Text: Master advanced techniques in lighting, lens selection, blocking, camera
+    movement, and workflow to enhance your visual storytelling.
+  Main Image: "/assets/images/courses/art-of-visual-storytelling/art-of-visual-storytelling-main.jpg"
+  Additional Images: 
+  Review Average: 
 course_purchase: true
-position: 57
 layout: course
-title: The Art of Visual Storytelling
 ---
 
 <main id="main">

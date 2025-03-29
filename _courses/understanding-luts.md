@@ -1,27 +1,27 @@
 ---
+title: 'Understanding LUTs: Theory and Application'
+position: 51
 Course Card:
   Title: 'Understanding LUTs: Theory and Application'
   Educator: AbelCine Team
-  Image: '/assets/images/courses/understanding-luts.jpg'
-  Description: Get a thorough understanding of LUTs, their applications, creation process, and implementation throughout production and post-production.
+  Image: "/assets/images/courses/understanding-luts.jpg"
+  Description: Get a thorough understanding of LUTs, their applications, creation
+    process, and implementation throughout production and post-production.
   Lessons: 4
   Runtime Hours: 0
   Runtime Minutes: 56
   Topics:
-    - color-grading
-    - filmmaking
-
+  - color-grading
+  - filmmaking
 Course Page:
-  Video:
+  Video: 
   Main Title: LUTs in Production and Post-Production
-  Main Text: Get a thorough understanding of LUTs, their applications, creation process, and implementation throughout production and post-production.
-  Main Image: '/assets/images/courses/understanding-luts/understanding-luts-main.jpg'
-  Additional Images:
-  Review Average:
-
+  Main Text: Get a thorough understanding of LUTs, their applications, creation process,
+    and implementation throughout production and post-production.
+  Main Image: "/assets/images/courses/understanding-luts/understanding-luts-main.jpg"
+  Additional Images: 
+  Review Average: 
 course_purchase: true
-position: 51
 layout: course
-title: 'Understanding LUTs: Theory and Application'
 ---
 

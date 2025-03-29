@@ -1,26 +1,26 @@
 ---
+title: Producing from the Front
+position: 26
 Course Card:
   Title: Producing from the Front
   Educator: Graham Ehlers Sheldon
-  Image: '/assets/images/courses/producing-from-the-front.jpg'
-  Description: Award-winning producer Graham Ehlers Sheldon shares insider knowledge on producing quality content and navigating the film industry successfully.
+  Image: "/assets/images/courses/producing-from-the-front.jpg"
+  Description: Award-winning producer Graham Ehlers Sheldon shares insider knowledge
+    on producing quality content and navigating the film industry successfully.
   Lessons: 8
   Runtime Hours: 5
   Runtime Minutes: 57
   Topics:
-    - producing
-
+  - producing
 Course Page:
-  Video:
+  Video: 
   Main Title: Insider Knowledge for Film Producers
-  Main Text: Award-winning producer Graham Ehlers Sheldon shares insider knowledge on producing quality content and navigating the film industry successfully.
-  Main Image: '/assets/images/courses/producing-from-the-front/producing-from-the-front-main.jpg'
-  Additional Images:
-  Review Average:
-
+  Main Text: Award-winning producer Graham Ehlers Sheldon shares insider knowledge
+    on producing quality content and navigating the film industry successfully.
+  Main Image: "/assets/images/courses/producing-from-the-front/producing-from-the-front-main.jpg"
+  Additional Images: 
+  Review Average: 
 course_purchase: true
-position: 26
 layout: course
-title: Producing from the Front
 ---
 
