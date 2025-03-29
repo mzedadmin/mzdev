@@ -1,17 +1,30 @@
 ---
-title: The Art of Visual Storytelling
+Course Card:
+  Title: The Art of Visual Storytelling
+  Educator: Alex Buono
+  Image: '/assets/images/courses/art-of-visual-storytelling.jpg'
+  Description: Master advanced techniques in lighting, lens selection, blocking, camera movement, and workflow to enhance your visual storytelling.
+  Lessons: 14
+  Runtime Hours: 4
+  Runtime Minutes: 13
+  Topics:
+    - cinematography
+    - filmmaking
+    - lighting
+    - visual-storytelling
+
+Course Page:
+  Video:
+  Main Title: Advanced Visual Storytelling Techniques
+  Main Text: Master advanced techniques in lighting, lens selection, blocking, camera movement, and workflow to enhance your visual storytelling.
+  Main Image: '/assets/images/courses/art-of-visual-storytelling/art-of-visual-storytelling-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 57
 layout: course
-educator: Alex Buono
-image: "/assets/images/courses/art-of-visual-storytelling.jpg"
-course_url: https://www.mzed.com/courses/art-of-visual-storytelling
-description: Master advanced techniques in lighting, lens selection, blocking, camera
-  movement, and workflow to enhance your visual storytelling.
-lessons: 14
-runtime: 4h 13m
-topics: cinematography, filmmaking, lighting, visual-storytelling
-show_stats: true
-show_pricing: true
+title: The Art of Visual Storytelling
 ---
 
 <main id="main">
@@ -45,9 +58,9 @@ show_pricing: true
                     <span class="cs-topper">About the Course</span>
                     <div class="cs-title">The Ultimate Guide to the Sony FX6</div>
                     <p class="cs-text">
-                        With the release of Sony’s FX6 Cinema Camera, the possibility of recording stunning, cinematic-quality 4K full-frame images with an affordable camcorder has become a reality. However, like any professional camera of this caliber, the FX6 is extremely complex and has a steep learning curve.
+                        With the release of Sony's FX6 Cinema Camera, the possibility of recording stunning, cinematic-quality 4K full-frame images with an affordable camcorder has become a reality. However, like any professional camera of this caliber, the FX6 is extremely complex and has a steep learning curve.
 
-                    </p><p class="cs-text">And that’s why this Master Class has been created by Doug Jensen at Vortex Media to help FX6 owner/operators get started off on the right foot. This 8-hour training video series is the most thorough and efficient way to learn both the fundamentals and advanced features of Sony’s revolutionary new camcorder.
+                    </p><p class="cs-text">And that's why this Master Class has been created by Doug Jensen at Vortex Media to help FX6 owner/operators get started off on the right foot. This 8-hour training video series is the most thorough and efficient way to learn both the fundamentals and advanced features of Sony's revolutionary new camcorder.
                     </p>
                     <a href="#pricing-1262" class="cs-button-12">
                         Start watching with MZed Pro
@@ -181,7 +194,7 @@ show_pricing: true
                     <span class="cs-topper">Meet the Instructor</span>
                     <div class="cs-title">Doug Jensen</div>
                     <p class="cs-text">
-                        Doug Jensen describes himself as someone who “lives and breathes” video production and digital photography. As an HD cinematographer, producer, director, editor, and consultant, Doug enjoys being involved in all facets of production.
+                        Doug Jensen describes himself as someone who "lives and breathes" video production and digital photography. As an HD cinematographer, producer, director, editor, and consultant, Doug enjoys being involved in all facets of production.
                     </p><p class="cs-text">
                         With over 35 years of video production and post-production experience, Doug combines his extensive professional experience with his teaching skills to bring a wide-ranging, real-world perspective to his independent training videos, books, and live classroom workshops.
                     </p><p class="cs-text">
@@ -758,7 +771,7 @@ show_pricing: true
                             <h3 class="cs-h3">Canon C500 MkII Camera Primer</h3>
                             <h4 class="cs-topper cs-educator">Jem Schofield</h4>
                             <p class="cs-item-text">
-                                The Canon C500 Mark II is an exciting platform for filmmakers that combines a full-frame sensor with Canon's color science and Dual-Pixel autofocus system in an ultra-compact form-factor. After watching this in-depth primer course you will have a thorough understanding of the camera’s core features and be in a position to maximise your results when on set.
+                                The Canon C500 Mark II is an exciting platform for filmmakers that combines a full-frame sensor with Canon's color science and Dual-Pixel autofocus system in an ultra-compact form-factor. After watching this in-depth primer course you will have a thorough understanding of the camera's core features and be in a position to maximise your results when on set.
                             </p>
                             <a href="https://www.mzed.com/courses/canon-c500-mkii-camera-primer" class="cs-link">
                                 Watch this course

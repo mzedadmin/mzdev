@@ -4,7 +4,7 @@ layout: default
 
 <main id="main">
   <!-- ============================================ -->
-  <!--                   Image Hero                 -->
+  <!--                  Course Hero                 -->
   <!-- ============================================ -->
 
   <section id="video-1314">
@@ -18,7 +18,7 @@ layout: default
           aria-hidden="true"
           loading="lazy"
           decoding="async"
-          src="{{ page.image | relative_url }}"
+          src="{{ page['Course Card']['Image'] | relative_url }}"
           alt="{{ page.title }} course image"
           width="1920"
           height="750"
@@ -40,8 +40,8 @@ layout: default
     <div class="cs-container">
       <div class="cs-content">
         <span class="cs-topper">About the Course</span>
-        <div class="cs-title">{{ page.landing_title }}</div>
-        <p class="cs-text">{{ page.landing_body }}</p>
+        <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
+        <p class="cs-text">{{ page['Course Page']['Main Text']  }}</p>
         <a href="#pricing-1262" class="cs-button-12">
           Start watching with MZed Pro
           <picture class="cs-button-wrapper">
@@ -59,13 +59,13 @@ layout: default
       </div>
       <picture class="cs-picture">
         <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="{{ page.landing_image | relative_url }}" />
+        <source media="(max-width: 600px)" srcset="{{ page['Course Page']['Main Image']  | relative_url }}" />
         <!--Tablet and above Image-->
-        <source media=" (min-width: 601px)" srcset="{{ page.landing_image | relative_url }}" />
+        <source media=" (min-width: 601px)" srcset="{{ page['Course Page']['Main Image'] | relative_url }}" />
         <img
           loading="lazy"
           decoding="async"
-          src="{{ page.landing_image | relative_url }}"
+          src="{{ page['Course Page']['Main Image'] | relative_url }}"
           alt="{{ page.title }} course image"
           width="950"
           height="480"

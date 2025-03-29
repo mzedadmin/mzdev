@@ -1,10 +1,12 @@
 ---
 title: Courses
-permalink: "/courses/"
+permalink: '/courses/'
 layout: default
 custom_css:
-- "/assets/css/main.css"
+  - '/assets/css/main.css'
 ---
+
+{% assign page = site.pagecontent | where: "slug", "courses" | first %}
 
 <!-- ============================================ -->
 <!--                Courses                       -->
@@ -14,9 +16,9 @@ custom_css:
   <section id="services-1169">
     <div class="cs-container">
       <div class="cs-content">
-        <span class="cs-topper">Test {{ pagecontent.courses.test }}</span>
-        <div class="cs-title">{{ pagecontent.courses['Header']['Title'] }}</div>
-        <p class="cs-text">{{ pagecontent.courses['Header']['Text'] }}</p>
+        <span class="cs-topper">{{ page['Header']['Topper'] }}</span>
+        <div class="cs-title">{{ page['Header']['Title'] }}</div>
+        <p class="cs-text">{{ page.Header.Text }}</p>
       </div>
       <ul class="cs-card-group">
         <!-- Topics -->
@@ -39,18 +41,23 @@ custom_css:
           </div>
         </div>
 
-        {% assign sorted_courses = site.courses | sort: "position", "last" %} {% for course in
-        sorted_courses %}
+        {% assign sorted_courses = site.courses | sort: "position", "last" %} {% for course in sorted_courses %}
         <li class="cs-item" data-topics="{{ course.topics | join: ',' }}">
           <picture class="cs-picture">
             <!--Mobile Image-->
-            <source media="(max-width: 600px)" srcset="{{ course.image | relative_url }}" />
+            <source
+              media="(max-width: 600px)"
+              srcset="{{ course['Course Card']['Image'] | relative_url }}"
+            />
             <!--Tablet and above Image-->
-            <source media="(min-width: 601px)" srcset="{{ course.image | relative_url }}" />
+            <source
+              media="(min-width: 601px)"
+              srcset="{{ course['Course Card']['Image'] | relative_url }}"
+            />
             <img
               loading="lazy"
               decoding="async"
-              src="{{ course.image | relative_url }}"
+              src="{{ course['Course Card']['Image'] | relative_url }}"
               alt="{{ course.title }} by {{ course.educator }}"
               width="413"
               height="240"
@@ -58,9 +65,9 @@ custom_css:
             />
           </picture>
           <div class="cs-info">
-            <h3 class="cs-h3">{{ course.title }}</h3>
-            <h4 class="cs-topper cs-educator">{{ course.educator }}</h4>
-            <p class="cs-item-text">{{ course.description }}</p>
+            <h3 class="cs-h3">{{ course['Course Card']['Title'] }}</h3>
+            <h4 class="cs-topper cs-educator">{{ course['Course Card']['Educator'] }}</h4>
+            <p class="cs-item-text">{{ course['Course Card']['Description'] }}</p>
             <a href="{{ course.url | relative_url }}" class="cs-link">
               Watch this course
               <img
@@ -76,13 +83,17 @@ custom_css:
             </a>
           </div>
           <div class="course-card-stats">
-            {% if course.lessons %}
+            {% if course['Course Card']['Lessons'] %}
             <span class="course-card-stat">
-              <span class="course-card-stat-text">{{ course.lessons }} Lessons</span>
+              <span class="course-card-stat-text"
+                >{{ course['Course Card']['Lessons'] }} Lessons</span
+              >
             </span>
-            {% endif %} {% if course.runtime %}
+            {% endif %} {% if course['Course Card']['Runtime Hours'] %}
             <span class="course-card-stat">
-              <span class="course-card-stat-text">{{ course.runtime }}</span>
+              <span class="course-card-stat-text"
+                >{{ course['Course Card']['Runtime Hours'] }}h {{ course['Course Card']['Runtime Minutes'] }}m</span
+              >
             </span>
             {% endif %}
           </div>
@@ -98,5 +109,7 @@ custom_css:
 
   <!-- Pricing Section -->
 
-  {% include pricing_section.html pricing=page.pricing %}
+  {% include mzed_pricing.html %}
 </main>
+
+<script defer src="/assets/js/courses-index.js"></script>

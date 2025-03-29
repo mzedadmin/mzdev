@@ -1,16 +1,28 @@
 ---
-title: ARRI Christmas Master Class with Julio Macat ASC
-position: 36
+Course Card:
+  Title: ARRI Christmas Master Class
+  Educator: ARRI Academy
+  Image: '/assets/images/courses/arri-christmas-master-class.jpg'
+  Description: Join ARRI Academy for a special Christmas master class featuring expert insights on ARRI camera systems, lighting, and production techniques.
+  Lessons: 5
+  Runtime Hours: 3
+  Runtime Minutes: 45
+  Topics:
+    - cinematography
+    - lighting
+    - filmmaking
+
+Course Page:
+  Video:
+  Main Title: ARRI Holiday Special Master Class
+  Main Text: Join ARRI Academy for a special Christmas master class featuring expert insights on ARRI camera systems, lighting, and production techniques.
+  Main Image: '/assets/images/courses/arri-christmas-master-class/arri-christmas-master-class-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
+position: 42
 layout: course
-educator: ARRI Academy
-image: "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc.jpg"
-course_url: https://www.mzed.com/courses/arri-christmas-master-class-with-julio-macat-asc
-description: Join cinematographer Julio Macat ASC and his team as they create holiday
-  scenes while demonstrating professional film set workflows.
-lessons: 9
-runtime: 3h 7m
-topics: cinematography, lighting
-show_stats: true
-show_pricing: true
+title: ARRI Christmas Master Class
 ---
 

@@ -1,16 +1,27 @@
 ---
-title: Large Format Cinematography with James Laxton ASC
+Course Card:
+  Title: Large Format Cinematography with James Laxton ASC
+  Educator: ARRI Academy
+  Image: '/assets/images/courses/large-format-cinematography-with-james-laxton-asc.jpg'
+  Description: Explore large-format cinematography with James Laxton ASC as he shares his experience with ARRI ALEXA 65 and Signature Prime lenses.
+  Lessons: 5
+  Runtime Hours: 2
+  Runtime Minutes: 21
+  Topics:
+    - cinematography
+    - filmmaking
+
+Course Page:
+  Video:
+  Main Title: Mastering Large Format Cinematography
+  Main Text: Explore large-format cinematography with James Laxton ASC as he shares his experience with ARRI ALEXA 65 and Signature Prime lenses.
+  Main Image: '/assets/images/courses/large-format-cinematography-with-james-laxton-asc/large-format-cinematography-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 39
 layout: course
-educator: ARRI Academy
-image: "/assets/images/courses/large-format-cinematography-with-james-laxton-asc.jpg"
-course_url: https://www.mzed.com/courses/large-format-cinematography-with-james-laxton-asc
-description: Explore large-format cinematography with James Laxton ASC as he shares
-  his experience with ARRI ALEXA 65 and Signature Prime lenses.
-lessons: 5
-runtime: 2h 21m
-topics: cinematography, filmmaking
-show_stats: true
-show_pricing: true
+title: Large Format Cinematography with James Laxton ASC
 ---
 

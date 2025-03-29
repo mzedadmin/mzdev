@@ -1,16 +1,29 @@
 ---
-title: Alex Buono's Visual Storytelling 2
+Course Card:
+  Title: Alex Buono's Visual Storytelling 2
+  Educator: Alex Buono
+  Image: '/assets/images/courses/visual-storytelling-2.jpg'
+  Description: Learn to recreate various visual styles on any budget, with live demonstrations and a masterclass on Visual Subtext.
+  Lessons: 16
+  Runtime Hours: 6
+  Runtime Minutes: 20
+  Topics:
+    - visual-storytelling
+    - cinematography
+    - filmmaking
+    - lighting
+
+Course Page:
+  Video:
+  Main Title: Recreating Visual Styles on Any Budget
+  Main Text: Learn to recreate various visual styles on any budget, with live demonstrations and a masterclass on Visual Subtext.
+  Main Image: '/assets/images/courses/visual-storytelling-2/visual-storytelling-2-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 56
 layout: course
-educator: Alex Buono
-image: "/assets/images/courses/visual-storytelling-2.jpg"
-course_url: https://www.mzed.com/courses/visual-storytelling-2
-description: Learn to recreate various visual styles on any budget, with live demonstrations
-  and a masterclass on Visual Subtext.
-lessons: 16
-runtime: 6h 20m
-topics: visual-storytelling, cinematography, filmmaking, lighting
-show_stats: true
-show_pricing: true
+title: Alex Buono's Visual Storytelling 2
 ---
 

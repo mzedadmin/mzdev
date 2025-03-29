@@ -1,16 +1,29 @@
 ---
-title: From Scene to Screen Workshop
-position: 27
+Course Card:
+  Title: From Scene to Screen
+  Educator: Ollie Kenchington
+  Image: '/assets/images/courses/from-scene-to-screen.jpg'
+  Description: Follow a production from pre-production through post, learning professional techniques for creating cinematic content on a budget.
+  Lessons: 12
+  Runtime Hours: 5
+  Runtime Minutes: 10
+  Topics:
+    - cinematography
+    - editing
+    - filmmaking
+    - lighting
+
+Course Page:
+  Video:
+  Main Title: Complete Production Workflow
+  Main Text: Follow a production from pre-production through post, learning professional techniques for creating cinematic content on a budget.
+  Main Image: '/assets/images/courses/from-scene-to-screen/from-scene-to-screen-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
+position: 29
 layout: course
-educator: Tal Lazar
-image: "/assets/images/courses/from-scene-to-screen.jpg"
-course_url: https://www.mzed.com/courses/from-scene-to-screen
-description: Learn how directors prepare for successful collaboration with cinematographers,
-  from script analysis to visual storytelling decisions.
-lessons: 1
-runtime: 55m
-topics: cinematography, visual-storytelling
-show_stats: true
-show_pricing: true
+title: From Scene to Screen
 ---
 

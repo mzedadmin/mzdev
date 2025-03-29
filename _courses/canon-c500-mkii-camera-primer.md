@@ -1,18 +1,27 @@
 ---
-title: Canon C500 MkII Camera Primer
+Course Card:
+  Title: Canon C500 MkII Camera Primer
+  Educator: Jem Schofield
+  Image: '/assets/images/courses/C500MkII-camera-primer.jpg'
+  Description: Master the Canon C500 Mark II's core features and maximize your results on set with this comprehensive primer on the full-frame cinema camera.
+  Lessons: 16
+  Runtime Hours: 3
+  Runtime Minutes: 11
+  Topics:
+    - cinematography
+    - filmmaking
+
+Course Page:
+  Video:
+  Main Title: Mastering the Canon C500 Mark II
+  Main Text: Master the Canon C500 Mark II's core features and maximize your results on set with this comprehensive primer on the full-frame cinema camera.
+  Main Image: '/assets/images/courses/C500MkII-camera-primer/c500-mkii-camera-primer-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 9
 layout: course
-educator: Jem Schofield
-image: "/assets/images/courses/C500MkII-camera-primer.jpg"
-course_url: https://www.mzed.com/courses/canon-c500-mkii-camera-primer
-description: Master the Canon C500 Mark II's core features and maximize your results
-  on set with this comprehensive primer on the full-frame cinema camera.
-lessons: 16
-runtime: 3h 11m
-topics:
-- cinematography
-- filmmaking
-show_stats: true
-show_pricing: true
+title: Canon C500 MkII Camera Primer
 ---
 

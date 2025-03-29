@@ -1,16 +1,27 @@
 ---
-title: Fundamentals of Directing
+Course Card:
+  Title: Fundamentals of Directing
+  Educator: International Film Institute of NY
+  Image: '/assets/images/courses/fundamentals-of-directing.jpg'
+  Description: A comprehensive introduction to film directing, covering essential concepts and techniques for aspiring directors and film enthusiasts.
+  Lessons: 8
+  Runtime Hours: 5
+  Runtime Minutes: 57
+  Topics:
+    - directing
+    - visual-storytelling
+
+Course Page:
+  Video:
+  Main Title: Essential Concepts for Film Directors
+  Main Text: A comprehensive introduction to film directing, covering essential concepts and techniques for aspiring directors and film enthusiasts.
+  Main Image: '/assets/images/courses/fundamentals-of-directing/fundamentals-of-directing-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 28
 layout: course
-educator: International Film Institute of NY
-image: "/assets/images/courses/fundamentals-of-directing.jpg"
-course_url: https://www.mzed.com/courses/fundamentals-of-directing
-description: A comprehensive introduction to film directing, covering essential concepts
-  and techniques for aspiring directors and film enthusiasts.
-lessons: 8
-runtime: 5h 57m
-topics: directing, visual-storytelling
-show_stats: true
-show_pricing: true
+title: Fundamentals of Directing
 ---
 

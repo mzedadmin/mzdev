@@ -1,16 +1,27 @@
 ---
-title: How to Photograph Everyone
+Course Card:
+  Title: How to Photograph Everyone
+  Educator: Clay Blackmore
+  Image: '/assets/images/courses/how-to-photograph-everyone.jpg'
+  Description: Master portrait photographer Clay Blackmore reveals his signature techniques for photographing diverse subjects, from corporate headshots to wedding portraits.
+  Lessons: 4
+  Runtime Hours: 6
+  Runtime Minutes: 45
+  Topics:
+    - photography
+    - lighting
+
+Course Page:
+  Video:
+  Main Title: Master the Art of Portrait Photography
+  Main Text: Master portrait photographer Clay Blackmore reveals his signature techniques for photographing diverse subjects, from corporate headshots to wedding portraits.
+  Main Image: '/assets/images/courses/how-to-photograph-everyone/how-to-photograph-everyone-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 54
 layout: course
-educator: Clay Blackmore
-image: "/assets/images/courses/how-to-photograph-everyone.jpg"
-course_url: https://www.mzed.com/courses/how-to-photograph-everyone
-description: Master portrait photographer Clay Blackmore reveals his signature techniques
-  for photographing diverse subjects, from corporate headshots to wedding portraits.
-lessons: 4
-runtime: 6h 45m
-topics: photography
-show_stats: true
-show_pricing: true
+title: How to Photograph Everyone
 ---
 

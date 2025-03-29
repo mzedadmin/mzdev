@@ -1,16 +1,26 @@
 ---
-title: Building a Pitch Deck
+Course Card:
+  Title: Building a Pitch Deck
+  Educator: Lesley Powers
+  Image: '/assets/images/courses/building-a-pitch-deck.jpg'
+  Description: Create compelling pitch decks for Film/TV projects. Learn to craft visual presentations that effectively sell your story and vision.
+  Lessons: 15
+  Runtime Hours: 3
+  Runtime Minutes: 24
+  Topics:
+    - producing
+
+Course Page:
+  Video:
+  Main Title: Crafting Compelling Visual Presentations
+  Main Text: Create compelling pitch decks for Film/TV projects. Learn to craft visual presentations that effectively sell your story and vision.
+  Main Image: '/assets/images/courses/building-a-pitch-deck/building-a-pitch-deck-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 20
 layout: course
-educator: Lesley Powers
-image: "/assets/images/courses/building-a-pitch-deck.jpg"
-course_url: https://www.mzed.com/courses/building-a-pitch-deck
-description: Create compelling pitch decks for Film/TV projects. Learn to craft visual
-  presentations that effectively sell your story and vision.
-lessons: 15
-runtime: 3h 24m
-topics: producing
-show_stats: true
-show_pricing: true
+title: Building a Pitch Deck
 ---
 

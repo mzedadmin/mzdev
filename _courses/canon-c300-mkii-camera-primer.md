@@ -1,16 +1,27 @@
 ---
-title: Canon C300 MkII Camera Primer
+Course Card:
+  Title: Canon C300 MkII Camera Primer
+  Educator: AbelCine Team
+  Image: '/assets/images/courses/canon-c300-mkii-camera-primer.jpg'
+  Description: Comprehensive guide to the Canon C300 MkII camera, covering operation and features for solo shooters to large production teams.
+  Lessons: 11
+  Runtime Hours: 1
+  Runtime Minutes: 49
+  Topics:
+    - cinematography
+    - filmmaking
+
+Course Page:
+  Video:
+  Main Title: Complete Guide to the Canon C300 MkII
+  Main Text: Comprehensive guide to the Canon C300 MkII camera, covering operation and features for solo shooters to large production teams.
+  Main Image: '/assets/images/courses/canon-c300-mkii-camera-primer/canon-c300-mkii-camera-primer-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 49
 layout: course
-educator: AbelCine Team
-image: "/assets/images/courses/canon-c300-mkii-camera-primer.jpg"
-course_url: https://www.mzed.com/courses/canon-c300-mkii-camera-primer
-description: Comprehensive guide to the Canon C300 MkII camera, covering operation
-  and features for solo shooters to large production teams.
-lessons: 11
-runtime: 1h 49m
-topics: cinematography, filmmaking
-show_stats: true
-show_pricing: true
+title: Canon C300 MkII Camera Primer
 ---
 

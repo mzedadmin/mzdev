@@ -1,16 +1,26 @@
 ---
-title: Learn Everything in Premiere Pro
+Course Card:
+  Title: Learn Everything in Premiere Pro
+  Educator: Digby Hogan
+  Image: '/assets/images/courses/learn-everything-in-premiere-pro.jpg'
+  Description: A comprehensive 25-hour course covering all aspects of Adobe Premiere Pro across 13 topics. Perfect for beginners and advanced editors.
+  Lessons: 105
+  Runtime Hours: 25
+  Runtime Minutes: 39
+  Topics:
+    - editing
+
+Course Page:
+  Video:
+  Main Title: Complete Adobe Premiere Pro Mastery
+  Main Text: A comprehensive 25-hour course covering all aspects of Adobe Premiere Pro across 13 topics. Perfect for beginners and advanced editors.
+  Main Image: '/assets/images/courses/learn-everything-in-premiere-pro/learn-everything-in-premiere-pro-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 24
 layout: course
-educator: Digby Hogan
-image: "/assets/images/courses/learn-everything-in-premiere-pro.jpg"
-course_url: https://www.mzed.com/courses/learn-everything-in-premiere-pro
-description: A comprehensive 25-hour course covering all aspects of Adobe Premiere
-  Pro across 13 topics. Perfect for beginners and advanced editors.
-lessons: 105
-runtime: 25h 39m
-topics: editing
-show_stats: true
-show_pricing: true
+title: Learn Everything in Premiere Pro
 ---
 

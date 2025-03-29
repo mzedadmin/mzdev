@@ -1,16 +1,27 @@
 ---
-title: ARRI Amira Camera Primer
+Course Card:
+  Title: ARRI Amira Camera Primer
+  Educator: AbelCine Team
+  Image: '/assets/images/courses/arri-amira-camera-primer.jpg'
+  Description: Learn to set up and operate the ARRI Amira camera system, including menu navigation, audio, monitoring, LUTs, and post-production workflow.
+  Lessons: 8
+  Runtime Hours: 1
+  Runtime Minutes: 21
+  Topics:
+    - cinematography
+    - filmmaking
+
+Course Page:
+  Video:
+  Main Title: Complete Guide to the ARRI Amira
+  Main Text: Learn to set up and operate the ARRI Amira camera system, including menu navigation, audio, monitoring, LUTs, and post-production workflow.
+  Main Image: '/assets/images/courses/arri-amira-camera-primer/arri-amira-camera-primer-main.jpg'
+  Additional Images:
+  Review Average:
+
+course_purchase: true
 position: 41
 layout: course
-educator: AbelCine Team
-image: "/assets/images/courses/arri-amira-camera-primer.jpg"
-course_url: https://www.mzed.com/courses/arri-amira
-description: Learn to set up and operate the ARRI Amira camera system, including menu
-  navigation, audio, monitoring, LUTs, and post-production workflow.
-lessons: 8
-runtime: 1h 21m
-topics: cinematography, filmmaking
-show_stats: true
-show_pricing: true
+title: ARRI Amira Camera Primer
 ---
 
