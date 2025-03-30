@@ -1,6 +1,6 @@
 ---
 title: Alex Buono's Visual Storytelling 2
-position: 56
+position: 57
 Course Card:
   Title: Alex Buono's Visual Storytelling 2
   Educator: Alex Buono

@@ -1,6 +1,6 @@
 ---
 title: From Scene to Screen
-position: 29
+position: 28
 Course Card:
   Title: From Scene to Screen
   Educator: Ollie Kenchington

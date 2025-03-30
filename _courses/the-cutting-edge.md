@@ -1,6 +1,6 @@
 ---
 title: The Cutting Edge
-position: 58
+position: 59
 Course Card:
   Title: The Cutting Edge
   Educator: Adam Epstein
