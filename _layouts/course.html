@@ -121,16 +121,82 @@ layout: default
 <!--                  Lessons                     -->
 <!-- ============================================ -->
 
-<!-- Simple Lessons Test -->
-<section id="faq-1109" style="border: 2px solid red; margin: 20px; padding: 20px;">
-  <h2>Lesson Count: {{ page.Lessons.size }}</h2>
-  
-  <ul>
-    {% for lesson in page.Lessons %}
-      <li>{{ forloop.index }}. {{ lesson.title }}</li>
-    {% endfor %}
-  </ul>
+<section id="faq-1109">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">Course Curriculum</span>
+            <div class="cs-title">The Lessons</div>
+        </div>
+        <div class="cs-flex-group">
+            <!-- Calculate total lessons and split point -->
+            {% assign total_lessons = page.Lessons.size %}
+            {% assign half_lessons = total_lessons | divided_by: 2 | ceil %}
+            
+            <!-- Left Column -->
+            <ul class="cs-faq-group left">
+                {% for lesson in page.Lessons limit:half_lessons %}
+                    {% assign lesson_number = forloop.index %}
+                    <li class="cs-faq-item {% if forloop.first %}active{% endif %}">
+                        <button class="cs-button">
+                            <span class="cs-button-text">
+                                {{ lesson_number }}. {{ lesson['Lesson Title'] }}{% if lesson.free %} (Free Lesson){% endif %}
+                            </span>
+                        </button>
+
+
+                        {% assign lesson_paragraphs = lesson['Lesson Description'] | split: "
+
+" %}
+                        {% for paragraph in lesson_paragraphs %}
+                                                    <p class="cs-item-p">
+                                        {{ paragraph }}
+                                    </p>
+                        {% endfor %}
+                    </li>
+                {% endfor %}
+            </ul>
+
+            <!-- Right Column -->
+            <ul class="cs-faq-group right">
+                {% for lesson in page.Lessons offset:half_lessons %}
+                    {% assign lesson_number = forloop.index | plus: half_lessons %}
+                    <li class="cs-faq-item">
+                        <button class="cs-button">
+                            <span class="cs-button-text">
+                                {{ lesson_number }}. {{ lesson['Lesson Title'] }}
+                            </span>
+                        </button>
+
+
+                        {% assign lesson_paragraphs = lesson['Lesson Description'] | split: "
+
+" %}
+                        {% for paragraph in lesson_paragraphs %}
+                                                    <p class="cs-item-p">
+                                        {{ paragraph }}
+                                    </p>
+                        {% endfor %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
 </section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const faqItems = Array.from(document.querySelectorAll('.cs-faq-item'));
+        for (const item of faqItems) {
+            const button = item.querySelector('.cs-button');
+            if (button) {
+                button.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    item.classList.toggle('active');
+                });
+            }
+        }
+    });
+</script>
 
   <!-- MZed Pro Stats -->
   {% if page.show_stats %} {% include mzed_stats.html section=page.mzed_pro_section %} {% endif %}
@@ -140,6 +206,4 @@ layout: default
   %} {% else %} {% include mzed_pricing.html pricing=site.data.prices %} {% endif %}
 </main>
 
-{% if page.custom_js %} {% for js_file in page.custom_js %}
-<script src="{{ js_file | relative_url }}"></script>
-{% endfor %} {% endif %}
+
