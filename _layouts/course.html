@@ -80,7 +80,7 @@ layout: default
       </picture>
     </div>
     <div class="cs-image-group">
-      {% for image in page.additional_images %}
+      {% for image in page['Course Page']['Additional Images'] %}
       <picture class="cs-image">
         <!--Mobile Image-->
         <source media="(max-width: 600px)" srcset="{{ image | relative_url }}" />
@@ -101,6 +101,36 @@ layout: default
 
   <!-- Course Stats -->
   {% include course_stats.html course=page %}
+
+  <!-- Educator -->
+  {% assign educator_name = page.educator | default: page['Course Card']['Educator'] %}
+  {% if educator_name %}
+    {% assign educator_slug = educator_name | slugify %}
+    {% assign current_educator = site.educators | where: "slug", educator_slug | first %}
+    {% if current_educator %}
+      <div class="educator-section">
+        {% assign page = current_educator %}
+        {% include about_educator.html %}
+        {% assign page = layout.page %}
+      </div>
+    {% endif %}
+  {% endif %}
+
+
+<!-- ============================================ -->
+<!--                  Lessons                     -->
+<!-- ============================================ -->
+
+<!-- Simple Lessons Test -->
+<section id="faq-1109" style="border: 2px solid red; margin: 20px; padding: 20px;">
+  <h2>Lesson Count: {{ page.Lessons.size }}</h2>
+  
+  <ul>
+    {% for lesson in page.Lessons %}
+      <li>{{ forloop.index }}. {{ lesson.title }}</li>
+    {% endfor %}
+  </ul>
+</section>
 
   <!-- MZed Pro Stats -->
   {% if page.show_stats %} {% include mzed_stats.html section=page.mzed_pro_section %} {% endif %}

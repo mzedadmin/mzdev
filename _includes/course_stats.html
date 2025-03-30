@@ -6,15 +6,15 @@
   <div class="cs-container">
     <ul class="cs-card-group">
       <li class="cs-item">
-        <span class="cs-number">{{ include.course.duration_hours }}</span>
+        <span class="cs-number">{{ include.course['Course Card']['Runtime Hours'] }}</span>
         <span class="cs-stat-text">Hours Long</span>
       </li>
       <li class="cs-item">
-        <span class="cs-number">{{ include.course.lessons }}</span>
+        <span class="cs-number">{{ include.course['Course Card']['Lessons'] }}</span>
         <span class="cs-stat-text">Curated Lessons</span>
       </li>
       <li class="cs-item">
-        <span class="cs-number">{{ include.course.review_average | default: 4.8 }} / 5</span>
+        <span class="cs-number">{{ include.course['Course Page']['Review Average'] | default: 4.8 }} / 5</span>
         <span class="cs-stat-text">Average Review</span>
       </li>
       <li class="cs-item">
