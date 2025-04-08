@@ -9,7 +9,7 @@ bio: |-
   colourist duties on every project. Ollie is an assured practitioner across all areas
   of filmmaking, giving him a deep understanding of the creative process, which allows
   his agency to flourish in this competitive industry.
-  
+
   Ollie is also among the most highly qualified and respected film production and post-production trainers
   in the UK right now. Over the last twelve years, Ollie has taught thousands of aspiring
   filmmakers as an Apple Certified Master Trainer, Adobe Certified Instructor and
