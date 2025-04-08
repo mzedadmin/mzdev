@@ -30,8 +30,9 @@
                 <p class="cs-text">{{ paragraph }}</p>
             {% endfor %}
             
-            {% if page.Website %}
-                <a href="{{ page.Website }}" class="cs-button-solid"
+            {% if page.name %}
+                {% assign educator_slug = page.name | slugify %}
+                <a href="/educators/{{ educator_slug }}" class="cs-button-solid"
                     aria-label="learn more about {{ page.name }}">Learn More about {{ page.name | split: " " | first }}</a>
             {% endif %}
         </div>
