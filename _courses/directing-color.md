@@ -1,6 +1,6 @@
 ---
 title: Directing Color
-position: 53
+position: 54
 Course Card:
   Title: Directing Color
   Educator: Ollie Kenchington

@@ -1,6 +1,6 @@
 ---
 title: The Definitive Guide to DaVinci Resolve
-position: 40
+position: 39
 Course Card:
   Title: The Definitive Guide to DaVinci Resolve
   Educator: Ollie Kenchington

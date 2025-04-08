@@ -1,6 +1,6 @@
 ---
 title: How to Photograph Everyone
-position: 54
+position: 55
 Course Card:
   Title: How to Photograph Everyone
   Educator: Clay Blackmore
