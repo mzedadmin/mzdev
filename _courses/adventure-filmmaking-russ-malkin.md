@@ -15,23 +15,24 @@ Course Card:
   - directing
   - producing
 Course Page:
-  Video:
+  Video: 
   Main Title: Combining Travel and Documentary Filmmaking
   Main Text: Transform your love for travel into compelling documentaries. Learn how
     to combine filmmaking with adventure while staying safe and profitable.
   Main Image: "/assets/images/courses/adventure-filmmaking-russ-malkin/adventure-filmmaking-russ-malkin-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
   Lessons:
   - Lesson Title: Editing in the Cut Page
-    Lesson Description: To get the course started Ollie takes us through Resolve's Cut
-      page, showing exactly how to cut fast turn-around videos with minimal effort,
+    Lesson Description: To get the course started Ollie takes us through Resolve's
+      Cut page, showing exactly how to cut fast turn-around videos with minimal effort,
       using a multi-camera interview project as an example.
     free: true
   - Lesson Title: Editing in the Edit Page
-    Lesson Description: The Edit Page supports the approach to non-linear editing that
-      has been battle-tested by editors around the world for decades. In this lesson
-      you will learn those techniques so you can apply them to your own editing workflows.
+    Lesson Description: The Edit Page supports the approach to non-linear editing
+      that has been battle-tested by editors around the world for decades. In this
+      lesson you will learn those techniques so you can apply them to your own editing
+      workflows.
   - Lesson Title: Managing Dailies and Edit Prep
     Lesson Description: |-
       While DaVinci Resolve is a superior editing, audio mixing, visual
@@ -133,6 +134,5 @@ Course Page:
       audio submixes for your final output.
 course_purchase: true
 layout: course
-slug: adventure-filmmaking-russ-malkin
 ---
 

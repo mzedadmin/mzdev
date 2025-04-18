@@ -16,6 +16,5 @@ topics:
 - visual-storytelling
 show_stats: true
 show_pricing: true
-slug: indie-film-blueprint
 ---
 

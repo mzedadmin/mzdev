@@ -18,15 +18,14 @@ Course Card:
   - producing
   - visual-storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: Launch and Grow a Successful YouTube Channel
   Main Text: Learn to launch and grow a successful YouTube channel, from choosing
     your niche to setting up your studio and monetizing your content.
   Main Image: "/assets/images/courses/starting-youtube-channel/starting-youtube-channel-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: starting-youtube-channel
 ---
 

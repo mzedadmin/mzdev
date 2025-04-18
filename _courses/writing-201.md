@@ -12,6 +12,5 @@ runtime: 50m
 topics: cinematography, filmmaking, screenwriting
 show_stats: true
 show_pricing: true
-slug: writing-201
 ---
 

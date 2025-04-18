@@ -14,15 +14,14 @@ Course Card:
   - color-grading
   - filmmaking
 Course Page:
-  Video:
+  Video: 
   Main Title: LUTs in Production and Post-Production
   Main Text: Get a thorough understanding of LUTs, their applications, creation process,
     and implementation throughout production and post-production.
   Main Image: "/assets/images/courses/understanding-luts/understanding-luts-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: understanding-luts
 ---
 

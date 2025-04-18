@@ -14,15 +14,14 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video:
+  Video: 
   Main Title: Mastering the Canon C500 Mark II
   Main Text: Master the Canon C500 Mark II's core features and maximize your results
     on set with this comprehensive primer on the full-frame cinema camera.
   Main Image: "/assets/images/courses/C500MkII-camera-primer/c500-mkii-camera-primer-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: canon-c500-mkii-camera-primer
 ---
 

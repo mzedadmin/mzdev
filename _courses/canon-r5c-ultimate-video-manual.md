@@ -16,16 +16,15 @@ Course Card:
   - filmmaking
   - visual-storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: Master the Canon R5C for Professional Video
   Main Text: Professional filmmaker Ollie Kenchington explores the video capabilities
     of the Canon R5C, sharing insights from his experience shooting Canon's launch
     film.
   Main Image: "/assets/images/courses/Canon-R5C-ultimate-video-manual/canon-r5c-ultimate-video-manual-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: canon-r5c-ultimate-video-manual
 ---
 

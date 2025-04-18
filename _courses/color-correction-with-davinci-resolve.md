@@ -12,6 +12,5 @@ runtime: 7h 19m
 topics: editing, color-grading, filmmaking
 show_stats: true
 show_pricing: true
-slug: color-correction-with-davinci-resolve
 ---
 

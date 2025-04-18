@@ -12,6 +12,5 @@ runtime: 1h 51m
 topics: lighting, cinematography
 show_stats: true
 show_pricing: true
-slug: arri-lighting-systems-control
 ---
 

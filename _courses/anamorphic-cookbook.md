@@ -15,7 +15,7 @@ Course Card:
   - filmmaking
   - visual storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: The Ultimate Guide to Anamorphic Lenses
   Main Text: The Anamorphic Cookbook is the ultimate course about the history of anamorphic
     lenses and how to put together your own rig.
@@ -29,6 +29,5 @@ Course Page:
   Review Average: 4.7
 course_purchase: true
 layout: course
-slug: anamorphic-cookbook
 ---
 

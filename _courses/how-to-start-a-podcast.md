@@ -12,6 +12,5 @@ runtime: 1h 59m
 topics: podcasting, audio
 show_stats: true
 show_pricing: true
-slug: how-to-start-a-podcast
 ---
 

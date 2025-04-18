@@ -12,6 +12,5 @@ runtime: 3h 24m
 topics: photography
 show_stats: true
 show_pricing: true
-slug: cinematic-timelapse-drew-geraci
 ---
 

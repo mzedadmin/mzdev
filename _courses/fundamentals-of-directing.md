@@ -14,15 +14,14 @@ Course Card:
   - directing
   - visual-storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: Essential Concepts for Film Directors
   Main Text: A comprehensive introduction to film directing, covering essential concepts
     and techniques for aspiring directors and film enthusiasts.
   Main Image: "/assets/images/courses/fundamentals-of-directing/fundamentals-of-directing-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: fundamentals-of-directing
 ---
 

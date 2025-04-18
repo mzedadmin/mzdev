@@ -16,16 +16,15 @@ Course Card:
   - lighting
   - visual-storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: Advanced Visual Storytelling Techniques
   Main Text: Master advanced techniques in lighting, lens selection, blocking, camera
     movement, and workflow to enhance your visual storytelling.
   Main Image: "/assets/images/courses/art-of-visual-storytelling/art-of-visual-storytelling-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: art-of-visual-storytelling
 ---
 
 <main id="main">

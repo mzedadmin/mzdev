@@ -13,15 +13,14 @@ Course Card:
   Topics:
   - producing
 Course Page:
-  Video:
+  Video: 
   Main Title: Insider Knowledge for Film Producers
   Main Text: Award-winning producer Graham Ehlers Sheldon shares insider knowledge
     on producing quality content and navigating the film industry successfully.
   Main Image: "/assets/images/courses/producing-from-the-front/producing-from-the-front-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: producing-from-the-front
 ---
 

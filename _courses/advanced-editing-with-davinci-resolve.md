@@ -142,6 +142,5 @@ Lessons:
     audio submixes for your final output.
 course_purchase: true
 layout: course
-slug: advanced-editing-with-davinci-resolve
 ---
 

@@ -14,15 +14,14 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video:
+  Video: 
   Main Title: Complete Guide to the ARRI Amira
   Main Text: Learn to set up and operate the ARRI Amira camera system, including menu
     navigation, audio, monitoring, LUTs, and post-production workflow.
   Main Image: "/assets/images/courses/arri-amira-camera-primer/arri-amira-camera-primer-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: arri-amira-camera-primer
 ---
 

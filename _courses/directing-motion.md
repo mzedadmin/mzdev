@@ -16,16 +16,15 @@ Course Card:
   - filmmaking
   - visual-storytelling
 Course Page:
-  Video:
+  Video: 
   Main Title: The Cinematic Language of Motion
   Main Text: Master the cinematic language of motion, from camera movement to scene
     blocking. Learn how to direct crews effectively while enhancing story through
     dynamic cinematography.
   Main Image: "/assets/images/courses/directing-motion/directing-motion-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: directing-motion
 ---
 

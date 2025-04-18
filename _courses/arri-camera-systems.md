@@ -14,15 +14,14 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video:
+  Video: 
   Main Title: ARRI Camera Systems Certification
   Main Text: Comprehensive training on ARRI camera systems including ALEXA LF, Mini,
     SXT W, and AMIRA. Learn ARRIRAW, advanced looks, and HDR workflows.
   Main Image: "/assets/images/courses/arri-camera-systems/arri-camera-systems-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: arri-camera-systems
 ---
 

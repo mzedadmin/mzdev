@@ -14,15 +14,14 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video:
+  Video: 
   Main Title: Complete Guide to the Canon C300 MkII
   Main Text: Comprehensive guide to the Canon C300 MkII camera, covering operation
     and features for solo shooters to large production teams.
   Main Image: "/assets/images/courses/canon-c300-mkii-camera-primer/canon-c300-mkii-camera-primer-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: canon-c300-mkii-camera-primer
 ---
 

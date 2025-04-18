@@ -27,11 +27,12 @@ Course Page:
   - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: "A must have for wildlife enthusiast! He is the best at explaining things!"
-    Reviewer: "Mark Ancheta"
-  - Text: "What a great course. I always wondered why Doug's video clips looked so good and now I know."
-    Reviewer: "Matteo Bianchi"
-  - Text: "Excellent course. Will sure practice what you taught at the local bird sanctuary."
+  - Text: A must have for wildlife enthusiast! He is the best at explaining things!
+    Reviewer: Mark Ancheta
+  - Text: What a great course. I always wondered why Doug's video clips looked so
+      good and now I know.
+    Reviewer: Matteo Bianchi
+  - Text: Excellent course. Will sure practice what you taught at the local bird sanctuary.
   Recommended Courses:
   - arri-tech-talk
   - cinematic-timelapse
@@ -46,20 +47,20 @@ Course Page:
     Lesson Description: These are most of the solutions on the market for anamorfaking
       your visuals - and they're all cheaper than anamorphic adapters.
   - Lesson Title: Faking Anamorphic Lens Flares in Camera
-    Lesson Description: Let's take a look at all of the non-anamorphic techniques you
-      can use to create streak flares in-camera. The budget goes from $2 to $200 with
-      plenty of options in between that you can start using right now.
+    Lesson Description: Let's take a look at all of the non-anamorphic techniques
+      you can use to create streak flares in-camera. The budget goes from $2 to $200
+      with plenty of options in between that you can start using right now.
   - Lesson Title: Make Any Lens "Anamorphic" - Modifications and Oval Inserts
     Lesson Description: This lesson goes off the deep end on how to choose the best
       lenses for faking the anamorphic look, and how to design oval inserts in a way
       to give you the best results in performance and light loss.
   - Lesson Title: Modifying Rokinon / Samyang Lenses
-    Lesson Description: It's time we start modifying some Rokinon / Samyang lenses to
-      deliver the anamorphic look with oval bokeh. In this lesson you'll find detailed
+    Lesson Description: It's time we start modifying some Rokinon / Samyang lenses
+      to deliver the anamorphic look with oval bokeh. In this lesson you'll find detailed
       instructions to open and modify seven lenses.
   - Lesson Title: Vintage Anamorphic Look by Modifying Contax Zeiss Lenses
-    Lesson Description: In this lesson you'll find detailed instructions on how to open
-      and modify six Contax Zeiss lenses.
+    Lesson Description: In this lesson you'll find detailed instructions on how to
+      open and modify six Contax Zeiss lenses.
   - Lesson Title: Creating the Anamorphic Look in Post - Aspect Ratio, Lens Flares,
       Distortion and more
     Lesson Description: How do you fake the anamorphic look in your editing software?
@@ -74,11 +75,10 @@ Course Page:
       look without anamorphic glass, Tito takes a dive into a bottomless budget approach
       with the MiniHawks, the world's fanciest anamorfake lenses.
   - Lesson Title: 'BONUS: Opening the Door - A Short Film Faking The Anamorphic Look'
-    Lesson Description: '"Opening The Door" is a short to showcase the anamorphic look
-      without using anamorphic glass. Tito and his crew used various modified lenses
-      and post-production tricks to create the visuals here.'
+    Lesson Description: '"Opening The Door" is a short to showcase the anamorphic
+      look without using anamorphic glass. Tito and his crew used various modified
+      lenses and post-production tricks to create the visuals here.'
 course_purchase: true
 layout: course
-slug: anamorfake-it-until-you-make-it
 ---
 

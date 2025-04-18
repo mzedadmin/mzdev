@@ -15,16 +15,15 @@ Course Card:
   - cinematography
   - directing
 Course Page:
-  Video:
+  Video: 
   Main Title: Visual Communication for Directors
   Main Text: Learn to effectively communicate with cinematographers, make informed
     decisions about camera placement and lens choice, and lead technical teams without
     being a technical expert.
   Main Image: "/assets/images/courses/cinematography-for-directors/cinematography-for-directors-main.jpg"
-  Additional Images:
-  Review Average:
+  Additional Images: 
+  Review Average: 
 course_purchase: true
 layout: course
-slug: cinematography-for-directors
 ---
 
