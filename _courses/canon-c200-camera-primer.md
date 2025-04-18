@@ -15,15 +15,16 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Mastering the Canon C200
   Main Text: Award-winning cinematographer Matt Allard ACS provides a detailed overview
     of the Canon Cinema EOS C200, covering essential features and controls for optimal
     camera operation.
   Main Image: "/assets/images/courses/c200-camera-primer/c200-camera-primer-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: canon-c200-camera-primer
 ---
 

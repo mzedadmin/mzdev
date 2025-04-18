@@ -14,14 +14,15 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Mastering Large Format Cinematography
   Main Text: Explore large-format cinematography with James Laxton ASC as he shares
     his experience with ARRI ALEXA 65 and Signature Prime lenses.
   Main Image: "/assets/images/courses/large-format-cinematography-with-james-laxton-asc/large-format-cinematography-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: large-format-cinematography-with-james-laxton-asc
 ---
 

@@ -1,0 +1,87 @@
+{% assign current_course = include.course %}
+
+<!-- Lessons Section -->
+<section id="faq-1109">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">Course Curriculum</span>
+            <div class="cs-title">The Lessons</div>
+        </div>
+        
+        <div class="cs-flex-group">
+            {% assign lessons = current_course['Course Page'].Lessons %}
+            {% if lessons and lessons.size > 0 %}
+                <!-- Calculate total lessons and split point -->
+                {% assign total_lessons = lessons.size %}
+                {% assign half_lessons = total_lessons | divided_by: 2 | ceil %}
+                
+                <!-- Left Column -->
+                <ul class="cs-faq-group left">
+                    {% for lesson in lessons limit:half_lessons %}
+                        {% assign lesson_number = forloop.index %}
+                        <li class="cs-faq-item {% if forloop.first %}active{% endif %}">
+                            <button class="cs-button">
+                                <span class="cs-button-text">
+                                    {{ lesson_number }}. {{ lesson['Lesson Title'] }}{% if lesson.free %} (Free Lesson){% endif %}
+                                </span>
+                            </button>
+                            {% assign description = lesson['Lesson Description'] %}
+                            {% assign lesson_paragraphs = description | newline_to_br | split: '<br />' %}
+                            {% for paragraph in lesson_paragraphs %}
+                                {% if paragraph != '' %}
+                                <p class="cs-item-p">
+                                    {{ paragraph }}
+                                </p>
+                                {% endif %}
+                            {% endfor %}
+                        </li>
+                    {% endfor %}
+                </ul>
+
+                <!-- Right Column -->
+                <ul class="cs-faq-group right">
+                    {% for lesson in lessons offset:half_lessons %}
+                        {% assign lesson_number = forloop.index | plus: half_lessons %}
+                        <li class="cs-faq-item">
+                            <button class="cs-button">
+                                <span class="cs-button-text">
+                                    {{ lesson_number }}. {{ lesson['Lesson Title'] }}{% if lesson.free %} (Free Lesson){% endif %}
+                                </span>
+                            </button>
+
+                            {% assign description = lesson['Lesson Description'] %}
+                            {% assign lesson_paragraphs = description | newline_to_br | split: '<br />' %}
+                            {% for paragraph in lesson_paragraphs %}
+                                {% if paragraph != '' %}
+                                <p class="cs-item-p">
+                                    {{ paragraph }}
+                                </p>
+                                {% endif %}
+                            {% endfor %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <div style="padding: 15px; background: #fff3cd; margin: 20px; width: 100%;">
+                    <p>No lessons found for this course.</p>
+                    <p>Please check the course front matter format.</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const faqItems = Array.from(document.querySelectorAll('.cs-faq-item'));
+        for (const item of faqItems) {
+            const button = item.querySelector('.cs-button');
+            if (button) {
+                button.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    item.classList.toggle('active');
+                });
+            }
+        }
+    });
+</script> 

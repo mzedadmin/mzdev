@@ -13,14 +13,15 @@ Course Card:
   Topics:
   - producing
 Course Page:
-  Video: 
+  Video:
   Main Title: Crafting Compelling Visual Presentations
   Main Text: Create compelling pitch decks for Film/TV projects. Learn to craft visual
     presentations that effectively sell your story and vision.
   Main Image: "/assets/images/courses/building-a-pitch-deck/building-a-pitch-deck-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: building-a-pitch-deck
 ---
 

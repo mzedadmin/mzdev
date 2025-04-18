@@ -13,14 +13,15 @@ Course Card:
   Topics:
   - editing
 Course Page:
-  Video: 
+  Video:
   Main Title: Complete Adobe Premiere Pro Mastery
   Main Text: A comprehensive 25-hour course covering all aspects of Adobe Premiere
     Pro across 13 topics. Perfect for beginners and advanced editors.
   Main Image: "/assets/images/courses/learn-everything-in-premiere-pro/learn-everything-in-premiere-pro-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: learn-everything-in-premiere-pro
 ---
 

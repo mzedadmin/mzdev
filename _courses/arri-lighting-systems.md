@@ -15,14 +15,15 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: ARRI Lighting Systems Certification
   Main Text: Comprehensive training on ARRI lighting systems, covering LED fixtures,
     traditional tungsten lights, and advanced lighting techniques.
   Main Image: "/assets/images/courses/arri-lighting-systems/arri-lighting-systems-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: arri-lighting-systems
 ---
 

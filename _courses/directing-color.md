@@ -15,14 +15,15 @@ Course Card:
   - filmmaking
   - visual-storytelling
 Course Page:
-  Video: 
+  Video:
   Main Title: Using Color to Enhance Storytelling
   Main Text: Learn how to use color theory and visual language throughout filmmaking
     to enhance storytelling, not just create a "look."
   Main Image: "/assets/images/courses/directing-color/directing-color-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: directing-color
 ---
 

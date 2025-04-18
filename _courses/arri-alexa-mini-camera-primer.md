@@ -14,14 +14,15 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Complete Guide to the ARRI Alexa Mini
   Main Text: Master the ARRI Alexa Mini with this 90-minute course covering setup,
     operation, menus, audio, monitoring, and ARRIRaw workflows.
   Main Image: "/assets/images/courses/arri-alexa-mini-camera-primer/arri-alexa-mini-camera-primer-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: arri-alexa-mini-camera-primer
 ---
 

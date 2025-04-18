@@ -12,5 +12,6 @@ runtime: 4h 12m
 topics: cinematography
 show_stats: true
 show_pricing: true
+slug: wildlife-cinematography
 ---
 

@@ -14,14 +14,15 @@ Course Card:
   - lighting
   - cinematography
 Course Page:
-  Video: 
+  Video:
   Main Title: Mastering the Visual Language of Light
   Main Text: Master the visual language of lighting with professional cinematographer
     Tal Lazar. Learn to see and design light to enhance your storytelling.
   Main Image: "/assets/images/courses/language-of-lighting/language-of-lighting-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: language-of-lighting
 ---
 

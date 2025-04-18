@@ -14,14 +14,15 @@ Course Card:
   - directing
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Creating Award-Winning Short Films
   Main Text: Learn to create award-winning short films, from finding your voice through
     post-production and building an audience.
   Main Image: "/assets/images/courses/short-films-101/short-films-101-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: short-films-101
 ---
 

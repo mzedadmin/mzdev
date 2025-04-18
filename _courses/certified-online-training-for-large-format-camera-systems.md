@@ -14,14 +14,15 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: ARRI Large-Format Camera Systems Certification
   Main Text: Get certified in ARRI's large-format camera systems, including ALEXA
     Mini LF, ALEXA LF, Signature Prime lenses, and LPL mount.
   Main Image: "/assets/images/courses/arri-certified-online-training-for-large-format-camera-systems/large-format-camera-systems-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: certified-online-training-for-large-format-camera-systems
 ---
 

@@ -1,0 +1,38 @@
+{% assign course = include.course %}
+<li class="cs-item" data-topics="{{ course['Course Card'].Topics | join: ',' }}">
+    <a href="{{ course.url }}" class="cs-card-link">
+        <picture class="cs-picture">
+            <!--Mobile Image-->
+            <source media="(max-width: 600px)" srcset="{{ course['Course Card'].Image | relative_url }}">
+            <!--Tablet and above Image-->
+            <source media="(min-width: 601px)" srcset="{{ course['Course Card'].Image | relative_url }}">
+            <img loading="lazy" 
+                 decoding="async" 
+                 src="{{ course['Course Card'].Image | relative_url }}"
+                 alt="{{ course['Course Card'].Title }} course" 
+                 width="413" 
+                 height="240">
+        </picture>
+        <div class="cs-info">
+            <h3 class="cs-title">{{ course['Course Card'].Title }}</h3>
+            <p class="cs-educator">{{ course['Course Card'].Educator }}</p>
+            <p class="cs-description">
+                {{ course['Course Card'].Description }}
+            </p>
+            <span class="cs-link">Watch this course →</span>
+        </div>
+        <div class="cs-stats">
+            <div class="cs-stat">
+                {{ course['Course Card'].Lessons }} Lessons
+            </div>
+            <div class="cs-stat">
+                {% if course['Course Card']['Runtime Hours'] > 0 %}
+                    {{ course['Course Card']['Runtime Hours'] }}h
+                {% endif %}
+                {% if course['Course Card']['Runtime Minutes'] > 0 %}
+                    {{ course['Course Card']['Runtime Minutes'] }}m
+                {% endif %}
+            </div>
+        </div>
+    </a>
+</li> 

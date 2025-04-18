@@ -14,14 +14,15 @@ Course Card:
   - producing
   - screenwriting
 Course Page:
-  Video: 
+  Video:
   Main Title: Screenwriting Fundamentals
   Main Text: Learn screenwriting fundamentals through established storytelling paradigms
     and cinematic examples, perfect for beginners and experienced writers.
   Main Image: "/assets/images/courses/writing-101/writing-101-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: writing-101
 ---
 

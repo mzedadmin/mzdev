@@ -12,5 +12,6 @@ runtime: 3h 53m
 topics: cinematography, lighting
 show_stats: true
 show_pricing: true
+slug: lighting-people-on-location
 ---
 

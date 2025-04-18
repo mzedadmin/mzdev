@@ -14,14 +14,15 @@ Course Card:
   - color-grading
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: The Art and Science of Color Grading
   Main Text: Professional colorist Ollie Kenchington breaks down the art and science
     of color grading, from fundamentals to advanced HDR workflows.
   Main Image: "/assets/images/courses/mastering-color/mastering-color-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: mastering-color
 ---
 

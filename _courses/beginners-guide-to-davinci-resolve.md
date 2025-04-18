@@ -14,14 +14,15 @@ Course Card:
   - editing
   - color-grading
 Course Page:
-  Video: 
+  Video:
   Main Title: Step-by-Step DaVinci Resolve Training
   Main Text: Learn to edit, composite, color correct, and mix audio in DaVinci Resolve
     18.5 with this official step-by-step training guide.
   Main Image: "/assets/images/courses/beginners-guide-to-davinci-resolve/beginners-guide-to-davinci-resolve-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: beginners-guide-to-davinci-resolve
 ---
 

@@ -4,6 +4,7 @@ permalink: "/courses/"
 layout: default
 custom_css:
 - "/assets/css/main.css"
+- "/assets/css/components/course-card.css"
 ---
 
 {% assign page = site.pagecontent | where: "slug", "courses" | first %}
@@ -41,74 +42,18 @@ custom_css:
           </div>
         </div>
 
-        {% assign sorted_courses = site.courses | sort: "position", "last" %} {% for course in sorted_courses %}
-        <li class="cs-item" data-topics="{{ course.topics | join: ',' }}">
-          <picture class="cs-picture">
-            <!--Mobile Image-->
-            <source
-              media="(max-width: 600px)"
-              srcset="{{ course['Course Card']['Image'] | relative_url }}"
-            />
-            <!--Tablet and above Image-->
-            <source
-              media="(min-width: 601px)"
-              srcset="{{ course['Course Card']['Image'] | relative_url }}"
-            />
-            <img
-              loading="lazy"
-              decoding="async"
-              src="{{ course['Course Card']['Image'] | relative_url }}"
-              alt="{{ course.title }} by {{ course.educator }}"
-              width="413"
-              height="240"
-              aria-hidden="true"
-            />
-          </picture>
-          <div class="cs-info">
-            <h3 class="cs-h3">{{ course['Course Card']['Title'] }}</h3>
-            <h4 class="cs-topper cs-educator">{{ course['Course Card']['Educator'] }}</h4>
-            <p class="cs-item-text">{{ course['Course Card']['Description'] }}</p>
-            <a href="{{ course.url | relative_url }}" class="cs-link">
-              Watch this course
-              <img
-                class="cs-arrow"
-                loading="lazy"
-                decoding="async"
-                src="{{ '/assets/icons/red-arrow-right.svg' | relative_url }}"
-                alt="icon"
-                width="20"
-                height="20"
-                aria-hidden="true"
-              />
-            </a>
-          </div>
-          <div class="course-card-stats">
-            {% if course['Course Card']['Lessons'] %}
-            <span class="course-card-stat">
-              <span class="course-card-stat-text"
-                >{{ course['Course Card']['Lessons'] }} Lessons</span
-              >
-            </span>
-            {% endif %} {% if course['Course Card']['Runtime Hours'] %}
-            <span class="course-card-stat">
-              <span class="course-card-stat-text"
-                >{{ course['Course Card']['Runtime Hours'] }}h {{ course['Course Card']['Runtime Minutes'] }}m</span
-              >
-            </span>
-            {% endif %}
-          </div>
-        </li>
+        {% assign sorted_courses = site.courses | sort: "position", "last" %}
+        {% for course in sorted_courses %}
+          {% include course_card.html course=course %}
         {% endfor %}
       </ul>
     </div>
   </section>
 
   <!-- MZed Pro Section -->
-
   {% include mzed_stats.html section=page.mzed_pro_section %}
 
   <!-- Pricing Section -->
-
   {% include mzed_pricing.html %}
 </main>
 

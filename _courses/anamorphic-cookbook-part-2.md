@@ -15,14 +15,15 @@ Course Card:
   - filmmaking
   - visual-storytelling
 Course Page:
-  Video: 
+  Video:
   Main Title: Advanced Anamorphic Filmmaking Techniques
   Main Text: Dive deeper into anamorphic filmmaking with new advanced lessons from
     expert educator Tito Ferradans in this follow-up course.
   Main Image: "/assets/images/courses/anamorphic-cookbook-part-2/anamorphic-cookbook-part-2-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: anamorphic-cookbook-part-2
 ---
 

@@ -12,5 +12,6 @@ runtime: 3h 9m
 topics: editing
 show_stats: true
 show_pricing: true
+slug: speed-editing-final-cut-pro
 ---
 

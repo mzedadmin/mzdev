@@ -16,14 +16,15 @@ Course Card:
   - filmmaking
   - lighting
 Course Page:
-  Video: 
+  Video:
   Main Title: Complete Production Workflow
   Main Text: Follow a production from pre-production through post, learning professional
     techniques for creating cinematic content on a budget.
   Main Image: "/assets/images/courses/from-scene-to-screen/from-scene-to-screen-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: from-scene-to-screen
 ---
 

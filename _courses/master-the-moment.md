@@ -15,14 +15,15 @@ Course Card:
   - cinematography
   - visual-storytelling
 Course Page:
-  Video: 
+  Video:
   Main Title: The Blueprint for World-Class Wedding Films
   Main Text: Join Ray Roman as he reveals his blueprint for creating world-class wedding
     films, taking you through an entire wedding from start to finish.
   Main Image: "/assets/images/courses/master-the-moment/master-the-moment-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: master-the-moment
 ---
 

@@ -14,14 +14,15 @@ Course Card:
   - filmmaking
   - visual-storytelling
 Course Page:
-  Video: 
+  Video:
   Main Title: Fast-Paced Editing Workflows
   Main Text: Learn fast-paced editing workflows from SNL film unit editor Adam Epstein.
     Master techniques for high-pressure editing environments and tight deadlines.
   Main Image: "/assets/images/courses/the-cutting-edge/the-cutting-edge-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: the-cutting-edge
 ---
 

@@ -14,14 +14,15 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Complete Guide to the Panasonic EVA1
   Main Text: Master the Panasonic AU-EVA1 cinema camera's features and operations
     for productions of any size, from solo shoots to multi-camera setups.
   Main Image: "/assets/images/courses/panasonic-eva1-camera-primer/panasonic-eva1-camera-primer-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: panasonic-eva1-camera-primer
 ---
 

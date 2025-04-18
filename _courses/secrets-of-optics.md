@@ -14,16 +14,17 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Discover the Secrets of Optics
   Main Text: |-
     Understand the fundamentals of lenses, from focal length to crop factors, and learn how different manufacturers create their distinctive looks.
 
     This is a second paragraph.
   Main Image: "/assets/images/courses/secrets-of-optics/secrets-of-optics-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: secrets-of-optics
 ---
 

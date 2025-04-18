@@ -13,5 +13,6 @@ runtime: 6h 12m
 topics: photography, lighting
 show_stats: true
 show_pricing: true
+slug: speedlites-power-possibilities
 ---
 

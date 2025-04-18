@@ -14,14 +14,15 @@ Course Card:
   - editing
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Professional Film Editing Techniques
   Main Text: Oscar-winning editor Tom Cross shares professional film editing techniques
     through detailed scene breakdowns from La La Land, Whiplash, and more.
   Main Image: "/assets/images/courses/art-technique-of-film-editing/art-technique-of-film-editing-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: art-technique-of-film-editing
 ---
 

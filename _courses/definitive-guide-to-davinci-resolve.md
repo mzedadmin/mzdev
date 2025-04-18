@@ -15,14 +15,15 @@ Course Card:
   - color-grading
   - filmmaking
 Course Page:
-  Video: 
+  Video:
   Main Title: Complete DaVinci Resolve Training
   Main Text: Official Blackmagic Design training covering editing, motion graphics,
     color correction, and audio tools in DaVinci Resolve, plus Resolve 16 updates.
   Main Image: "/assets/images/courses/definitive-guide-to-davinci-resolve/definitive-guide-to-davinci-resolve-main.jpg"
-  Additional Images: 
-  Review Average: 
+  Additional Images:
+  Review Average:
 course_purchase: true
 layout: course
+slug: definitive-guide-to-davinci-resolve
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Courses
-test: this is a test
+layout: default
 Header:
   Topper: MZed Library
   Title: Our Courses

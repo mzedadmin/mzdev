@@ -13,5 +13,6 @@ runtime: 7h 54m
 topics: photography, lighting
 show_stats: true
 show_pricing: true
+slug: what-the-flash
 ---
 
