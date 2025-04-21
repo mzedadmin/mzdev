@@ -33,12 +33,15 @@ Course Page:
   Review Average: 4.9
   Lessons:
   - Lesson Title: Editing in the Cut Page
-    Lesson Description: |-
-      To get the course started Ollie takes us through Resolve's Cut page, showing exactly how to cut fast turn-around videos with minimal effort, using a multi-camera interview project as an example.
+    Lesson Description: To get the course started Ollie takes us through Resolve's
+      Cut page, showing exactly how to cut fast turn-around videos with minimal effort,
+      using a multi-camera interview project as an example.
     free: true
   - Lesson Title: Editing in the Edit Page
-    Lesson Description: |-
-      The Edit Page supports the approach to non-linear editing that has been battle-tested by editors around the world for decades. In this lesson you will learn those techniques so you can apply them to your own editing workflows.
+    Lesson Description: The Edit Page supports the approach to non-linear editing
+      that has been battle-tested by editors around the world for decades. In this
+      lesson you will learn those techniques so you can apply them to your own editing
+      workflows.
   - Lesson Title: Managing Dailies and Edit Prep
     Lesson Description: |-
       While DaVinci Resolve is a superior editing, audio mixing, visual effects, and color grading system, it can also play a key role on set before a single edit is made.
@@ -77,8 +80,11 @@ Course Page:
 
       In this lesson, you'll explore techniques for audio editing, sound design, and final mixing, including "sweetening" your soundtrack as you apply professional equalization, dynamic controls, panning, and automation to your tracks. The goal of mixing and mastering is to balance the levels coming from each track so they sound good as a whole. Fortunately, the Fairlight page includes everything you need to make sure the levels are right on target.
   - Lesson Title: Delivering Projects with Subtitles
-    Lesson Description: |-
-      When you're ready to export a project— whether at the end of a workflow, at an intermediate point, or when generating dailies—the render settings and final output are configured in the Deliver page of DaVinci Resolve. The aim of this lesson is to shed some light on how to add, format, and include subtitles and audio submixes for your final output.
+    Lesson Description: When you're ready to export a project— whether at the end
+      of a workflow, at an intermediate point, or when generating dailies—the render
+      settings and final output are configured in the Deliver page of DaVinci Resolve.
+      The aim of this lesson is to shed some light on how to add, format, and include
+      subtitles and audio submixes for your final output.
 course_purchase: true
 layout: course
 ---
