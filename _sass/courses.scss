@@ -2,24 +2,22 @@
 
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
-  #services-1169 {
+  #courses {
     background-color: #fff;
     padding: var(--sectionPadding);
   }
 
-  #services-1169 .cs-container {
+  #courses .cs-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: auto;
-    /* changes to 1440px at large desktop */
     max-width: 51.5rem;
     width: 100%;
-    /* 48px - 64px */
     gap: 1rem;
   }
 
-  #services-1169 .cs-content {
+  #courses .cs-content {
     display: flex;
     flex-direction: column;
     /* centers content horizontally, set to flex-start to left align */
@@ -29,183 +27,59 @@
     text-align: center;
   }
 
-  #services-1169 .cs-title {
+  #courses .cs-title {
     max-width: 20ch;
   }
 
-  #services-1169 .cs-card-group {
+  #courses .cs-card-group {
     display: grid;
     align-items: stretch;
     grid-template-columns: repeat(12, 1fr);
     margin: 0;
     width: 100%;
     padding: 0;
-    /* 16px - 20px */
     gap: clamp(1rem, 2vw, 2.25rem);
   }
 
-  #services-1169 .cs-item {
-    z-index: 1;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    background-color: #f7f7f7;
-    width: 100%;
-    list-style: none;
-    text-align: left;
+  #courses .course-card-item {
     grid-column: span 12;
-    max-width: 25rem;
-    margin: 0 auto;
-    height: 100%;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* subtle grey shadow */
   }
 
-  #services-1169 .cs-item:hover .cs-picture img {
-    transform: scale(1.2);
-  }
-
-  #services-1169 .cs-item:hover .cs-h3,
-  #services-1169 .cs-item:hover .cs-link {
-    color: var(--bodyTextColor);
-  }
-
-  #services-1169 .cs-item:hover .cs-arrow {
-    filter: initial;
-  }
-
-  #services-1169 .cs-picture {
-    position: relative;
-    display: block;
-    /* 180px - 240px */
-    height: clamp(13.25rem, 24vw, 15rem);
-    width: 100%;
-    // object-fit: cover;
-    /* clips the image from overflowing parent on hover */
-    overflow: hidden;
-  }
-
-  #services-1169 .cs-picture img {
-    z-index: -1;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    transition: transform 0.65s;
-  }
-
-  #services-1169 .cs-info {
-    display: flex;
-    flex-direction: column;
-    padding: 1.5rem;
-    flex-grow: 1;
-  }
-
-  #services-1169 .cs-h3 {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    width: 100%;
-    /* prevents padding and border from affecting height and width */
-    box-sizing: border-box;
-    /* 20px - 25px */
-    font-size: clamp(1.25rem, 2.5vw, 1.5625rem);
-    line-height: 1.3em;
-    font-weight: 700;
-    color: var(--headerColor);
-    transition: background-color 0.3s;
-    text-align: inherit;
-    margin: 0 0 1rem 0;
-    transition: color 0.3s;
-  }
-
-  #services-1169 .cs-educator {
-    margin-top: -0.65rem;
-    padding-bottom: 1.75rem;
-  }
-
-  #services-1169 .cs-item-text {
-    width: 100%;
-    /* prevents padding and border from affecting height and width */
-    box-sizing: border-box;
-    font-size: clamp(0.875rem, 1.5vw, 1rem);
-    line-height: 1.5em;
-    color: var(--bodyTextColor);
-    text-align: inherit;
-    margin: 0;
-  }
-
-  #services-1169 .cs-link {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-end;
-    text-decoration: none;
-    font-size: 1rem;
-    line-height: 1.2em;
-    font-weight: 700;
-    color: #3d31db;
-    text-align: inherit;
-    margin-top: auto;
-    padding-top: 1.75rem;
-    transition: color 0.3s;
-  }
-
-  #services-1169 .cs-link:hover .cs-arrow {
-    transform: translateX(0.25rem);
-  }
-
-  #services-1169 .cs-arrow {
-    filter: grayscale(1) brightness(0);
-    display: block;
-    height: auto;
-    width: 1.25rem;
-    transition: filter 0.3s, transform 0.3s;
-  }
-
-  #services-1169 .course-card-stats {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    background-color: #b9b9b9;
-    padding: 0.5rem 1.6rem;
-    // align-items: center;
-    // margin-top: 1rem;
-  }
-
-  #services-1169 .course-card-stat {
-    font-size: 1rem;
-    color: white;
-    // padding: 0.5rem 1.8rem;
+  /* Filter container should span all columns */
+  #courses .filter-container {
+    grid-column: span 12;
   }
 }
 
-/* Tablet - 768px */
-@media only screen and (min-width: 48rem) {
-  #services-1169 .cs-container {
-    max-width: 59rem;
+/* Tablet/Wide Screens - 640px */
+@media only screen and (min-width: 40rem) {
+  #courses .cs-container {
+    max-width: 90rem;
   }
 
-  #services-1169 .cs-item {
+  #courses .course-card-item {
     grid-column: span 4;
     max-width: initial;
   }
 
-  #services-1169 .cs-picture {
+  #courses .course-card-picture {
     height: 11.25rem;
     width: 100%;
   }
 }
 
-/* Large Desktop - 1300px */
+/* Desktop - 1300px */
 @media only screen and (min-width: 81.25rem) {
-  #services-1169 .cs-container {
-    max-width: 90rem;
+  #courses .cs-container {
+    max-width: 100rem;
   }
 
-  #services-1169 .cs-picture {
-    height: 17.25rem;
+  #courses .course-card-item {
+    grid-column: span 3;
+  }
+
+  #courses .course-card-picture {
+    height: 12.25rem;
     width: 100%;
   }
 }
@@ -415,3 +289,4 @@
     justify-content: space-evenly;
   }
 }
+

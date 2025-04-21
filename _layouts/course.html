@@ -146,7 +146,7 @@ layout: default
 <!-- ============================================ -->
 
 {% if page['Course Page']['Recommended Courses'] %}
-<section id="services-1169">
+<section id="recommended-courses">
     <div class="cs-container">
         <div class="cs-content">
             <span class="cs-topper">MZed Library</span>
@@ -156,7 +156,7 @@ layout: default
                 screenwriting, lighting, color grading, and more.
             </p>
         </div>
-        <ul class="cs-card-group">
+        <ul class="course-card-group">
             {% for course_slug in page['Course Page']['Recommended Courses'] %}
                 {% assign recommended_course = site.courses | where: "slug", course_slug | first %}
                 {% if recommended_course %}
