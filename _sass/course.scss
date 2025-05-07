@@ -1222,13 +1222,13 @@ $sectionPadding: var(--sectionPadding);
 
 /*--          Pricing           - -*/
 
-#pricing-1262 {
+#plan {
   font-family: 'Calibre', Arial, sans-serif;
   color: #333;
   padding: 6rem 2rem;
   background-image: url(/assets/images/Colour@2x.webp);
 }
-#pricing-1262 .cs-container {
+#plan .cs-container {
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
@@ -1237,47 +1237,47 @@ $sectionPadding: var(--sectionPadding);
   gap: 4rem;
 }
 @media (max-width: 768px) {
-  #pricing-1262 .cs-container {
+  #plan .cs-container {
     flex-direction: column;
     gap: 2rem;
   }
 }
-#pricing-1262 .cs-container-left {
+#plan .cs-container-left {
   margin-top: 8rem;
   width: 60%;
   max-width: 450px;
   margin: auto;
 }
-#pricing-1262 .cs-container-left .cs-title,
-#pricing-1262 .cs-container-left .cs-text {
+#plan .cs-container-left .cs-title,
+#plan .cs-container-left .cs-text {
   text-align: left;
 }
-#pricing-1262 .cs-container-left .cs-text {
+#plan .cs-container-left .cs-text {
   margin: 2rem 0 3rem 0;
 }
-#pricing-1262 .cs-logo {
+#plan .cs-logo {
   max-width: 200px;
   padding: 2rem 0 0 0.5rem;
 }
-#pricing-1262 .cs-title {
+#plan .cs-title {
   font-size: 2.5rem;
   font-weight: bold;
   margin-bottom: 1rem;
   color: white;
 }
-#pricing-1262 .title-highlight {
+#plan .title-highlight {
   color: #fbb11c;
 }
-#pricing-1262 .cs-text {
+#plan .cs-text {
   font-size: 1rem;
   margin-bottom: 2rem;
   color: white;
 }
-#pricing-1262 .cs-link {
+#plan .cs-link {
   color: #ccc;
   text-decoration: none;
 }
-#pricing-1262 .cs-toggle-group {
+#plan .cs-toggle-group {
   width: 100%;
   margin: 0;
   padding: 0.75rem;
@@ -1291,33 +1291,33 @@ $sectionPadding: var(--sectionPadding);
   align-items: center;
   margin-bottom: 2rem;
 }
-#pricing-1262 .cs-toggle-group .cs-toggle-text:first-of-type {
+#plan .cs-toggle-group .cs-toggle-text:first-of-type {
   grid: 1 / span 1;
   padding: 0.3rem 1.5rem 0.3rem 0;
   font-weight: 600;
 }
-#pricing-1262 .cs-toggle-group .cs-toggle-text:last-of-type {
+#plan .cs-toggle-group .cs-toggle-text:last-of-type {
   grid: 3 / span 1;
   padding-left: 1.5rem;
   font-weight: 600;
 }
-#pricing-1262 .cs-toggle-group .cs-toggle {
+#plan .cs-toggle-group .cs-toggle {
   grid: 2 / span 1;
   height: 34px;
 }
-#pricing-1262 .cs-toggle-group .cs-toggle input {
+#plan .cs-toggle-group .cs-toggle input {
   opacity: 0;
   width: 0;
   height: 0;
 }
-#pricing-1262 .cs-toggle-group .cs-toggle .cs-toggle-slider {
+#plan .cs-toggle-group .cs-toggle .cs-toggle-slider {
   cursor: pointer;
   background-color: #5cb5e6;
   transition: 0.4s;
   border-radius: 34px;
   max-width: 62px;
 }
-#pricing-1262 .cs-toggle-group .cs-toggle .cs-toggle-slider:before {
+#plan .cs-toggle-group .cs-toggle .cs-toggle-slider:before {
   position: absolute;
   content: '';
   height: 26px;
@@ -1328,7 +1328,7 @@ $sectionPadding: var(--sectionPadding);
   transition: 0.4s;
   border-radius: 50%;
 }
-#pricing-1262 .cs-pricing-card {
+#plan .cs-pricing-card {
   display: grid;
   grid-template-columns: 1.5fr 1fr 1fr;
   background: white;
@@ -1336,44 +1336,44 @@ $sectionPadding: var(--sectionPadding);
   overflow: hidden;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-#pricing-1262 .cs-pricing-card .title-highlight {
+#plan .cs-pricing-card .title-highlight {
   color: #eb3e33;
   font-weight: 600;
   display: block;
 }
-#pricing-1262 .cs-pricing-card .cs-column {
+#plan .cs-pricing-card .cs-column {
   padding: 1rem;
   display: flex;
   flex-direction: column;
 }
 @media (max-width: 768px) {
-  #pricing-1262 .cs-pricing-card .cs-column {
+  #plan .cs-pricing-card .cs-column {
     padding: 0;
     min-width: 0;
   }
 }
-#pricing-1262 .cs-pricing-card .cs-column .cs-title {
+#plan .cs-pricing-card .cs-column .cs-title {
   color: #444;
   font-size: 1.5rem;
   font-weight: 600;
 }
-#pricing-1262 .cs-pricing-card .cs-column.cs-annual {
+#plan .cs-pricing-card .cs-column.cs-annual {
   background-color: #1a1a2e;
   color: white;
   margin-top: -1px;
 }
-#pricing-1262 .cs-pricing-card .cs-column.cs-annual .cs-title {
+#plan .cs-pricing-card .cs-column.cs-annual .cs-title {
   color: white;
 }
-#pricing-1262 .cs-pricing-card .cs-column.cs-monthly {
+#plan .cs-pricing-card .cs-column.cs-monthly {
   background-color: rgba(0, 0, 0, 0.02);
 }
-#pricing-1262 .cs-pricing-card .cs-row {
+#plan .cs-pricing-card .cs-row {
   display: contents;
   min-height: 0;
   height: auto;
 }
-#pricing-1262 .cs-pricing-card .cs-row > * {
+#plan .cs-pricing-card .cs-row > * {
   padding: 0.5rem 1rem;
   margin-top: -1px;
   display: flex;
@@ -1382,35 +1382,35 @@ $sectionPadding: var(--sectionPadding);
   justify-content: center;
   font-size: 1rem;
 }
-#pricing-1262 .cs-pricing-card .cs-row .feature.border-top {
+#plan .cs-pricing-card .cs-row .feature.border-top {
   border-top: 0.3px solid #e9e9e9;
   margin-top: 0;
 }
-#pricing-1262 .cs-pricing-card .cs-row .monthly.border-top {
+#plan .cs-pricing-card .cs-row .monthly.border-top {
   border-top: 0.5px solid #e9e9e9;
 }
-#pricing-1262 .cs-pricing-card .cs-row .annual.border-top {
+#plan .cs-pricing-card .cs-row .annual.border-top {
   border-top: 0.5px solid #333;
 }
-#pricing-1262 .cs-pricing-card .cs-row .monthly-container {
+#plan .cs-pricing-card .cs-row .monthly-container {
   background-color: #fafafa;
 }
-#pricing-1262 .cs-pricing-card .cs-row .monthly {
+#plan .cs-pricing-card .cs-row .monthly {
   background-color: #fafafa;
   margin-top: 0px;
 }
-#pricing-1262 .cs-pricing-card .cs-row .feature {
+#plan .cs-pricing-card .cs-row .feature {
   justify-content: flex-start;
   color: #666;
   padding-left: 1.5rem;
 }
-#pricing-1262 .cs-pricing-card .cs-checkmark {
+#plan .cs-pricing-card .cs-checkmark {
   color: #ff6600;
   font-weight: bold;
   font-size: 1.2rem;
   margin-right: 0.5rem;
 }
-#pricing-1262 .cs-pricing-card .cs-button {
+#plan .cs-pricing-card .cs-button {
   display: block;
   width: 100%;
   padding: 0.7rem;
@@ -1423,68 +1423,68 @@ $sectionPadding: var(--sectionPadding);
   transition: background-color 0.3s ease;
   margin-top: auto;
 }
-#pricing-1262 .cs-pricing-card .cs-button-monthly {
+#plan .cs-pricing-card .cs-button-monthly {
   background-color: white;
   color: #ff6600;
   border: 1px solid #ea3f34;
 }
-#pricing-1262 .cs-pricing-card .cs-button-monthly:hover {
+#plan .cs-pricing-card .cs-button-monthly:hover {
   background-color: #5cb5e6;
   border: 1px solid #5cb5e6;
   color: white;
 }
-#pricing-1262 .cs-pricing-card .cs-button-annual {
+#plan .cs-pricing-card .cs-button-annual {
   background-color: #ea3f34;
   color: white;
   margin-top: 2px;
 }
-#pricing-1262 .cs-pricing-card .cs-button-annual:hover {
+#plan .cs-pricing-card .cs-button-annual:hover {
   background-color: #5cb5e6;
 }
-#pricing-1262 .cs-pricing-card .feature {
+#plan .cs-pricing-card .feature {
   background-color: white;
 }
-#pricing-1262 .cs-pricing-card .annual {
+#plan .cs-pricing-card .annual {
   background-color: #1a1a2e;
   color: white;
   text-align: center;
   display: flex;
   flex-direction: column;
 }
-#pricing-1262 .cs-pricing-card .billed-annually {
+#plan .cs-pricing-card .billed-annually {
   font-size: 0.8rem;
   color: #e5dede;
   margin-top: 4px;
   font-weight: 100;
 }
-#pricing-1262 .cs-pricing-card .monthly .no {
+#plan .cs-pricing-card .monthly .no {
   margin-left: -8px;
 }
-#pricing-1262 .cs-pricing-card .price {
+#plan .cs-pricing-card .price {
   font-size: 1.2rem;
   font-weight: 600;
 }
-#pricing-1262 .cs-pricing-card .monthly.price {
+#plan .cs-pricing-card .monthly.price {
   align-self: flex-start;
 }
-#pricing-1262 .cs-toggle {
+#plan .cs-toggle {
   position: relative;
   display: inline-block;
   width: 60px;
   height: 34px;
 }
-#pricing-1262 .cs-toggle input {
+#plan .cs-toggle input {
   opacity: 0;
   width: 0;
   height: 0;
 }
-#pricing-1262 .cs-toggle input:checked + .cs-toggle-slider {
+#plan .cs-toggle input:checked + .cs-toggle-slider {
   background-color: #1a1a2e;
 }
-#pricing-1262 .cs-toggle input:focus + .cs-toggle-slider {
+#plan .cs-toggle input:focus + .cs-toggle-slider {
   box-shadow: 0 0 1px #2196f3;
 }
-#pricing-1262 .cs-toggle-slider {
+#plan .cs-toggle-slider {
   position: absolute;
   cursor: pointer;
   top: 0;
@@ -1495,7 +1495,7 @@ $sectionPadding: var(--sectionPadding);
   transition: 0.4s;
   border-radius: 34px;
 }
-#pricing-1262 .cs-toggle-slider:before {
+#plan .cs-toggle-slider:before {
   position: absolute;
   content: '';
   height: 26px;
@@ -1506,7 +1506,7 @@ $sectionPadding: var(--sectionPadding);
   transition: 0.4s;
   border-radius: 50%;
 }
-#pricing-1262 .cs-course-only {
+#plan .cs-course-only {
   display: none;
   grid-template-columns: 1.5fr 1fr;
   align-items: center;
@@ -1515,29 +1515,29 @@ $sectionPadding: var(--sectionPadding);
   text-align: center;
   overflow: hidden;
 }
-#pricing-1262 .cs-course-only .cs-title {
+#plan .cs-course-only .cs-title {
   font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 1rem;
   text-align: left;
 }
-#pricing-1262 .cs-course-only .cs-column.feature {
+#plan .cs-course-only .cs-column.feature {
   grid-column: 1 / span 2;
 }
-#pricing-1262 .cs-course-only .cs-row .monthly,
-#pricing-1262 .cs-course-only .cs-row .feature {
+#plan .cs-course-only .cs-row .monthly,
+#plan .cs-course-only .cs-row .feature {
   background-color: white;
   border-bottom: 0.5px solid #e9e9e9;
   min-height: 3rem;
   align-self: flex-end;
 }
-#pricing-1262 .cs-course-only .cs-row .feature {
+#plan .cs-course-only .cs-row .feature {
   margin-top: 0;
 }
-#pricing-1262 .cs-course-only .cs-checkmark {
+#plan .cs-course-only .cs-checkmark {
   margin-right: 0;
 }
-#pricing-1262 .cs-course-only .cs-button {
+#plan .cs-course-only .cs-button {
   background-color: #eb3e33;
   color: white;
   border: none;
@@ -1548,45 +1548,45 @@ $sectionPadding: var(--sectionPadding);
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-#pricing-1262 .cs-course-only .cs-button:hover {
+#plan .cs-course-only .cs-button:hover {
   background-color: #d62115;
 }
 @media (max-width: 768px) {
-  #pricing-1262 .cs-container-left {
+  #plan .cs-container-left {
     width: 100%;
   }
-  #pricing-1262 .cs-course-only .cs-column .cs-title {
+  #plan .cs-course-only .cs-column .cs-title {
     font-size: 1.3rem !important;
   }
-  #pricing-1262 .cs-course-only .cs-column .cs-button {
+  #plan .cs-course-only .cs-column .cs-button {
     max-width: 95%;
     margin-top: 1.5rem;
     padding: 1rem;
   }
-  #pricing-1262 .cs-pricing-card {
+  #plan .cs-pricing-card {
     overflow-x: auto;
     margin-top: -2rem;
   }
-  #pricing-1262 .cs-pricing-card .cs-course-only {
+  #plan .cs-pricing-card .cs-course-only {
     grid-template-columns: 0.5fr 1fr;
   }
-  #pricing-1262 .cs-pricing-card .feature {
+  #plan .cs-pricing-card .feature {
     grid-column-start: 1;
   }
-  #pricing-1262 .cs-pricing-card .cs-monthly {
+  #plan .cs-pricing-card .cs-monthly {
     grid-column-start: 2;
   }
-  #pricing-1262 .cs-pricing-card .cs-annual {
+  #plan .cs-pricing-card .cs-annual {
     grid-column-start: 3;
   }
-  #pricing-1262 .cs-pricing-card .cs-column .cs-title {
+  #plan .cs-pricing-card .cs-column .cs-title {
     font-size: 1rem;
     padding: 1rem 0.5rem;
   }
-  #pricing-1262 .cs-pricing-card .cs-row {
+  #plan .cs-pricing-card .cs-row {
     display: contents;
   }
-  #pricing-1262 .cs-pricing-card .cs-row > * {
+  #plan .cs-pricing-card .cs-row > * {
     padding: 0.5rem 1rem;
     margin-top: -1px;
     min-height: 0;
@@ -1594,57 +1594,57 @@ $sectionPadding: var(--sectionPadding);
     font-size: 1rem;
     display: flex;
   }
-  #pricing-1262 .cs-pricing-card .price {
+  #plan .cs-pricing-card .price {
     font-size: 1rem;
   }
-  #pricing-1262 .cs-pricing-card .cs-logo {
+  #plan .cs-pricing-card .cs-logo {
     padding: 1.5rem;
   }
-  #pricing-1262 .cs-pricing-card .cs-button {
+  #plan .cs-pricing-card .cs-button {
     margin: 0.5rem 0.3rem;
     padding: 0.4rem;
     font-size: 0.8rem;
     max-width: 90%;
   }
-  #pricing-1262 .cs-pricing-card .cs-annual .cs-button {
+  #plan .cs-pricing-card .cs-annual .cs-button {
     margin-top: 10px;
   }
 }
 @media (max-width: 768px) and (max-width: 390px) {
-  #pricing-1262 .cs-container-left .cs-toggle-group {
+  #plan .cs-container-left .cs-toggle-group {
     width: 112%;
     margin-left: -20px;
   }
 }
 @media (max-width: 768px) and (max-width: 390px) {
-  #pricing-1262 .cs-pricing-card {
+  #plan .cs-pricing-card {
     margin-left: -20px;
     margin-right: -20px;
   }
-  #pricing-1262 .cs-pricing-card .cs-row .feature {
+  #plan .cs-pricing-card .cs-row .feature {
     font-size: 0.9rem;
   }
 }
 @media only screen and (min-width: 48rem) {
-  #pricing-1262 #pricing-1262 .cs-container {
+  #plan #plan .cs-container {
     flex-direction: row;
     align-items: center;
   }
-  #pricing-1262 #pricing-1262 .cs-container-left {
+  #plan #plan .cs-container-left {
     width: 40%;
   }
-  #pricing-1262 #pricing-1262 .cs-container-right {
+  #plan #plan .cs-container-right {
     width: 60%;
   }
-  #pricing-1262 #pricing-1262 .cs-pricing-card {
+  #plan #plan .cs-pricing-card {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
 @media only screen and (min-width: 48rem) {
-  #pricing-1262 #pricing-1262 .cs-container {
+  #plan #plan .cs-container {
     max-width: 1200px;
   }
-  #pricing-1262 #pricing-1262 .cs-pricing-card {
+  #plan #plan .cs-pricing-card {
     grid-template-columns: 1.5fr 1fr 1fr;
   }
 }
@@ -1664,13 +1664,13 @@ $sectionPadding: var(--sectionPadding);
     transform: translateX(0);
   }
 }
-#pricing-1262 .cs-toggle-slider:before {
+#plan .cs-toggle-slider:before {
   animation-duration: 0.3s;
   animation-fill-mode: forwards;
 }
-#pricing-1262 .cs-toggle input:checked + .cs-toggle-slider:before {
+#plan .cs-toggle input:checked + .cs-toggle-slider:before {
   animation-name: toggleOn;
 }
-#pricing-1262 .cs-toggle input:not(:checked) + .cs-toggle-slider:before {
+#plan .cs-toggle input:not(:checked) + .cs-toggle-slider:before {
   animation-name: toggleOff;
 }

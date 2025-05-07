@@ -28,7 +28,7 @@
 <!-- Default fallback price -->
 {% endif %}
 
-<section id="pricing-1262">
+<section id="plan">
   <div class="cs-container">
     <div class="cs-container-left">
       <div id="get-started">
@@ -194,12 +194,12 @@
   </div>
 
   <script>
-    const toggle = document.querySelector('#pricing-1262 .cs-toggle input');
+    const toggle = document.querySelector('#plan .cs-toggle input');
     const subscriptionCard = document.querySelector(
-      '#pricing-1262 .cs-pricing-card:not(.cs-course-only)'
+      '#plan .cs-pricing-card:not(.cs-course-only)'
     );
-    const courseOnlyCard = document.querySelector('#pricing-1262 .cs-course-only');
-    const readyText = document.querySelector('#pricing-1262 #get-started');
+    const courseOnlyCard = document.querySelector('#plan .cs-course-only');
+    const readyText = document.querySelector('#plan #get-started');
 
     toggle.addEventListener('change', function () {
       if (this.checked) {

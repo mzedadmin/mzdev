@@ -16,7 +16,7 @@ Course Card:
   - filmmaking
 Course Page:
   Video: https://vimeo.com/491810786
-  Main Title: Take Your DaVinci Resolve Editing Skills to the Next Level
+  Main Title: Advanced Editing with Davinci Resolve
   Main Text: |-
     In this certified Blackmagic Design course, Ollie Kenchington builds on "The Definitive Guide to Davinci Resolve" to take you deeper into the fully-featured editing functions and workflow of Resolve.
 
