@@ -14,7 +14,7 @@ bio: |-
   in the UK right now. Over the last twelve years, Ollie has taught thousands of aspiring
   filmmakers as an Apple Certified Master Trainer, Adobe Certified Instructor and
   Blackmagic Certified Trainer.
-  
+
   Ollie regularly delivers masterclasses in DaVinci
   Resolve at the YouTube Space London and is the lead tutor and founder of Korro Academy,
   a Blackmagic Design Training Partner offering certified courses and exams in DaVinci
