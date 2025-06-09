@@ -225,12 +225,29 @@
     /* 12px - 20px */
     margin-right: clamp(0.75rem, 3vw, 1.25rem);
     border-radius: 50%;
-    border: 1px solid #bababa;
+    // border: 1px solid #bababa;
     display: flex;
     justify-content: center;
     align-items: center;
     /* prevents flexbox from squishing it */
     flex: none;
+
+  }
+
+  #mzed-summary-stats .lesson-icon {
+    background-color: var(--primary);
+  }
+
+  #mzed-summary-stats .courses-icon {
+    background-color: var(--secondary);
+  }
+
+  #mzed-summary-stats .educators-icon {
+    background-color: var(--primaryLight);
+  }
+
+  #mzed-summary-stats .value-icon {
+    background-color: var(--secondaryLight);
   }
 
   #mzed-summary-stats .cs-icon {

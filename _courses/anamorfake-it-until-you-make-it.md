@@ -14,10 +14,12 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: https://vimeo.com/manage/videos/749298923
-  Main Title: Achieve the Anamorphic Look Without Expensive Gear
-  Main Text: Learn to achieve the anamorphic look through lens modifications, filters,
-    and post-production techniques without expensive equipment.
+  Video: https://vimeo.com/749298923
+  Main Title: Anamorfake It Until You Make It
+  Main Text: |-
+    You want the anamorphic look but can't justify the added cost? No problem. This new course from Tito Ferradans shows you how to modify lenses and experiment with filters and post-production techniques so that you can Anamorfake It Until You Make it!
+    
+    As an exclusive bonus, MZed Pro members can get a free copy of Tito Ferradans' "Anamorfake It Until You Make It" ebook and bonus content.
   Main Image: "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-1.jpg"
   Additional Images:
   - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-2.jpg"
@@ -27,16 +29,14 @@ Course Page:
   - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: A must have for wildlife enthusiast! He is the best at explaining things!
-    Reviewer: Mark Ancheta
-  - Text: What a great course. I always wondered why Doug's video clips looked so
-      good and now I know.
-    Reviewer: Matteo Bianchi
-  - Text: Excellent course. Will sure practice what you taught at the local bird sanctuary.
+  - Text: Great info especially for the first couple episodes - learned a lot about the look of anamorphic lenses and ways of faking it to make it.
+    Reviewer: Mark K.
+  - Text: Loved it!
+    Reviewer: Peter G.
   Recommended Courses:
-  - arri-tech-talk
-  - cinematic-timelapse
-  - sony-fx6-camera-master-class
+  - anamorphic-cookbook
+  - anamorphic-cookbook-part-2
+  - art-and-science-of-lenses
   Lessons:
   - Lesson Title: Why Anamorfake It? A Cheap Option for the Anamorphic Look
     Lesson Description: How do you craft the anamorphic look without using any anamorphic

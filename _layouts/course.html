@@ -2,29 +2,50 @@
 layout: default
 ---
 
+   <!-- Load Fancybox -->
+    <link rel="stylesheet" href="/assets/css/fancybox.css"/>
+    <script src="/assets/js/fancybox.umd.js"></script>
+    <script src="/assets/js/fancybox.js"></script>
+
 <main id="main">
 <!-- ============================================ -->
-<!--                  Course Hero                 -->
+<!--              Conditional Hero                -->
 <!-- ============================================ -->
 
-<section id="video-1314">
-  <div class="cs-big-link">
-    <!--Background Image-->
-    <picture class="cs-background">
-      <source media="(min-width: 1024px)" srcset="{{ page.image | relative_url }}" />
-      <source media="(min-width: 601px)" srcset="{{ page.image | relative_url }}" />
-      <source media="(max-width: 600px)" srcset="{{ page.image | relative_url }}" />
-      <img
-        aria-hidden="true"
-        loading="lazy"
-        decoding="async"
-        src="{{ page['Course Card']['Image'] | relative_url }}"
-        alt="{{ page.title }} course image"
-        width="1920"
-        height="750"
-      />
-    </picture>
-  </div>
+<section id="mz-hero">
+  {% if page['Course Page']['Video'] %}
+    <!-- Video Hero Version -->
+    <a href="{{ page['Course Page']['Video'] }}?autoplay=1" class="cs-big-link video-link" data-fancybox data-type="iframe">
+      <!--Background Image-->
+      <picture class="cs-background">
+        <source media="(min-width: 1024px)" srcset="{{ page.hero_image }}">
+        <source media="(min-width: 601px)" srcset="{{ page.hero_image }}">
+        <source media="(max-width: 600px)" srcset="{{ page.hero_image }}">
+        <img aria-hidden="true" loading="lazy" decoding="async"
+            src="{{ page['Course Card']['Image'] }}" alt="{{ page.title }} video trailer" width="1920" height="750">
+      </picture>
+      <!--Play Icon-->
+      <picture class="cs-picture">
+        <img class="cs-link-icon" aria-hidden="true" loading="lazy" decoding="async"
+            src="/assets/icons/tax-play.svg" alt="play icon" width="48" height="48">
+      </picture>
+    </a>
+
+
+
+  {% else %}
+    <!-- Image-only Hero Version -->
+    <div class="cs-big-link image-only">
+      <!--Background Image-->
+      <picture class="cs-background">
+        <source media="(min-width: 1024px)" srcset="{{ page['Course Card']['Image'] }}">
+        <source media="(min-width: 601px)" srcset="{{ page['Course Card']['Image'] }}">
+        <source media="(max-width: 600px)" srcset="{{ page['Course Card']['Image'] }}">
+        <img aria-hidden="true" loading="lazy" decoding="async"
+            src="{{ page['Course Card']['Image'] }}" alt="{{ page.title }} cover" width="1920" height="750">
+      </picture>
+    </div>
+  {% endif %}
 </section>
 
 <!-- Course Content
@@ -99,10 +120,14 @@ layout: default
   </div>
 </section>
 
-<!-- Course Stats -->
+<!-- ============================================ -->
+<!--                Course Stats                  -->
+<!-- ============================================ -->
 {% include course_stats.html course=page %}
 
-<!-- About the Educator -->
+<!-- ============================================ -->
+<!--                 Educator                     -->
+<!-- ============================================ -->
 {% assign educator_name = page.educator | default: page['Course Card']['Educator'] %}
 {% if educator_name %}
   {% assign educator_slug = educator_name | slugify %}
@@ -117,10 +142,13 @@ layout: default
   {% endif %}
 {% endif %}
 
-<!-- Lesson Descriptions -->
+
+
+<!-- ============================================ -->
+<!--                  Lessons                     -->
+<!-- ============================================ -->
 {% include course_lessons.html course=page %}
 
-<!-- Reviews -->
 <!-- ============================================ -->
 <!--                  Reviews                     -->
 <!-- ============================================ -->
@@ -168,10 +196,14 @@ layout: default
 </section>
 {% endif %}
 
-<!-- MZed Pro Stats -->
+<!-- ============================================ -->
+<!--               MZed Pro Stats                 -->
+<!-- ============================================ -->
 {% include mzed_stats.html section=page.mzed_pro_section %}
 
-<!-- Pricing Section -->
+<!-- ============================================ -->
+<!--                  Pricing                     -->
+<!-- ============================================ -->
 {% if page.course_purchase %} {% include course_pricing.html course=page pricing=site.data.prices
 %} {% else %} {% include mzed_pricing.html pricing=site.data.prices %} {% endif %}
 </main>

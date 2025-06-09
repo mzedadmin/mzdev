@@ -28,6 +28,14 @@
     {% if page.head %} {{ page.head }} {% endif %}
   </head>
   <body>
+    <!-- temporary nav -->
+    <nav id="tempnav">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/courses/">Courses</a></li>
+      </ul>
+    </nav>
+
     <!-- Content from page or layout -->
     {{ content }}
 
@@ -35,5 +43,7 @@
     {% if page.custom_js %} {% for js_file in page.custom_js %}
     <script src="{{ js_file | relative_url }}"></script>
     {% endfor %} {% endif %}
+
+
   </body>
 </html>

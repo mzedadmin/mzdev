@@ -1,28 +1,19 @@
 <!-- ============================================ -->
-<!--                About the Educator            -->
+<!--              Meet the Educator               -->
 <!-- ============================================ -->
 
-<section id="sbs-1811">
+<section id="sbsr-599">
+    <picture class="cs-background">
+        <!--Mobile Image-->
+        <source media="(max-width: 600px)" srcset="{{ page.Image }}">
+        <!--Tablet and above Image-->
+        <source media="(min-width: 601px)" srcset="{{ page.Image }}">
+        <img loading="lazy" decoding="async" src="{{ page.Image }}" alt="room" width="960" height="796">
+    </picture>
     <div class="cs-container">
-
-        <div class="cs-image-group">
-            <!--Main Image-->
-            <picture class="cs-picture">
-                <!--Mobile Image-->
-                <source media="(max-width: 600px)"
-                    srcset="{{ page.Image }}">
-                <!--Tablet and above Image-->
-                <source media="(min-width: 601px)"
-                    srcset="{{ page.Image }}">
-                <img loading="lazy" decoding="async"
-                    src="{{ page.Image }}"
-                    alt="{{ page.name }}" width="562" height="568">
-            </picture>
-        </div>
-
         <div class="cs-content">
-            <span class="cs-topper">Meet the Instructor</span>
-            <div class="cs-title">{{ page.name }}</div>
+            <span class="cs-topper">Meet the Educator</span>
+            <h2 class="cs-title">{{ page.name }}</h2>
             {% assign bio_paragraphs = page.bio | split: "
 
 " %}
@@ -32,9 +23,10 @@
             
             {% if page.name %}
                 {% assign educator_slug = page.name | slugify %}
-                <a href="/educators/{{ educator_slug }}" class="cs-button-solid"
+            <a href="/educators/{{ educator_slug }}" class="cs-button-solid"
                     aria-label="learn more about {{ page.name }}">Learn More about {{ page.name | split: " " | first }}</a>
             {% endif %}
         </div>
     </div>
 </section>
+                                

@@ -4,7 +4,7 @@ position: 32
 Course Card:
   Title: Advanced Editing with Davinci Resolve
   Educator: Ollie Kenchington
-  Image: "/assets/images/courses/advanced-editing-with-davinci-resolve.jpg"
+  Image: "/assets/images/courses/advanced-editing-with-davinci-resolve/advanced-editing-with-davinci-resolve.jpg"
   Description: Dive deep into Resolve's advanced editing features across Cut, Edit,
     Fusion, and Fairlight pages with detailed examples and downloadable projects.
   Lessons: 10
@@ -31,6 +31,17 @@ Course Page:
   - "/assets/images/courses/advanced-editing-with-davinci-resolve/ollie-kenchington-advanced-editing-davinci-resolve-5.jpg"
   - "/assets/images/courses/advanced-editing-with-davinci-resolve/ollie-kenchington-advanced-editing-davinci-resolve-6.jpg"
   Review Average: 4.9
+  Reviews:
+  - Text: Ollie Kenchington is awesome! All the courses that he does are great, this is definitely five stars. Well constructed, well explained, well everything.
+    Reviewer: Stefan D.
+  - Text: Outstanding follow-up to the Davinci Resolve Beginner's Guide. Ollie is a clear and insightful teacher with a wealth of knowledge.
+    Reviewer: Kareen W.
+  - Text: Ollie is a clear and insightful teacher. Very pleasant to listen to even over a long period of time.
+    Reviewer: Filippo C.
+  Recommended Courses:
+  - beginners-guide-to-davinci-resolve
+  - color-correction-with-davinci-resolve
+  - mastering-color
   Lessons:
   - Lesson Title: Editing in the Cut Page
     Lesson Description: To get the course started Ollie takes us through Resolve's

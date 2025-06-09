@@ -8,15 +8,49 @@
     --primaryLight: #fbb01a;
     --secondary: #5db4e4;
     --secondaryLight: #95c456;
-    --headerColor: #1a1a1a;
+    --headerColor: #333;
     --bodyTextColor: #4e4e4e;
     --bodyTextColorWhite: #fafafa;
     /* 16px - 24px */
-    --bodyFontSize: 1rem;
+    --bodyFontSize: 1.1rem;
     --headerFontSize: clamp(2rem, 5vw, 3rem);
     /* 60px - 100px top and bottom */
     --sectionPadding: clamp(3.75rem, 7.82vw, 6.25rem) 1rem;
   }
+
+  // CalibreWeb Bold
+  @font-face {
+    font-family: 'CalibreWeb-Bold';
+    font-style: normal;
+    src: local(''),
+        url('/assets/fonts/CalibreWeb-Bold.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/assets/fonts/CalibreWeb-Bold.woff') format('woff');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+  // CalibreWeb Medium
+  @font-face {
+    font-family: 'CalibreWeb-Medium';
+    font-style: normal;
+    src: local(''),
+        url('/assets/fonts/CalibreWeb-Medium.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/assets/fonts/CalibreWeb-Medium.woff') format('woff');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+// CalibreWeb Regular
+@font-face {
+    font-family: 'CalibreWeb';
+    font-style: normal;
+    src: local(''),
+        url('/assets/fonts/CalibreWeb-Regular.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/assets/fonts/CalibreWeb-Regular.woff') format('woff');
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
   /* roboto-regular - latin */
   @font-face {
     font-family: 'Roboto';
@@ -55,7 +89,7 @@
     margin: 0;
     padding: 0;
     font-size: var(--bodyFontSize);
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'CalibreWeb', 'Roboto', Arial, Helvetica, sans-serif;
     color: var(--bodyTextColor);
     line-height: 1.5;
     background-color: #fff;
@@ -86,6 +120,8 @@
   h6 {
     margin: 0;
     color: var(--headerColor);
+    font-family: 'CalibreWeb-Bold', 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 100;
   }
   h1 {
     font-size: var(--headerFontSize);
@@ -111,12 +147,13 @@
     cursor: pointer;
   }
   .cs-topper {
+    font-family: 'CalibreWeb-Bold', 'Roboto', Arial, Helvetica, sans-serif;
     font-size: var(--topperFontSize);
     line-height: 1.2em;
     text-transform: uppercase;
     text-align: inherit;
     letter-spacing: 0.1em;
-    font-weight: 700;
+    font-weight: 600;
     color: var(--primary);
     margin-bottom: 0.25rem;
     display: block;
@@ -125,8 +162,9 @@
     color: var(--secondary);
   }
   .cs-title {
+    font-family: 'CalibreWeb-Medium', 'Roboto', Arial, Helvetica, sans-serif;
     font-size: var(--headerFontSize);
-    font-weight: 900;
+    font-weight: 600;
     line-height: 1.2em;
     text-align: inherit;
     max-width: 43.75rem;
@@ -183,4 +221,38 @@
     opacity: 0;
     z-index: -1111111;
   }
+}
+
+// Temporary Navbar
+
+#tempnav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3rem;
+  background-color: #666;
+  z-index: 9999;
+}
+
+#tempnav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+  // padding: 1rem 1rem;
+}
+
+#tempnav a:hover {
+  // background-color: var(--secondary);
+}
+
+#tempnav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#tempnav li {
+  display: inline-block;
+  margin: 1rem;
 }
