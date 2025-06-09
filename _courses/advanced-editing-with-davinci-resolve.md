@@ -60,7 +60,7 @@ Course Page:
     Lesson Description: |-
       While DaVinci Resolve is a superior editing, audio mixing, visual effects, and color grading system, it can also play a key role on set before a single edit is made.
 
-      In this lesson, you'll focus on some of the incredibly owerful yet lesser-known, and often overlooked, Resolve functions that will help during production as you organize and optimize high-resolution, camera-original media, and generally prepare everything for your edit.
+      In this lesson, you'll focus on some of the incredibly powerful yet lesser-known, and often overlooked, Resolve functions that will help during production as you organize and optimize high-resolution, camera-original media, and generally prepare everything for your edit.
   - Lesson Title: Cutting a Dialogue Scene
     Lesson Description: |-
       Editing a dialogue scene is often done by establishing the location and cutting between shots as they would play out in real time. Commonly known as continuity editing, this technique is centered around cutting between two (or more) shots, alternating back-and-forth between each character as their dialogue and reactions warrant.
