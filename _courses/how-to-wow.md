@@ -1,6 +1,6 @@
 ---
 title: How to Wow
-position: 46
+position: 47
 Course Card:
   Title: How to Wow
   Educator: Jerry Ghionis

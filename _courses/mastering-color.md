@@ -1,6 +1,6 @@
 ---
 title: Mastering Color
-position: 47
+position: 48
 Course Card:
   Title: Mastering Color
   Educator: Ollie Kenchington

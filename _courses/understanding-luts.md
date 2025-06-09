@@ -1,6 +1,6 @@
 ---
 title: 'Understanding LUTs: Theory and Application'
-position: 52
+position: 53
 Course Card:
   Title: 'Understanding LUTs: Theory and Application'
   Educator: AbelCine Team

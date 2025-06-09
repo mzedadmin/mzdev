@@ -1,6 +1,6 @@
 ---
 title: Certified Online Training for Lighting Systems
-position: 37
+position: 38
 Course Card:
   Title: Certified Online Training for Lighting Systems
   Educator: ARRI Academy

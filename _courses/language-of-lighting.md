@@ -1,6 +1,6 @@
 ---
 title: The Language of Lighting
-position: 10
+position: 11
 Course Card:
   Title: The Language of Lighting
   Educator: Tal Lazar
