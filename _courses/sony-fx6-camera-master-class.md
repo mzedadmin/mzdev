@@ -1,6 +1,6 @@
 ---
 title: Doug Jensen's Sony FX6 Camera Master Class
-position: 20
+position: 21
 Course Card:
   Title: Doug Jensen's Sony FX6 Camera Master Class
   Educator: Doug Jensen
