@@ -1,6 +1,6 @@
 ---
 title: Starting a Youtube Channel
-position: 38
+position: 39
 Course Card:
   Title: Starting a Youtube Channel
   Educator: Kitty Peters
