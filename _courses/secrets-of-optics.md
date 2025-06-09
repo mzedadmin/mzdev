@@ -1,6 +1,6 @@
 ---
 title: The Secrets of Optics
-position: 2
+position: 3
 Course Card:
   Title: The Secrets of Optics
   Educator: Mitch Gross

@@ -1,6 +1,6 @@
 ---
 title: The Art & Science of Lenses
-position: 13
+position: 14
 Course Card:
   Title: The Art & Science of Lenses
   Educator: Tal Lazar
