@@ -1,6 +1,6 @@
 ---
 title: Large Format Cinematography with James Laxton ASC
-position: 41
+position: 42
 Course Card:
   Title: Large Format Cinematography with James Laxton ASC
   Educator: ARRI Academy

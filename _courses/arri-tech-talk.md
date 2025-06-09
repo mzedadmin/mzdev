@@ -1,6 +1,6 @@
 ---
 title: ARRI Tech Talk
-position: 51
+position: 9
 Course Card:
   Title: ARRI Tech Talk
   Educator: ARRI Academy

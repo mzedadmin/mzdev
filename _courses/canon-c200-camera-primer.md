@@ -1,6 +1,6 @@
 ---
 title: Canon C200 Camera Primer
-position: 46
+position: 47
 Course Card:
   Title: Canon C200 Camera Primer
   Educator: Matthew Allard ACS
