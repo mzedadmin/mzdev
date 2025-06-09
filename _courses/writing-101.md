@@ -1,6 +1,6 @@
 ---
 title: Writing 101
-position: 50
+position: 51
 Course Card:
   Title: Writing 101
   Educator: Seth Worley

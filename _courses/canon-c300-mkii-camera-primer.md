@@ -1,6 +1,6 @@
 ---
 title: Canon C300 MkII Camera Primer
-position: 51
+position: 52
 Course Card:
   Title: Canon C300 MkII Camera Primer
   Educator: AbelCine Team

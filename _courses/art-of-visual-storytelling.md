@@ -1,6 +1,6 @@
 ---
 title: The Art of Visual Storytelling
-position: 58
+position: 12
 Course Card:
   Title: The Art of Visual Storytelling
   Educator: Alex Buono

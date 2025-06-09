@@ -1,6 +1,6 @@
 ---
 title: Certified Online Training for Camera Systems
-position: 18
+position: 19
 Course Card:
   Title: Certified Online Training for Camera Systems
   Educator: ARRI Academy

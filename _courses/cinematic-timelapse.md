@@ -1,6 +1,6 @@
 ---
 title: Cinematic Timelapse
-position: 27
+position: 28
 Course Card:
   Title: Cinematic Timelapse
   Educator: Drew Geraci

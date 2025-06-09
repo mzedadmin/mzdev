@@ -1,6 +1,6 @@
 ---
 title: Panasonic EVA1 Camera Primer
-position: 45
+position: 46
 Course Card:
   Title: Panasonic EVA1 Camera Primer
   Educator: AbelCine Team

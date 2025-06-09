@@ -1,6 +1,6 @@
 ---
 title: Directing Motion
-position: 32
+position: 33
 Course Card:
   Title: Directing Motion
   Educator: Vincent Laforet

@@ -1,6 +1,6 @@
 ---
 title: Cinema Sound
-position: 56
+position: 57
 Course Card:
   Title: Cinema Sound
   Educator: Mark Edward Lewis
