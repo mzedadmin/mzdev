@@ -32,11 +32,14 @@ Course Page:
   - "/assets/images/courses/advanced-editing-with-davinci-resolve/ollie-kenchington-advanced-editing-davinci-resolve-6.jpg"
   Review Average: 4.9
   Reviews:
-  - Text: Ollie Kenchington is awesome! All the courses that he does are great, this is definitely five stars. Well constructed, well explained, well everything.
+  - Text: Ollie Kenchington is awesome! All the courses that he does are great, this
+      is definitely five stars. Well constructed, well explained, well everything.
     Reviewer: Stefan D.
-  - Text: Outstanding follow-up to the Davinci Resolve Beginner's Guide. Ollie is a clear and insightful teacher with a wealth of knowledge.
+  - Text: Outstanding follow-up to the Davinci Resolve Beginner's Guide. Ollie is
+      a clear and insightful teacher with a wealth of knowledge.
     Reviewer: Kareen W.
-  - Text: Ollie is a clear and insightful teacher. Very pleasant to listen to even over a long period of time.
+  - Text: Ollie is a clear and insightful teacher. Very pleasant to listen to even
+      over a long period of time.
     Reviewer: Filippo C.
   Recommended Courses:
   - beginners-guide-to-davinci-resolve

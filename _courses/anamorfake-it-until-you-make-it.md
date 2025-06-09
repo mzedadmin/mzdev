@@ -18,7 +18,7 @@ Course Page:
   Main Title: Anamorfake It Until You Make It
   Main Text: |-
     You want the anamorphic look but can't justify the added cost? No problem. This new course from Tito Ferradans shows you how to modify lenses and experiment with filters and post-production techniques so that you can Anamorfake It Until You Make it!
-    
+
     As an exclusive bonus, MZed Pro members can get a free copy of Tito Ferradans' "Anamorfake It Until You Make It" ebook and bonus content.
   Main Image: "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-1.jpg"
   Additional Images:
@@ -29,7 +29,8 @@ Course Page:
   - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: Great info especially for the first couple episodes - learned a lot about the look of anamorphic lenses and ways of faking it to make it.
+  - Text: Great info especially for the first couple episodes - learned a lot about
+      the look of anamorphic lenses and ways of faking it to make it.
     Reviewer: Mark K.
   - Text: Loved it!
     Reviewer: Peter G.
