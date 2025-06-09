@@ -1,6 +1,6 @@
 ---
 title: Filmmaking for Photographers
-position: 41
+position: 42
 Course Card:
   Title: Filmmaking for Photographers
   Educator: Philip Bloom

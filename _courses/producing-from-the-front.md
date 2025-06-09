@@ -1,6 +1,6 @@
 ---
 title: Producing from the Front
-position: 34
+position: 35
 Course Card:
   Title: Producing from the Front
   Educator: Graham Ehlers Sheldon

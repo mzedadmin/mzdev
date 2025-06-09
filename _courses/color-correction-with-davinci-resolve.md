@@ -1,6 +1,6 @@
 ---
 title: Color Correction with DaVinci Resolve
-position: 38
+position: 39
 layout: course
 educator: Ollie Kenchington
 image: "/assets/images/courses/color-correction-with-davinci-resolve.jpg"

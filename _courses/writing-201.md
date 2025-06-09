@@ -1,6 +1,6 @@
 ---
 title: Writing 201
-position: 47
+position: 48
 layout: course
 educator: Seth Worley
 image: "/assets/images/courses/writing-201.jpg"

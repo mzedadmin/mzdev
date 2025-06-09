@@ -1,6 +1,6 @@
 ---
 title: Speed Editing in Final Cut Pro with Dave Maze
-position: 31
+position: 32
 layout: course
 educator: Dave Maze
 image: "/assets/images/courses/speed-editing-final-cut-pro.jpg"
