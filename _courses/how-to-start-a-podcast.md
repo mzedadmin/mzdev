@@ -1,6 +1,6 @@
 ---
 title: How to Start a Podcast
-position: 23
+position: 24
 layout: course
 educator: Latasha James
 image: "/assets/images/courses/how-to-start-a-podcast.jpg"

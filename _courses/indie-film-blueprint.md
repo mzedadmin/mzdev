@@ -1,6 +1,6 @@
 ---
 title: The Indie Film Blueprint
-position: 14
+position: 15
 layout: course
 educator: Rubidium Wu
 image: "/assets/images/courses/indie-film-blueprint.jpg"

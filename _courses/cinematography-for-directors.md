@@ -1,6 +1,6 @@
 ---
 title: Cinematography for Directors
-position: 21
+position: 22
 Course Card:
   Title: Cinematography for Directors
   Educator: Tal Lazar
