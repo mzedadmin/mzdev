@@ -1,6 +1,6 @@
 ---
 title: Advanced Editing with Davinci Resolve
-position: 32
+position: 0
 Course Card:
   Title: Advanced Editing with Davinci Resolve
   Educator: Ollie Kenchington

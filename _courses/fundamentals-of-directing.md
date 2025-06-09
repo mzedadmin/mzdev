@@ -1,6 +1,6 @@
 ---
 title: Fundamentals of Directing
-position: 27
+position: 28
 Course Card:
   Title: Fundamentals of Directing
   Educator: International Film Institute of NY

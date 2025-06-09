@@ -1,6 +1,6 @@
 ---
 title: Adventure Filmmaking with Russ Malkin
-position: 22
+position: 23
 Course Card:
   Title: Adventure Filmmaking with Russ Malkin
   Educator: Russ Malkin

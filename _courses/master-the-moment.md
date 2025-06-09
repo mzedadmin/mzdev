@@ -1,6 +1,6 @@
 ---
 title: Master the Moment
-position: 1
+position: 2
 Course Card:
   Title: Master the Moment
   Educator: Ray Roman

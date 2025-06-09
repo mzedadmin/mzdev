@@ -1,6 +1,6 @@
 ---
 title: Learn Everything in Premiere Pro
-position: 24
+position: 25
 Course Card:
   Title: Learn Everything in Premiere Pro
   Educator: Digby Hogan
