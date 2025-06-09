@@ -1,6 +1,6 @@
 ---
 title: Anamorphic Cookbook
-position: 6
+position: 3
 Course Card:
   Title: Anamorphic Cookbook
   Educator: Tito Ferradans

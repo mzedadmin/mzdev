@@ -1,6 +1,6 @@
 ---
 title: Canon C500 MkII Camera Primer
-position: 12
+position: 13
 Course Card:
   Title: Canon C500 MkII Camera Primer
   Educator: Jem Schofield
