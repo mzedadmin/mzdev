@@ -1,6 +1,6 @@
 ---
 title: The Beginner's Guide to DaVinci Resolve 18.5
-position: 17
+position: 18
 Course Card:
   Title: The Beginner's Guide to DaVinci Resolve 18.5
   Educator: Ollie Kenchington

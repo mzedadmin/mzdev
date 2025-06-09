@@ -1,6 +1,6 @@
 ---
 title: Canon R5C Ultimate Video Manual
-position: 9
+position: 10
 Course Card:
   Title: Canon R5C Ultimate Video Manual
   Educator: Ollie Kenchington
