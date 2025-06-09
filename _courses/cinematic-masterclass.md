@@ -1,6 +1,6 @@
 ---
 title: Cinematic Masterclass
-position: 16
+position: 18
 Course Card:
   Title: Cinematic Masterclass
   Educator: Philip Bloom
