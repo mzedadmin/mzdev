@@ -1,6 +1,6 @@
 ---
 title: The Art & Technique of Film Editing
-position: 33
+position: 34
 Course Card:
   Title: The Art & Technique of Film Editing
   Educator: Tom Cross

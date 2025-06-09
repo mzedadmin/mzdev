@@ -1,6 +1,6 @@
 ---
 title: Building a Pitch Deck
-position: 24
+position: 25
 Course Card:
   Title: Building a Pitch Deck
   Educator: Lesley Powers

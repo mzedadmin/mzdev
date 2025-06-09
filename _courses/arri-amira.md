@@ -1,6 +1,6 @@
 ---
 title: ARRI Amira Camera Primer
-position: 41
+position: 6
 Course Card:
   Title: ARRI Amira Camera Primer
   Educator: AbelCine Team
