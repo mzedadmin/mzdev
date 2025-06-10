@@ -1,7 +1,7 @@
 ---
 title: Camera Technology Specialists
 position: 16
-name: AbelCine Team
+name: AbelCine Education Team
 bio: |-
   One of the world's leading providers to the cinema and filmmaking industry, AbelCine offers a wide range of services including sales, rental, service and education. For thirty years the company has been providing the highest quality customer service and support, continually adapting to meet the evolving needs of the modern filmmaker.
 

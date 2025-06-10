@@ -3,7 +3,7 @@ title: ARRI Amira Camera Primer
 position: 6
 Course Card:
   Title: ARRI Amira Camera Primer
-  Educator: AbelCine Team
+  Educator: AbelCine Education Team
   Image: "/assets/images/courses/arri-amira/arri-amira.jpg"
   Description: Learn to set up and operate the ARRI Amira camera system, including
     menu navigation, audio, monitoring, LUTs, and post-production workflow.

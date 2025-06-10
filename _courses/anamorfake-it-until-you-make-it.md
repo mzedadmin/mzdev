@@ -4,7 +4,7 @@ position: 2
 Course Card:
   Title: Anamorfake It Until You Make It
   Educator: Tito Ferradans
-  Image: "/assets/images/courses/anamorfake-it-until-you-make-it.jpg"
+  Image: "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it.jpg"
   Description: Learn to achieve the anamorphic look through lens modifications, filters,
     and post-production techniques without expensive equipment.
   Lessons: 10
@@ -20,13 +20,13 @@ Course Page:
     You want the anamorphic look but can't justify the added cost? No problem. This new course from Tito Ferradans shows you how to modify lenses and experiment with filters and post-production techniques so that you can Anamorfake It Until You Make it!
 
     As an exclusive bonus, MZed Pro members can get a free copy of Tito Ferradans' "Anamorfake It Until You Make It" ebook and bonus content.
-  Main Image: "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-1.jpg"
+  Main Image: "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it-1.jpg"
   Additional Images:
-  - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-2.jpg"
-  - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-3.jpg"
-  - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-4.jpg"
-  - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-5.jpg"
-  - "/assets/images/courses/anamorfake-it-until-you-make-it/tito-ferradans-anamorfake-it-until-you-make-it-6.jpg"
+  - "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it-2.jpg"
+  - "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it-3.jpg"
+  - "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it-4.jpg"
+  - "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it-5.jpg"
+  - "/assets/images/courses/anamorfake-it-until-you-make-it/anamorfake-it-until-you-make-it-6.jpg"
   Review Average: 4.6
   Reviews:
   - Text: Great info especially for the first couple episodes - learned a lot about

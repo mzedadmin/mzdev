@@ -15,16 +15,21 @@ Course Card:
   - lighting
   - filmmaking
 Course Page:
-  Video: 
-  Main Title: ARRI Holiday Special Master Class
+  Video: https://vimeo.com/378428990
+  Main Title: ARRI Christmas Master Class with Julio Macat ASC
   Main Text: In this master class from Camerimage 2019, acclaimed cinematographer
     Julio Macat ASC (Home Alone, Wedding Crashers) is joined by 1st AC E. Gunnar Mortensen
     (The Morning Show, Transparent), DIT Arthur To (The Revenant, Game of Thrones)
     and TRINITY operator Charlie Rizek (1917) to create a series of scenes showcasing
     the holiday spirit, demonstrating the roles and workflow of a professional film
     set.
-  Main Image: "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-main.jpg"
+  Main Image: "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-1.jpg"
   Additional Images: 
+  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-2.jpg"
+  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-3.jpg"
+  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-4.jpg" 
+  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-5.jpg"
+  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-6.jpg"
   Review Average: 4.7
   Reviews:
   - Text: A great masterclass, especially the part about the four characteristics
@@ -46,39 +51,54 @@ Course Page:
       like a college student learning theory from a PhD. It was very practical and
       I enjoyed it very much, highly recommend.
     Reviewer: German D.
+  Recommended Courses:
+  - arri-lighting-systems-control
+  - large-format-cinematography-with-james-laxton-asc
+  - certified-online-training-for-camera-systems
   Lessons:
-  - Lesson Title: Camera Overview & Features
-    Lesson Description: In this opening module, AbelCine camera specialist Megan Donnelly
-      introduces us to the ARRI Amira and gives an overview of the main specifications
-      and features of the camera.
+  - Lesson Title: Interview with Julio Macat ASC
+    Lesson Description: As we begin the masterclass we meet Julio Macat ASC, who shares
+      stories from production of his first film, "Home Alone" as well as his latest
+      film, "After the Wedding".
     free: true
-  - Lesson Title: External Controls and Buttons
-    Lesson Description: In this module we look at the external buttons, I/O ports
-      and controls of the camera and how they are used, as well as the EVF and Monitor,
-      explaining how each is used to access the camera controls.
-  - Lesson Title: Audio and Timecode
-    Lesson Description: In this module Megan breaks down the Amira's audio features
-      and how to use timecode to maintain consistency in multi-camera shoots or if
-      using an external sound recorder.
-  - Lesson Title: Setting up the Camera
-    Lesson Description: Here Megan identifies the five key parameters for any project
-      and how to set them up on the Amira.
-  - Lesson Title: Log, Raw and REC709
-    Lesson Description: In this lesson Megan starts by explaining how the camera captures
-      an image, to then discuss the relationship between RAW and Log and how it relates
-      to the Amira camera system.
-  - Lesson Title: Looks and LUTs
-    Lesson Description: Continuing from the last module, we explore the difference
-      between Looks and LUTs in respect to the Amira and how they can be used both
-      functionally and creatively throughout production and post-production.
-  - Lesson Title: Exposure Dynamics
-    Lesson Description: Here Megan discusses ARRI Log-C and how to correctly set color
-      space to maximise exposure latitude for your ARRI Amira resulting in maximum
-      detail in your image.
-  - Lesson Title: Post Production
-    Lesson Description: In the course's final module Megan briefly shows us post-production
-      basics for the Amira, ensuring that data is verified when offloaded. She then
-      dives into DaVinci Resolve and Premiere Pro, showing how to work with the footage.
+  - Lesson Title: Interview with E. Gunnar Mortensen (1st AC)
+    Lesson Description: Next we meet E. Gunnar Mortensen, a First Assistant Camera
+      Operator from Los Angeles. "Gunnar" talks us through the role of a 1st AC on
+      a film or major TV production set, his responsibilities, and how he got into
+      the industry.
+  - Lesson Title: Interview with Arthur To (DIT)
+    Lesson Description: Continuing to introduce the masterclass participants, we have
+      the opportunity to hear from Arthur To, a Digital Imaging Technician. He shares
+      his experiences on set and the evolving role of the DIT, including his work
+      on The Revenant with Emmanuel Lubezki AMC ASC.
+  - Lesson Title: Night Interior
+    Lesson Description: As we commence the practical elements of the masterclass,
+      Julio walks us through his process for lighting a night interior scene as well
+      as some tricks and tips for a holiday theme.
+  - Lesson Title: Interview with Charlie Rizek (TRINITY Operator)
+    Lesson Description: Before continuing the practical portion of the masterclass
+      we have the opportunity to hear from Charlie Rizek, a Steadicam and TRINITY
+      operator who worked with Roger Deakins CBE, BSC, ASC on the film 1917. Charlie
+      demonstrates the TRINITY rig and shows how it can produce a wide range of shots,
+      including mimicking a locked-off tripod through and even a techno-crane.
+  - Lesson Title: Creating Emotion with Camera Movement
+    Lesson Description: Here Julio directs a Christmas-themed scene that uses camera
+      motion to add dynamism and emotion, tying together a number of story elements
+      into one shot.
+  - Lesson Title: Lighting a Scene with One Source
+    Lesson Description: In this lesson, Julio shares a technique taught to him by
+      John Alcott BSC (Barry Lyndon), which Julio calls the "coolest trick" he's learned
+      in his career. He then demonstrates a unique approach to pacing camera pans
+      as an operator.
+  - Lesson Title: The Four Personality Traits of a Cinematographer
+    Lesson Description: In the final lesson of the masterclass, Julio deconstructs
+      the personality traits of a successful cinematographer and offers inspirational
+      advice for filmmakers looking to build a successful and meaningful career in
+      the film industry.
+  - Lesson Title: Bonus Module - After the Wedding Interview
+    Lesson Description: In this bonus interview, Julio Macat ASC talks about his experiences
+      shooting "After the Wedding" with the ARRI ALEXA 65.
+
 course_purchase: true
 layout: course
 ---

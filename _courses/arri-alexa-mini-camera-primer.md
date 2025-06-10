@@ -3,7 +3,7 @@ title: ARRI Alexa Mini Camera Primer
 position: 5
 Course Card:
   Title: ARRI Alexa Mini Camera Primer
-  Educator: AbelCine Team
+  Educator: AbelCine Education Team
   Image: "/assets/images/courses/arri-alexa-mini-camera-primer/arri-alexa-mini-camera-primer.jpg"
   Description: Master the ARRI Alexa Mini with this 90-minute course covering setup,
     operation, menus, audio, monitoring, and ARRIRaw workflows.
