@@ -24,10 +24,10 @@ Course Page:
     the holiday spirit, demonstrating the roles and workflow of a professional film
     set.
   Main Image: "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-1.jpg"
-  Additional Images: 
+  Additional Images:
   - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-2.jpg"
   - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-3.jpg"
-  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-4.jpg" 
+  - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-4.jpg"
   - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-5.jpg"
   - "/assets/images/courses/arri-christmas-master-class-with-julio-macat-asc/arri-christmas-master-class-with-julio-macat-asc-6.jpg"
   Review Average: 4.7
@@ -98,7 +98,6 @@ Course Page:
   - Lesson Title: Bonus Module - After the Wedding Interview
     Lesson Description: In this bonus interview, Julio Macat ASC talks about his experiences
       shooting "After the Wedding" with the ARRI ALEXA 65.
-
 course_purchase: true
 layout: course
 ---
