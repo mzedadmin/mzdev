@@ -18,12 +18,18 @@ Course Card:
 Course Page:
   Video: 
   Main Title: Canon R5C Ultimate Video Manual
-  Main Text: |-
-    In this ‘Ultimate Video Manual’ for the Canon EOS R5 C, professional filmmaker Ollie Kenchington drills down in to the video functionality of this exciting 8K hybrid camera. Since shooting Canon UK’s launch film for the R5 C in December 2021, Ollie has spent several years now using the camera on his productions. 
-    
-    Drawing on these experiences, he has designed a course that quickly shed’s light on all the main functions for shooting video successfully with the R5 C. Moreover, in his characteristically detailed yet accessible style, Ollie even takes the time to explain higher level concepts around shutter angle, log gammas and exposure assistance tools, before ending the course with one of the most warts and all break downs of 180 VR we’ve ever seen!
+  Main Text: "In this ‘Ultimate Video Manual’ for the Canon EOS R5 C, professional
+    filmmaker Ollie Kenchington drills down in to the video functionality of this
+    exciting 8K hybrid camera. Since shooting Canon UK’s launch film for the R5 C
+    in December 2021, Ollie has spent several years now using the camera on his productions.
+    \n\nDrawing on these experiences, he has designed a course that quickly shed’s
+    light on all the main functions for shooting video successfully with the R5 C.
+    Moreover, in his characteristically detailed yet accessible style, Ollie even
+    takes the time to explain higher level concepts around shutter angle, log gammas
+    and exposure assistance tools, before ending the course with one of the most warts
+    and all break downs of 180 VR we’ve ever seen!"
   Main Image: "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-1.jpg"
-  Additional Images: 
+  Additional Images:
   - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-2.jpg"
   - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-3.jpg"
   - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-4.jpg"

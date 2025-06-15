@@ -20,9 +20,9 @@ Course Page:
     a memorable pitch deck for your Film/TV project. Pitch decks are a niche that
     Powers describes as a digital vision board. The collaboration between graphic
     designer and creator is vital - entrusting someone to give life to your story
-    is no small feat, and one Powers takes very seriously. In this course you'll
-    learn everything you need to know about how to make your own pitch deck, or work
-    with a designer to create a visual presentation that sells your project.
+    is no small feat, and one Powers takes very seriously. In this course you'll learn
+    everything you need to know about how to make your own pitch deck, or work with
+    a designer to create a visual presentation that sells your project.
   Main Image: "/assets/images/courses/building-a-pitch-deck/building-a-pitch-deck-1.jpg"
   Additional Images:
   - "/assets/images/courses/building-a-pitch-deck/building-a-pitch-deck-2.jpg"
