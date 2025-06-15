@@ -4,7 +4,7 @@ position: 26
 Course Card:
   Title: Canon R5C Ultimate Video Manual
   Educator: Ollie Kenchington
-  Image: "/assets/images/courses/Canon-R5C-ultimate-video-manual.jpg"
+  Image: "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual.jpg"
   Description: Professional filmmaker Ollie Kenchington explores the video capabilities
     of the Canon R5C, sharing insights from his experience shooting Canon's launch
     film.
@@ -17,12 +17,18 @@ Course Card:
   - visual-storytelling
 Course Page:
   Video: 
-  Main Title: Master the Canon R5C for Professional Video
-  Main Text: Professional filmmaker Ollie Kenchington explores the video capabilities
-    of the Canon R5C, sharing insights from his experience shooting Canon's launch
-    film.
-  Main Image: "/assets/images/courses/Canon-R5C-ultimate-video-manual/canon-r5c-ultimate-video-manual-main.jpg"
+  Main Title: Canon R5C Ultimate Video Manual
+  Main Text: |-
+    In this ‘Ultimate Video Manual’ for the Canon EOS R5 C, professional filmmaker Ollie Kenchington drills down in to the video functionality of this exciting 8K hybrid camera. Since shooting Canon UK’s launch film for the R5 C in December 2021, Ollie has spent several years now using the camera on his productions. 
+    
+    Drawing on these experiences, he has designed a course that quickly shed’s light on all the main functions for shooting video successfully with the R5 C. Moreover, in his characteristically detailed yet accessible style, Ollie even takes the time to explain higher level concepts around shutter angle, log gammas and exposure assistance tools, before ending the course with one of the most warts and all break downs of 180 VR we’ve ever seen!
+  Main Image: "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-1.jpg"
   Additional Images: 
+  - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-2.jpg"
+  - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-3.jpg"
+  - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-4.jpg"
+  - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-5.jpg"
+  - "/assets/images/courses/canon-r5c-ultimate-video-manual/canon-r5c-ultimate-video-manual-6.jpg"
   Review Average: 4.75
   Reviews:
   - Text: Great course, thoroughly enjoyed it. Ollie as usual was good, looking forward
@@ -35,7 +41,7 @@ Course Page:
   - Text: Perfect for anyone looking to master the R5C for video work. The 180 VR
       section was particularly helpful.
     Reviewer: Shaun M.
-  Courses Recommended:
+  Recommended Courses:
   - canon-c500-mkii-camera-primer
   - arri-alexa-mini-camera-primer
   - canon-c200

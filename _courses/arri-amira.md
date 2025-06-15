@@ -15,9 +15,8 @@ Course Card:
   - filmmaking
 Course Page:
   Video: https://vimeo.com/313301651
-  Main Title: Complete Guide to the ARRI Amira
-  Main Text: Learn to set up and operate the ARRI Amira camera system, including menu
-    navigation, audio, monitoring, LUTs, and post-production workflow.
+  Main Title: ARRI Amira Camera Primer
+  Main Text: In this comprehensive camera primer, join AbelCine Camera Technology Specialist Megan Donnelly to discover how to setup and operate the ARRI Amira digital camera system. This course teaches you exactly how to set up, configure and operate the camera, including the operation of the camera’s body controls, the menu system, working with audio, monitoring waveforms, working with LUTs and ARRI Looks and finally on to post production and how to understand and handle ARRIRaw files.
   Main Image: "/assets/images/courses/arri-amira/arri-amira-1.jpg"
   Additional Images:
   - "/assets/images/courses/arri-amira/arri-amira-2.jpg"

@@ -15,14 +15,14 @@ Course Card:
 Course Page:
   Video: https://vimeo.com/767497908
   Main Title: Building a Pitch Deck
-  Main Text: "When pitching your project, often you only have seconds to grab someone's
+  Main Text: When pitching your project, often you only have seconds to grab someone's
     attention. Join Lesley Powers for this rare opportunity to learn how to build
-    a memorable pitch deck for your Film/TV project. \n\nPitch decks are a niche that
+    a memorable pitch deck for your Film/TV project. Pitch decks are a niche that
     Powers describes as a digital vision board. The collaboration between graphic
     designer and creator is vital - entrusting someone to give life to your story
-    is no small feat, and one Powers takes very seriously. \n\nIn this course you'll
+    is no small feat, and one Powers takes very seriously. In this course you'll
     learn everything you need to know about how to make your own pitch deck, or work
-    with a designer to create a visual presentation that sells your project."
+    with a designer to create a visual presentation that sells your project.
   Main Image: "/assets/images/courses/building-a-pitch-deck/building-a-pitch-deck-1.jpg"
   Additional Images:
   - "/assets/images/courses/building-a-pitch-deck/building-a-pitch-deck-2.jpg"
