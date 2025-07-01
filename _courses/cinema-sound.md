@@ -29,12 +29,36 @@ Course Page:
   - "/assets/images/courses/cinema-sound/cinema-sound-6.jpg"
   Review Average: 4.95
   Reviews:
-  - Text: Of all the courses offered on MZed this was the most rewarding! I wish this was the first course I took, but as many others might have done, I jumped right into Directing Motion & lighting but please, take it from me... someone who has now had the honor of watching most of what MZed has to offer as a Pro member, please do yourself a favor and start with Cinema Sound. Major eye (and ear) opening experience. Best and most complete course offered and worth a subscription re-new because re-watching and referencing this course will make you a professional in the field. Now as Mark says, "EXPORT< HAVE A BEER< TAKE A NAP". Thank you Cinema Sound team!
+  - Text: Of all the courses offered on MZed this was the most rewarding! I wish this
+      was the first course I took, but as many others might have done, I jumped right
+      into Directing Motion & lighting but please, take it from me... someone who
+      has now had the honor of watching most of what MZed has to offer as a Pro member,
+      please do yourself a favor and start with Cinema Sound. Major eye (and ear)
+      opening experience. Best and most complete course offered and worth a subscription
+      re-new because re-watching and referencing this course will make you a professional
+      in the field. Now as Mark says, "EXPORT< HAVE A BEER< TAKE A NAP". Thank you
+      Cinema Sound team!
     Reviewer: Norman Weichel
-  - Text: WOW! Mark takes what could have been some really dry material, and with his personality and expertise, made learning it fun, informative and interesting. He takes you the through the step-by-step process of sound. Worth several viewings. It's like liquid knowledge being poured into your brain. Don't procrastinate like I did though and cram through it in the last few weeks of your subscription. Now I feel like that scene at the end of Raider's of the Lost Ark. You know, one of those guys who looked at the Ark and then their brains melted. Yeah. So pace yourself. Anyway, this course is "SUPER DOPE"
+  - Text: WOW! Mark takes what could have been some really dry material, and with
+      his personality and expertise, made learning it fun, informative and interesting.
+      He takes you the through the step-by-step process of sound. Worth several viewings.
+      It's like liquid knowledge being poured into your brain. Don't procrastinate
+      like I did though and cram through it in the last few weeks of your subscription.
+      Now I feel like that scene at the end of Raider's of the Lost Ark. You know,
+      one of those guys who looked at the Ark and then their brains melted. Yeah.
+      So pace yourself. Anyway, this course is "SUPER DOPE"
     Reviewer: Greg M
-  - Text: |-
-      This is the ONLY course I have ever seen, after many searchs, that covers everything a filmmaker need to get to know to be able to : distinguish good audio techniques being applied, choosing who to work with, understanding sound impact over production, adding music, spatializing sound, learning about Plot/Story(Dialogue)- Immersion(Foley and Effects) - Emotion (Music). To this day on November 19,2023 , it keeps being one of the most completes tutorials on sound done by a proficient audio person. It's 86 hours and very hour is valuable because you learn stuff that aren't really explain in books. Mark will say always "here is why" and will explain complex concepts in a way that is understandable and knowable. Mark is a great presentator, a fun one who delivers the whole load of his knowledge with power and enthusiam.
+  - Text: 'This is the ONLY course I have ever seen, after many searchs, that covers
+      everything a filmmaker need to get to know to be able to : distinguish good
+      audio techniques being applied, choosing who to work with, understanding sound
+      impact over production, adding music, spatializing sound, learning about Plot/Story(Dialogue)-
+      Immersion(Foley and Effects) - Emotion (Music). To this day on November 19,2023
+      , it keeps being one of the most completes tutorials on sound done by a proficient
+      audio person. It''s 86 hours and very hour is valuable because you learn stuff
+      that aren''t really explain in books. Mark will say always "here is why" and
+      will explain complex concepts in a way that is understandable and knowable.
+      Mark is a great presentator, a fun one who delivers the whole load of his knowledge
+      with power and enthusiam.'
     Reviewer: Alenz Atman
   Recommended Courses:
   - how-to-start-a-podcast
