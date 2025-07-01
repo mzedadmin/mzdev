@@ -14,7 +14,7 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video: https://vimeo.com/409742479
   Main Title: Canon C500 MkII Camera Primer
   Main Text: The Canon C500 Mark II is an exciting platform for filmmakers that combines
     a full-frame sensor with Canon's color science and Dual-Pixel autofocus system

@@ -6,7 +6,7 @@ bio: Paul Atkins and Stephen Lighthill, both ASC members, are distinguished cine
   recognized for their contributions to documentary and feature filmmaking, with Atkins
   known for his environmental narratives and Lighthill for his mentorship and influence
   in the industry.
-Image: "/assets/images/educators/paul-atkins-asc-stephen-lighthill-asc.jpg"
+Image: "/assets/images/educators/paul-atkins-stephen-lighthill.jpg"
 Website: 
 Twitter: 
 Facebook: 

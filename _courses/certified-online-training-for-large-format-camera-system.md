@@ -14,7 +14,7 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video: https://vimeo.com/364705226
   Main Title: Certified Online Training for Large-Format Camera Systems
   Main Text: This ARRI-certified course covers all aspects of working with ARRI's
     large-format camera system comprised of the new ALEXA Mini LF, ALEXA LF, ARRI

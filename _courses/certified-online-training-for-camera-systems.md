@@ -14,7 +14,7 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video: https://vimeo.com/349783471
   Main Title: Certified Online Training for Camera Systems
   Main Text: This ARRI-certified course covers all aspects of shooting with the ARRI
     ALEXA LF, ALEXA Mini, ALEXA SXT W and AMIRA camera systems including detailed

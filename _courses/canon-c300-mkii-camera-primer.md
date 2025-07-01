@@ -14,7 +14,7 @@ Course Card:
   - cinematography
   - filmmaking
 Course Page:
-  Video: 
+  Video: https://vimeo.com/289223696
   Main Title: Canon C300 MkII Camera Primer
   Main Text: Get to know the Canon Cinema EOS C300 MkII camera inside-out in this
     comprehensive camera primer, presented by AbelCine Camera Technology Specialist

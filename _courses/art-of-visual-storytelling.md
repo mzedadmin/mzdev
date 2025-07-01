@@ -16,7 +16,7 @@ Course Card:
   - lighting
   - visual-storytelling
 Course Page:
-  Video: 
+  Video: https://vimeo.com/221382235
   Main Title: The Art of Visual Storytelling
   Main Text: Visual storytelling cuts to the heart of the filmmaker, combining all
     elements of the craft to engage the viewer. Over four and a half hours, Alex Buono

@@ -13,7 +13,7 @@ Course Card:
   Topics:
   - lighting
 Course Page:
-  Video: 
+  Video: https://vimeo.com/499843039
   Main Title: ARRI Lighting Systems Control
   Main Text: ARRI Academy's "Lighting Systems Control" with Lighting Professional/Author
     Richard Cadena goes over the basics of digital lighting control technologies.

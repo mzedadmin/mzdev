@@ -16,7 +16,7 @@ Course Card:
   - filmmaking
   - visual-storytelling
 Course Page:
-  Video: 
+  Video: https://vimeo.com/787802294
   Main Title: Canon R5C Ultimate Video Manual
   Main Text: "In this ‘Ultimate Video Manual’ for the Canon EOS R5 C, professional
     filmmaker Ollie Kenchington drills down in to the video functionality of this
