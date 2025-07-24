@@ -66,60 +66,75 @@ Course Page:
   - learn-everything-in-premiere-pro
   Lessons:
   - Lesson Title: Recording Process, Perfection, and Purpose
-    Lesson Description: In this first chapter of the Record Volume, Mark introduces
+    Lesson Description: |-
+      In this first chapter of the Record Volume, Mark introduces
       us to the theory of good recording, and he begins revealing some Hollywood secrets
       about getting audio recorded well.
   - Lesson Title: Recording Rules of Recording
-    Lesson Description: In this module, Mark goes over requirements of getting a good
+    Lesson Description: |-
+      In this module, Mark goes over requirements of getting a good
       recording gear settings, location scouts, safety, and how the brain processes
       sound in general.
   - Lesson Title: Recording Microphones & Other Weapons
-    Lesson Description: In this module Mark goes over the major kinds of microphones
+    Lesson Description: |-
+      In this module Mark goes over the major kinds of microphones
       used on set and how to protect them from wind including demonstrating what several
       sound like.
   - Lesson Title: Recording Lavaliers and Other Munitions
-    Lesson Description: In this module Mark goes over wireless transmission, the concerns
+    Lesson Description: |-
+      In this module Mark goes over wireless transmission, the concerns
       around the FCC, wedding recording, lavaliers, keeping mics from being destroyed
       and understanding how it all works together.
   - Lesson Title: Recording Sonic Booms & Advanced Microphone Tricks
-    Lesson Description: In this module, Mark shows us about Boom Pole protocols, how
+    Lesson Description: |-
+      In this module, Mark shows us about Boom Pole protocols, how
       to get voice overs, handling phase issues, the folly of on-camera mics, and
       how to deal with reflective rooms.
   - Lesson Title: Recording Recorders, Roll Sound, Now What?
-    Lesson Description: In this module Mark takes through the process of recording,
+    Lesson Description: |-
+      In this module Mark takes through the process of recording,
       how to best use your recorders to their fullest potential, and make sure you're
       doing the right things at the right times while on set.
   - Lesson Title: Recording Solving Issues on Set - An Anthology
-    Lesson Description: In this module we watch Mark debunk most of the issues we
+    Lesson Description: |-
+      In this module we watch Mark debunk most of the issues we
       find on set from simple gear issues to how to prevent anything bad from happening.
   - Lesson Title: Recording The Review
-    Lesson Description: In this module, we go over the basics of what Mark has been
+    Lesson Description: |-
+      In this module, we go over the basics of what Mark has been
       teaching regarding recording in a 10 minute, fast paced review.
   - Lesson Title: Recording Shoot the Scenes
-    Lesson Description: This module is a Behind The Scenes look at how all the example
+    Lesson Description: |-
+      This module is a Behind The Scenes look at how all the example
       videos for Cinema Sound were shot and recorded.
   - Lesson Title: How Microphones are Made
-    Lesson Description: In this module we get a tour through the RØDE Microphones
+    Lesson Description: |-
+      In this module we get a tour through the RØDE Microphones
       factory in Sydney, Australia to see how modern microphones are designed and
       manufactured.
   - Lesson Title: Edit Advanced Editing I
-    Lesson Description: In this module Mark fires the opening salvo of information
+    Lesson Description: |-
+      In this module Mark fires the opening salvo of information
       regarding the mysteries of audio editing, and he gives us the basic tools which
       don't translate from NLEs - and which are mandatory to get audio organized and
       ready for the Fix and Mix.
   - Lesson Title: Edit Advanced Editing II
-    Lesson Description: In this module Mark covers knowledge about editing which isn't
+    Lesson Description: |-
+      In this module Mark covers knowledge about editing which isn't
       widely known including the right kinds of crossfades to use, normalizing dialog,
       looping room tone secrets, syncronization mysteries and an overview of the DAW.
   - Lesson Title: Edit Advanced Editing III
-    Lesson Description: This module is strongly weighted toward cutting ADR and all
+    Lesson Description: |-
+      This module is strongly weighted toward cutting ADR and all
       the functions which are required to get that handled including a surprise from
       Adobe.
   - Lesson Title: Edit Final Edit
-    Lesson Description: In this module Mark takes us through three EXTENSIVE edit
+    Lesson Description: |-
+      In this module Mark takes us through three EXTENSIVE edit
       jobs for the Macbeth, Donuts and brutally noisy Beach scenes.
   - Lesson Title: Edit Export
-    Lesson Description: In this module Mark takes us through One-More-Pass of Editing
+    Lesson Description: |-
+      In this module Mark takes us through One-More-Pass of Editing
       and covers everything from special Room Tone Tricks to fix horrific surf-laden
       DX to stereo DX editing, cutting final voice overs and what to do if your DX
       goes out of sync in the editing process.

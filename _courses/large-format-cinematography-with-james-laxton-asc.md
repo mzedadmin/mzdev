@@ -44,26 +44,26 @@ Course Page:
       goals, and pushing the camera and scene to the visual limits. Very informative
       and creatively inspiring workshop.
     Reviewer: German D.
+  Recommended Courses:
+  - the-art-technique-of-film-editing
+  - arri-christmas-master-class-with-julio-macat-asc
+  - certified-online-training-for-large-format-camera-system
   Lessons:
   - Lesson Title: Interview with James Laxton ASC
-    Lesson Description: Before the masterclass kicks off, James Laxton ASC sits down
-      with An Tran to discuss his approach to working on a project and his relationship
-      with directors including frequent collaborator Barry Jenkins.
+    Lesson Description: |-
+      Before the masterclass kicks off, James Laxton ASC sits down with An Tran to discuss his approach to working on a project and his relationship with directors including frequent collaborator Barry Jenkins.
   - Lesson Title: New Perspectives
-    Lesson Description: As the practical component of the masterclass starts, James
-      Laxton ASC discusses how large format cameras have changed his approach to cinematography
-      and the new perspectives these tools have opened up in his work.
+    Lesson Description: |-
+      As the practical component of the masterclass starts, James Laxton ASC discusses how large format cameras have changed his approach to cinematography and the new perspectives these tools have opened up in his work.
   - Lesson Title: LED Lighting
-    Lesson Description: In this module James Laxton ASC discusses advancements in
-      LED lighting, the emotional value of color and how he approaches lighting various
-      skin tones.
+    Lesson Description: |-
+      In this module James Laxton ASC discusses advancements in LED lighting, the emotional value of color and how he approaches lighting various skin tones.
   - Lesson Title: If Beale Street Could Talk
-    Lesson Description: Here James Laxton ASC focusses on his most recent cinematic
-      collaboration with director Barry Jenkins, "If Beale Street Could Talk" and
-      deconstructs some of the film's key scenes.
+    Lesson Description: |-
+      Here James Laxton ASC focusses on his most recent cinematic collaboration with director Barry Jenkins, "If Beale Street Could Talk" and deconstructs some of the film's key scenes.
   - Lesson Title: Different Lighting Setups
-    Lesson Description: In the final module of the masterclass, James Laxton ASC demonstrates
-      how he uses LED lighting and color balance to create mood in a scene.
+    Lesson Description: |-
+      In the final module of the masterclass, James Laxton ASC demonstrates how he uses LED lighting and color balance to create mood in a scene.
 course_purchase: true
 layout: course
 ---

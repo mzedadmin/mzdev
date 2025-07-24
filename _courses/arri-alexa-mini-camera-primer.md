@@ -11,7 +11,6 @@ Course Card:
   Runtime Hours: 1
   Runtime Minutes: 38
   Topics:
-  - cinematography
   - filmmaking
 Course Page:
   Video: https://vimeo.com/313301651

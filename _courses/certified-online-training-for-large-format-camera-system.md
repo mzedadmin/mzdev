@@ -48,31 +48,37 @@ Course Page:
   - arri-christmas-master-class-with-julio-macat-asc
   Lessons:
   - Lesson Title: ALEXA LF and ALEXA Mini LF
-    Lesson Description: This lesson provides a detailed introduction to the ALEXA
+    Lesson Description: |-
+      This lesson provides a detailed introduction to the ALEXA
       LF and ALEXA Mini LF camera systems, taking an in-depth look at their features,
       layout and capabilities to assist you in becoming a confident camera operator
       on set.
   - Lesson Title: Lens Mounts, Lenses and Filters
-    Lesson Description: In this module we look at the LPL and PL lens mounts, and
+    Lesson Description: |-
+      In this module we look at the LPL and PL lens mounts, and
       how lens design has changed to accommodate large-format sensors. We take a detailed
       look at the Signature Prime lenses, and compare spherical and anamorphic as
       well as telecentric lens design.
   - Lesson Title: Menu Configuration, Web Remote and Camera Accessories
-    Lesson Description: Here we take a look at the various ways to configure and remotely
+    Lesson Description: |-
+      Here we take a look at the various ways to configure and remotely
       control the ALEXA LF and ALEXA Mini LF, and run through practical exercises
       to help you understand how to configure a camera.
   - Lesson Title: Recording Media, Formats and Online Tools
-    Lesson Description: In this module we look at the types of media supported by
+    Lesson Description: |-
+      In this module we look at the types of media supported by
       the ALEXA LF and ALEXA Mini LF cameras, as well as the various formats in terms
       of sensor modes, aspect ratios, lens styles and codecs that are available.
   - Lesson Title: ARRIRAW, Rec 709 vs Log C and Exposure
-    Lesson Description: This module takes a deep dive into how ARRI sensors are designed,
+    Lesson Description: |-
+      This module takes a deep dive into how ARRI sensors are designed,
       explaining in detail how ARRIRAW works and the differences to ProRes recording.
       Following that we look at how color is processed, the importance of logarithmic
       images and the various tools available to assist with exposure on the ALEXA
       LF and ALEXA Mini LF cameras.
   - Lesson Title: ARRI Look Management, Postproduction and HDR
-    Lesson Description: ARRI offers a wide range of workflows for managing color including
+    Lesson Description: |-
+      ARRI offers a wide range of workflows for managing color including
       in-camera, off-camera, during post production and even live-grading on set.
       In this module we look at each of those options and the various software tools
       available to assist you in realising your creative vision through the production

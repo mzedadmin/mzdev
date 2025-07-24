@@ -13,6 +13,7 @@ Course Card:
   Topics:
   - cinematography
   - filmmaking
+  - visual-storytelling
 Course Page:
   Video: https://vimeo.com/749298923
   Main Title: Anamorfake It Until You Make It

@@ -11,7 +11,6 @@ Course Card:
   Runtime Hours: 3
   Runtime Minutes: 11
   Topics:
-  - cinematography
   - filmmaking
 Course Page:
   Video: https://vimeo.com/409742479
@@ -38,27 +37,32 @@ Course Page:
   - arri-alexa-mini-camera-primer
   Lessons:
   - Lesson Title: What's in the Box
-    Lesson Description: In the introductory lesson, Jem shows us what's included in
+    Lesson Description: |-
+      In the introductory lesson, Jem shows us what's included in
       the C500 MkII box, how to assemble the components, and how to adjust the monitor
       to your preference. We also learn how the C500 MkII fits into Canon's Cinema
       EOS lineup.
   - Lesson Title: Camera Body
-    Lesson Description: We look at all the physical buttons and components on the
+    Lesson Description: |-
+      We look at all the physical buttons and components on the
       C500 MkII camera body, while Jem provides some suggestions for customizing the
       buttons for a better workflow.
   - Lesson Title: Expansion Units
-    Lesson Description: A key feature of the Canon C500 MkII camera system is its
+    Lesson Description: |-
+      A key feature of the Canon C500 MkII camera system is its
       compact size, while allowing multiple enhancements with optional expansion units.
       In this module Jem shows us the EVF-V50 electronic viewfinder, which can be
       removed completely for gimbal use, as well as the EU-V1 and EU-V2 expansion
       units that enable additional audio ports, genlock timecode sync, third party
       V-mount batteries, and more.
   - Lesson Title: Interchangeable Lens Mounts
-    Lesson Description: The ability to easily change the lens mount between EF, PL,
+    Lesson Description: |-
+      The ability to easily change the lens mount between EF, PL,
       and locking EF mount is one feature that makes the Canon C500 MKII unique. We
       also learn how to add shims to adjust for back focus.
   - Lesson Title: Rigs & Cages
-    Lesson Description: With its compact form-factor and digital image stabilization,
+    Lesson Description: |-
+      With its compact form-factor and digital image stabilization,
       the C500 Mark II can be operated as an extremely discreet handheld package.
       But by building it out with accessories you can easily transform it into a fully-fledged
       studio camera or a proper shoulder-mounted camera. In this module Jem gives

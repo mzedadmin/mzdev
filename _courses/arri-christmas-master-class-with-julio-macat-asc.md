@@ -13,7 +13,7 @@ Course Card:
   Topics:
   - cinematography
   - lighting
-  - filmmaking
+  - directing
 Course Page:
   Video: https://vimeo.com/378428990
   Main Title: ARRI Christmas Master Class with Julio Macat ASC

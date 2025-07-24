@@ -14,6 +14,7 @@ Course Card:
   - cinematography
   - lighting
   - filmmaking
+  - directing
 Course Page:
   Video: https://vimeo.com/733325927
   Main Title: ARRI Tech Talk

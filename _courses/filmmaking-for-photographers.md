@@ -43,6 +43,10 @@ Course Page:
       It was pitched at the perfect level and demonstrates Phil's complete mastery
       of his subject in an amusing and memorable way.
     Reviewer: Sarah L.
+  Recommended Courses:
+  - philip-bloom-cinematic-masterclass
+  - the-indie-film-blueprint
+  - ray-roman-master-the-moment-wedding-filmmaking-masterclass
   Lessons:
   - Lesson Title: Setup and Audio
     Lesson Description: "In this first episode, Philip shows you what you will need

@@ -11,10 +11,7 @@ Course Card:
   Runtime Hours: 5
   Runtime Minutes: 10
   Topics:
-  - cinematography
-  - editing
-  - filmmaking
-  - lighting
+  - visual-storytelling
 Course Page:
   Video: https://vimeo.com/224060283
   Main Title: From Scene to Screen Workshop
@@ -32,9 +29,14 @@ Course Page:
   - "/assets/images/courses/from-scene-to-screen/from-scene-to-screen-5.jpg"
   - "/assets/images/courses/from-scene-to-screen/from-scene-to-screen-6.jpg"
   Review Average: 3.9
+  Recommended Courses:
+  - cinematography-for-directors
+  - the-language-of-lighting
+  - the-art-and-science-of-lenses
   Lessons:
   - Lesson Title: From Scene to Screen Workshop
-    Lesson Description: In this recorded live workshop, Tal Lazar takes a deep-dive
+    Lesson Description: |-
+      In this recorded live workshop, Tal Lazar takes a deep-dive
       into the type of preparation a director does in order to initiate a successful
       collaboration with a cinematographer.
 course_purchase: false
