@@ -5,8 +5,8 @@ Course Card:
   Title: Writing 201
   Educator: Seth Worley
   Image: "/assets/images/courses/writing-201.jpg"
-  Description: Advanced screenwriting course exploring three-act structure and the complete
-    process from story development to pitching your screenplay.
+  Description: Advanced screenwriting course exploring three-act structure and the
+    complete process from story development to pitching your screenplay.
   Lessons: 15
   Runtime Hours: 0
   Runtime Minutes: 50
@@ -18,7 +18,7 @@ Course Page:
   Main Title: Writing 201
   Main Text: |-
     Advanced screenwriting course exploring three-act structure and the complete process from story development to pitching your screenplay.
-    
+
     Building on the fundamentals covered in Writing 101, this course dives deeper into character development, story structure, dialogue, and the practical aspects of getting your screenplay made into a film.
   Main Image: "/assets/images/courses/writing-201/writing-201-1.jpg"
   Additional Images:
@@ -29,11 +29,14 @@ Course Page:
   - "/assets/images/courses/writing-201/writing-201-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: Seth's approach to breaking down the three-act structure is incredibly clear and practical. This course really helped me understand story flow.
+  - Text: Seth's approach to breaking down the three-act structure is incredibly clear
+      and practical. This course really helped me understand story flow.
     Reviewer: Emma K.
-  - Text: The character development section was a game-changer for me. Finally understand how to create compelling antagonists and supporting characters.
+  - Text: The character development section was a game-changer for me. Finally understand
+      how to create compelling antagonists and supporting characters.
     Reviewer: Michael R.
-  - Text: Great follow-up to Writing 101. The pitching advice alone is worth the price of the course. Seth knows his stuff.
+  - Text: Great follow-up to Writing 101. The pitching advice alone is worth the price
+      of the course. Seth knows his stuff.
     Reviewer: Jordan S.
   Recommended Courses:
   - writing-101
@@ -41,50 +44,65 @@ Course Page:
   - the-indie-film-blueprint
   Lessons:
   - Lesson Title: Intro & Disclaimers
-    Lesson Description: |-
-      As we begin the course, Seth sets the tone and reminds us that there's no one "correct" way to write a screenplay. This is a guide to his findings and experience.
+    Lesson Description: As we begin the course, Seth sets the tone and reminds us
+      that there's no one "correct" way to write a screenplay. This is a guide to
+      his findings and experience.
   - Lesson Title: Making Plans
-    Lesson Description: |-
-      So where do we begin? Breaking a story can be the most difficult part of the process, and in this module Seth provides some suggestions and guidelines on how to succeed.
+    Lesson Description: So where do we begin? Breaking a story can be the most difficult
+      part of the process, and in this module Seth provides some suggestions and guidelines
+      on how to succeed.
   - Lesson Title: Making Characters Great Again
-    Lesson Description: |-
-      Here Seth dives into character development - Where to find your characters, how to discover their voices and strategies on how to contrast characters for conflict.
+    Lesson Description: Here Seth dives into character development - Where to find
+      your characters, how to discover their voices and strategies on how to contrast
+      characters for conflict.
   - Lesson Title: Keep Your Enemies Closer
-    Lesson Description: |-
-      In this module Seth encourages you to be your own critic, using your own self-doubt to help test your ideas and ultimately build your confidence as a writer.
+    Lesson Description: In this module Seth encourages you to be your own critic,
+      using your own self-doubt to help test your ideas and ultimately build your
+      confidence as a writer.
   - Lesson Title: Structure - An Overview
-    Lesson Description: |-
-      Here Seth gives us a brief recap on what most general story structures tend to look like, referencing sources such as Joseph Campbell, Blake Snyder and Dan Harmon.
+    Lesson Description: Here Seth gives us a brief recap on what most general story
+      structures tend to look like, referencing sources such as Joseph Campbell, Blake
+      Snyder and Dan Harmon.
   - Lesson Title: The Normal World
-    Lesson Description: |-
-      Kicking off Act One of your story, we look at Seth's must-have checklist to establish your hero's normal world.
+    Lesson Description: Kicking off Act One of your story, we look at Seth's must-have
+      checklist to establish your hero's normal world.
   - Lesson Title: Normalcy Disrupted
-    Lesson Description: |-
-      Here Seth breaks-down the second and final part of Act One, where your hero's world is disrupted and they have no choice but to follow your story plan into the second act.
+    Lesson Description: Here Seth breaks-down the second and final part of Act One,
+      where your hero's world is disrupted and they have no choice but to follow your
+      story plan into the second act.
   - Lesson Title: The New World
-    Lesson Description: |-
-      Continuing to deconstruct the three-act structure, Seth takes us through the first part of Act Two, where a lot of the fun happens.
+    Lesson Description: Continuing to deconstruct the three-act structure, Seth takes
+      us through the first part of Act Two, where a lot of the fun happens.
   - Lesson Title: Point of No Return
-    Lesson Description: |-
-      As we reach the midway point of your story it's time to get weird… but not necessarily literally. Here Seth breaks down why you want to introduce your character(s) to an incredibly foreign environment or state of mind.
+    Lesson Description: As we reach the midway point of your story it's time to get
+      weird… but not necessarily literally. Here Seth breaks down why you want to
+      introduce your character(s) to an incredibly foreign environment or state of
+      mind.
   - Lesson Title: Here Come the Jerks
-    Lesson Description: |-
-      In this module Seth finally introduces the antagonist to the forefront of the story and discusses how the traditional story structure treats their first real encounter with your hero.
+    Lesson Description: In this module Seth finally introduces the antagonist to the
+      forefront of the story and discusses how the traditional story structure treats
+      their first real encounter with your hero.
   - Lesson Title: The New Normal
-    Lesson Description: |-
-      As we reach the conclusion of the three-act structure Seth breaks down his guidelines for the ideal end to the story.
+    Lesson Description: As we reach the conclusion of the three-act structure Seth
+      breaks down his guidelines for the ideal end to the story.
   - Lesson Title: Talking Good
-    Lesson Description: |-
-      With your story structure in place it's time to flesh out the screenplay. In this lesson Seth gives you his top dos and don'ts for writing dialogue.
+    Lesson Description: With your story structure in place it's time to flesh out
+      the screenplay. In this lesson Seth gives you his top dos and don'ts for writing
+      dialogue.
   - Lesson Title: Scene Actioning Good
-    Lesson Description: |-
-      Continuing from the last lesson, Seth outlines his best advice for writing scene action, transitions and scene headers.
+    Lesson Description: Continuing from the last lesson, Seth outlines his best advice
+      for writing scene action, transitions and scene headers.
   - Lesson Title: Writing Shorts
-    Lesson Description: |-
-      Shorts are dramatically different to features, and require a completely different strategy. Here Seth identifies what makes a great short as well as identifying some of the pitfalls that writers should avoid when constructing a short.
+    Lesson Description: Shorts are dramatically different to features, and require
+      a completely different strategy. Here Seth identifies what makes a great short
+      as well as identifying some of the pitfalls that writers should avoid when constructing
+      a short.
   - Lesson Title: Pitching
-    Lesson Description: |-
-      With your screenplay complete it's time to (presumably) try and have it made into a film. In this module Seth gives some great advice for how to approach pitching your screenplay or ideas whether it's to friends or in a business context.
+    Lesson Description: With your screenplay complete it's time to (presumably) try
+      and have it made into a film. In this module Seth gives some great advice for
+      how to approach pitching your screenplay or ideas whether it's to friends or
+      in a business context.
 course_purchase: true
 layout: course
 ---
+

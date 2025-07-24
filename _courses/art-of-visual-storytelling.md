@@ -56,48 +56,71 @@ Course Page:
   - the-cutting-edge
   Lessons:
   - Lesson Title: Introduction and Pre-Production
-    Lesson Description: |-
-      In the opening module Alex gives us an overview of his career before diving into workflow best-practices and how the filmmaking process is managed for the incredibly tight deadlines on Saturday Night Live. He then moves on to cover location scouting with a few hard-earned tips on how to find the best locations and times to shoot.
+    Lesson Description: In the opening module Alex gives us an overview of his career
+      before diving into workflow best-practices and how the filmmaking process is
+      managed for the incredibly tight deadlines on Saturday Night Live. He then moves
+      on to cover location scouting with a few hard-earned tips on how to find the
+      best locations and times to shoot.
     free: true
   - Lesson Title: Pre-Production I
-    Lesson Description: |-
-      In the opening module Alex gives us an overview of his career before diving into workflow best-practices and how the filmmaking process is managed for the incredibly tight deadlines on Saturday Night Live. He then moves on to cover location scouting with a few hard-earned tips on how to find the best locations and times to shoot.
+    Lesson Description: In the opening module Alex gives us an overview of his career
+      before diving into workflow best-practices and how the filmmaking process is
+      managed for the incredibly tight deadlines on Saturday Night Live. He then moves
+      on to cover location scouting with a few hard-earned tips on how to find the
+      best locations and times to shoot.
   - Lesson Title: Pre-Production II
-    Lesson Description: |-
-      Continuing pre-production, Alex shows us how he diagrams his scenes and provides a step-by-step breakdown for an example scene.
+    Lesson Description: Continuing pre-production, Alex shows us how he diagrams his
+      scenes and provides a step-by-step breakdown for an example scene.
   - Lesson Title: Lensing, Compression and Color Space
-    Lesson Description: |-
-      Before kicking off the first live shooting demonstration of the course Alex gives us his take on still versus cine lenses and when and why he likes to choose one over the other. He finishes up the module by demystifying camera compression and color space.
+    Lesson Description: Before kicking off the first live shooting demonstration of
+      the course Alex gives us his take on still versus cine lenses and when and why
+      he likes to choose one over the other. He finishes up the module by demystifying
+      camera compression and color space.
   - Lesson Title: Live Demo I - Narrative Master Shot
-    Lesson Description: |-
-      In the first live shoot of the course Alex takes us through shooting the master shot from a scene in the SNL short "British Movie Trailer".
+    Lesson Description: In the first live shoot of the course Alex takes us through
+      shooting the master shot from a scene in the SNL short "British Movie Trailer".
   - Lesson Title: Live Demo II - Commercials
-    Lesson Description: |-
-      Using the SNL short "Rosetta Stone" as an example, Alex gives a step-by-step walkthrough of how to shoot a typical commercial featuring flattering high-key lighting, including how to use a hazer to subtly add contrast to any scene.
+    Lesson Description: Using the SNL short "Rosetta Stone" as an example, Alex gives
+      a step-by-step walkthrough of how to shoot a typical commercial featuring flattering
+      high-key lighting, including how to use a hazer to subtly add contrast to any
+      scene.
   - Lesson Title: Live Demo III - Interview Scene
-    Lesson Description: |-
-      We then move on to shoot an interview scene where Alex shares his tips to get amazing-looking interview footage in almost any scenario, including how using camera filters can give your footage a professional look in very little time.
+    Lesson Description: We then move on to shoot an interview scene where Alex shares
+      his tips to get amazing-looking interview footage in almost any scenario, including
+      how using camera filters can give your footage a professional look in very little
+      time.
   - Lesson Title: Live Demo IV - 4K Workflow and Glamour Lighting
-    Lesson Description: |-
-      Finally we look at a 4K workflow when shooting on the Canon C500, as Alex uses inexpensive DIY lighting techniques to achieve the same luxurious effect captured in the SNL short "Red Flag".
+    Lesson Description: Finally we look at a 4K workflow when shooting on the Canon
+      C500, as Alex uses inexpensive DIY lighting techniques to achieve the same luxurious
+      effect captured in the SNL short "Red Flag".
   - Lesson Title: Live Demo V - DIY Lighting
-    Lesson Description: |-
-      In this module Alex continues to showcase low-cost DIY lighting techniques, and common everyday substitutes for high-end lighting and diffusion.
+    Lesson Description: In this module Alex continues to showcase low-cost DIY lighting
+      techniques, and common everyday substitutes for high-end lighting and diffusion.
   - Lesson Title: Live Demo VI - Mōvi
-    Lesson Description: |-
-      In this module Alex demonstrates how to best use a gimbal stabiliser and ensure you're using the footage to contribute to your narrative. Using both single and dual operator modes he gives a demonstration, showcasing how his team became the first to use such a device for broadcast television.
+    Lesson Description: In this module Alex demonstrates how to best use a gimbal
+      stabiliser and ensure you're using the footage to contribute to your narrative.
+      Using both single and dual operator modes he gives a demonstration, showcasing
+      how his team became the first to use such a device for broadcast television.
   - Lesson Title: Post Production and Workflow
-    Lesson Description: |-
-      We then move on to a detailed breakdown of post workflow for cinema-style HD, and how this differs from 4K using multiple styles of data capture. Finally Alex gives his top tip for quickly and easily achieving any cinematic look using Adobe Speedgrade.
+    Lesson Description: We then move on to a detailed breakdown of post workflow for
+      cinema-style HD, and how this differs from 4K using multiple styles of data
+      capture. Finally Alex gives his top tip for quickly and easily achieving any
+      cinematic look using Adobe Speedgrade.
   - Lesson Title: The Evolution of Filmmaking
-    Lesson Description: |-
-      Alex delves into his experiences using DSLR and small footprint cameras for broadcast TV. He begins by giving an overview of the transition from film stock to today's digital cinema cameras, including how he shot the 2009 SNL title sequence using only available light on a Canon DSLR. He then goes on to discuss camera sensor size and how it affects performance, before covering gear recommendations based on his extensive experience shooting on tight deadlines. Finally he touches briefly on timelapse sequences.
+    Lesson Description: Alex delves into his experiences using DSLR and small footprint
+      cameras for broadcast TV. He begins by giving an overview of the transition
+      from film stock to today's digital cinema cameras, including how he shot the
+      2009 SNL title sequence using only available light on a Canon DSLR. He then
+      goes on to discuss camera sensor size and how it affects performance, before
+      covering gear recommendations based on his extensive experience shooting on
+      tight deadlines. Finally he touches briefly on timelapse sequences.
   - Lesson Title: DSLR Primer
-    Lesson Description: |-
-      In this module Alex offers a complete studio primer on how to get the most cinematic shots from DSLR cameras.
+    Lesson Description: In this module Alex offers a complete studio primer on how
+      to get the most cinematic shots from DSLR cameras.
   - Lesson Title: The History of Aspect Ratio
-    Lesson Description: |-
-      Alex finishes the course with a history lesson on aspect ratios and how we've arrived at the 16x9 standard.
+    Lesson Description: Alex finishes the course with a history lesson on aspect ratios
+      and how we've arrived at the 16x9 standard.
 course_purchase: true
 layout: course
 ---
+

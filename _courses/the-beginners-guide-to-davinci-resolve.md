@@ -21,7 +21,7 @@ Course Page:
 
     This official step-by-step training guide covers the basics of editing, visual effects, motion graphics, color correction, and audio so you can quickly get to grips with this ubiquitous software. You will learn all you need to take the optional Blackmagic Certified Professional exam, plus Ollie has added in additional content that shines a light on the most exciting new additions in 18.5.
   Main Image: "/assets/images/courses/the-beginners-guide-to-davinci-resolve/the-beginners-guide-to-davinci-resolve-1.jpg"
-  Additional Images: 
+  Additional Images:
   - "/assets/images/courses/the-beginners-guide-to-davinci-resolve/the-beginners-guide-to-davinci-resolve-2.jpg"
   - "/assets/images/courses/the-beginners-guide-to-davinci-resolve/the-beginners-guide-to-davinci-resolve-3.jpg"
   - "/assets/images/courses/the-beginners-guide-to-davinci-resolve/the-beginners-guide-to-davinci-resolve-4.jpg"
@@ -29,9 +29,12 @@ Course Page:
   - "/assets/images/courses/the-beginners-guide-to-davinci-resolve/the-beginners-guide-to-davinci-resolve-6.jpg"
   Review Average: 4.8
   Reviews:
-  - Text: As a complete beginner at video editing, this course made it easy and enjoyable to learn Davinci Resolve, a sophisticated software that initially looks overwhelming to newcomers like me.
+  - Text: As a complete beginner at video editing, this course made it easy and enjoyable
+      to learn Davinci Resolve, a sophisticated software that initially looks overwhelming
+      to newcomers like me.
     Reviewer: Jonathan S.
-  - Text: Excellent well explained course. Will recommend it to any beginner wanting to learn Davinci Resolve.
+  - Text: Excellent well explained course. Will recommend it to any beginner wanting
+      to learn Davinci Resolve.
     Reviewer: Patrick A.
   - Text: Best in class teacher and content!
     Reviewer: Laurence K.
@@ -41,8 +44,11 @@ Course Page:
   - mastering-color
   Lessons:
   - Lesson Title: Editing in the Edit Page
-    Lesson Description: |-
-      Making film and video content is a very creative, exciting, and rewarding process. But it is also an endeavor that requires precision and accuracy. The edit page features a set of powerful yet easy-to-use nonlinear editing tools that have been developed over decades of moviemaking and is a great next step in your exploration of DaVinci Resolve 18.5.
+    Lesson Description: Making film and video content is a very creative, exciting,
+      and rewarding process. But it is also an endeavor that requires precision and
+      accuracy. The edit page features a set of powerful yet easy-to-use nonlinear
+      editing tools that have been developed over decades of moviemaking and is a
+      great next step in your exploration of DaVinci Resolve 18.5.
   - Lesson Title: Audio, Effects, and Titles in the Edit Page
     Lesson Description: |-
       Now that you have the basic structure of the edit in place, you will learn how to take it to the next level by editing in voiceover and sound effects, and then mixing the audio together using the edit page's audio tools. Then you'll look at refining the timeline further by exploring some tricks that many editors often employ to quickly replace shots, adjust clip playback speed, and change shot size.
@@ -68,8 +74,14 @@ Course Page:
 
       In this lesson, you will learn how to easily identify ungraded clips, copy and paste grades, save grades using stills, match clips to stills, use and save LUTs, and preview them to help make creative decisions.
   - Lesson Title: Project Setup and Preferences
-    Lesson Description: |-
-      At this point, you should have a good understanding of how the toolset and features in DaVinci Resolve 18.5 can be used to edit and color grade your projects. In the preceding lessons, the projects you worked on required little to no knowledge beyond the means to import the footage or were set up and organised for you to explore how certain features were used—whether it was how useful keyword smart bins are or how enabling DaVinci Resolve Color Management can fast forward the grading process. Now that you have a good grasp of these tools, it's time to learn how to correctly set up a project of your own.
+    Lesson Description: At this point, you should have a good understanding of how
+      the toolset and features in DaVinci Resolve 18.5 can be used to edit and color
+      grade your projects. In the preceding lessons, the projects you worked on required
+      little to no knowledge beyond the means to import the footage or were set up
+      and organised for you to explore how certain features were used—whether it was
+      how useful keyword smart bins are or how enabling DaVinci Resolve Color Management
+      can fast forward the grading process. Now that you have a good grasp of these
+      tools, it's time to learn how to correctly set up a project of your own.
   - Lesson Title: Mixing Audio in Fairlight
     Lesson Description: |-
       By now, you've probably heard that sound is half of the video experience. In the words of George Lucas, "Filmmakers should focus on making sure the soundtracks are really the best they can possibly be. Because in terms of an investment, sound is where you get the most bang for your buck."

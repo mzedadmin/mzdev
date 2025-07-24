@@ -41,8 +41,8 @@ Course Page:
   - mastering-color
   Lessons:
   - Lesson Title: Intro from Digby to MZed Pro Members
-    Lesson Description: |-
-      Welcome MZed Pro members to the most thorough Adobe Premiere course around!
+    Lesson Description: Welcome MZed Pro members to the most thorough Adobe Premiere
+      course around!
   - Lesson Title: Meet your instructor
     Lesson Description: |-
       In the first lesson in the course, we learn a little bit about

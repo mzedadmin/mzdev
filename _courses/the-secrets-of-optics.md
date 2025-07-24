@@ -16,8 +16,10 @@ Course Card:
 Course Page:
   Video: https://vimeo.com/349164048
   Main Title: The Secrets of Optics
-  Main Text: |-
-    Ever been confused by focal length? Lens breathing? How about crop factors? What is the “Cooke Look” compared to that of Zeiss? In The Secrets of Optics you’ll learn the basics of lenses - what they do, how they do it, what types of lenses there are - so you have a solid foundation for selecting and operating lenses.
+  Main Text: Ever been confused by focal length? Lens breathing? How about crop factors?
+    What is the “Cooke Look” compared to that of Zeiss? In The Secrets of Optics you’ll
+    learn the basics of lenses - what they do, how they do it, what types of lenses
+    there are - so you have a solid foundation for selecting and operating lenses.
   Main Image: "/assets/images/courses/the-secrets-of-optics/the-secrets-of-optics-1.jpg"
   Additional Images:
   - "/assets/images/courses/the-secrets-of-optics/the-secrets-of-optics-2.jpg"
@@ -27,11 +29,18 @@ Course Page:
   - "/assets/images/courses/the-secrets-of-optics/the-secrets-of-optics-6.jpg"
   Review Average: 4.5
   Reviews:
-  - Text: Such a great introduction into the world of lenses, I believe this won't be the last time I watch this course as I continue learning and practicing. Thank you so much, Mitch.
+  - Text: Such a great introduction into the world of lenses, I believe this won't
+      be the last time I watch this course as I continue learning and practicing.
+      Thank you so much, Mitch.
     Reviewer: Claudia M.
-  - Text: Awesome course and if you are starting with any course on MZed this is a great place. It gets the basics down solid and describes some deep, in-depth aspects to camera lenses that I never really realized.
+  - Text: Awesome course and if you are starting with any course on MZed this is a
+      great place. It gets the basics down solid and describes some deep, in-depth
+      aspects to camera lenses that I never really realized.
     Reviewer: Josh B.
-  - Text: Contains the information that I wasn't able to find online, at least not in ANY way close to how organized this was. Perfect, concise, but DETAILED, this is so useful for those types of people that like to understand concepts deeply by studying both it's evolution and intricacies.
+  - Text: Contains the information that I wasn't able to find online, at least not
+      in ANY way close to how organized this was. Perfect, concise, but DETAILED,
+      this is so useful for those types of people that like to understand concepts
+      deeply by studying both it's evolution and intricacies.
     Reviewer: J.S.
   Recommended Courses:
   - cinematography-for-directors
@@ -39,26 +48,32 @@ Course Page:
   - the-language-of-lighting
   Lessons:
   - Lesson Title: 'Introduction: What is a Lens?'
-    Lesson Description: |-
-      Before we get started explaining the ins and outs of lenses, Mitch takes the time to really define what a lens is and how modern lenses came about.
-  - Lesson Title: 'Focal Lengths'
-    Lesson Description: |-
-      In this module Mitch breaks down focal length, explaining the differences between a wide and telephoto lens and why there's no such thing as a "normal" lens.
-  - Lesson Title: 'Crop Factor'
-    Lesson Description: |-
-      Here Mitch takes us through how the camera sensor size affects our possible lens choice, and how different lenses behave on different sensor sizes.
-  - Lesson Title: 'Lens Specs I'
-    Lesson Description: |-
-      Ever been confused by the numerous specifications of lenses? In this module Mitch breaks down the most commonly used lens specs, explaining what they mean and showing examples on a wide range of lenses.
-  - Lesson Title: 'Lens Specs II'
-    Lesson Description: |-
-      Here we look at the lens specifications that manufacturers don't always give you. Things like focus breathing, zoom tracking, chromatic aberration, telecentricity and more are defined and discussed with examples.
-  - Lesson Title: 'Lens Personality'
-    Lesson Description: |-
-      In this module Mitch talks about the various aspects of lenses that give them personality, and why you might choose a certain lens for a certain look.
-  - Lesson Title: 'Specialty Optics'
-    Lesson Description: |-
-      For the final module in the course we look at specialty lenses and adaptors such as anamorphic and tilt-shift and discuss their application.
+    Lesson Description: Before we get started explaining the ins and outs of lenses,
+      Mitch takes the time to really define what a lens is and how modern lenses came
+      about.
+  - Lesson Title: Focal Lengths
+    Lesson Description: In this module Mitch breaks down focal length, explaining
+      the differences between a wide and telephoto lens and why there's no such thing
+      as a "normal" lens.
+  - Lesson Title: Crop Factor
+    Lesson Description: Here Mitch takes us through how the camera sensor size affects
+      our possible lens choice, and how different lenses behave on different sensor
+      sizes.
+  - Lesson Title: Lens Specs I
+    Lesson Description: Ever been confused by the numerous specifications of lenses?
+      In this module Mitch breaks down the most commonly used lens specs, explaining
+      what they mean and showing examples on a wide range of lenses.
+  - Lesson Title: Lens Specs II
+    Lesson Description: Here we look at the lens specifications that manufacturers
+      don't always give you. Things like focus breathing, zoom tracking, chromatic
+      aberration, telecentricity and more are defined and discussed with examples.
+  - Lesson Title: Lens Personality
+    Lesson Description: In this module Mitch talks about the various aspects of lenses
+      that give them personality, and why you might choose a certain lens for a certain
+      look.
+  - Lesson Title: Specialty Optics
+    Lesson Description: For the final module in the course we look at specialty lenses
+      and adaptors such as anamorphic and tilt-shift and discuss their application.
 course_purchase: true
 layout: course
 ---

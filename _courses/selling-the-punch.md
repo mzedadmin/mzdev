@@ -5,7 +5,8 @@ Course Card:
   Title: Selling the Punch
   Educator: America Young
   Image: "/assets/images/courses/selling-the-punch/selling-the-punch.jpg"
-  Description: Learn how to bring combat scenes from script to screen with professional stunt coordinators America Young and Graham Ehlers Sheldon.
+  Description: Learn how to bring combat scenes from script to screen with professional
+    stunt coordinators America Young and Graham Ehlers Sheldon.
   Lessons: 3
   Runtime Hours: 1
   Runtime Minutes: 34
@@ -16,7 +17,11 @@ Course Card:
 Course Page:
   Video: https://vimeo.com/849563798
   Main Title: Selling the Punch
-  Main Text: Join America Young and Graham Ehlers Sheldon as they show you what it takes to bring a piece of combat from script to screen. For every person who works on a film set, or even any movie lover who wants to know more about stunts, America and Graham provide a foundation in how the professionals plan, rehearse, and wind up Selling the Punch.
+  Main Text: Join America Young and Graham Ehlers Sheldon as they show you what it
+    takes to bring a piece of combat from script to screen. For every person who works
+    on a film set, or even any movie lover who wants to know more about stunts, America
+    and Graham provide a foundation in how the professionals plan, rehearse, and wind
+    up Selling the Punch.
   Main Image: "/assets/images/courses/selling-the-punch/selling-the-punch-1.jpg"
   Additional Images:
   - "/assets/images/courses/selling-the-punch/selling-the-punch-2.jpg"
@@ -26,7 +31,9 @@ Course Page:
   - "/assets/images/courses/selling-the-punch/selling-the-punch-6.jpg"
   Review Average: 4.2
   Reviews:
-  - Text: Wait so the actor wasn't suppose to punch and kick me for real? I shoulda watched this class earlier. Now I can't move my leg for a few days. Thanks America and crew!
+  - Text: Wait so the actor wasn't suppose to punch and kick me for real? I shoulda
+      watched this class earlier. Now I can't move my leg for a few days. Thanks America
+      and crew!
     Reviewer: Mark A.
   - Text: Very informative course, with practical examples and useful suggestions.
     Reviewer: Matteo B.

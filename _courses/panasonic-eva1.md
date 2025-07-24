@@ -35,32 +35,37 @@ Course Page:
   - canon-r5c-ultimate-video-manual
   Lessons:
   - Lesson Title: Introducing the EVA1
-    Lesson Description: |-
-      Starting off the course Nic introduces us to the Panasonic AU-EVA1 digital cinema camera and explains its key features.
+    Lesson Description: Starting off the course Nic introduces us to the Panasonic
+      AU-EVA1 digital cinema camera and explains its key features.
   - Lesson Title: External Camera Controls
-    Lesson Description: |-
-      In this module we look at the external buttons, I/O ports and controls of the camera and how they are used.
+    Lesson Description: In this module we look at the external buttons, I/O ports
+      and controls of the camera and how they are used.
   - Lesson Title: Basic Setup and Preparation
-    Lesson Description: |-
-      Here Nic walks through the basic steps to setup your camera for shooting including resolution, codec and more.
+    Lesson Description: Here Nic walks through the basic steps to setup your camera
+      for shooting including resolution, codec and more.
   - Lesson Title: Audio and Timecode
-    Lesson Description: |-
-      Next we move on to review the EVA1's audio features and how it supports multi-camera workflows with timecode.
+    Lesson Description: Next we move on to review the EVA1's audio features and how
+      it supports multi-camera workflows with timecode.
   - Lesson Title: Special Recording Modes
-    Lesson Description: |-
-      The EVA1 offers a number of specialist recording modes including simultaneous and relay recording, pre-recording, timelapse and even infrared. In this module Nic explains the various modes and how to configure the camera for each.
+    Lesson Description: The EVA1 offers a number of specialist recording modes including
+      simultaneous and relay recording, pre-recording, timelapse and even infrared.
+      In this module Nic explains the various modes and how to configure the camera
+      for each.
   - Lesson Title: Exposure, Focus Assist and Remote Control Tools
-    Lesson Description: |-
-      In this module Nic breaks down the various tools available on the EVA1 to aid camera operators.
+    Lesson Description: In this module Nic breaks down the various tools available
+      on the EVA1 to aid camera operators.
   - Lesson Title: Gamma, LUTs and Color Space
-    Lesson Description: |-
-      The EVA1 offers a wide range of color options, including Panasonic VLog which allows the camera to sit alongside Panasonic's Varicam range of cinema cameras. In this lesson Nic walks through the various options and when you might choose to use them.
+    Lesson Description: The EVA1 offers a wide range of color options, including Panasonic
+      VLog which allows the camera to sit alongside Panasonic's Varicam range of cinema
+      cameras. In this lesson Nic walks through the various options and when you might
+      choose to use them.
   - Lesson Title: Codecs, Bitrates and Raw
-    Lesson Description: |-
-      In this module Nic dives deep into the various settings available, including how to setup the EVA1 and an external recorder to utilise the camera's full 5.7k sensor.
+    Lesson Description: In this module Nic dives deep into the various settings available,
+      including how to setup the EVA1 and an external recorder to utilise the camera's
+      full 5.7k sensor.
   - Lesson Title: Post Production Workflow
-    Lesson Description: |-
-      Closing out the course we look at workflow and best practices for handling footage from the EVA1.
+    Lesson Description: Closing out the course we look at workflow and best practices
+      for handling footage from the EVA1.
 course_purchase: true
 layout: course
 ---
