@@ -39,7 +39,8 @@ Course Page:
   - Text: I'm new to the art of filmmaking and found this to be a great way to start
       things off. Thanks for the great info Seth Worley.
     Reviewer: Gene R.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - writing-101
   - writing-201
   - the-indie-film-blueprint

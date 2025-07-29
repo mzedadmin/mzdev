@@ -18,12 +18,12 @@
     
     /* Image-only version */
     .cs-big-link.image-only:hover .cs-background img {
-      transform: scale(1.1);
+      transform: translate(-50%, -50%) scale(1.1);
     }
     
     /* Video version */
     .cs-big-link.video-link:hover .cs-background img {
-      transform: scale(1.1);
+      transform: translate(-50%, -50%) scale(1.1);
       opacity: 0.5;
     }
     
@@ -42,12 +42,17 @@
     
     .cs-background img {
       position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      width: 100%;
+      top: 50%;
+      left: 50%;
+      min-height: 100%;
+      min-width: 100%;
+      height: auto;
+      width: auto;
+      max-height: 115%;
+      max-width: 115%;
       opacity: 0.84;
       object-fit: cover;
+      transform: translate(-50%, -50%);
       z-index: -1;
       transition: transform 0.9s, opacity 0.3s;
     }
@@ -1241,7 +1246,7 @@ $sectionPadding: var(--sectionPadding);
   font-family: 'Calibre', Arial, sans-serif;
   color: #333;
   padding: 6rem 2rem;
-  background-image: url(/assets/images/Colour@2x.webp);
+  background-image: url(/assets/images//homepage/Colour@2x.webp);
 }
 #plan .cs-container {
   max-width: 1200px;

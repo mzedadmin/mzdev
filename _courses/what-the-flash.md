@@ -4,7 +4,7 @@ position: 53
 Course Card:
   Title: What the Flash?
   Educator: Bob Davis
-  Image: "/assets/images/courses/what-the-flash.jpg"
+  Image: "/assets/images/courses/what-the-flash/what-the-flash.jpg"
   Description: Go beyond basic bounce flash with Bob Davis as he demonstrates advanced
     off-camera speedlite techniques for portraits, weddings, corporate headshots,
     and fashion photography in real-world scenarios.
@@ -28,18 +28,15 @@ Course Page:
   - "/assets/images/courses/what-the-flash/what-the-flash-4.jpg"
   - "/assets/images/courses/what-the-flash/what-the-flash-5.jpg"
   - "/assets/images/courses/what-the-flash/what-the-flash-6.jpg"
-  Review Average: 4.7
+  Review Average: 4.5
   Reviews:
-  - Text: Bob's real-world approach to speedlite photography is exactly what I needed.
-      The wedding demos are incredible - so much practical knowledge.
-    Reviewer: Sarah M.
-  - Text: Finally, a course that shows you how to handle difficult lighting situations
-      with speedlites. The abandoned theater shoot was mind-blowing.
-    Reviewer: David K.
+  - Text: Bob makes it look easy - you can tell he's a master. Very inspirational and insightful. He encouraged me to dust off my speed lights and create more powerful images.
+    Reviewer: Greg M.
   - Text: Bob's teaching style is fantastic. He breaks down complex lighting setups
       in a way that's easy to understand and replicate.
     Reviewer: Maria R.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - speedlites-the-power-in-the-possibilities
   - lighting-people-on-location
   - how-to-photograph-everyone

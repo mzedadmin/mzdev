@@ -39,7 +39,8 @@ Course Page:
       of a number of topics and gave me more confidence in the process. I could easily
       see another 30 minutes of hands on demonstration to give it more perspective.
     Reviewer: Ryan S.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - certified-online-training-for-camera-systems
   - large-format-cinematography-with-james-laxton-asc
   - certified-online-training-for-large-format-camera-system

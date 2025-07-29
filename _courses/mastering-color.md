@@ -46,7 +46,8 @@ Course Page:
       appreciation and understanding of color choices in the films I am watching.
       Highly recommended.
     Reviewer: Sean E.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - the-beginners-guide-to-davinci-resolve
   - directing-color
   - advanced-editing-with-davinci-resolve

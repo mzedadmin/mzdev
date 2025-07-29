@@ -30,7 +30,8 @@ Course Page:
   - "/assets/images/courses/speedlites-the-power-in-the-possibilities/speedlites-the-power-in-the-possibilities-5.jpg"
   - "/assets/images/courses/speedlites-the-power-in-the-possibilities/speedlites-the-power-in-the-possibilities-6.jpg"
   Review Average: 4.35
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - lighting-people-on-location
   - how-to-photograph-everyone
   - how-to-wow

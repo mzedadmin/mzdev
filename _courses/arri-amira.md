@@ -40,7 +40,8 @@ Course Page:
   - Text: Excellent course. Very lucid instruction. Appreciate the close-ups of the
       Amira as to how to set it up for shooting.
     Reviewer: Grant W.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - arri-alexa-mini-camera-primer
   - canon-c500-mkii-camera-primer
   - certified-online-training-for-large-format-camera-systems

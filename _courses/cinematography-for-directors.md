@@ -39,7 +39,8 @@ Course Page:
     Reviewer: Patrick B.
   - Text: Many eye opening ideas that definitely changed how I see cinematography.
     Reviewer: Andrii M.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - the-art-and-science-of-lenses
   - from-scene-to-screen
   - the-language-of-lighting

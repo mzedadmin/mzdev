@@ -29,6 +29,7 @@
     display: flex;
     flex-direction: column;
     height: 100%;
+    position: relative;
 }
 
 .course-card-item:hover .course-card-title,
@@ -101,120 +102,30 @@
     font-weight: 500;
 }
 
-.cs-button-6 {
-    text-align: left;
-    font-size: calc(16 / 16 * 1rem);
-    line-height: clamp(2.875rem, 8vw, 3.5rem);
-    text-decoration: none;
-    font-weight: 700;
-    min-width: calc(174 / 16 * 1rem);
-    margin: 0;
-    color: #1a1a1a;
-    padding: 0 0 0 calc(24 / 16 * 1rem);
-    box-sizing: border-box;
-    background-color: #fff;
-    display: inline-flex;
-    align-items: stretch;
-    justify-content: space-between;
-    gap: calc(24 / 16 * 1rem);
-    position: relative;
-    z-index: 1;
-    transition:
-        color 0.3s,
-        border 0.3s;
-    margin-top: auto;
+.course-card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--secondary);
+    opacity: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.3s ease;
+    z-index: 10;
+}
 
-    &:before {
-        /* background color */
-        content: "";
-        width: 0%;
-        height: 100%;
-        background-color: #1a1a1a;
-        opacity: 1;
-        position: absolute;
-        display: block;
-        bottom: 0;
-        left: 0;
-        transition: width 0.3s;
-        z-index: -1;
-    }
+.course-card-overlay-text {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.8rem;
+}
 
-    &:after {
-        /* button border */
-        content: "";
-        width: 100%;
-        height: 100%;
-        background-color: transparent;
-        border: 2px solid #1a1a1a;
-        /* prevents border from affecting height and width */
-        box-sizing: border-box;
-        opacity: 1;
-        position: absolute;
-        display: block;
-        bottom: 0;
-        right: 0;
-        transition: opacity 0.3s;
-        z-index: 1;
-        pointer-events: none;
-    }
-
-    .cs-wrapper {
-        width: calc(44 / 16 * 1rem);
-        height: auto;
-        background-color: #fff;
-        border-left: 2px solid #1a1a1a;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 1;
-        position: relative;
-        transition: border 0.3s;
-
-        &:before {
-            /* background color */
-            content: "";
-            width: 0%;
-            height: 100%;
-            background-color: #f15a24;
-            opacity: 1;
-            position: absolute;
-            display: block;
-            bottom: 0;
-            left: 0;
-            transition: width 0.3s;
-            transition-delay: 0.1s;
-            z-index: -1;
-        }
-    }
-
-    .cs-icon {
-        width: calc(24 / 16 * 1rem);
-        height: auto;
-        path {
-            transition: fill 0.3s;
-        }
-    }
-
-    &:hover {
-        color: #fff;
-        &:before {
-            width: 100%;
-        }
-        &:after {
-            opacity: 0;
-        }
-        .cs-wrapper {
-            border-color: #1a1a1a;
-            &:before {
-                width: 100%;
-            }
-        }
-        .cs-icon {
-            path {
-                fill: #fff;
-            }
-        }
-    }
+.course-card-link:hover .course-card-overlay {
+    opacity: 0.95;
 }
 
                                 

@@ -1,6 +1,7 @@
 ---
 title: Courses
 layout: default
+slug: courses
 Header:
   Topper: MZed Library
   Title: Our Courses

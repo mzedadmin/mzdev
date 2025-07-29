@@ -42,7 +42,8 @@ Course Page:
       this is so useful for those types of people that like to understand concepts
       deeply by studying both it's evolution and intricacies.
     Reviewer: J.S.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - cinematography-for-directors
   - the-art-and-science-of-lenses
   - the-language-of-lighting

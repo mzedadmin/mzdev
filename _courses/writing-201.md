@@ -4,7 +4,7 @@ position: 49
 Course Card:
   Title: Writing 201
   Educator: Seth Worley
-  Image: "/assets/images/courses/writing-201.jpg"
+  Image: "/assets/images/courses/writing-201/writing-201.jpg"
   Description: Advanced screenwriting course exploring three-act structure and the
     complete process from story development to pitching your screenplay.
   Lessons: 15
@@ -29,16 +29,14 @@ Course Page:
   - "/assets/images/courses/writing-201/writing-201-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: Seth's approach to breaking down the three-act structure is incredibly clear
-      and practical. This course really helped me understand story flow.
-    Reviewer: Emma K.
-  - Text: The character development section was a game-changer for me. Finally understand
-      how to create compelling antagonists and supporting characters.
-    Reviewer: Michael R.
-  - Text: Great follow-up to Writing 101. The pitching advice alone is worth the price
-      of the course. Seth knows his stuff.
-    Reviewer: Jordan S.
-  Recommended Courses:
+  - Text: Great course! Enjoyed it and learned a great deal. Loved the walk through of the 3 acts and examples from lots of movies.
+    Reviewer: Christopher E.
+  - Text: Really great course. I learned a lot from it. I also very much enjoy Seth's funny, and very engaging teaching style, which created additional enjoyment during this course. Thank you.
+    Reviewer: Patrick B.
+  - Text: Love the pace and Seth's way of creating enthusiasm. Awesome short course.
+    Reviewer: Nathan M.
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - writing-101
   - short-films-101
   - the-indie-film-blueprint

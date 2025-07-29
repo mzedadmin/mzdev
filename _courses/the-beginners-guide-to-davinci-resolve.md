@@ -38,7 +38,8 @@ Course Page:
     Reviewer: Patrick A.
   - Text: Best in class teacher and content!
     Reviewer: Laurence K.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - advanced-editing-with-davinci-resolve
   - color-correction-with-davinci-resolve
   - mastering-color

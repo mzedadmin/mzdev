@@ -4,7 +4,7 @@ position: 50
 Course Card:
   Title: How to Wow
   Educator: Jerry Ghionis
-  Image: "/assets/images/courses/how-to-wow.jpg"
+  Image: "/assets/images/courses/how-to-wow/how-to-wow.jpg"
   Description: Master wedding and portrait photographer Jerry Ghionis shares his techniques
     for creating extraordinary images in any location using available light. Learn
     professional posing, lighting, and business strategies to elevate your photography.
@@ -43,7 +43,8 @@ Course Page:
   - Text: Technical is always easy to learn and share. But what he shares is the emotions,
       thinking, empathy on how he makes his images.
     Reviewer: Florian P.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - how-to-photograph-everyone
   - ray-roman-master-the-moment-wedding-filmmaking-masterclass
   - what-the-flash

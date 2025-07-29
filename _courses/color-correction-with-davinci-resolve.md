@@ -39,7 +39,8 @@ Course Page:
   - Text: More in depth than other Resolve courses, it is the perfect course for upgrading
       colorist skills and a perfect companion for the other MZed Ollie's courses.
     Reviewer: Julien G.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - mastering-color
   - directing-color
   - advanced-editing-with-davinci-resolve

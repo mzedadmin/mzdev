@@ -4,7 +4,7 @@ position: 58
 Course Card:
   Title: Alex Buono's Visual Storytelling 2
   Educator: Alex Buono
-  Image: "/assets/images/courses/visual-storytelling-2.jpg"
+  Image: "/assets/images/courses/visual-storytelling-2/visual-storytelling-2.jpg"
   Description: Learn to recreate various visual styles on any budget, with live demonstrations
     and a masterclass on Visual Subtext.
   Lessons: 16
@@ -20,9 +20,26 @@ Course Page:
   Main Title: Recreating Visual Styles on Any Budget
   Main Text: Learn to recreate various visual styles on any budget, with live demonstrations
     and a masterclass on Visual Subtext.
-  Main Image: "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-main.jpg"
+  Main Image: "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-1.jpg"
   Additional Images: 
-  Review Average: 
+  - "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-2.jpg"
+  - "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-3.jpg"
+  - "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-4.jpg"
+  - "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-5.jpg"
+  - "/assets/images/courses/visual-storytelling-2/visual-storytelling-2-6.jpg"
+  Review Average: 4.8
+  Reviews:
+  - Text: Wow. Fantastic course. The subtext portion is WORTH the price of the course alone.
+    Reviewer: Terrell E.
+  - Text: Absolutely worth every second of your attention. Alex approaches filmmaking alongside you in a very real practical way. If you’ve watched his first lesson series this is a perfect and more up to date partner to that. Seriously hope MZed will have him teaching on again soon!!!
+    Reviewer: German D.
+  - Text: An absolutely mind-blowing wealth on creative and technical knowledge, skills, techniques, and new forms of trying and exploring the craft of story-telling, more specifically, lighting and cinematography. Having attended his first tour of workshops, that was amazing, but this second tour, Visual Storytelling 2, was so packed with info that was informative and inspiring - to perfect and improve the art and skills I'm working on. I was so impressed with Alex and his articulate and down to earth advice and direction. I highly recommend this course, and cannot wait to review it again.
+    Reviewer: Tom L.
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
+  - art-of-visual-storytelling
+  - philip-bloom-cinematic-masterclass
+  - vincent-laforet-directing-motion
   Lessons:
   - Lesson Title: 'Case Study: "SNL Title Sequence"'
     Lesson Description: Alex opens the course with an overview of the complete syllabus,

@@ -4,7 +4,7 @@ position: 31
 Course Card:
   Title: Wildlife Cinematography Workshop
   Educator: Paul Atkins, ASC & Stephen Lighthill, ASC
-  Image: "/assets/images/courses/wildlife-cinematography.jpg"
+  Image: "/assets/images/courses/wildlife-cinematography/wildlife-cinematography.jpg"
   Description: Explore wildlife cinematography techniques and philosophy with acclaimed
     cinematographers at the Jackson Wild Film Festival in Austria.
   Lessons: 6
@@ -26,21 +26,19 @@ Course Page:
   - "/assets/images/courses/wildlife-cinematography/wildlife-cinematography-4.jpg"
   - "/assets/images/courses/wildlife-cinematography/wildlife-cinematography-5.jpg"
   - "/assets/images/courses/wildlife-cinematography/wildlife-cinematography-6.jpg"
-  Review Average: 4.9
+  Review Average: 4.25
   Reviews:
-  - Text: Incredible access to master cinematographers at work. Watching Paul and
-      Stephen in the field was like a masterclass in patience and technique.
-    Reviewer: Amanda K.
-  - Text: This workshop format is perfect for understanding the real challenges of
-      wildlife cinematography. The review sessions are invaluable.
-    Reviewer: Carlos M.
-  - Text: You can't get this kind of hands-on learning anywhere else. Two ASC masters
-      sharing their craft in real-world conditions.
-    Reviewer: Jennifer L.
-  Recommended Courses:
-  - cinematography-for-directors
+  - Text: Excellent teaching material that numerous aspects of wildlife cinema-photography utilizing various large cameras and lens. Covered exposure, lighting, composition, and storytelling techniques. Excellent course.
+    Reviewer: Everett D.
+  - Text: To get advise from Paul is like having a personal masterclass.
+    Reviewer: Mauricio V.
+  - Text: Nice to see some Legends teaching and some Pro's executing and facing challenges. Learned a lot. Thanks!
+    Reviewer: Sergi C.
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
+  - lighting-people-on-location
   - the-language-of-lighting
-  - natural-light-photography
+  - doug-jensen-wildlife-cinematography-master-class
   Lessons:
   - Lesson Title: Lesson 1
     Lesson Description: In this introductory lesson, the class meets and discusses

@@ -173,7 +173,7 @@ layout: default
 <!--                Other Courses                 -->
 <!-- ============================================ -->
 
-{% if page['Course Page']['Recommended Courses'] %}
+{% if page['Course Page']['Courses'] %}
 <section id="recommended-courses">
     <div class="cs-container">
         <div class="cs-content">
@@ -185,7 +185,7 @@ layout: default
             </p>
         </div>
         <ul class="course-card-group">
-            {% for course_slug in page['Course Page']['Recommended Courses'] %}
+            {% for course_slug in page['Course Page']['Courses'] %}
                 {% assign recommended_course = site.courses | where: "slug", course_slug | first %}
                 {% if recommended_course %}
                     {% include course_card.html course=recommended_course %}

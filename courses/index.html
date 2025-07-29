@@ -7,7 +7,7 @@ custom_css:
 - "/assets/css/components/course-card.css"
 ---
 
-{% assign page = site.pagecontent | where: "slug", "courses" | first %}
+{% assign page = site.pages | where: "slug", "courses" | first %}
 
 <!-- ============================================ -->
 <!--                Courses                       -->

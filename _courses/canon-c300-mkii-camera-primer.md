@@ -37,7 +37,8 @@ Course Page:
     Reviewer: Tom L.
   - Text: Very condensed and full of knowledge. Thank You!
     Reviewer: Lukasz K.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - canon-c500-mkii-camera-primer
   - arri-alexa-mini-camera-primer
   - canon-c200

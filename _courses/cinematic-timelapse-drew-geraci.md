@@ -43,7 +43,8 @@ Course Page:
     Reviewer: Luke S.
   - Text: Excellent. Fast paced, no fluff. Incredible examples.
     Reviewer: Marshall C.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - filmmaking-for-photographers
   - ray-roman-master-the-moment-wedding-filmmaking-masterclass
   - doug-jensen-wildlife-cinematography-master-class

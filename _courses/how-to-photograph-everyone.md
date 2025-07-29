@@ -37,7 +37,8 @@ Course Page:
     Reviewer: Oliver S.
   - Text: Great course!
     Reviewer: Fidel V.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - how-to-wow
   - speedlites-the-power-in-the-possibilities
   - filmmaking-for-photographers

@@ -41,7 +41,8 @@ Course Page:
   - Text: Useful information for those new to pitching and pitch decks. Clear walkthrough
       with examples and design considerations.
     Reviewer: Kasiemba O.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - producing-from-the-front
   - selling-the-punch
   - starting-youtube-channel

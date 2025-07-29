@@ -29,7 +29,8 @@ Course Page:
   - "/assets/images/courses/from-scene-to-screen/from-scene-to-screen-5.jpg"
   - "/assets/images/courses/from-scene-to-screen/from-scene-to-screen-6.jpg"
   Review Average: 3.9
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - cinematography-for-directors
   - the-language-of-lighting
   - the-art-and-science-of-lenses

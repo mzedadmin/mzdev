@@ -6,8 +6,17 @@
   <div class="cs-container">
     <ul class="cs-card-group">
       <li class="cs-item">
-        <span class="cs-number">{{ include.course['Course Card']['Runtime Hours'] }}</span>
-        <span class="cs-stat-text">Hours Long</span>
+        {% if include.course['Course Card']['Runtime Hours'] == 0 and include.course['Course Card']['Runtime Minutes'] > 0 %}
+          <span class="cs-number">{{ include.course['Course Card']['Runtime Minutes'] }}</span>
+          <span class="cs-stat-text">Minutes Long</span>
+        {% else %}
+          <span class="cs-number">{{ include.course['Course Card']['Runtime Hours'] }}</span>
+          {% if include.course['Course Card']['Runtime Hours'] == 1 %}
+            <span class="cs-stat-text">Hour Long</span>
+          {% else %}
+            <span class="cs-stat-text">Hours Long</span>
+          {% endif %}
+        {% endif %}
       </li>
       <li class="cs-item">
         <span class="cs-number">{{ include.course['Course Card']['Lessons'] }}</span>

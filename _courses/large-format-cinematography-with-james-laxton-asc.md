@@ -44,7 +44,8 @@ Course Page:
       goals, and pushing the camera and scene to the visual limits. Very informative
       and creatively inspiring workshop.
     Reviewer: German D.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - the-art-technique-of-film-editing
   - arri-christmas-master-class-with-julio-macat-asc
   - certified-online-training-for-large-format-camera-system

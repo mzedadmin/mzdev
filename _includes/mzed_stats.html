@@ -5,7 +5,7 @@
 <!-- prettier-ignore -->
 {% assign total_lessons = 0 %}
 {% for course in site.courses %}
-  {% assign total_lessons = total_lessons | plus: course.lessons %}
+  {% assign total_lessons = total_lessons | plus: course['Course Card']['Lessons'] %}
 {% endfor %}
 
 <!-- No headers, so no section tag -->
@@ -71,7 +71,7 @@
         />
       </picture>
       <div class="cs-flex-group">
-        <span class="cs-number">{{ section.educators_count | default: "35+" }}</span>
+        <span class="cs-number">{{ site.educators.size | default: "35+" }}</span>
         <span class="cs-stat">Educators</span>
       </div>
     </li>

@@ -42,7 +42,8 @@ Course Page:
   - Text: Excellent course filled with lots of useful information for anyone looking
       to use Luts.
     Reviewer: Douglas F.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - the-secrets-of-optics
   - mastering-color
   - directing-color

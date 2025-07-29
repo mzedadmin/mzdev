@@ -47,7 +47,8 @@ Course Page:
   - Text: Perfect for anyone looking to master the R5C for video work. The 180 VR
       section was particularly helpful.
     Reviewer: Shaun M.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - canon-c500-mkii-camera-primer
   - arri-alexa-mini-camera-primer
   - canon-c200

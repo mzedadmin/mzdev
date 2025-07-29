@@ -4,7 +4,7 @@ position: 46
 Course Card:
   Title: The Definitive Guide to DaVinci Resolve
   Educator: Ollie Kenchington
-  Image: "/assets/images/courses/the-definitive-guide-to-davinci-resolve/the- definitive-guide-to-davinci-resolve.jpg"
+  Image: "/assets/images/courses/the-definitive-guide-to-davinci-resolve/the-definitive-guide-to-davinci-resolve.jpg"
   Description: Official Blackmagic Design training covering editing, motion graphics,
     color correction, and audio tools in DaVinci Resolve, plus Resolve 16 updates.
   Lessons: 16
@@ -45,7 +45,8 @@ Course Page:
       which will have you being more equipped as a beginner. Looking forward to the
       rest of the Resolve courses.
     Reviewer: Kareen W.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - the-beginners-guide-to-davinci-resolve
   - the-cutting-edge
   - advanced-editing-with-davinci-resolve

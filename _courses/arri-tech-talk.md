@@ -28,7 +28,8 @@ Course Page:
   - "/assets/images/courses/arri-tech-talk/arri-tech-talk-5.jpg"
   - "/assets/images/courses/arri-tech-talk/arri-tech-talk-6.jpg"
   Review Average: 
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - arri-lighting-systems-control
   - certified-online-training-for-large-format-camera-system
   - arri-christmas-master-class-with-julio-macat-asc

@@ -34,7 +34,8 @@ Course Page:
       how to build their own anamorphic lens set. The teacher is prepared and supports
       the explanations with demonstrations.
     Reviewer: Alessandro I.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - anamorphic-cookbook
   - anamorfake-it-until-you-make-it
   - secrets-of-optics

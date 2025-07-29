@@ -40,7 +40,8 @@ Course Page:
   - Text: Excellent Course. Concise, with a lot of tips and real workflows. One of
       the best I have seen so far!
     Reviewer: Matias B.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - the-beginners-guide-to-davinci-resolve
   - the-cutting-edge
   - starting-youtube-channel

@@ -29,7 +29,8 @@ Course Page:
   - "/assets/images/courses/panasonic-eva1/panasonic-eva1-5.jpg"
   - "/assets/images/courses/panasonic-eva1/panasonic-eva1-6.jpg"
   Review Average: 4.35
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - canon-c200
   - arri-amira
   - canon-r5c-ultimate-video-manual

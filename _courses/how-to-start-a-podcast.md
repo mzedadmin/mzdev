@@ -4,7 +4,7 @@ position: 30
 Course Card:
   Title: How to Start a Podcast
   Educator: Latasha James
-  Image: "/assets/images/courses/how-to-start-a-podcast.jpg"
+  Image: "/assets/images/courses/how-to-start-a-podcast/how-to-start-a-podcast.jpg"
   Description: Learn everything about podcast creation, from planning and equipment
     setup to interviewing, editing, marketing, and monetization.
   Lessons: 29
@@ -41,7 +41,8 @@ Course Page:
   - Text: Excellent overview of setting up a Podcast business with some short segment
       deep-diving into software she uses for various purposes to produce the podcast.
     Reviewer: Atwood R.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - starting-youtube-channel
   - producing-from-the-front
   - writing-101

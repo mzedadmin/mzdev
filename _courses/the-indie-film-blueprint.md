@@ -45,7 +45,8 @@ Course Page:
       the life and challenges that a filmmaker who wants to start this career must
       face.
     Reviewer: Alessandro I.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - short-films-101
   - fundamentals-of-directing
   - filmmaking-for-photographers

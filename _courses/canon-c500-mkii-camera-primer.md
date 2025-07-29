@@ -4,7 +4,7 @@ position: 17
 Course Card:
   Title: Canon C500 MkII Camera Primer
   Educator: Jem Schofield
-  Image: "/assets/images/courses/C500MkII-camera-primer.jpg"
+  Image: "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer.jpg"
   Description: Master the Canon C500 Mark II's core features and maximize your results
     on set with this comprehensive primer on the full-frame cinema camera.
   Lessons: 16
@@ -20,8 +20,13 @@ Course Page:
     in an ultra-compact form-factor. After watching this in-depth primer course you
     will have a thorough understanding of the camera’s core features and be in a position
     to maximise your results when on set.
-  Main Image: "/assets/images/courses/C500MkII-camera-primer/c500-mkii-camera-primer-main.jpg"
+  Main Image: "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-1.jpg"
   Additional Images: 
+  - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-2.jpg"
+  - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-3.jpg"
+  - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-4.jpg"
+  - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-5.jpg"
+  - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-6.jpg"
   Review Average: 4.8
   Reviews:
   - Text: Great course! Familiarizes you with the C500 Mark II and gives you the essentials
@@ -33,8 +38,11 @@ Course Page:
   - Text: Jem is always on point and his steady, intelligent delivery with just enough
       side explanations and tips is greatly appreciated.
     Reviewer: Susan C.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
+  - canon-c200
   - arri-alexa-mini-camera-primer
+  - canon-c300-mkii-camera-primer
   Lessons:
   - Lesson Title: What's in the Box
     Lesson Description: |-

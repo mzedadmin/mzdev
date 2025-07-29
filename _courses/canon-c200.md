@@ -36,7 +36,8 @@ Course Page:
     Reviewer: Juan V.
   - Text: Awesome. I learned a ton.
     Reviewer: Gary V.
-  Recommended Courses:
+  # NOTE: Only include exactly 3 recommended courses below
+  Courses:
   - canon-c300-mkii-camera-primer
   - doug-jensen-sony-fx6-camera-master-class
   - canon-c500-mkii-camera-primer
