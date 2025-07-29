@@ -41,7 +41,6 @@ Course Page:
   - Text: So helpful as I plan my adventure. Thorough, thoughtful, and based on such
       a wealth of experience.
     Reviewer: Robin K.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - producing-from-the-front
   - filmmaking-for-photographers

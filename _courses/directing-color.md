@@ -46,7 +46,6 @@ Course Page:
       the amount of knowledge and insight has transformed my way of seeing light,
       color and storytelling.
     Reviewer: Aurelien T.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - mastering-color
   - color-correction-with-davinci-resolve

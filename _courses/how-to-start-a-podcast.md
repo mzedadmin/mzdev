@@ -41,7 +41,6 @@ Course Page:
   - Text: Excellent overview of setting up a Podcast business with some short segment
       deep-diving into software she uses for various purposes to produce the podcast.
     Reviewer: Atwood R.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - starting-youtube-channel
   - producing-from-the-front

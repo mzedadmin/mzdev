@@ -36,7 +36,6 @@ Course Page:
   - Text: A well-thought out course. The interviews were a nice touch to get various
       perspectives on the different topics.
     Reviewer: Kareen W.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - building-a-pitch-deck
   - selling-the-punch

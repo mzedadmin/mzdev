@@ -37,7 +37,6 @@ Course Page:
     Reviewer: Mark A.
   - Text: Very informative course, with practical examples and useful suggestions.
     Reviewer: Matteo B.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - building-a-pitch-deck
   - producing-from-the-front

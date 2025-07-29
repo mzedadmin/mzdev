@@ -51,7 +51,6 @@ Course Page:
       like a college student learning theory from a PhD. It was very practical and
       I enjoyed it very much, highly recommend.
     Reviewer: German D.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - arri-lighting-systems-control
   - large-format-cinematography-with-james-laxton-asc

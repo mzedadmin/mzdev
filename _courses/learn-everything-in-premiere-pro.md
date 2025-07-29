@@ -35,7 +35,6 @@ Course Page:
     Reviewer: Micha H.
   - Text: Very comprehensive, but very very long!
     Reviewer: Robert L.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - the-art-technique-of-film-editing
   - the-cutting-edge

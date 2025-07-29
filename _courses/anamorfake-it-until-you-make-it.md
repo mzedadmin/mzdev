@@ -35,7 +35,6 @@ Course Page:
     Reviewer: Mark K.
   - Text: Loved it!
     Reviewer: Peter G.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - anamorphic-cookbook
   - anamorphic-cookbook-part-2

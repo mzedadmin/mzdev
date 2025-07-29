@@ -51,7 +51,6 @@ Course Page:
       you really do a great job at breaking down all of the information in a way that
       is easy to understand for all levels. Thank you for a great Masterclass!
     Reviewer: David C.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - filmmaking-for-photographers
   - cinematic-timelapse-drew-geraci

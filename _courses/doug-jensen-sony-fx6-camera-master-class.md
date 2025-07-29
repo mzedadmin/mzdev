@@ -36,7 +36,6 @@ Course Page:
   - Text: The masterclass is excellent and has saved me countless hours trawling through
       the manual, and also given me a real insight into the best ways to utilise all
       the features this camera has to offer.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - certified-online-training-for-camera-systems
   - canon-r5c-ultimate-video-manual

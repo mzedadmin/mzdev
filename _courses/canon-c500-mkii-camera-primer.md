@@ -21,7 +21,7 @@ Course Page:
     will have a thorough understanding of the camera’s core features and be in a position
     to maximise your results when on set.
   Main Image: "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-1.jpg"
-  Additional Images: 
+  Additional Images:
   - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-2.jpg"
   - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-3.jpg"
   - "/assets/images/courses/canon-c500-mkii-camera-primer/canon-c500-mkii-camera-primer-4.jpg"
@@ -38,7 +38,6 @@ Course Page:
   - Text: Jem is always on point and his steady, intelligent delivery with just enough
       side explanations and tips is greatly appreciated.
     Reviewer: Susan C.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - canon-c200
   - arri-alexa-mini-camera-primer

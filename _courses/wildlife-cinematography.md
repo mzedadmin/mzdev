@@ -28,13 +28,15 @@ Course Page:
   - "/assets/images/courses/wildlife-cinematography/wildlife-cinematography-6.jpg"
   Review Average: 4.25
   Reviews:
-  - Text: Excellent teaching material that numerous aspects of wildlife cinema-photography utilizing various large cameras and lens. Covered exposure, lighting, composition, and storytelling techniques. Excellent course.
+  - Text: Excellent teaching material that numerous aspects of wildlife cinema-photography
+      utilizing various large cameras and lens. Covered exposure, lighting, composition,
+      and storytelling techniques. Excellent course.
     Reviewer: Everett D.
   - Text: To get advise from Paul is like having a personal masterclass.
     Reviewer: Mauricio V.
-  - Text: Nice to see some Legends teaching and some Pro's executing and facing challenges. Learned a lot. Thanks!
+  - Text: Nice to see some Legends teaching and some Pro's executing and facing challenges.
+      Learned a lot. Thanks!
     Reviewer: Sergi C.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - lighting-people-on-location
   - the-language-of-lighting

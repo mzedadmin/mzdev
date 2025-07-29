@@ -43,7 +43,6 @@ Course Page:
   - Text: Technical is always easy to learn and share. But what he shares is the emotions,
       thinking, empathy on how he makes his images.
     Reviewer: Florian P.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - how-to-photograph-everyone
   - ray-roman-master-the-moment-wedding-filmmaking-masterclass

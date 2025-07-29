@@ -45,7 +45,6 @@ Course Page:
       step by step instructions. This course is worth the cost of the subscription
       :)
     Reviewer: Khristian A.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - speed-editing-final-cut-pro
   - short-films-101

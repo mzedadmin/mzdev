@@ -44,7 +44,6 @@ Course Page:
   - Text: Loved the information and the attitude that anamorphic is a tool to tell
       a story, not the be all, end all.
     Reviewer: Jon Z.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - anamorfake-it-until-you-make-it
   - anamorphic-cookbook-part-2

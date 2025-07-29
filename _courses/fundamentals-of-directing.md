@@ -43,7 +43,6 @@ Course Page:
       analysis and discussion from an actual scene. I am looking forward to using
       this same practice to analyze some of my favorite scenes in the future.
     Reviewer: Kasiemba O.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - vincent-laforet-directing-motion
   - anamorphic-cookbook

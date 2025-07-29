@@ -54,7 +54,6 @@ Course Page:
       Vincent's formulaic and time-proven coverage principles and you will be well
       on your way to a successful shoot.
     Reviewer: Dana A.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - cinematography-for-directors
   - filmmaking-for-photographers

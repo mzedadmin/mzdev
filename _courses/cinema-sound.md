@@ -60,7 +60,6 @@ Course Page:
       Mark is a great presentator, a fun one who delivers the whole load of his knowledge
       with power and enthusiam.'
     Reviewer: Alenz Atman
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - how-to-start-a-podcast
   - advanced-editing-with-davinci-resolve

@@ -5,7 +5,8 @@ Course Card:
   Title: Get Me Started with Adobe Premiere Pro
   Educator: Digby Hogan
   Image: "/assets/images/courses/get-me-started-premiere-pro/get-me-started-premiere-pro.jpg"
-  Description: A comprehensive beginner's guide to Adobe Premiere Pro, covering all the fundamentals you need to start editing professionally.
+  Description: A comprehensive beginner's guide to Adobe Premiere Pro, covering all
+    the fundamentals you need to start editing professionally.
   Lessons: 3
   Runtime Hours: 1
   Runtime Minutes: 3
@@ -14,10 +15,15 @@ Course Card:
 Course Page:
   Video: https://vimeo.com/1075189839
   Main Title: Get Me Started with Adobe Premiere Pro
-  Main Text: |-
-    "Get Me Started with Adobe Premiere Pro" is a beginner-friendly, three-part mini-series taught by instructor Digby Hogan that teaches video editing fundamentals in under 60 minutes. The course is designed for busy individuals who want to learn at their own pace, covering essential skills from program setup and interface navigation to advanced editing techniques. 
-    
-    You will learn how to manage project files, import media, navigate the interface, set up timelines, find royalty-free music, master editing techniques like cutting to music beats and using jump cuts, add titles, and export finished videos. By the end of this concise course, you will have the confidence and skills to create and share your own video stories.
+  Main Text: "\"Get Me Started with Adobe Premiere Pro\" is a beginner-friendly, three-part
+    mini-series taught by instructor Digby Hogan that teaches video editing fundamentals
+    in under 60 minutes. The course is designed for busy individuals who want to learn
+    at their own pace, covering essential skills from program setup and interface
+    navigation to advanced editing techniques. \n\nYou will learn how to manage project
+    files, import media, navigate the interface, set up timelines, find royalty-free
+    music, master editing techniques like cutting to music beats and using jump cuts,
+    add titles, and export finished videos. By the end of this concise course, you
+    will have the confidence and skills to create and share your own video stories."
   Main Image: "/assets/images/courses/get-me-started-premiere-pro/get-me-started-premiere-pro-1.jpg"
   Additional Images:
   - "/assets/images/courses/get-me-started-premiere-pro/get-me-started-premiere-pro-2.jpg"
@@ -26,7 +32,6 @@ Course Page:
   - "/assets/images/courses/get-me-started-premiere-pro/get-me-started-premiere-pro-5.jpg"
   - "/assets/images/courses/get-me-started-premiere-pro/get-me-started-premiere-pro-6.jpg"
   Review Average: 4.9
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - learn-everything-in-premiere-pro
   - the-art-technique-of-film-editing
@@ -74,3 +79,4 @@ Course Page:
 course_purchase: false
 layout: course
 ---
+

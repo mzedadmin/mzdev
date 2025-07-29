@@ -48,7 +48,6 @@ Course Page:
       such a talented editor who shares their wisdom on the craft of film editing
       in articulate depth and practical detail.
     Reviewer: Jonny E.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - the-cutting-edge
   - the-beginners-guide-to-davinci-resolve

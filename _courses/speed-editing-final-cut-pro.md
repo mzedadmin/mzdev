@@ -39,7 +39,6 @@ Course Page:
       after years of both teaching and using Final Cut I learned a ton of useful info
       to both help teach my classes and edit my own projects. Thanks Dave.
     Reviewer: Brent M.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - the-beginners-guide-to-davinci-resolve
   - the-cutting-edge

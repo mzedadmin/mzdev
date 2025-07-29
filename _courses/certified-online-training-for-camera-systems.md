@@ -42,7 +42,6 @@ Course Page:
   - Text: An incredible course that helps further knowledge and workflows with ARRI
       camera systems!
     Reviewer: David P.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - large-format-cinematography-with-james-laxton-asc
   - certified-online-training-for-large-format-camera-systems

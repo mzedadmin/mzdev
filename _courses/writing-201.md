@@ -29,13 +29,15 @@ Course Page:
   - "/assets/images/courses/writing-201/writing-201-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: Great course! Enjoyed it and learned a great deal. Loved the walk through of the 3 acts and examples from lots of movies.
+  - Text: Great course! Enjoyed it and learned a great deal. Loved the walk through
+      of the 3 acts and examples from lots of movies.
     Reviewer: Christopher E.
-  - Text: Really great course. I learned a lot from it. I also very much enjoy Seth's funny, and very engaging teaching style, which created additional enjoyment during this course. Thank you.
+  - Text: Really great course. I learned a lot from it. I also very much enjoy Seth's
+      funny, and very engaging teaching style, which created additional enjoyment
+      during this course. Thank you.
     Reviewer: Patrick B.
   - Text: Love the pace and Seth's way of creating enthusiasm. Awesome short course.
     Reviewer: Nathan M.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - writing-101
   - short-films-101

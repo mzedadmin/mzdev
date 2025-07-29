@@ -34,7 +34,6 @@ Course Page:
   - Text: Excellent course, that is very detailed and explained fluently, on lenses.
       This is a must for anyone wanting to learn cinematography.
     Reviewer: Marco M.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - cinematography-for-directors
   - anamorphic-cookbook

@@ -46,7 +46,6 @@ Course Page:
       you can be. And he does it, with unbelievable humility - he's my new favorite
       teacher and role-model. Thank you, Ray!!!!!
     Reviewer: Sharath P.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - filmmaking-for-photographers
   - how-to-wow

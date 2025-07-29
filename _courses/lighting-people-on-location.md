@@ -42,7 +42,6 @@ Course Page:
     Reviewer: Alessandro I.
   - Text: Amazing content. I learned a lot, thank you.
     Reviewer: Luis O.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - wildlife-cinematography
   - filmmaking-for-photographers

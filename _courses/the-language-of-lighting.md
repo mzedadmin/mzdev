@@ -45,7 +45,6 @@ Course Page:
       practical examples. Recommended for those who want to understand how a certain
       lighting tells a story.
     Reviewer: Alessandro I.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - the-art-and-science-of-lenses
   - lighting-people-on-location

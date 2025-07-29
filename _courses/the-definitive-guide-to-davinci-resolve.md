@@ -45,7 +45,6 @@ Course Page:
       which will have you being more equipped as a beginner. Looking forward to the
       rest of the Resolve courses.
     Reviewer: Kareen W.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - the-beginners-guide-to-davinci-resolve
   - the-cutting-edge

@@ -36,7 +36,6 @@ Course Page:
     Reviewer: Pablo F.
   - Text: Very good and informative....short and simple beginner's guide explanations.
     Reviewer: Hiren B.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - arri-amira-camera-primer
   - certified-online-training-for-large-format-camera-systems

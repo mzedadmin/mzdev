@@ -42,7 +42,6 @@ Course Page:
       of details, and explanations. I highly recommend to do this training if you
       work with ARRI cameras. You will learn so much more.
     Reviewer: Pauline D.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - certified-online-training-for-camera-systems
   - large-format-cinematography-with-james-laxton-asc

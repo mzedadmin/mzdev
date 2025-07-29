@@ -50,7 +50,6 @@ Course Page:
       I've worked with many setups like he demonstrated, but understanding the underlying
       reasoning for the choices is immensely valuable.
     Reviewer: Sean E.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - visual-storytelling-2
   - directing-motion

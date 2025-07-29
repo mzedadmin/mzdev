@@ -41,7 +41,6 @@ Course Page:
   - Text: Ollie is a clear and insightful teacher. Very pleasant to listen to even
       over a long period of time.
     Reviewer: Filippo C.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - beginners-guide-to-davinci-resolve
   - color-correction-with-davinci-resolve

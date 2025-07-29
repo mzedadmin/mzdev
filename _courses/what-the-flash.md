@@ -30,12 +30,13 @@ Course Page:
   - "/assets/images/courses/what-the-flash/what-the-flash-6.jpg"
   Review Average: 4.5
   Reviews:
-  - Text: Bob makes it look easy - you can tell he's a master. Very inspirational and insightful. He encouraged me to dust off my speed lights and create more powerful images.
+  - Text: Bob makes it look easy - you can tell he's a master. Very inspirational
+      and insightful. He encouraged me to dust off my speed lights and create more
+      powerful images.
     Reviewer: Greg M.
   - Text: Bob's teaching style is fantastic. He breaks down complex lighting setups
       in a way that's easy to understand and replicate.
     Reviewer: Maria R.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - speedlites-the-power-in-the-possibilities
   - lighting-people-on-location

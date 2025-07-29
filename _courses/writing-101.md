@@ -16,12 +16,13 @@ Course Card:
 Course Page:
   Video: https://vimeo.com/293675560
   Main Title: Screenwriting Fundamentals
-  Main Text: |-
-    Join writer and director Seth Worley as he gives a succinct break-down of the fundamentals of screenwriting, using established storytelling paradigms and well-known cinematic examples. 
-    
-    This course is ideal for anyone new to screenwriting as well as established writers looking for refreshing ideas to help them organically flesh out a story.
+  Main Text: "Join writer and director Seth Worley as he gives a succinct break-down
+    of the fundamentals of screenwriting, using established storytelling paradigms
+    and well-known cinematic examples. \n\nThis course is ideal for anyone new to
+    screenwriting as well as established writers looking for refreshing ideas to help
+    them organically flesh out a story."
   Main Image: "/assets/images/courses/writing-101/writing-101-1.jpg"
-  Additional Images: 
+  Additional Images:
   - "/assets/images/courses/writing-101/writing-101-2.jpg"
   - "/assets/images/courses/writing-101/writing-101-3.jpg"
   - "/assets/images/courses/writing-101/writing-101-4.jpg"
@@ -29,14 +30,14 @@ Course Page:
   - "/assets/images/courses/writing-101/writing-101-6.jpg"
   Review Average: 4.6
   Reviews:
-  - Text: |-
-      Masterful by Seth putting a unique take on the script process - especially finding the parallels from Act 1 to Act 3.
+  - Text: Masterful by Seth putting a unique take on the script process - especially
+      finding the parallels from Act 1 to Act 3.
     Reviewer: Robert B.
-  - Text: |-
-      Awesome! Learned more about writing in the half an hour the course takes to watch than in the past few months of YouTube tutorials. Just awesome!
+  - Text: Awesome! Learned more about writing in the half an hour the course takes
+      to watch than in the past few months of YouTube tutorials. Just awesome!
     Reviewer: Constantin T.
-  - Text: |-
-      A great introduction to screenwriting that focuses more on actually getting you to start writing than technicalities.
+  - Text: A great introduction to screenwriting that focuses more on actually getting
+      you to start writing than technicalities.
     Reviewer: Daniel G.
   Lessons:
   - Lesson Title: Introduction

@@ -43,7 +43,6 @@ Course Page:
       It was pitched at the perfect level and demonstrates Phil's complete mastery
       of his subject in an amusing and memorable way.
     Reviewer: Sarah L.
-  # NOTE: Only include exactly 3 recommended courses below
   Courses:
   - philip-bloom-cinematic-masterclass
   - the-indie-film-blueprint
