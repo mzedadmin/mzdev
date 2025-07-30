@@ -1,9 +1,11 @@
 ---
 title: Lesley Powers
-subtitle: Filmmaker, Designer
 position: 26
+subtitle: Filmmaker, Designer
 name: Lesley Powers
-short_bio: "Lesley Powers is a narrative filmmaker based in Los Angeles. She has produced and directed several films, and recently graduated from Sundance's Directing Actors Co//lab. Lesley is also a guru in designing pitch decks for creative projects."
+short_bio: Lesley Powers is a narrative filmmaker based in Los Angeles. She has produced
+  and directed several films, and recently graduated from Sundance's Directing Actors
+  Co//lab. Lesley is also a guru in designing pitch decks for creative projects.
 bio: |-
   Lesley Powers is a narrative director and pitch deck designer based in Los Angeles. As a content creator herself, she knows how to take another creator's vision and put pen to paper or mouse to Photoshop. Pitch decks are a niche that Powers describes as a digital vision board. The collaboration between graphic designer and creator is so important. Entrusting someone to give life to your story is no small feat, and one Powers takes very seriously.
 

@@ -1,9 +1,14 @@
 ---
 title: Ollie Kenchington
-subtitle: Filmmaker, Editor, Colorist
 position: 3
+subtitle: Filmmaker, Editor, Colorist
 name: Ollie Kenchington
-short_bio: "Ollie's company, Korro Films, produces commercials, short films, documentaries and branded content for major international clients, with Ollie carrying out senior editor and colourist duties on every project. Ollie is an assured practitioner across all areas of filmmaking, giving him a deep understanding of the creative process which allows his agency to flourish in this competitive industry. Additionally he is an accomplished educator, and founder of Korro Academy."
+short_bio: Ollie's company, Korro Films, produces commercials, short films, documentaries
+  and branded content for major international clients, with Ollie carrying out senior
+  editor and colourist duties on every project. Ollie is an assured practitioner across
+  all areas of filmmaking, giving him a deep understanding of the creative process
+  which allows his agency to flourish in this competitive industry. Additionally he
+  is an accomplished educator, and founder of Korro Academy.
 bio: |-
   Ollie set up Korro Films, a UK based film production company, in 2008. Under
   his direction Korro produces commercials, short films, documentaries and branded

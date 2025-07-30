@@ -1,9 +1,11 @@
 ---
 title: Tal Lazar
-subtitle: Cinematographer, Producer, Educator
 position: 34
+subtitle: Cinematographer, Producer, Educator
 name: Tal Lazar
-short_bio: "Tal Lazar is a cinematographer and educator whose courses are taught at leading film schools such as Columbia University, the American Film Institute and Sundance Institute."
+short_bio: Tal Lazar is a cinematographer and educator whose courses are taught at
+  leading film schools such as Columbia University, the American Film Institute and
+  Sundance Institute.
 bio: |-
   Tal Lazar is a Cinematographer, Producer and Educator. Tal has worked on numerous international box office successes, with Vietnam at the forefront. Domestically, Lazar's projects have found homes in theatrical as well as online distribution.
 

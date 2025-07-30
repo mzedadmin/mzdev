@@ -1,9 +1,12 @@
 ---
 title: Rubidium Wu
-subtitle: Writer, Director, Producer, DP
 position: 31
+subtitle: Writer, Director, Producer, DP
 name: Rubidium Wu
-short_bio: "Rubidium is a writer, director, producer and cinematographer. He has a been working as a professional filmmaker for the last 20 years, including directing commercials for Nintendo and Sony Playstation, the documentary 'Portraits of Silence' and two feature films, 'Brooklyn Tide' and the upcoming 'Devil's Fortune'."
+short_bio: Rubidium is a writer, director, producer and cinematographer. He has a
+  been working as a professional filmmaker for the last 20 years, including directing
+  commercials for Nintendo and Sony Playstation, the documentary 'Portraits of Silence'
+  and two feature films, 'Brooklyn Tide' and the upcoming 'Devil's Fortune'.
 bio: Rubidium is a writer, director, producer and cinematographer. He has a been working
   as a professional filmmaker for the last 20 years, including directing commercials
   for Nintendo and Sony Playstation, the documentary \"Portraits of Silence\" and

@@ -1,9 +1,13 @@
 ---
 title: Jem Schofield
-subtitle: Producer, DP, Educator
 position: 23
+subtitle: Producer, DP, Educator
 name: Jem Schofield
-short_bio: "Jem Schofield is a producer, DP and educator and the founder of theC47, a full-service production company that focuses on video production, filmmaking, consulting & education. He spends most of his time producing content, educating others and otherwise being borderline obsessed with cameras, production and the craft of lighting."
+short_bio: Jem Schofield is a producer, DP and educator and the founder of theC47,
+  a full-service production company that focuses on video production, filmmaking,
+  consulting & education. He spends most of his time producing content, educating
+  others and otherwise being borderline obsessed with cameras, production and the
+  craft of lighting.
 bio: |-
   Jem Schofield is a producer, DP and educator and the founder of theC47, a full-service production company that focuses on video production, filmmaking, consulting & education. He started this journey as a kid (barely double digits) with a used Pentax K-1000. It was a great start to his education in this field, and nowadays he spends most of his time producing content, educating others and otherwise being borderline obsessed with cameras, production and the craft of lighting.
 

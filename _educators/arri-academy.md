@@ -1,9 +1,11 @@
 ---
 title: ARRI Academy
-subtitle: Film Industry Education
 position: 17
+subtitle: Film Industry Education
 name: ARRI Academy
-short_bio: "Led by experienced industry professionals, ARRI Academy courses provide unrivalled insight into the full possibilities of working with ARRI camera systems, lenses, lights and accessories."
+short_bio: Led by experienced industry professionals, ARRI Academy courses provide
+  unrivalled insight into the full possibilities of working with ARRI camera systems,
+  lenses, lights and accessories.
 bio: |-
   Led by experienced industry professionals, ARRI Academy courses provide unrivalled insight into the full possibilities of working with ARRI camera systems, lenses, lights and accessories.
 

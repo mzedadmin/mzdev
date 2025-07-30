@@ -1,9 +1,10 @@
 ---
 title: America Young
-subtitle: Stunt Coordinator, Director
 position: 15
+subtitle: Stunt Coordinator, Director
 name: America Young
-short_bio: "America Young works as a Director, Stunt Coordinator, and Stunt Woman in Film, Animation, TV, and Video Games."
+short_bio: America Young works as a Director, Stunt Coordinator, and Stunt Woman in
+  Film, Animation, TV, and Video Games.
 bio: |-
   America Young was awarded the 2020 Humanitarian award by UCSD for her work promoting women in the film industry.
 

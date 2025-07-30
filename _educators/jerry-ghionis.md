@@ -1,9 +1,11 @@
 ---
 title: Jerry Ghionis
-subtitle: Photographer
 position: 13
+subtitle: Photographer
 name: Jerry Ghionis
-short_bio: "Jerry Ghionis is widely celebrated as being among the top five best wedding photographers in the world. He has emerged as one of the most influential wedding photographers of the 21st century."
+short_bio: Jerry Ghionis is widely celebrated as being among the top five best wedding
+  photographers in the world. He has emerged as one of the most influential wedding
+  photographers of the 21st century.
 bio: |-
   Jerry Ghionis is widely celebrated as being among the top five best wedding photographers in the world. He has emerged as one of the most influential wedding photographers of the 21st century. Inheriting the strong european sense of style and panache that's synonymous with the Greek culture, combined with the relaxed Australian sensibility, Jerry and his wife, Melissa, are based in Melbourne, Australia and Beverly Hills, USA. Together they travel frequently on international photography assignments and speaking engagements. Married in January 2011, Jerry and Melissa work as a team and have developed a powerful creative and business force.
 

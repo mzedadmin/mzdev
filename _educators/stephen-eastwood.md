@@ -1,9 +1,11 @@
 ---
 title: Stephen Eastwood
-subtitle: Photographer
 position: 12
+subtitle: Photographer
 name: Stephen Eastwood
-short_bio: "As a beauty and high-fashion specialist, Stephen's photographs are always striking. His ability to use lighting to sculpt models and consistently create alluring images has made him a highly sought after commercial photographer."
+short_bio: As a beauty and high-fashion specialist, Stephen's photographs are always
+  striking. His ability to use lighting to sculpt models and consistently create alluring
+  images has made him a highly sought after commercial photographer.
 bio: As a beauty and high-fashion specialist, Stephen's photographs are always striking.
   His ability to use lighting to sculpt models and consistently create alluring images
   has made him a highly sought after commercial photographer.

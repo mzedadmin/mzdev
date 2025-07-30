@@ -1,9 +1,12 @@
 ---
 title: Mitch Gross
-subtitle: Educator, Filmmaker, Product Specialist
 position: 27
+subtitle: Educator, Filmmaker, Product Specialist
 name: Mitch Gross
-short_bio: "Industry veteran Mitch Gross is the Cinema Product Manager at Panasonic USA. He has been working in the New York film industry for more than fifteen years and has been the DP on more than twenty feature films as well as hundreds of commercials, music videos, documentaries and other productions."
+short_bio: Industry veteran Mitch Gross is the Cinema Product Manager at Panasonic
+  USA. He has been working in the New York film industry for more than fifteen years
+  and has been the DP on more than twenty feature films as well as hundreds of commercials,
+  music videos, documentaries and other productions.
 bio: Industry veteran Mitch Gross is the Cinema Product Manager at Panasonic USA.
   He has been working in the New York film industry for more than fifteen years and
   is a respected voice on industry blogs and discussion boards. Formerly Applications
