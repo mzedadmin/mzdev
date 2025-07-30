@@ -1,7 +1,9 @@
 ---
-title: Director, Filmmaker, Photographer
+title: Vincent Laforet
+subtitle: Director, Filmmaker, Photographer
 position: 7
 name: Vincent Laforet
+short_bio: "Vincent Laforet is among the most influential pioneers working in film and contemporary photography today. His work includes iconic and inventive commercials for brands including Apple and Nike, as well as photography for magazines such as National Geographic, Vanity Fair, and Sports Illustrated."
 bio: |-
   Vincent Laforet is among the most influential pioneers working in contemporary photography and film today. His unique commercials for such well-known brands as Apple, Nike, General Electric, CNN, and Canon, and his groundbreaking photography for magazines such as National Geographic, Vanity Fair, and Sports Illustrated, to name just a few, cover a broad spectrum of subjects and narratives. Yet a common thread runs through his work: It always features cutting-edge technologies that make the photographs and films inventive, iconic and unforgettable.
 

@@ -9,6 +9,7 @@ collections:
   educators:
     title: Educators
     output: true
+    permalink: "/educators/:name/"
   posts:
     title: Posts
     output: true
@@ -31,6 +32,12 @@ defaults:
   values:
     layout: course
     permalink: "/courses/:title/"
+- scope:
+    path: ''
+    type: educators
+  values:
+    layout: educator
+    permalink: "/educators/:title/"
 - scope:
     path: ''
     type: pages

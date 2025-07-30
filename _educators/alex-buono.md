@@ -1,7 +1,9 @@
 ---
-title: Cinematographer, Producer, Director
+title: Alex Buono
+subtitle: Cinematographer, Producer, Director
 position: 8
 name: Alex Buono
+short_bio: "Drawing on his experience as the Director of Photography for the Saturday Night Live film unit for 17 years, Alex is able to instantly deconstruct and replicate almost any genre or visual style. His work as a Cinematographer and Producer have earned him an Academy Award nomination as well as multiple film festival awards."
 bio: "Alex is Director/EP of the Emmy-nominated IFC comedy series DOCUMENTARY NOW!.
   He is also the Writer/Producer of the documentary feature BIGGER STRONGER FASTER*,
   which premiered at the 2008 Sundance Film Festival and won the Special Jury Prize

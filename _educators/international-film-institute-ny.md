@@ -1,7 +1,9 @@
 ---
-title: Film School Preparatory Program
+title: International Film Institute of NY
+subtitle: Film School Preparatory Program
 position: 22
 name: International Film Institute of NY
+short_bio: "With over 24 years of successfully providing a window into the world of filmmaking, the International Film Institute of New York continues to inspire and support individuals on their journey toward either a higher education in film or a foundation to building a career in the industry in a conservatory setting focused on storytelling."
 bio: |-
   With over 24 years of successfully providing a window into the world of filmmaking, the International Film Institute of New York continues to inspire and support individuals on their journey toward either a higher education in film or a foundation to building a career in the industry in a conservatory setting focused on storytelling.
 

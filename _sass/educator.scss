@@ -1,0 +1,310 @@
+/*--        Individual Educator Page       --*/
+
+/* Educator Hero Section */
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+  #educator-hero {
+    background-color: #f7f7f7;
+    padding: var(--sectionPadding);
+  }
+
+  #educator-hero .cs-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    max-width: 51.5rem;
+    width: 100%;
+    gap: 2rem;
+  }
+
+  #educator-hero .cs-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 2rem;
+  }
+
+  #educator-hero .cs-picture {
+    width: 16rem;
+    height: 16rem;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    flex: none;
+  }
+
+  #educator-hero .cs-picture img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  #educator-hero .cs-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+  }
+
+  #educator-hero .cs-title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 900;
+    line-height: 1.2em;
+    margin: 0 0 0.25rem 0;
+    color: var(--headerColor);
+  }
+
+  #educator-hero .cs-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin: 0 0 1.5rem 0;
+  }
+
+  #educator-hero .cs-text {
+    font-size: var(--bodyFontSize);
+    line-height: 1.6em;
+    margin: 0 0 1rem 0;
+    color: var(--bodyTextColor);
+    max-width: 50rem;
+  }
+
+  #educator-hero .cs-social-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  #educator-hero .cs-social-link {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+  }
+
+  #educator-hero .cs-social-link:hover {
+    background-color: var(--primary);
+    border-color: var(--primary);
+  }
+
+  #educator-hero .cs-social-link:hover img {
+    filter: brightness(0) invert(1);
+  }
+
+  #educator-hero .cs-social-link img {
+    width: 1.25rem;
+    height: 1.25rem;
+    transition: filter 0.3s;
+  }
+}
+
+/* Tablet - 768px */
+@media only screen and (min-width: 48rem) {
+  #educator-hero .cs-container {
+    max-width: 80rem;
+  }
+
+  #educator-hero .cs-content {
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  #educator-hero .cs-info {
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  #educator-hero .cs-picture {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+
+/* Desktop - 1024px */
+@media only screen and (min-width: 64rem) {
+  #educator-hero .cs-container {
+    max-width: 90rem;
+  }
+}
+
+/* Educator Courses Section */
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+  #educator-courses {
+    background-color: #fff;
+    padding: var(--sectionPadding);
+  }
+
+  #educator-courses .cs-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    max-width: 51.5rem;
+    width: 100%;
+    gap: 2rem;
+  }
+
+  #educator-courses .cs-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+  }
+
+  #educator-courses .cs-card-group {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    gap: clamp(1rem, 2vw, 2rem);
+    list-style: none;
+  }
+
+  /* Mini Course Card Styles */
+  .course-card-mini {
+    grid-column: span 12;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s;
+  }
+
+  .course-card-mini:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  .course-card-mini-link {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    height: 100%;
+  }
+
+  .course-card-mini-picture {
+    width: 100%;
+    height: 10rem;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .course-card-mini-picture img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+
+  .course-card-mini:hover .course-card-mini-picture img {
+    transform: scale(1.05);
+  }
+
+  .course-card-mini-info {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .course-card-mini-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--headerColor);
+    margin: 0 0 0.5rem 0;
+    line-height: 1.3em;
+  }
+
+  .course-card-mini-description {
+    font-size: 0.875rem;
+    line-height: 1.5em;
+    color: var(--bodyTextColor);
+    margin: 0 0 0.75rem 0;
+    flex: 1;
+  }
+
+  .course-card-mini-stats {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.75rem;
+    color: #666;
+  }
+
+  .course-card-mini-stat {
+    display: flex;
+    align-items: center;
+  }
+}
+
+/* Tablet - 768px */
+@media only screen and (min-width: 48rem) {
+  #educator-courses .cs-container {
+    max-width: 80rem;
+  }
+
+  .course-card-mini {
+    grid-column: span 6;
+  }
+
+  .course-card-mini-link {
+    flex-direction: row;
+  }
+
+  .course-card-mini-picture {
+    width: 12rem;
+    height: 8rem;
+    flex: none;
+  }
+
+  .course-card-mini-info {
+    padding: 1rem 1.5rem;
+  }
+}
+
+/* Desktop - 1024px */
+@media only screen and (min-width: 64rem) {
+  #educator-courses .cs-container {
+    max-width: 90rem;
+  }
+
+  .course-card-mini {
+    grid-column: span 4;
+  }
+
+  .course-card-mini-link {
+    flex-direction: column;
+  }
+
+  .course-card-mini-picture {
+    width: 100%;
+    height: 10rem;
+  }
+}
+
+/* Large Desktop - 1300px */
+@media only screen and (min-width: 81.25rem) {
+  #educator-courses .cs-container {
+    max-width: 100rem;
+  }
+
+  .course-card-mini {
+    grid-column: span 3;
+  }
+}

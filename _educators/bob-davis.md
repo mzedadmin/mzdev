@@ -1,7 +1,9 @@
 ---
-title: Photographer
+title: Bob Davis
+subtitle: Photographer
 position: 11
 name: Bob Davis
+short_bio: "Bob Davis is a renowned portrait photographer who, along with wife Dawn, focuses on creative and stunning wedding photography. With over 25 years experience behind the camera, Bob is a respected educator who shares his passion for photography with students the world over."
 bio: Bob Davis is a renowned portrait photographer who, along with wife Dawn, focuses
   on creative and stunning wedding photography. With over 25 years experience behind
   the camera, Bob is a respected educator who shares his passion for photography with

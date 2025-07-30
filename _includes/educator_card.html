@@ -1,0 +1,27 @@
+{% assign educator = include.educator %}
+<li class="educator-card-item">
+    <a href="{{ educator.url }}" class="educator-card-link" aria-label="learn more about {{ educator.name }}">
+        <picture class="educator-card-picture">
+            <!--Mobile Image-->
+            <source media="(max-width: 600px)" srcset="{{ educator.Image | relative_url }}">
+            <!--Tablet and above Image-->
+            <source media="(min-width: 601px)" srcset="{{ educator.Image | relative_url }}">
+            <img loading="lazy" 
+                 decoding="async" 
+                 src="{{ educator.Image | relative_url }}"
+                 alt="{{ educator.name }}" 
+                 width="400" 
+                 height="400">
+        </picture>
+        <div class="educator-card-info">
+            <h3 class="educator-card-name">{{ educator.name }}</h3>
+            <p class="educator-card-subtitle">{{ educator.subtitle }}</p>
+            <p class="educator-card-bio">
+                {{ educator.short_bio }}
+            </p>
+        </div>
+        <div class="educator-card-overlay">
+            <span class="educator-card-overlay-text">Read More</span>
+        </div>
+    </a>
+</li>

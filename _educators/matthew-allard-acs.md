@@ -1,7 +1,9 @@
 ---
-title: Cinematographer
+title: Matthew Allard ACS
+subtitle: Cinematographer
 position: 14
 name: Matthew Allard ACS
+short_bio: "Matthew Allard is a multi award-winning, ACS accredited freelance Director of Photography with more than 25 years' experience working in almost 50 different countries around the world. Matthew has covered natural disasters, wars and major sporting events all over the globe."
 bio: |-
   Matthew Allard is a multi award-winning, ACS accredited freelance Director of Photography with more than 25 years' experience working in almost 50 different countries around the world. Matthew has covered natural disasters, wars and major sporting events all over the globe. He is now based out of Tokyo, Japan and mainly films documentaries and corporate material for high-profile clients.
 

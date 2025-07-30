@@ -1,7 +1,9 @@
 ---
-title: Writer, Director
+title: Seth Worley
+subtitle: Writer, Director
 position: 33
 name: Seth Worley
+short_bio: "Seth Worley is the writer/director of short films and branded content for clients like JJ Abrams's Bad Robot, Red Giant, Film Riot, Sandwich Video, and Steve Taylor. His work has been featured in Forbes, USA Today, The Hollywood Reporter, Fast Company, Slate, io9, SlashFilm, HULU, The Tonight Show, and more."
 bio: |-
   Seth Worley is the writer/director of short films and branded content for clients like JJ Abrams's Bad Robot, Red Giant, Film Riot, Sandwich Video, and Steve Taylor.
 

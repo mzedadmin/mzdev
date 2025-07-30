@@ -1,0 +1,31 @@
+---
+title: Educators
+permalink: "/educators/"
+layout: default
+custom_css:
+- "/assets/css/main.css"
+---
+
+{% assign page = site.pages | where: "slug", "educators" | first %}
+
+<!-- ============================================ -->
+<!--                Educators                     -->
+<!-- ============================================ -->
+
+<main id="main">
+  <section id="educators">
+    <div class="cs-container">
+      <div class="cs-content">
+        <span class="cs-topper">Our Instructors</span>
+        <div class="cs-title">World-Class Educators</div>
+        <p class="cs-text">Learn from industry-leading professionals who have decades of experience in filmmaking, photography, and content creation.</p>
+      </div>
+      <ul class="cs-card-group">
+        {% assign sorted_educators = site.educators | sort: "position", "last" %}
+        {% for educator in sorted_educators %}
+          {% include educator_card.html educator=educator %}
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</main>

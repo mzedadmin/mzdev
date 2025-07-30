@@ -1,0 +1,32 @@
+{% assign course = include.course %}
+<li class="course-card-mini">
+    <a href="{{ course.url }}" class="course-card-mini-link" aria-label="go to {{ course['Course Card'].Title }} course">
+        <picture class="course-card-mini-picture">
+            <img loading="lazy" 
+                 decoding="async" 
+                 src="{{ course['Course Card'].Image | relative_url }}"
+                 alt="{{ course['Course Card'].Title }} course" 
+                 width="300" 
+                 height="174">
+        </picture>
+        <div class="course-card-mini-info">
+            <h3 class="course-card-mini-title">{{ course['Course Card'].Title }}</h3>
+            <p class="course-card-mini-description">
+                {{ course['Course Card'].Description | truncate: 100 }}
+            </p>
+            <div class="course-card-mini-stats">
+                <span class="course-card-mini-stat">
+                    {{ course['Course Card'].Lessons }} Lessons
+                </span>
+                <span class="course-card-mini-stat">
+                    {% if course['Course Card']['Runtime Hours'] > 0 %}
+                        {{ course['Course Card']['Runtime Hours'] }}h
+                    {% endif %}
+                    {% if course['Course Card']['Runtime Minutes'] > 0 %}
+                        {{ course['Course Card']['Runtime Minutes'] }}m
+                    {% endif %}
+                </span>
+            </div>
+        </div>
+    </a>
+</li>

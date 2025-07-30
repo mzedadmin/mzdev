@@ -1,7 +1,9 @@
 ---
-title: Camera Technology Specialists
+title: AbelCine Education Team
+subtitle: Camera Technology Specialists
 position: 16
 name: AbelCine Education Team
+short_bio: "One of the world's leading providers to the cinema and filmmaking industry, AbelCine offers a wide range of services including sales, rental, service and education. Education and the sharing of knowledge is at its core, and its education team is comprised of experienced, knowledgeable camera specialists including Megan Donnelly, Ian McCausland, Nic Somera, Corey Christian and Geoff Smith."
 bio: |-
   One of the world's leading providers to the cinema and filmmaking industry, AbelCine offers a wide range of services including sales, rental, service and education. For thirty years the company has been providing the highest quality customer service and support, continually adapting to meet the evolving needs of the modern filmmaker.
 

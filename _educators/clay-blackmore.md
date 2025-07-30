@@ -1,7 +1,9 @@
 ---
-title: Photographer, Filmmaker
+title: Clay Blackmore
+subtitle: Photographer, Filmmaker
 position: 10
 name: Clay Blackmore
+short_bio: "Clay Blackmore is one of the most influential and sought-after photographers in the world, with a clientele that includes Larry King, Forest Whitaker, Jenna Elfman, and Maria Sharapova. A protégé of the legendary Monte Zucker, Clay is a legend in his own right."
 bio: |-
   Clay Blackmore is one of the most influential and sought-after photographers in the world, with a clientele that includes Larry King, Forest Whitaker, Jenna Elfman, and Maria Sharapova. His photographs are routinely featured in Washington Life Magazine.
 

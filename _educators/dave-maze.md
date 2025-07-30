@@ -1,7 +1,9 @@
 ---
-title: Filmmaker, Youtuber, Podcaster
+title: Dave Maze
+subtitle: Filmmaker, Youtuber, Podcaster
 position: 18
 name: Dave Maze
+short_bio: "Dave is a full-time YouTube creator in the camera and filmmaking niche. He was the host and creative director at Indy Mogul, a filmmaking and gear review channel with over 1.3 million subscribers. Dave also started the Kinotika YouTube channel and brought it to over 78,000 subscribers with over 10 million views. With a heavy emphasis on making the videos entertaining; the reviews, tutorials, and vlogs all showcase the charisma and comedy side of Dave's personality all while educating the audience."
 bio: |-
   Dave is a full-time YouTube creator in the camera and filmmaking niche. He was the host and creative director at Indy Mogul, a filmmaking and gear review channel with over 1.3 million subscribers. Dave also started the Kinotika YouTube channel and brought it to over 78,000 subscribers with over 10 million views. With a heavy emphasis on making the videos entertaining; the reviews, tutorials, and vlogs all showcase the charisma and comedy side of Dave's personality all while educating the audience.
 

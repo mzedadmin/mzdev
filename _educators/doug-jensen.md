@@ -1,7 +1,9 @@
 ---
-title: Cinematographer, Producer, Director, Editor, and Consultant
+title: Doug Jensen
+subtitle: Cinematographer, Producer, Director, Editor, and Consultant
 position: 21
 name: Doug Jensen
+short_bio: "With over 35 years of video production and post-production experience, Doug combines his extensive professional experience with his teaching skills to bring a wide-ranging, real-world perspective to his independent training videos, books, and live classroom workshops."
 bio: |-
   Doug Jensen describes himself as someone who \"lives and breathes\" video production and digital photography. As an HD cinematographer, producer, director, editor, and consultant, Doug enjoys being involved in all facets of production.
 

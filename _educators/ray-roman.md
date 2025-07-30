@@ -1,7 +1,9 @@
 ---
-title: Filmmaker
+title: Ray Roman
+subtitle: Filmmaker
 position: 30
 name: Ray Roman
+short_bio: "Ray Roman is the world's premier wedding filmmaker, creating timeless visual stories for celebrities, musicians, royalty, professional athletes and billionaires for more than a decade and setting the standard in luxury wedding films."
 bio: |-
   Ray Roman is the world's premier wedding filmmaker, creating timeless visual stories for celebrities, musicians, royalty, professional athletes and billionaires for more than a decade and setting the standard in luxury wedding films.
 
