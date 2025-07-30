@@ -39,15 +39,18 @@
 
 .course-card-picture {
     width: 100%;
-    height: 240px;
+    aspect-ratio: 16 / 9;
+    height: auto;
     display: block;
     position: relative;
+    overflow: hidden;
 }
 
 .course-card-picture img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center;
 }
 
 .course-card-info {

@@ -167,89 +167,51 @@
 
   #educator-courses .cs-card-group {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    margin: 0;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    justify-content: center;
+    align-items: stretch;
+    margin: 0 auto;
     width: 100%;
+    max-width: 60rem;
     padding: 0;
     gap: clamp(1rem, 2vw, 2rem);
     list-style: none;
   }
 
-  /* Mini Course Card Styles */
-  .course-card-mini {
-    grid-column: span 12;
-    background-color: #f7f7f7;
-    border-radius: 8px;
-    overflow: hidden;
-    transition: all 0.3s;
-  }
-
-  .course-card-mini:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-  }
-
-  .course-card-mini-link {
+  /* Use existing course-card styles for mini cards */
+  #educator-courses .course-card-item {
+    width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: column;
-    text-decoration: none;
+  }
+  
+  #educator-courses .course-card-link {
+    display: flex;
+    flex-direction: column;
     height: 100%;
   }
-
-  .course-card-mini-picture {
+  
+  #educator-courses .course-card-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  #educator-courses .course-card-picture {
     width: 100%;
-    height: 10rem;
+    aspect-ratio: 16 / 9;
+    height: auto;
     overflow: hidden;
     position: relative;
   }
-
-  .course-card-mini-picture img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
+  
+  #educator-courses .course-card-picture img {
     width: 100%;
+    height: 100%;
     object-fit: cover;
-    transition: transform 0.3s;
-  }
-
-  .course-card-mini:hover .course-card-mini-picture img {
-    transform: scale(1.05);
-  }
-
-  .course-card-mini-info {
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-  }
-
-  .course-card-mini-title {
-    font-size: 1.125rem;
-    font-weight: 700;
-    color: var(--headerColor);
-    margin: 0 0 0.5rem 0;
-    line-height: 1.3em;
-  }
-
-  .course-card-mini-description {
-    font-size: 0.875rem;
-    line-height: 1.5em;
-    color: var(--bodyTextColor);
-    margin: 0 0 0.75rem 0;
-    flex: 1;
-  }
-
-  .course-card-mini-stats {
-    display: flex;
-    gap: 1rem;
-    font-size: 0.75rem;
-    color: #666;
-  }
-
-  .course-card-mini-stat {
-    display: flex;
-    align-items: center;
+    object-position: center;
   }
 }
 
@@ -259,22 +221,10 @@
     max-width: 80rem;
   }
 
-  .course-card-mini {
-    grid-column: span 6;
-  }
-
-  .course-card-mini-link {
-    flex-direction: row;
-  }
-
-  .course-card-mini-picture {
-    width: 12rem;
-    height: 8rem;
-    flex: none;
-  }
-
-  .course-card-mini-info {
-    padding: 1rem 1.5rem;
+  #educator-courses .cs-card-group {
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    max-width: 45rem;
+    gap: 1.5rem;
   }
 }
 
@@ -284,17 +234,10 @@
     max-width: 90rem;
   }
 
-  .course-card-mini {
-    grid-column: span 4;
-  }
-
-  .course-card-mini-link {
-    flex-direction: column;
-  }
-
-  .course-card-mini-picture {
-    width: 100%;
-    height: 10rem;
+  #educator-courses .cs-card-group {
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    max-width: 75rem;
+    gap: 2rem;
   }
 }
 
@@ -304,7 +247,16 @@
     max-width: 100rem;
   }
 
-  .course-card-mini {
-    grid-column: span 3;
+  #educator-courses .cs-card-group {
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    max-width: 80rem;
+  }
+  
+  /* Ensure up to 4 columns on very wide screens */
+  @media only screen and (min-width: 90rem) {
+    #educator-courses .cs-card-group {
+      grid-template-columns: repeat(auto-fit, minmax(15rem, 18rem));
+      max-width: 85rem;
+    }
   }
 }

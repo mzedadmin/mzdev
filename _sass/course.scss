@@ -8,8 +8,8 @@
 
     .cs-big-link {
       width: 100%;
-      /* 320px - 750px */
-      height: clamp(20rem, 65vw, 46.875rem);
+      aspect-ratio: 16 / 9;
+      height: auto;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -48,8 +48,8 @@
       min-width: 100%;
       height: auto;
       width: auto;
-      max-height: 115%;
-      max-width: 115%;
+      max-height: 100%;
+      max-width: 100%;
       opacity: 0.84;
       object-fit: cover;
       transform: translate(-50%, -50%);

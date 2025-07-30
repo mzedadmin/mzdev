@@ -63,7 +63,8 @@
   }
 
   #courses .course-card-picture {
-    height: 11.25rem;
+    aspect-ratio: 16 / 9;
+    height: auto;
     width: 100%;
   }
 }
@@ -79,7 +80,8 @@
   }
 
   #courses .course-card-picture {
-    height: 12.25rem;
+    aspect-ratio: 16 / 9;
+    height: auto;
     width: 100%;
   }
 }

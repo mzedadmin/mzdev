@@ -1,4 +1,5 @@
 {% assign educator = include.educator %}
+{% assign educator_courses = site.courses | where_exp: "course", "course['Course Card']['Educator'] == educator.name" %}
 <li class="educator-card-item">
     <a href="{{ educator.url }}" class="educator-card-link" aria-label="learn more about {{ educator.name }}">
         <picture class="educator-card-picture">
@@ -20,6 +21,27 @@
                 {{ educator.short_bio }}
             </p>
         </div>
+        {% if educator_courses.size > 0 %}
+        <div class="educator-card-courses">
+            <div class="educator-card-courses-label">Courses ({{ educator_courses.size }})</div>
+            <div class="educator-card-courses-grid">
+                {% for course in educator_courses limit:3 %}
+                <div class="educator-card-course-thumb">
+                    <img src="{{ course['Course Card'].Image | relative_url }}" 
+                         alt="{{ course['Course Card'].Title }}" 
+                         loading="lazy"
+                         width="88" 
+                         height="51">
+                </div>
+                {% endfor %}
+                {% if educator_courses.size > 3 %}
+                <div class="educator-card-course-more">
+                    +{{ educator_courses.size | minus: 3 }}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
         <div class="educator-card-overlay">
             <span class="educator-card-overlay-text">Read More</span>
         </div>
