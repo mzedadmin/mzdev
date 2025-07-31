@@ -42,28 +42,35 @@ Course Page:
   Learning Topics:
   - Icon: Light Bulb
     Title: The Ideafest Process
-    Text: Extract complete structured stories organically from initial concepts and scattered ideas.
+    Text: Extract complete structured stories organically from initial concepts and
+      scattered ideas.
   - Icon: Structure
     Title: Three-Act Structure
-    Text: Apply classic storytelling paradigms from Campbell and Schneider to outline your narrative.
+    Text: Apply classic storytelling paradigms from Campbell and Schneider to outline
+      your narrative.
   - Icon: Character
     Title: Character Archetypes
-    Text: Develop compelling characters using Joseph Campbell's Hero's Journey model and archetypes.
+    Text: Develop compelling characters using Joseph Campbell's Hero's Journey model
+      and archetypes.
   - Icon: Theme
     Title: Thematic Foundation
     Text: Identify and weave central themes that tie story events together with purpose.
   - Icon: Clock
     Title: The Story Clock
-    Text: Gain 10,000-foot story perspective using JJ Abrams' clock methodology for structure.
+    Text: Gain 10,000-foot story perspective using JJ Abrams' clock methodology for
+      structure.
   - Icon: Writing
     Title: Micro & Macro Writing
-    Text: Combine detailed scene work with big-picture planning for productive screenwriting sessions.
+    Text: Combine detailed scene work with big-picture planning for productive screenwriting
+      sessions.
   - Icon: Format
     Title: Professional Formatting
-    Text: Master industry-standard screenplay presentation to ensure your script gets read.
+    Text: Master industry-standard screenplay presentation to ensure your script gets
+      read.
   - Icon: Constraint
     Title: Creative Limitations
-    Text: Transform writing constraints into storytelling advantages that strengthen your narrative.
+    Text: Transform writing constraints into storytelling advantages that strengthen
+      your narrative.
   Lessons:
   - Lesson Title: Introduction
     Lesson Description: In the opening module to the course Seth introduces himself

@@ -55,28 +55,36 @@ Course Page:
   Learning Topics:
   - Icon: Edit Suite
     Title: Professional Cutting Room Setup
-    Text: Design optimal editing environments and workflows that support feature film production schedules.
+    Text: Design optimal editing environments and workflows that support feature film
+      production schedules.
   - Icon: Film Strip
     Title: Footage Organization & Assembly
-    Text: Master script syncing, dailies organization, and creating comprehensive footage inventories.
+    Text: Master script syncing, dailies organization, and creating comprehensive
+      footage inventories.
   - Icon: Director
     Title: Director-Editor Collaboration
-    Text: Build trusted creative partnerships and navigate the delicate balance of artistic vision and execution.
+    Text: Build trusted creative partnerships and navigate the delicate balance of
+      artistic vision and execution.
   - Icon: Timeline
     Title: Editing Rhythm & Style
-    Text: Develop invisible and stylized cutting techniques that serve character, story, and emotional impact.
+    Text: Develop invisible and stylized cutting techniques that serve character,
+      story, and emotional impact.
   - Icon: Performance
     Title: Character & Performance
-    Text: Use gaze, point of view, and facial expressions to guide audience focus and emotional connection.
+    Text: Use gaze, point of view, and facial expressions to guide audience focus
+      and emotional connection.
   - Icon: Effects
     Title: Opticals & Technical Effects
-    Text: Employ morphs, speed changes, and reframes strategically to enhance storytelling without distraction.
+    Text: Employ morphs, speed changes, and reframes strategically to enhance storytelling
+      without distraction.
   - Icon: Analysis
     Title: Scene Deconstruction
-    Text: Analyze Oscar-winning sequences from Whiplash, La La Land, and First Man for editing principles.
+    Text: Analyze Oscar-winning sequences from Whiplash, La La Land, and First Man
+      for editing principles.
   - Icon: Feedback
     Title: Creative Process & Feedback
-    Text: Navigate rough cuts, screenings, and collaborative feedback while maintaining artistic integrity.
+    Text: Navigate rough cuts, screenings, and collaborative feedback while maintaining
+      artistic integrity.
   Lessons:
   - Lesson Title: Introduction
     Lesson Description: |-

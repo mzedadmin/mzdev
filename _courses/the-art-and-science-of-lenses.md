@@ -41,28 +41,46 @@ Course Page:
   Learning Topics:
   - Icon: Light Bulb
     Title: The Foundation of Optics Light and Matter
-    Text: A vocabulary will be established and with it the necessary foundation to review optical devices and how they work. Topics from absorption and reflection to refraction and diffraction are explored.
+    Text: A vocabulary will be established and with it the necessary foundation to
+      review optical devices and how they work. Topics from absorption and reflection
+      to refraction and diffraction are explored.
   - Icon: Prism
     Title: Simple Optical Systems
-    Text: Building on the foundations we will explore how single optical elements work. From mirrors through prisms and simple lenses, we will review how they operate and how they are combined within larger optical systems.
+    Text: Building on the foundations we will explore how single optical elements
+      work. From mirrors through prisms and simple lenses, we will review how they
+      operate and how they are combined within larger optical systems.
   - Icon: Lens
     Title: The Components of a Photographic Lens
-    Text: A deep dive into the characteristics of lenses most relevant for photography. Focal point, focal length, image space and multi-element optical systems, as well as aberrations, distortion, flares and more. This will all lead to a deep understanding of how images are crated with lenses.
+    Text: A deep dive into the characteristics of lenses most relevant for photography.
+      Focal point, focal length, image space and multi-element optical systems, as
+      well as aberrations, distortion, flares and more. This will all lead to a deep
+      understanding of how images are crated with lenses.
   - Icon: Telescope
     Title: Complex Optical Systems
-    Text: We'll build on simple lenses by assembling multi-element systems like telescopes. Explore lens types—long, wide, zooms, primes—and designs like telephoto, macro, fisheye. Anamorphic lenses, coatings, and devices like diopters, tilt-shift lenses, and ND filters are also covered.
+    Text: We'll build on simple lenses by assembling multi-element systems like telescopes.
+      Explore lens types—long, wide, zooms, primes—and designs like telephoto, macro,
+      fisheye. Anamorphic lenses, coatings, and devices like diopters, tilt-shift
+      lenses, and ND filters are also covered.
   - Icon: Camera
     Title: The Lens and the Camera
-    Text: We explore how format choice—film or digital, large or small—affects lens images, including crop factor, sensor technology, and built-in filters. We'll also cover image quality, sharpness, artifacts like aliasing and moiré, plus lens mounts, back focus, and flange focal distance.
+    Text: We explore how format choice—film or digital, large or small—affects lens
+      images, including crop factor, sensor technology, and built-in filters. We'll
+      also cover image quality, sharpness, artifacts like aliasing and moiré, plus
+      lens mounts, back focus, and flange focal distance.
   - Icon: Aperture
     Title: The Aperture and Focus
-    Text: We explain how aperture works and affects images beyond depth of field, including vignetting and aberrations. F/stops, T-stops, bokeh, focus calculations, and focus movement types—like breathing—are also covered.
+    Text: We explain how aperture works and affects images beyond depth of field,
+      including vignetting and aberrations. F/stops, T-stops, bokeh, focus calculations,
+      and focus movement types—like breathing—are also covered.
   - Icon: Projector
     Title: Choosing a Lens
-    Text: We closely review lens characteristics and testing methods, from physical ergonomics to reading MTF charts and using lens projectors. We'll also cover designing lens tests and exploring lens customization and tuning.
+    Text: We closely review lens characteristics and testing methods, from physical
+      ergonomics to reading MTF charts and using lens projectors. We'll also cover
+      designing lens tests and exploring lens customization and tuning.
   - Icon: Cleaning Broom
     Title: Handling and Maintaining Lenses
-    Text: From storage and cleaning to solving problems on set. We will review the most common situations that occur when using lenses on set.
+    Text: From storage and cleaning to solving problems on set. We will review the
+      most common situations that occur when using lenses on set.
   Lessons:
   - Lesson Title: Light and Lenses
     Lesson Description: |-
@@ -169,7 +187,6 @@ Course Page:
       when handling lenses professionally. How are lenses stored and handled on set?
       What happens when a problem occurs, such as dropping a lens and how to clean
       a lens without damaging it.
-
 course_purchase: true
 layout: course
 ---

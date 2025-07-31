@@ -37,16 +37,20 @@ Course Page:
   Learning Topics:
   - Icon: Flash
     Title: Speedlite Fundamentals
-    Text: Master essential Speedlite settings, controls, and positioning for professional portraits.
+    Text: Master essential Speedlite settings, controls, and positioning for professional
+      portraits.
   - Icon: Portrait
     Title: Studio Beauty Photography
-    Text: Create stunning beauty and fashion portraits using controlled Speedlite setups.
+    Text: Create stunning beauty and fashion portraits using controlled Speedlite
+      setups.
   - Icon: Mixed Light
     Title: Mixed Lighting Mastery
-    Text: Balance Speedlites with fluorescent, incandescent, and available light sources seamlessly.
+    Text: Balance Speedlites with fluorescent, incandescent, and available light sources
+      seamlessly.
   - Icon: Corporate
     Title: Corporate & Industrial Portraits
-    Text: Adapt Speedlite techniques for office, warehouse, and challenging indoor environments.
+    Text: Adapt Speedlite techniques for office, warehouse, and challenging indoor
+      environments.
   - Icon: Sun
     Title: Outdoor Sun Control
     Text: Overpower or complement natural sunlight using portable Speedlite systems.
@@ -55,10 +59,12 @@ Course Page:
     Text: Execute professional portraits at pools, beaches, piers, and urban environments.
   - Icon: Beauty
     Title: Fashion & Beauty Lighting
-    Text: Craft sophisticated lighting schemes specifically for beauty and fashion photography.
+    Text: Craft sophisticated lighting schemes specifically for beauty and fashion
+      photography.
   - Icon: Versatility
     Title: Lighting Versatility
-    Text: Adapt single lighting system to create numerous styles across any shooting scenario.
+    Text: Adapt single lighting system to create numerous styles across any shooting
+      scenario.
   Lessons:
   - Lesson Title: 'Live Demo I: Introduction to Speedlites'
     Lesson Description: As we commence the course, Stephen Eastwood introduces us

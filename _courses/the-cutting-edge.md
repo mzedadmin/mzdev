@@ -47,28 +47,36 @@ Course Page:
   Learning Topics:
   - Icon: Speed
     Title: Fast-Paced Editing Workflows
-    Text: Execute professional edits under extreme deadline pressure like SNL's 24-hour turnaround.
+    Text: Execute professional edits under extreme deadline pressure like SNL's 24-hour
+      turnaround.
   - Icon: Workspace
     Title: Workspace & Project Setup
-    Text: Optimize Premiere Pro workspace layout and project structure for maximum efficiency.
+    Text: Optimize Premiere Pro workspace layout and project structure for maximum
+      efficiency.
   - Icon: Keyboard
     Title: Essential Keyboard Shortcuts
-    Text: Master the top 10 keyboard shortcuts that dramatically increase editing speed.
+    Text: Master the top 10 keyboard shortcuts that dramatically increase editing
+      speed.
   - Icon: Audio Waveform
     Title: Advanced Audio Techniques
-    Text: Layer voice-overs, dialogue, sound effects, and music beds for cinematic soundscapes.
+    Text: Layer voice-overs, dialogue, sound effects, and music beds for cinematic
+      soundscapes.
   - Icon: Motion Graphics
     Title: Motion Graphics Integration
-    Text: Create impactful 3D motion graphics and advanced motion tracking in After Effects.
+    Text: Create impactful 3D motion graphics and advanced motion tracking in After
+      Effects.
   - Icon: Color Correction
     Title: Color Correction Fundamentals
-    Text: Apply professional color correction and grading techniques including RAW formats.
+    Text: Apply professional color correction and grading techniques including RAW
+      formats.
   - Icon: Theory
     Title: Editing Theory & Timing
-    Text: Understand theoretical editing principles and perfect comedy timing through examples.
+    Text: Understand theoretical editing principles and perfect comedy timing through
+      examples.
   - Icon: Career
     Title: Professional Career Skills
-    Text: Navigate director and producer relationships with proven industry collaboration techniques.
+    Text: Navigate director and producer relationships with proven industry collaboration
+      techniques.
   Lessons:
   - Lesson Title: Introduction
     Lesson Description: In the opening module of the course Adam introduces himself

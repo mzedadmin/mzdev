@@ -51,19 +51,24 @@ Course Page:
   Learning Topics:
   - Icon: History
     Title: Anamorphic History & Evolution
-    Text: Understand the historical development and technical evolution of anamorphic lens systems.
+    Text: Understand the historical development and technical evolution of anamorphic
+      lens systems.
   - Icon: Lens
     Title: Anamorphic Lens Types
-    Text: Compare different anamorphic lens varieties, from vintage to modern manufacturing approaches.
+    Text: Compare different anamorphic lens varieties, from vintage to modern manufacturing
+      approaches.
   - Icon: Build
     Title: DIY Anamorphic Rig Building
-    Text: Assemble custom anamorphic setups using practical, budget-conscious component selection.
+    Text: Assemble custom anamorphic setups using practical, budget-conscious component
+      selection.
   - Icon: Camera
     Title: Camera & Lens Compatibility
-    Text: Match anamorphic lenses with appropriate camera systems for optimal image quality.
+    Text: Match anamorphic lenses with appropriate camera systems for optimal image
+      quality.
   - Icon: Testing
     Title: Lens Testing & Evaluation
-    Text: Systematically test and evaluate anamorphic lenses to avoid costly purchasing mistakes.
+    Text: Systematically test and evaluate anamorphic lenses to avoid costly purchasing
+      mistakes.
   - Icon: Characteristics
     Title: Anamorphic Image Characteristics
     Text: Master the unique visual qualities that define the anamorphic look and aesthetic.
@@ -72,8 +77,8 @@ Course Page:
     Text: Integrate anamorphic shooting into professional production pipelines efficiently.
   - Icon: Budget
     Title: Budget-Conscious Solutions
-    Text: Achieve cinematic anamorphic results without breaking the bank through smart equipment choices.
-  Lessons:
+    Text: Achieve cinematic anamorphic results without breaking the bank through smart
+      equipment choices.
   Lessons:
   - Lesson Title: Introduction from Tito Ferradans
     Lesson Description: Tito welcomes MZed Pro members to the world of anamorphic

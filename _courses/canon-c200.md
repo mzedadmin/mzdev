@@ -43,28 +43,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: C200 Camera Features
-    Text: Explore the comprehensive feature set and capabilities that position the C200 between the C100 Mk II and C300 Mk II.
+    Text: Explore the comprehensive feature set and capabilities that position the
+      C200 between the C100 Mk II and C300 Mk II.
   - Icon: Settings
     Title: External Controls
-    Text: Master all physical buttons, I/O ports, and external controls for efficient single-operator camera workflows.
+    Text: Master all physical buttons, I/O ports, and external controls for efficient
+      single-operator camera workflows.
   - Icon: Target
     Title: Menu Configuration
-    Text: Navigate the complete menu system and optimize settings for various shooting scenarios and project requirements.
+    Text: Navigate the complete menu system and optimize settings for various shooting
+      scenarios and project requirements.
   - Icon: Aperture
     Title: Dual Pixel Autofocus
-    Text: Harness Canon's advanced Dual Pixel AF system for precise focusing in both video and photographic applications.
+    Text: Harness Canon's advanced Dual Pixel AF system for precise focusing in both
+      video and photographic applications.
   - Icon: Slow Motion
     Title: High-Speed Recording
-    Text: Capture stunning slow-motion footage using the C200's high frame rate capabilities and specialized recording modes.
+    Text: Capture stunning slow-motion footage using the C200's high frame rate capabilities
+      and specialized recording modes.
   - Icon: Wave
     Title: Wireless Control
-    Text: Implement remote camera control using WiFi connectivity for monitoring, adjustment, and operation from mobile devices.
+    Text: Implement remote camera control using WiFi connectivity for monitoring,
+      adjustment, and operation from mobile devices.
   - Icon: Film Reel
     Title: Cinema RAW Light
-    Text: Understand Canon's innovative Cinema RAW Light format and its advantages for professional post-production workflows.
+    Text: Understand Canon's innovative Cinema RAW Light format and its advantages
+      for professional post-production workflows.
   - Icon: Performance
     Title: Low Light Excellence
-    Text: Maximize the C200's low light performance across various picture profiles and noise reduction settings for challenging conditions.
+    Text: Maximize the C200's low light performance across various picture profiles
+      and noise reduction settings for challenging conditions.
   Lessons:
   - Lesson Title: Introduction & Camera Features
     Lesson Description: Matt begins by introducing the Canon C200, explaining its

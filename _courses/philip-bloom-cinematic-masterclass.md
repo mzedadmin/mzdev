@@ -58,28 +58,36 @@ Course Page:
   Learning Topics:
   - Icon: Lens
     Title: Essential Cinematic Equipment
-    Text: Master camera settings, lens selection, and essential kit for professional cinematic shots.
+    Text: Master camera settings, lens selection, and essential kit for professional
+      cinematic shots.
   - Icon: Eye
     Title: Visual Storytelling Mastery
-    Text: Deconstruct composition, framing, and camera motion to create dynamic, engaging sequences.
+    Text: Deconstruct composition, framing, and camera motion to create dynamic, engaging
+      sequences.
   - Icon: Interview
     Title: Professional Interview Techniques
-    Text: Perfect lighting, positioning, and interviewing skills to capture compelling subject stories.
+    Text: Perfect lighting, positioning, and interviewing skills to capture compelling
+      subject stories.
   - Icon: Slow Motion
     Title: Slow Motion Cinematography
-    Text: Master high frame rate shooting, timing, and lighting techniques for impactful slow motion.
+    Text: Master high frame rate shooting, timing, and lighting techniques for impactful
+      slow motion.
   - Icon: Timelapse
     Title: Timelapse Photography
-    Text: Create day-to-night, astro, and motion timelapses that enhance narrative storytelling.
+    Text: Create day-to-night, astro, and motion timelapses that enhance narrative
+      storytelling.
   - Icon: Drone
     Title: Aerial Cinematography
-    Text: Achieve truly cinematic drone shots and aerial sequences beyond basic operator skills.
+    Text: Achieve truly cinematic drone shots and aerial sequences beyond basic operator
+      skills.
   - Icon: Story
     Title: Complete Story Creation
-    Text: Combine all techniques into cohesive narratives that entertain and engage audiences.
+    Text: Combine all techniques into cohesive narratives that entertain and engage
+      audiences.
   - Icon: Post Production
     Title: Post Production Workflow
-    Text: Master media management, editing, audio, and color grading for maximum footage impact.
+    Text: Master media management, editing, audio, and color grading for maximum footage
+      impact.
   Lessons:
   - Lesson Title: Introduction and Lens Whacking
     Lesson Description: In this free introductory module to the course, Philip gives

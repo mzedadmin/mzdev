@@ -48,28 +48,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera Movement
     Title: Adventure Documentation
-    Text: Master the art of capturing compelling stories while traveling through remote and challenging locations.
+    Text: Master the art of capturing compelling stories while traveling through remote
+      and challenging locations.
   - Icon: Director
     Title: Pre-Production Planning
-    Text: Learn comprehensive research methods and logistics planning for successful adventure filmmaking expeditions.
+    Text: Learn comprehensive research methods and logistics planning for successful
+      adventure filmmaking expeditions.
   - Icon: Settings
     Title: Equipment & Safety
-    Text: Choose the right compact gear and implement safety protocols for remote filming environments.
+    Text: Choose the right compact gear and implement safety protocols for remote
+      filming environments.
   - Icon: Lightbulb
     Title: Creative Storytelling
-    Text: Transform personal adventures into engaging documentaries that captivate audiences worldwide.
+    Text: Transform personal adventures into engaging documentaries that captivate
+      audiences worldwide.
   - Icon: Settings
     Title: Team Dynamics
-    Text: Build and manage effective film crews for extended adventure shoots in challenging conditions.
+    Text: Build and manage effective film crews for extended adventure shoots in challenging
+      conditions.
   - Icon: Target
     Title: Funding Strategies
-    Text: Navigate commissioning editors, sponsors, and grants to finance your adventure film projects.
+    Text: Navigate commissioning editors, sponsors, and grants to finance your adventure
+      film projects.
   - Icon: World Building
     Title: Location Scouting
-    Text: Research and secure permits while developing routes that serve both adventure and cinematic goals.
+    Text: Research and secure permits while developing routes that serve both adventure
+      and cinematic goals.
   - Icon: Performance
     Title: Professional Workflow
-    Text: Establish efficient production pipelines that allow you to turn adventure filmmaking into a sustainable career.
+    Text: Establish efficient production pipelines that allow you to turn adventure
+      filmmaking into a sustainable career.
   Lessons:
   - Lesson Title: Intro to Adventure
     Lesson Description: |-

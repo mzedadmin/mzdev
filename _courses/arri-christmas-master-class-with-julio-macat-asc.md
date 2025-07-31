@@ -58,28 +58,36 @@ Course Page:
   Learning Topics:
   - Icon: Director
     Title: Cinematographer Mindset
-    Text: Develop the four essential personality traits that define successful cinematographers and build meaningful industry careers.
+    Text: Develop the four essential personality traits that define successful cinematographers
+      and build meaningful industry careers.
   - Icon: Key Light
     Title: Single Source Lighting
-    Text: Master advanced lighting techniques using single sources to create dramatic and emotionally engaging cinematic scenes.
+    Text: Master advanced lighting techniques using single sources to create dramatic
+      and emotionally engaging cinematic scenes.
   - Icon: Camera Movement
     Title: Emotional Camera Work
-    Text: Use camera movement and operator techniques to enhance storytelling and create dynamic emotional connections with audiences.
+    Text: Use camera movement and operator techniques to enhance storytelling and
+      create dynamic emotional connections with audiences.
   - Icon: Performance
     Title: Professional Workflows
-    Text: Understand the roles and responsibilities of camera department members in large-scale film and television productions.
+    Text: Understand the roles and responsibilities of camera department members in
+      large-scale film and television productions.
   - Icon: Camera
     Title: TRINITY Operation
-    Text: Explore advanced camera stabilization systems and learn how TRINITY creates versatile shots from locked-off to crane movements.
+    Text: Explore advanced camera stabilization systems and learn how TRINITY creates
+      versatile shots from locked-off to crane movements.
   - Icon: Lightbulb
     Title: Creative Problem Solving
-    Text: Apply time-tested cinematographic techniques and innovative approaches to overcome common on-set lighting challenges.
+    Text: Apply time-tested cinematographic techniques and innovative approaches to
+      overcome common on-set lighting challenges.
   - Icon: Character
     Title: Holiday Storytelling
-    Text: Create festive and emotionally resonant scenes using practical lighting setups and thematic visual storytelling techniques.
+    Text: Create festive and emotionally resonant scenes using practical lighting
+      setups and thematic visual storytelling techniques.
   - Icon: Vision
     Title: Industry Experience
-    Text: Gain insights from decades of professional experience on major Hollywood productions including Home Alone and Wedding Crashers.
+    Text: Gain insights from decades of professional experience on major Hollywood
+      productions including Home Alone and Wedding Crashers.
   Lessons:
   - Lesson Title: Interview with Julio Macat ASC
     Lesson Description: As we begin the masterclass we meet Julio Macat ASC, who shares

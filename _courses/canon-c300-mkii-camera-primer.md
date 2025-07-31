@@ -44,28 +44,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: C300 MkII Overview
-    Text: Understand the key improvements and features that distinguish the C300 MkII from its predecessor and competing cameras.
+    Text: Understand the key improvements and features that distinguish the C300 MkII
+      from its predecessor and competing cameras.
   - Icon: Settings
     Title: External Control Mastery
-    Text: Navigate all external controls and I/O ports efficiently for professional operation in various production environments.
+    Text: Navigate all external controls and I/O ports efficiently for professional
+      operation in various production environments.
   - Icon: Audio Waveform
     Title: Professional Audio
-    Text: Configure advanced audio inputs, monitoring, and timecode systems for single and multi-camera production workflows.
+    Text: Configure advanced audio inputs, monitoring, and timecode systems for single
+      and multi-camera production workflows.
   - Icon: Camera
     Title: Versatile Rigging
-    Text: Adapt the camera for different shooting styles from handheld and tripod setups to complex studio configurations.
+    Text: Adapt the camera for different shooting styles from handheld and tripod
+      setups to complex studio configurations.
   - Icon: Target
     Title: Production Setup
-    Text: Master the five essential camera configuration steps and DualPixel Autofocus modes for any shooting scenario.
+    Text: Master the five essential camera configuration steps and DualPixel Autofocus
+      modes for any shooting scenario.
   - Icon: Monitor
     Title: Exposure Tools
-    Text: Use advanced monitoring tools and scopes to achieve precise exposure control and maintain optimal image quality.
+    Text: Use advanced monitoring tools and scopes to achieve precise exposure control
+      and maintain optimal image quality.
   - Icon: Palette
     Title: Custom Picture Profiles
-    Text: Create and implement custom picture profiles as alternatives to resource-intensive Raw and Log workflows.
+    Text: Create and implement custom picture profiles as alternatives to resource-intensive
+      Raw and Log workflows.
   - Icon: Film Reel
     Title: Log & Raw Workflows
-    Text: Implement efficient Log and Raw recording workflows using external recorders and understand when to choose each format.
+    Text: Implement efficient Log and Raw recording workflows using external recorders
+      and understand when to choose each format.
   Lessons:
   - Lesson Title: Introduction and Overview
     Lesson Description: We kick off the course with an overview of the camera, focusing

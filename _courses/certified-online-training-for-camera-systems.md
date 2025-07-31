@@ -49,28 +49,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: ARRI Camera Systems
-    Text: Master operation of ALEXA LF, Mini, SXT W, and AMIRA cameras with comprehensive feature and capability training.
+    Text: Master operation of ALEXA LF, Mini, SXT W, and AMIRA cameras with comprehensive
+      feature and capability training.
   - Icon: Lens
     Title: Lens & Filter Integration
-    Text: Understand lens mounts, illumination circles, and traditional plus behind-the-lens filtration for optimal image quality.
+    Text: Understand lens mounts, illumination circles, and traditional plus behind-the-lens
+      filtration for optimal image quality.
   - Icon: Settings
     Title: Remote Configuration
-    Text: Utilize Web Remote systems and camera accessories for efficient remote control and configuration in professional environments.
+    Text: Utilize Web Remote systems and camera accessories for efficient remote control
+      and configuration in professional environments.
   - Icon: Media Management
     Title: Recording Media Mastery
-    Text: Navigate different media types, sensor modes, aspect ratios, and codec options for various production requirements.
+    Text: Navigate different media types, sensor modes, aspect ratios, and codec options
+      for various production requirements.
   - Icon: Film Reel
     Title: ARRIRAW Workflow
-    Text: Understand sensor technology, color processing, and ARRIRAW benefits from capture through post-production delivery.
+    Text: Understand sensor technology, color processing, and ARRIRAW benefits from
+      capture through post-production delivery.
   - Icon: Color Wheel
     Title: ARRI Look Management
-    Text: Implement comprehensive color workflows including in-camera, off-camera, and live-grading systems using ARRI software tools.
+    Text: Implement comprehensive color workflows including in-camera, off-camera,
+      and live-grading systems using ARRI software tools.
   - Icon: HDR
     Title: HDR & Image Quality
-    Text: Explore High Dynamic Range video capabilities and optimize resolution, dynamic range, and color reproduction for modern formats.
+    Text: Explore High Dynamic Range video capabilities and optimize resolution, dynamic
+      range, and color reproduction for modern formats.
   - Icon: Target
     Title: Professional Certification
-    Text: Complete ARRI-certified training with online simulators and industry-standard software to earn official ARRI certification.
+    Text: Complete ARRI-certified training with online simulators and industry-standard
+      software to earn official ARRI certification.
   Lessons:
   - Lesson Title: ALEXA LF and ALEXA SXT W
     Lesson Description: |-

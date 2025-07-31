@@ -41,28 +41,36 @@ Course Page:
   Learning Topics:
   - Icon: Settings
     Title: Precision Alignment
-    Text: Master fine-tuning techniques for perfect anamorphic adapter alignment and eliminate keystone distortion effects.
+    Text: Master fine-tuning techniques for perfect anamorphic adapter alignment and
+      eliminate keystone distortion effects.
   - Icon: Performance
     Title: Rapid Lens Changes
-    Text: Implement efficient lens swap systems using adapter jackets and DIY clamps for seamless on-set workflows.
+    Text: Implement efficient lens swap systems using adapter jackets and DIY clamps
+      for seamless on-set workflows.
   - Icon: Camera
     Title: Professional Rigging
-    Text: Build comprehensive camera rigs with monitors, wireless video, and follow focus units for any shooting scenario.
+    Text: Build comprehensive camera rigs with monitors, wireless video, and follow
+      focus units for any shooting scenario.
   - Icon: Camera Movement
     Title: Gimbal Integration
-    Text: Successfully mount anamorphic setups on budget gimbals using lightweight adapters and proper balancing techniques.
+    Text: Successfully mount anamorphic setups on budget gimbals using lightweight
+      adapters and proper balancing techniques.
   - Icon: Target
     Title: Autofocus Solutions
-    Text: Configure and operate DJI Range Finder systems to achieve reliable autofocus with anamorphic adapter combinations.
+    Text: Configure and operate DJI Range Finder systems to achieve reliable autofocus
+      with anamorphic adapter combinations.
   - Icon: Settings
     Title: Essential Accessories
-    Text: Identify and utilize crucial small-rig components that enhance anamorphic workflows without breaking the budget.
+    Text: Identify and utilize crucial small-rig components that enhance anamorphic
+      workflows without breaking the budget.
   - Icon: Lightbulb
     Title: Power Management
-    Text: Design efficient V-lock battery systems that reliably power entire anamorphic camera rigs throughout long shoots.
+    Text: Design efficient V-lock battery systems that reliably power entire anamorphic
+      camera rigs throughout long shoots.
   - Icon: Effects
     Title: Creative Advantages
-    Text: Explore unique artistic possibilities that make anamorphic adapters a valuable creative tool despite their challenges.
+    Text: Explore unique artistic possibilities that make anamorphic adapters a valuable
+      creative tool despite their challenges.
   Lessons:
   - Lesson Title: Finetuning for Big Improvements
     Lesson Description: In this episode, Tito goes into setting alignment for good,

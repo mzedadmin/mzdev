@@ -53,28 +53,36 @@ Course Page:
   Learning Topics:
   - Icon: Visual Effects
     Title: In-Camera Practical Effects
-    Text: Master custom bokeh, pixel stick techniques, and free lensing for dreamy cinematic aesthetics.
+    Text: Master custom bokeh, pixel stick techniques, and free lensing for dreamy
+      cinematic aesthetics.
   - Icon: Color Temperature
     Title: Mixed Color Temperature Control
-    Text: Learn three strategic approaches to combat challenging mixed lighting scenarios on set.
+    Text: Learn three strategic approaches to combat challenging mixed lighting scenarios
+      on set.
   - Icon: Style
     Title: Visual Style Deconstruction
-    Text: Analyze and recreate the exact look of Hollywood blockbusters, documentaries, and music videos.
+    Text: Analyze and recreate the exact look of Hollywood blockbusters, documentaries,
+      and music videos.
   - Icon: Documentary
     Title: Documentary Style Techniques
-    Text: Explore different sub-genres within documentary-style cinematography for narrative filmmaking.
+    Text: Explore different sub-genres within documentary-style cinematography for
+      narrative filmmaking.
   - Icon: Lens
     Title: Vintage vs Modern Glass
-    Text: Compare still photography lenses to cinema glass for authentic period looks and character.
+    Text: Compare still photography lenses to cinema glass for authentic period looks
+      and character.
   - Icon: Color Correction
-    Title: Professional Color Workflow  
-    Text: Execute precise color correction order for optimal results when working solo or with colorists.
+    Title: Professional Color Workflow
+    Text: Execute precise color correction order for optimal results when working
+      solo or with colorists.
   - Icon: Psychology
     Title: Visual Subtext Mastery
-    Text: Apply three fundamental rules to add deeper meaning and universal appeal to your imagery. 
+    Text: Apply three fundamental rules to add deeper meaning and universal appeal
+      to your imagery.
   - Icon: Lighting
     Title: Advanced Lighting Techniques
-    Text: Control contrast and create professional lighting setups for day exteriors and challenging scenarios.
+    Text: Control contrast and create professional lighting setups for day exteriors
+      and challenging scenarios.
   Lessons:
   - Lesson Title: 'Case Study: "SNL Title Sequence"'
     Lesson Description: Alex opens the course with an overview of the complete syllabus,

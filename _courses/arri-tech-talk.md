@@ -35,28 +35,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: ALEXA Evolution
-    Text: Explore the 10-year journey of ALEXA cameras and their revolutionary impact on digital cinema technology.
+    Text: Explore the 10-year journey of ALEXA cameras and their revolutionary impact
+      on digital cinema technology.
   - Icon: Settings
     Title: Electronic Control Systems
-    Text: Master advanced camera accessories including ERM radio modules and Operator Control Units for remote operation.
+    Text: Master advanced camera accessories including ERM radio modules and Operator
+      Control Units for remote operation.
   - Icon: Lightbulb
     Title: Lighting Innovation
-    Text: Discover cutting-edge SkyPanel, Orbiter, and Stellar technologies that define modern professional lighting workflows.
+    Text: Discover cutting-edge SkyPanel, Orbiter, and Stellar technologies that define
+      modern professional lighting workflows.
   - Icon: Camera Movement
     Title: TRINITY Stabilization
-    Text: Learn advanced camera stabilizer techniques and accessories for achieving smooth cinematic movements in any scenario.
+    Text: Learn advanced camera stabilizer techniques and accessories for achieving
+      smooth cinematic movements in any scenario.
   - Icon: Clean
     Title: Lens Maintenance
-    Text: Implement proper lens cleaning procedures using safe materials and techniques to maintain optical performance.
+    Text: Implement proper lens cleaning procedures using safe materials and techniques
+      to maintain optical performance.
   - Icon: Performance
     Title: Workflow Optimization
-    Text: Streamline production workflows with frame line tools, lens illumination systems, and efficient rigging configurations.
+    Text: Streamline production workflows with frame line tools, lens illumination
+      systems, and efficient rigging configurations.
   - Icon: Integration
     Title: Remote Solutions
-    Text: Deploy safe remote operating systems and multicamera setups for high-end productions and live events.
+    Text: Deploy safe remote operating systems and multicamera setups for high-end
+      productions and live events.
   - Icon: Effects
     Title: Virtual Production
-    Text: Integrate ARRI cameras with LED walls and mixed reality systems for cutting-edge virtual production workflows.
+    Text: Integrate ARRI cameras with LED walls and mixed reality systems for cutting-edge
+      virtual production workflows.
   Lessons:
   - Lesson Title: 10th Anniversary of ALEXA
     Lesson Description: Celebrate 10 years of ALEXA with a look back at the evolution

@@ -49,28 +49,36 @@ Course Page:
   Learning Topics:
   - Icon: LUT
     Title: LUT Fundamentals & Theory
-    Text: Understand what LUTs are, their various applications, and how they differ from looks and scene files.
+    Text: Understand what LUTs are, their various applications, and how they differ
+      from looks and scene files.
   - Icon: Equipment
     Title: Professional DIT Cart Setup
-    Text: Learn DIT cart components including LUT boxes, control surfaces, and Pomfort LiveGrade Pro.
+    Text: Learn DIT cart components including LUT boxes, control surfaces, and Pomfort
+      LiveGrade Pro.
   - Icon: Monitor
     Title: On-Set LUT Creation
-    Text: Create custom LUTs on-set for both delogging footage and creative color grading purposes.
+    Text: Create custom LUTs on-set for both delogging footage and creative color
+      grading purposes.
   - Icon: Workflow
     Title: Production to Post Workflow
-    Text: Seamlessly transfer LUTs from production through post-production pipelines and software.
+    Text: Seamlessly transfer LUTs from production through post-production pipelines
+      and software.
   - Icon: Color Science
     Title: Color Space & Gamma Curves
-    Text: Master technical color science principles that govern how LUTs transform image data.
+    Text: Master technical color science principles that govern how LUTs transform
+      image data.
   - Icon: Software
     Title: LUT Implementation Tools
-    Text: Utilize professional software like LiveGrade Pro and DaVinci Resolve for LUT application.
+    Text: Utilize professional software like LiveGrade Pro and DaVinci Resolve for
+      LUT application.
   - Icon: Creative
     Title: Creative vs Technical LUTs
-    Text: Distinguish between corrective technical LUTs and creative stylistic LUTs for different purposes.
+    Text: Distinguish between corrective technical LUTs and creative stylistic LUTs
+      for different purposes.
   - Icon: Delivery
     Title: LUT Standards & Delivery
-    Text: Export and deliver LUTs in proper formats for various post-production and broadcast workflows.
+    Text: Export and deliver LUTs in proper formats for various post-production and
+      broadcast workflows.
   Lessons:
   - Lesson Title: LUTs 101
     Lesson Description: In the introductory module to the course, Geoff Smith breaks

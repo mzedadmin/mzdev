@@ -45,28 +45,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: Full-Frame Excellence
-    Text: Harness the power of Canon's full-frame sensor combined with Dual-Pixel autofocus in an ultra-compact form factor.
+    Text: Harness the power of Canon's full-frame sensor combined with Dual-Pixel
+      autofocus in an ultra-compact form factor.
   - Icon: Settings
     Title: Modular Expansion
-    Text: Configure EVF, expansion units, and interchangeable lens mounts to adapt the camera for any production scenario.
+    Text: Configure EVF, expansion units, and interchangeable lens mounts to adapt
+      the camera for any production scenario.
   - Icon: Camera
     Title: Flexible Rigging
-    Text: Transform between handheld, studio, and shoulder-mounted configurations using professional accessories and cages.
+    Text: Transform between handheld, studio, and shoulder-mounted configurations
+      using professional accessories and cages.
   - Icon: Target
     Title: Advanced Setup
-    Text: Master exposure controls, digital image stabilization, and autofocus settings for optimal performance across shooting conditions.
+    Text: Master exposure controls, digital image stabilization, and autofocus settings
+      for optimal performance across shooting conditions.
   - Icon: Palette
     Title: Custom Picture Control
-    Text: Navigate extensive picture options including BT709, Canon Log2, HLG, and PQ modes with LUT integration workflows.
+    Text: Navigate extensive picture options including BT709, Canon Log2, HLG, and
+      PQ modes with LUT integration workflows.
   - Icon: Media Management
     Title: Recording Workflows
-    Text: Implement efficient media management using CFexpress cards, proxy recording, and card relay systems for professional productions.
+    Text: Implement efficient media management using CFexpress cards, proxy recording,
+      and card relay systems for professional productions.
   - Icon: Performance
     Title: Monitoring Excellence
-    Text: Utilize comprehensive assistance functions including Focus Guide, False Color, Waveforms, and Vector Scopes for precise control.
+    Text: Utilize comprehensive assistance functions including Focus Guide, False
+      Color, Waveforms, and Vector Scopes for precise control.
   - Icon: Film Reel
     Title: Cinema RAW Light
-    Text: Master Canon's Cinema RAW Light format workflow from capture through post-production in major editing systems.
+    Text: Master Canon's Cinema RAW Light format workflow from capture through post-production
+      in major editing systems.
   Lessons:
   - Lesson Title: What's in the Box
     Lesson Description: |-

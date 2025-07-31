@@ -61,29 +61,34 @@ Course Page:
   Learning Topics:
   - Icon: Camera Movement
     Title: Cinematic Language of Motion
-    Text: Master the precise vocabulary and execution of dynamic camera movement for storytelling.
+    Text: Master the precise vocabulary and execution of dynamic camera movement for
+      storytelling.
   - Icon: Blocking
     Title: Scene Blocking & Choreography
     Text: Direct actors and elements within scenes to create compelling visual compositions.
   - Icon: Lens
     Title: Strategic Lens Selection
-    Text: Choose focal lengths that enhance movement and support your directorial vision.
+    Text: Choose focal lengths that enhance movement and support your directorial
+      vision.
   - Icon: Sequence
     Title: Shot Sequencing
     Text: Plan and execute shot sequences that build narrative momentum through motion.
   - Icon: Crew
     Title: Crew Direction & Communication
-    Text: Lead camera operators and crew with precise, effective direction to execute complex moves.
+    Text: Lead camera operators and crew with precise, effective direction to execute
+      complex moves.
   - Icon: Coverage
     Title: Coverage Strategy
-    Text: Apply formulaic, time-proven principles for comprehensive scene coverage regardless of crew size.
+    Text: Apply formulaic, time-proven principles for comprehensive scene coverage
+      regardless of crew size.
   - Icon: Equipment
     Title: Motion Equipment Mastery
-    Text: Utilize dollies, cranes, Steadicam, and other tools to achieve professional camera movement.
+    Text: Utilize dollies, cranes, Steadicam, and other tools to achieve professional
+      camera movement.
   - Icon: Story
     Title: Movement for Story Enhancement
-    Text: Integrate camera and subject movement to enrich viewer experience and support narrative.
-  Lessons:
+    Text: Integrate camera and subject movement to enrich viewer experience and support
+      narrative.
   Lessons:
   - Lesson Title: The Language of Camera Motion
     Lesson Description: |-

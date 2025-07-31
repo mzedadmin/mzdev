@@ -39,13 +39,16 @@ Course Page:
   Learning Topics:
   - Icon: Setup
     Title: Premiere Pro Setup & Interface
-    Text: Download, install, and navigate Premiere Pro's interface with proper project file management.
+    Text: Download, install, and navigate Premiere Pro's interface with proper project
+      file management.
   - Icon: Import
     Title: Media Import & Organization
-    Text: Import video and audio files efficiently while understanding the timeline structure.
+    Text: Import video and audio files efficiently while understanding the timeline
+      structure.
   - Icon: Tools
     Title: Essential Editing Tools
-    Text: Master the Razor tool, waveform view, volume adjustment, and basic editing techniques.
+    Text: Master the Razor tool, waveform view, volume adjustment, and basic editing
+      techniques.
   - Icon: Music
     Title: Music Integration & Timing
     Text: Find royalty-free music, import audio files, and edit tracks to proper lengths.
@@ -54,13 +57,15 @@ Course Page:
     Text: Edit video footage to match music beats for professional rhythm and pacing.
   - Icon: Parameters
     Title: Video Parameters Control
-    Text: Adjust scale, position, and other essential video parameters for professional results.
+    Text: Adjust scale, position, and other essential video parameters for professional
+      results.
   - Icon: Title
     Title: Title Creation & Jump Cuts
     Text: Add compelling titles and use jump cuts strategically to enhance storytelling.
   - Icon: Export
     Title: Export & Publishing
-    Text: Export finished videos in proper formats ready for sharing and publishing online.
+    Text: Export finished videos in proper formats ready for sharing and publishing
+      online.
   Lessons:
   - Lesson Title: Preparing to Edit
     Lesson Description: |-

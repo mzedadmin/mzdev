@@ -46,25 +46,32 @@ Course Page:
   Learning Topics:
   - Icon: Story
     Title: Story vs Plot Visual Language
-    Text: Extract scene essence and communicate subtext through moving images rather than exposition.
+    Text: Extract scene essence and communicate subtext through moving images rather
+      than exposition.
   - Icon: Eye
     Title: Creating Effective Images
-    Text: Master visual techniques that communicate ideas to audiences without relying on dialogue.
+    Text: Master visual techniques that communicate ideas to audiences without relying
+      on dialogue.
   - Icon: Perspective
     Title: Camera Perspective & Placement
-    Text: Harness narrative perspective to make fundamental decisions about camera positioning.
+    Text: Harness narrative perspective to make fundamental decisions about camera
+      positioning.
   - Icon: Voice
     Title: Filmmaker's Voice
-    Text: Balance character perspectives with directorial vision using strategic camera movement.
+    Text: Balance character perspectives with directorial vision using strategic camera
+      movement.
   - Icon: Lens
     Title: Strategic Lens Selection
-    Text: Choose lenses based on emotional impact and audience relationship to on-screen events.
+    Text: Choose lenses based on emotional impact and audience relationship to on-screen
+      events.
   - Icon: Aperture
     Title: Advanced Lens Techniques
-    Text: Control aperture, flare, sharpness, and anamorphic characteristics for creative storytelling.
+    Text: Control aperture, flare, sharpness, and anamorphic characteristics for creative
+      storytelling.
   - Icon: Composition
     Title: Cinematic Composition
-    Text: Apply advanced color theory and hidden visual lines to guide audience attention effectively.
+    Text: Apply advanced color theory and hidden visual lines to guide audience attention
+      effectively.
   - Icon: Camera Movement
     Title: Camera Movement Conventions
     Text: Master when to move or hold still using audience memory and cinematic conventions.
