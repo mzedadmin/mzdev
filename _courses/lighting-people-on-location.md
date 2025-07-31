@@ -46,6 +46,31 @@ Course Page:
   - wildlife-cinematography
   - filmmaking-for-photographers
   - the-language-of-lighting
+  Learning Topics:
+  - Icon: Perspective
+    Title: Natural Light Direction
+    Text: Master positioning and direction of key lights to create naturalistic looks in any on-location environment.
+  - Icon: Light
+    Title: Working with Sunlight
+    Text: Harness harsh sunlight using diffusion, reflectors, and strategic positioning for flattering outdoor interviews.
+  - Icon: Studio
+    Title: Indoor Location Mastery
+    Text: Navigate mixed lighting conditions and existing fixtures to create professional interview setups.
+  - Icon: Eye
+    Title: Essential Eye Light
+    Text: Ensure compelling eye light in any situation to bring life and connection to your interview subjects.
+  - Icon: Contrast
+    Title: Shadow Control
+    Text: Shape light using modifiers, flags, and reflectors to control contrast and create depth in your images.
+  - Icon: Multi Camera
+    Title: Multi-Camera Lighting
+    Text: Design lighting setups that work for multiple camera angles while maintaining consistent quality.
+  - Icon: Portrait
+    Title: Skin Tone Excellence
+    Text: Adjust lighting techniques for various skin complexions to achieve flattering results for all subjects.
+  - Icon: Lens
+    Title: Focal Length Impact
+    Text: Understand how lens choice affects lighting perception and adjust setups for optimal visual results.
   Lessons:
   - Lesson Title: Indoor Lighting with Paul Atkins, ASC
     Lesson Description: "In Lesson 1, Paul Atkins, ASC, one of the most renowned wildlife

@@ -1,5 +1,5 @@
 ---
-title: Cleaning Broom
+title: Broom
 icon_file: broom.svg
 ---
 

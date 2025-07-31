@@ -37,11 +37,11 @@ Course Page:
     Title: ALEXA Evolution
     Text: Explore the 10-year journey of ALEXA cameras and their revolutionary impact
       on digital cinema technology.
-  - Icon: Settings
+  - Icon: Mix Console
     Title: Electronic Control Systems
     Text: Master advanced camera accessories including ERM radio modules and Operator
       Control Units for remote operation.
-  - Icon: Lightbulb
+  - Icon: Light
     Title: Lighting Innovation
     Text: Discover cutting-edge SkyPanel, Orbiter, and Stellar technologies that define
       modern professional lighting workflows.
@@ -49,7 +49,7 @@ Course Page:
     Title: TRINITY Stabilization
     Text: Learn advanced camera stabilizer techniques and accessories for achieving
       smooth cinematic movements in any scenario.
-  - Icon: Clean
+  - Icon: Lens
     Title: Lens Maintenance
     Text: Implement proper lens cleaning procedures using safe materials and techniques
       to maintain optical performance.
@@ -57,11 +57,11 @@ Course Page:
     Title: Workflow Optimization
     Text: Streamline production workflows with frame line tools, lens illumination
       systems, and efficient rigging configurations.
-  - Icon: Integration
+  - Icon: Node
     Title: Remote Solutions
     Text: Deploy safe remote operating systems and multicamera setups for high-end
       productions and live events.
-  - Icon: Effects
+  - Icon: Media Management
     Title: Virtual Production
     Text: Integrate ARRI cameras with LED walls and mixed reality systems for cutting-edge
       virtual production workflows.

@@ -56,7 +56,7 @@ Course Page:
     Title: Camera Perspective & Placement
     Text: Harness narrative perspective to make fundamental decisions about camera
       positioning.
-  - Icon: Voice
+  - Icon: Microphone
     Title: Filmmaker's Voice
     Text: Balance character perspectives with directorial vision using strategic camera
       movement.

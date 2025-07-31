@@ -68,7 +68,7 @@ Course Page:
     Title: Camera Movement Language
     Text: Execute pans, tilts, dollies, cranes, and Steadicam moves with purpose and
       precision.
-  - Icon: Grammar
+  - Icon: Story
     Title: Directing Grammar Rules
     Text: Apply screen direction, eyelines, 180-degree rule, and scene compression
       professionally.

@@ -51,7 +51,7 @@ Course Page:
     Title: Professional Rigging
     Text: Build comprehensive camera rigs with monitors, wireless video, and follow
       focus units for any shooting scenario.
-  - Icon: Camera Movement
+  - Icon: Wave
     Title: Gimbal Integration
     Text: Successfully mount anamorphic setups on budget gimbals using lightweight
       adapters and proper balancing techniques.
@@ -59,15 +59,15 @@ Course Page:
     Title: Autofocus Solutions
     Text: Configure and operate DJI Range Finder systems to achieve reliable autofocus
       with anamorphic adapter combinations.
-  - Icon: Settings
+  - Icon: Accessories
     Title: Essential Accessories
     Text: Identify and utilize crucial small-rig components that enhance anamorphic
       workflows without breaking the budget.
-  - Icon: Lightbulb
-    Title: Power Management
+  - Icon: Power
+    Title: Power
     Text: Design efficient V-lock battery systems that reliably power entire anamorphic
       camera rigs throughout long shoots.
-  - Icon: Effects
+  - Icon: Light Bulb
     Title: Creative Advantages
     Text: Explore unique artistic possibilities that make anamorphic adapters a valuable
       creative tool despite their challenges.

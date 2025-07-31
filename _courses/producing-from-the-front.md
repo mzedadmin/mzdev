@@ -40,6 +40,31 @@ Course Page:
   - building-a-pitch-deck
   - selling-the-punch
   - the-indie-film-blueprint
+  Learning Topics:
+  - Icon: Director
+    Title: Producer Role Mastery
+    Text: Understand the complete scope of a producer's responsibilities from concept through distribution.
+  - Icon: Organize
+    Title: Pre-Production Excellence
+    Text: Master pitching, fundraising, budgeting, and all essential pre-production elements for successful projects.
+  - Icon: Format
+    Title: Legal & Business Framework
+    Text: Navigate contracts, insurance, and legal requirements without needing extensive legal knowledge.
+  - Icon: Camera
+    Title: Producer-Shooter Skills
+    Text: Develop documentary-style producing skills that translate effectively to scripted productions.
+  - Icon: Performance
+    Title: On-Set Management
+    Text: Execute daily production requirements with professional communication and problem-solving abilities.
+  - Icon: Post Production
+    Title: Post-Production Oversight
+    Text: Anticipate issues and maintain creative vision throughout the post-production process.
+  - Icon: Projector
+    Title: Distribution Strategy
+    Text: Navigate distribution channels and partnerships to get your films seen by target audiences.
+  - Icon: Interview
+    Title: Industry Insights
+    Text: Learn from award-winning producers through exclusive interviews and real-world case studies.
   Lessons:
   - Lesson Title: Introduction
     Lesson Description: You'll get the 40,000-foot view of producing from this module.

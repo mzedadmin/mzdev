@@ -41,6 +41,31 @@ Course Page:
   - learn-everything-in-premiere-pro
   - get-me-started-premiere-pro
   - the-beginners-guide-to-davinci-resolve
+  Learning Topics:
+  - Icon: Layers
+    Title: Green Screen Mastery
+    Text: Remove green screens like a pro using Keylight 1.2 with proper matte refinement and spill suppression.
+  - Icon: Organize
+    Title: Project Organization
+    Text: Structure After Effects projects with clean folder hierarchies for efficient workflow and future maintenance.
+  - Icon: Effects
+    Title: Compositing Fundamentals
+    Text: Add realistic skies, backgrounds, and scene elements that seamlessly integrate with your footage.
+  - Icon: Camera Movement
+    Title: Dynamic Motion
+    Text: Create natural camera movements and handheld effects to bring static shots to life.
+  - Icon: Target
+    Title: Motion Tracking
+    Text: Lock graphics and elements to moving objects using After Effects' powerful tracking tools.
+  - Icon: Broom
+    Title: Footage Cleanup
+    Text: Remove unwanted objects, fix bad pixels, and clean up production issues with paint and clone tools.
+  - Icon: Lens
+    Title: Visual Enhancement
+    Text: Add professional lens flares, atmospheric elements, and depth to elevate your composite shots.
+  - Icon: Export
+    Title: Professional Output
+    Text: Master render settings and export workflows to deliver broadcast-ready content without quality loss.
   Lessons:
   - Lesson Title: Course Overview
     Lesson Description: 'Welcome to Get Me Started in After Effects  Compositing!

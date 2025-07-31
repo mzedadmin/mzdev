@@ -49,6 +49,31 @@ Course Page:
   - short-films-101
   - fundamentals-of-directing
   - filmmaking-for-photographers
+  Learning Topics:
+  - Icon: Target
+    Title: Sustainable Career Building
+    Text: Launch a filmmaking career that avoids common pitfalls and builds long-term success.
+  - Icon: Theme
+    Title: Genre Strategy
+    Text: Choose film genres that work with indie budgets and understand their market expectations.
+  - Icon: Dialogue
+    Title: Pitch Development
+    Text: Refine compelling film pitches that resonate with audiences, investors, and collaborators.
+  - Icon: Money
+    Title: Budget Management
+    Text: Understand budget levels from $10K to $200K films and how they affect production scope.
+  - Icon: Performance
+    Title: Financing & Fundraising
+    Text: Navigate funding sources from family investments to crowdfunding and professional investors.
+  - Icon: Interview
+    Title: Team Assembly & Casting
+    Text: Build professional crews and cast actors effectively while managing investor expectations.
+  - Icon: Organize
+    Title: Production Planning
+    Text: Master scheduling, location scouting, and pre-production workflows for smooth filming.
+  - Icon: Projector
+    Title: Distribution & Sales
+    Text: Navigate film festivals, streaming platforms, and sales agents to recoup costs and build sustainable careers.
   Lessons:
   - Lesson Title: Rules of the Indie Game
     Lesson Description: "Many first time indie filmmakers get so burned out on their

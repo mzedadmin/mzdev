@@ -50,15 +50,15 @@ Course Page:
   - the-cutting-edge
   - advanced-editing-with-davinci-resolve
   Learning Topics:
-  - Icon: Project
+  - Icon: Format
     Title: Project Organization & Media Management
     Text: Master project setup, media pool organization, and clip management for efficient
       workflows.
-  - Icon: Edit
+  - Icon: Timeline
     Title: Professional Editing Techniques
     Text: Assemble timelines, perform advanced trimming, and refine cuts with powerful
       editing tools.
-  - Icon: Transition
+  - Icon: Process
     Title: Transitions & Effects Application
     Text: Apply professional transitions, fades, dissolves, and advanced filter effects
       seamlessly.
@@ -66,15 +66,15 @@ Course Page:
     Title: Integrated Audio & Fairlight
     Text: Utilize Resolve's complete DAW capabilities for professional audio mixing
       and processing.
-  - Icon: Fusion
+  - Icon: Effects
     Title: Motion Graphics & VFX with Fusion
     Text: Create motion titles, composites, and green screen effects using integrated
       Fusion tools.
-  - Icon: Color Correction
+  - Icon: Match
     Title: Professional Color Correction
     Text: Execute primary and secondary color corrections using industry-standard
       grading techniques.
-  - Icon: Creative
+  - Icon: Light Bulb
     Title: Creative Look Development
     Text: Design custom creative looks and work with LUTs for distinctive visual styles.
   - Icon: Export

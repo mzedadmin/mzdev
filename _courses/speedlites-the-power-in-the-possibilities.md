@@ -35,7 +35,7 @@ Course Page:
   - how-to-photograph-everyone
   - how-to-wow
   Learning Topics:
-  - Icon: Flash
+  - Icon: Effects
     Title: Speedlite Fundamentals
     Text: Master essential Speedlite settings, controls, and positioning for professional
       portraits.
@@ -43,25 +43,25 @@ Course Page:
     Title: Studio Beauty Photography
     Text: Create stunning beauty and fashion portraits using controlled Speedlite
       setups.
-  - Icon: Mixed Light
+  - Icon: Match
     Title: Mixed Lighting Mastery
     Text: Balance Speedlites with fluorescent, incandescent, and available light sources
       seamlessly.
-  - Icon: Corporate
+  - Icon: People
     Title: Corporate & Industrial Portraits
     Text: Adapt Speedlite techniques for office, warehouse, and challenging indoor
       environments.
-  - Icon: Sun
+  - Icon: Light
     Title: Outdoor Sun Control
     Text: Overpower or complement natural sunlight using portable Speedlite systems.
-  - Icon: Location
+  - Icon: Studio
     Title: Diverse Location Shooting
     Text: Execute professional portraits at pools, beaches, piers, and urban environments.
-  - Icon: Beauty
+  - Icon: Theatre
     Title: Fashion & Beauty Lighting
     Text: Craft sophisticated lighting schemes specifically for beauty and fashion
       photography.
-  - Icon: Versatility
+  - Icon: Multi Camera
     Title: Lighting Versatility
     Text: Adapt single lighting system to create numerous styles across any shooting
       scenario.

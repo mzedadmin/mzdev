@@ -49,19 +49,19 @@ Course Page:
     Title: External Controls
     Text: Master all physical buttons, I/O ports, and external controls for efficient
       single-operator camera workflows.
-  - Icon: Target
+  - Icon: Monitor
     Title: Menu Configuration
     Text: Navigate the complete menu system and optimize settings for various shooting
       scenarios and project requirements.
-  - Icon: Aperture
+  - Icon: Target
     Title: Dual Pixel Autofocus
     Text: Harness Canon's advanced Dual Pixel AF system for precise focusing in both
       video and photographic applications.
-  - Icon: Slow Motion
+  - Icon: Timelapse
     Title: High-Speed Recording
     Text: Capture stunning slow-motion footage using the C200's high frame rate capabilities
       and specialized recording modes.
-  - Icon: Wave
+  - Icon: Node
     Title: Wireless Control
     Text: Implement remote camera control using WiFi connectivity for monitoring,
       adjustment, and operation from mobile devices.

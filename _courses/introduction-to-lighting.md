@@ -65,7 +65,7 @@ Course Page:
     Title: Creating Visual Depth
     Text: Use backlighting and layering techniques to separate subjects from backgrounds
       effectively.
-  - Icon: Backlight
+  - Icon: Light
     Title: Backlighting Mastery
     Text: Perfect kicker lights and ambient control to make subjects stand out with
       professional separation.
@@ -73,15 +73,15 @@ Course Page:
     Title: Compositional Enhancement
     Text: Guide viewer attention using scientific principles of human vision and strategic
       light placement.
-  - Icon: Emotion
+  - Icon: Theatre
     Title: Emotional Storytelling
     Text: Harness lighting's psychological impact to enhance narrative and character
       perception.
-  - Icon: Color Temperature
+  - Icon: Color Wheel
     Title: Color Theory & Skin Tones
     Text: Understand how lighting interacts with colors and skin tones to create natural,
       flattering results.
-  - Icon: Key Light
+  - Icon: Foley
     Title: Key Light Fundamentals
     Text: Master the primary light source techniques including Chiaroscuro and Rembrandt
       triangle setups.

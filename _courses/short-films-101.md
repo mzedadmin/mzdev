@@ -43,6 +43,31 @@ Course Page:
   - writing-101
   - writing-201
   - the-indie-film-blueprint
+  Learning Topics:
+  - Icon: Microphone
+    Title: Filmmaker's Voice
+    Text: Discover and develop your unique voice as a filmmaker to create distinctive, memorable short films.
+  - Icon: Story
+    Title: Distilled Storytelling
+    Text: Condense complex narratives into single, powerful ideas that work effectively in short form content.
+  - Icon: Structure
+    Title: Short Film Structure
+    Text: Apply proven structural models like Storyclock to create compelling short films with maximum impact.
+  - Icon: Writing
+    Title: Script Development
+    Text: Adapt traditional screenwriting techniques specifically for the unique demands of short form storytelling.
+  - Icon: Vision
+    Title: Visual Communication
+    Text: Create storyboards, shot lists, and production designs that clearly communicate your creative vision.
+  - Icon: Interview
+    Title: Actor & Crew Direction
+    Text: Lead teams effectively and guide actor performances to achieve your creative goals within tight schedules.
+  - Icon: Effects
+    Title: Practical Visual Effects
+    Text: Implement cost-effective visual effects and sound design techniques to enhance production value.
+  - Icon: Analysis
+    Title: Critical Evaluation
+    Text: Honestly assess finished work and seek constructive feedback to continuously improve your filmmaking skills.
   Lessons:
   - Lesson Title: Intro & Overview
     Lesson Description: As we kick off the course, Seth runs us through the goals

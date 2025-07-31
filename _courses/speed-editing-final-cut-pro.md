@@ -43,6 +43,31 @@ Course Page:
   - the-beginners-guide-to-davinci-resolve
   - the-cutting-edge
   - starting-youtube-channel
+  Learning Topics:
+  - Icon: Organize
+    Title: Media Organization
+    Text: Set up efficient Final Cut Pro libraries, events, and projects for lightning-fast editing workflows.
+  - Icon: Timeline
+    Title: Foundational Edit Speed
+    Text: Build base edits rapidly using compound clips, attribute copying, and streamlined project setup.
+  - Icon: Layers
+    Title: B-Roll Integration
+    Text: Master keyboard shortcuts and optimization techniques for seamlessly incorporating secondary footage.
+  - Icon: Post Production
+    Title: External Media Mastery
+    Text: Efficiently download and integrate web-sourced images, videos, and special effects for enhanced content.
+  - Icon: Parameters
+    Title: Template Creation
+    Text: Create custom titles and text templates in Final Cut Pro and Apple Motion for consistent branding.
+  - Icon: Color Wheel
+    Title: Rapid Color Correction
+    Text: Speed through LOG media correction using color wheels, masks, and reusable correction templates.
+  - Icon: Music Note
+    Title: Audio Integration
+    Text: Source and work with music tracks efficiently within Final Cut Pro's audio workflow.
+  - Icon: Export
+    Title: Optimized Export
+    Text: Master multiple export methods and optimize final delivery for YouTube and other platforms.
   Lessons:
   - Lesson Title: Organizing Your Footage
     Lesson Description: In the first lesson, Dave walks you through the best approach

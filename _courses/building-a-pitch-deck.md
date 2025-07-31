@@ -62,11 +62,11 @@ Course Page:
     Title: Deck Architecture
     Text: Organize your pitch content strategically to build narrative tension and
       deliver maximum impact at key moments.
-  - Icon: Character
+  - Icon: Theatre
     Title: Character Development
     Text: Present compelling character profiles and story arcs that make producers
       emotionally invested in your project.
-  - Icon: Lightbulb
+  - Icon: Light Bulb
     Title: Creative Collaboration
     Text: Work effectively with graphic designers to bring your vision to life while
       maintaining creative control and authenticity.
@@ -74,7 +74,7 @@ Course Page:
     Title: Presentation Skills
     Text: Master the art of pitching with confidence, handling questions, and adapting
       your presentation to different audience types.
-  - Icon: Target
+  - Icon: Projector
     Title: Industry Standards
     Text: Understand current pitch deck conventions and expectations across different
       platforms, genres, and production scales.

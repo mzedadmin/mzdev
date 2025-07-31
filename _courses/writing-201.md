@@ -43,7 +43,7 @@ Course Page:
   - short-films-101
   - the-indie-film-blueprint
   Learning Topics:
-  - Icon: Planning
+  - Icon: Story
     Title: Advanced Story Planning
     Text: Break down story concepts and overcome the most difficult part of the writing
       process.
@@ -59,18 +59,18 @@ Course Page:
     Title: Normal World Construction
     Text: Establish your hero's normal world with essential checklist elements for
       Act One.
-  - Icon: Conflict
+  - Icon: Interview
     Title: Antagonist & Conflict Design
     Text: Introduce antagonists effectively and create meaningful encounters with
       your hero.
-  - Icon: Dialogue
+  - Icon: Feedback
     Title: Professional Dialogue Writing
     Text: Master the dos and don'ts of writing compelling, character-driven dialogue.
-  - Icon: Action
+  - Icon: Theatre
     Title: Scene Action & Formatting
     Text: Write effective scene action, transitions, and proper scene headers for
       screenplays.
-  - Icon: Pitch
+  - Icon: Writing
     Title: Screenplay Pitching Skills
     Text: Present your completed screenplay effectively in both casual and business
       contexts.

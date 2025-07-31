@@ -75,7 +75,7 @@ Course Page:
     Title: HDR Production
     Text: Implement High Dynamic Range recording workflows and understand proper HDR
       monitoring techniques using large format systems.
-  - Icon: Target
+  - Icon: Format
     Title: Large Format Certification
     Text: Complete ARRI-certified training for large format systems and earn official
       certification for professional camera operation.

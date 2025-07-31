@@ -75,7 +75,7 @@ Course Page:
     Title: HDR & Image Quality
     Text: Explore High Dynamic Range video capabilities and optimize resolution, dynamic
       range, and color reproduction for modern formats.
-  - Icon: Target
+  - Icon: Format
     Title: Professional Certification
     Text: Complete ARRI-certified training with online simulators and industry-standard
       software to earn official ARRI certification.

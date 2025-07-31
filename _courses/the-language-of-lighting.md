@@ -61,22 +61,22 @@ Course Page:
     Title: Lighting as Storytelling Tool
     Text: Use contrast, movement, and light design to deliver narrative information
       to audiences.
-  - Icon: Practical
+  - Icon: Light Bulb
     Title: Practical vs Movie Lights
     Text: Master when and how to use practical lighting versus dedicated movie lighting
       equipment.
-  - Icon: Location
+  - Icon: Theatre
     Title: Location vs Soundstage Lighting
     Text: Adapt lighting techniques for location shooting with equipment, crew, and
       time constraints.
-  - Icon: Leadership
+  - Icon: Camera Movement
     Title: Set Leadership & Blocking
     Text: Run lighting operations on set including multi-camera setups and crew coordination.
-  - Icon: Measurement
+  - Icon: Wave
     Title: Light Measurement Tools
     Text: Use light meters, waveform monitors, and histograms for precise lighting
       planning.
-  - Icon: Color Science
+  - Icon: Color Wheel
     Title: Color & Lighting Integration
     Text: Apply color temperature, gels, vectorscopes, and color meters for professional
       lighting design.

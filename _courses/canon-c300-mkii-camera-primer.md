@@ -54,7 +54,7 @@ Course Page:
     Title: Professional Audio
     Text: Configure advanced audio inputs, monitoring, and timecode systems for single
       and multi-camera production workflows.
-  - Icon: Camera
+  - Icon: Build
     Title: Versatile Rigging
     Text: Adapt the camera for different shooting styles from handheld and tripod
       setups to complex studio configurations.

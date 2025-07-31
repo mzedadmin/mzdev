@@ -80,7 +80,7 @@ Course Page:
     Title: Digital Stabilization
     Text: Implement various levels of digital image stabilization to achieve smooth
       footage in handheld and mobile shooting scenarios.
-  - Icon: Effects
+  - Icon: Perspective
     Title: 180° VR Production
     Text: Create immersive virtual reality content using Canon's Dual Fisheye lens
       system from production through post-production delivery.

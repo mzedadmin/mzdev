@@ -47,7 +47,7 @@ Course Page:
   - the-art-and-science-of-lenses
   - the-language-of-lighting
   Learning Topics:
-  - Icon: Science
+  - Icon: Aperture
     Title: Fundamental Optics Principles
     Text: Understand how modern lenses work and the evolution of optical technology.
   - Icon: Focal Length
@@ -61,19 +61,19 @@ Course Page:
     Title: Lens Specification Analysis
     Text: Decode manufacturer specifications and understand what lens specs really
       mean.
-  - Icon: Technical
+  - Icon: Telescope
     Title: Advanced Technical Concepts
     Text: Explore focus breathing, zoom tracking, chromatic aberration, and telecentricity
       effects.
-  - Icon: Character
+  - Icon: Vision
     Title: Lens Personality & Character
     Text: Identify what gives lenses their distinctive looks and choose lenses for
       specific aesthetics.
-  - Icon: Brand
+  - Icon: Structure
     Title: Manufacturer Differences
     Text: Compare the "Cooke Look" versus Zeiss and other manufacturer's distinctive
       optical characteristics.
-  - Icon: Specialty
+  - Icon: Perspective
     Title: Specialty Optics Applications
     Text: Understand anamorphic, tilt-shift, and other specialty lenses and their
       creative applications.

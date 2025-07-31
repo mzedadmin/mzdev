@@ -49,6 +49,31 @@ Course Page:
   - speed-editing-final-cut-pro
   - short-films-101
   - filmmaking-for-photographers
+  Learning Topics:
+  - Icon: Light Bulb
+    Title: Channel Planning & Mindset
+    Text: Build a strong foundation by choosing your niche, understanding your goals, and developing resilience.
+  - Icon: Settings
+    Title: Channel Setup & Branding
+    Text: Create professional channel layouts, descriptions, and branding that attract and retain viewers.
+  - Icon: Writing
+    Title: Content Creation Workflow
+    Text: Develop efficient pre-production processes including scripting, B-roll planning, and shot listing.
+  - Icon: Studio
+    Title: YouTube Studio Setup
+    Text: Choose the right equipment and lighting setup based on your content type and budget requirements.
+  - Icon: Edit Suite
+    Title: Editing & Post-Production
+    Text: Optimize file management, storage, and editing workflows for consistent, high-quality video delivery.
+  - Icon: Target
+    Title: Upload & Optimization
+    Text: Master titles, keywords, thumbnails, and upload strategies to maximize visibility and engagement.
+  - Icon: Performance
+    Title: Growth & Promotion
+    Text: Leverage social media platforms and community building techniques to expand your audience reach.
+  - Icon: Money
+    Title: Monetization & Business
+    Text: Explore revenue streams including AdSense, sponsorships, and affiliate programs for sustainable income.
   Lessons:
   - Lesson Title: Planning and Mindset
     Lesson Description: If you're reading this, then it's highly likely that you're

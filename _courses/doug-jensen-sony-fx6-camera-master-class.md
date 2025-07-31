@@ -40,6 +40,31 @@ Course Page:
   - certified-online-training-for-camera-systems
   - canon-r5c-ultimate-video-manual
   - canon-c500-mkii-camera-primer
+  Learning Topics:
+  - Icon: Camera
+    Title: FX6 Complete Mastery
+    Text: Navigate every feature and function of Sony's FX6 cinema camera for confident operation in any production scenario.
+  - Icon: Film Reel
+    Title: Dual Shooting Modes
+    Text: Master both Custom and Cine EI modes to optimize workflows for broadcast or cinema-style productions.
+  - Icon: Settings
+    Title: Advanced Menu System
+    Text: Configure complex menu settings, user profiles, and scene files for efficient camera operation and consistency.
+  - Icon: Aperture
+    Title: Exposure Control
+    Text: Implement manual and custom auto exposure using dual base ISO, ND filters, and professional monitoring tools.
+  - Icon: Target
+    Title: Autofocus Excellence
+    Text: Harness Sony's advanced phase detection autofocus with face tracking and customizable focus modes.
+  - Icon: Palette
+    Title: S-Log3 & HLG Workflows
+    Text: Maximize dynamic range using S-Log3 recording and implement HDR production with Hybrid Log Gamma.
+  - Icon: Timelapse
+    Title: High Frame Rate Mastery
+    Text: Capture stunning slow motion at 120fps 4K and 240fps HD with proper shutter angle and card selection.
+  - Icon: Audio Waveform
+    Title: Professional Audio
+    Text: Configure 4-channel recording with XLR inputs, wireless integration, and proper level management.
   Lessons:
   - Lesson Title: Introduction and Overview (Free Lesson)
     Lesson Description: The Sony FX6 is a compact version of Sony's flagship cinema

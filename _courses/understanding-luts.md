@@ -47,11 +47,11 @@ Course Page:
   - mastering-color
   - directing-color
   Learning Topics:
-  - Icon: LUT
+  - Icon: Match
     Title: LUT Fundamentals & Theory
     Text: Understand what LUTs are, their various applications, and how they differ
       from looks and scene files.
-  - Icon: Equipment
+  - Icon: Settings
     Title: Professional DIT Cart Setup
     Text: Learn DIT cart components including LUT boxes, control surfaces, and Pomfort
       LiveGrade Pro.
@@ -59,23 +59,23 @@ Course Page:
     Title: On-Set LUT Creation
     Text: Create custom LUTs on-set for both delogging footage and creative color
       grading purposes.
-  - Icon: Workflow
+  - Icon: Process
     Title: Production to Post Workflow
     Text: Seamlessly transfer LUTs from production through post-production pipelines
       and software.
-  - Icon: Color Science
+  - Icon: Wave
     Title: Color Space & Gamma Curves
     Text: Master technical color science principles that govern how LUTs transform
       image data.
-  - Icon: Software
+  - Icon: Post Production
     Title: LUT Implementation Tools
     Text: Utilize professional software like LiveGrade Pro and DaVinci Resolve for
       LUT application.
-  - Icon: Creative
+  - Icon: Light Bulb
     Title: Creative vs Technical LUTs
     Text: Distinguish between corrective technical LUTs and creative stylistic LUTs
       for different purposes.
-  - Icon: Delivery
+  - Icon: Export
     Title: LUT Standards & Delivery
     Text: Export and deliver LUTs in proper formats for various post-production and
       broadcast workflows.

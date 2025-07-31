@@ -47,19 +47,19 @@ Course Page:
     Title: Telephoto Lens Mastery
     Text: Master long telephoto lenses, teleconverters, and autofocus performance
       for distant wildlife.
-  - Icon: Tripod
+  - Icon: Wave
     Title: Tripod System Optimization
     Text: Deploy carbon fiber tripods with fluid heads for stable tracking and smooth
       camera movement.
-  - Icon: Exposure
+  - Icon: Monitor
     Title: Wildlife Exposure Control
     Text: Control exposure triangle, ND filters, and histogram analysis for perfect
       wildlife exposure.
-  - Icon: Focus
+  - Icon: Accessories
     Title: Manual & Auto Focus Techniques
     Text: Execute continuous focus tracking, peaking, and smooth focus transitions
       on moving wildlife.
-  - Icon: Slow Motion
+  - Icon: Timelapse
     Title: Slow Motion Wildlife Capture
     Text: Configure 120fps recording and proper shutter speeds for crisp slow-motion
       wildlife action.
@@ -67,7 +67,7 @@ Course Page:
     Title: Wildlife Composition Rules
     Text: Apply rule of thirds, nose room, and leveling techniques for compelling
       wildlife shots.
-  - Icon: Color Correction
+  - Icon: Contrast
     Title: Wildlife Color Grading
     Text: Process and color grade wildlife footage in DaVinci Resolve for broadcast-quality
       results.

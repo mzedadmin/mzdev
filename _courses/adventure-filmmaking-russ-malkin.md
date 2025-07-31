@@ -46,8 +46,8 @@ Course Page:
   - filmmaking-for-photographers
   - lighting-people-on-location
   Learning Topics:
-  - Icon: Camera Movement
-    Title: Adventure Documentation
+  - Icon: Video Camera
+    Title: Travel & Filmmaking
     Text: Master the art of capturing compelling stories while traveling through remote
       and challenging locations.
   - Icon: Director
@@ -58,11 +58,11 @@ Course Page:
     Title: Equipment & Safety
     Text: Choose the right compact gear and implement safety protocols for remote
       filming environments.
-  - Icon: Lightbulb
+  - Icon: Light Bulb
     Title: Creative Storytelling
     Text: Transform personal adventures into engaging documentaries that captivate
       audiences worldwide.
-  - Icon: Settings
+  - Icon: People
     Title: Team Dynamics
     Text: Build and manage effective film crews for extended adventure shoots in challenging
       conditions.

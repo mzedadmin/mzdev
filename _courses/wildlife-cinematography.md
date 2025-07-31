@@ -42,7 +42,7 @@ Course Page:
   - the-language-of-lighting
   - doug-jensen-wildlife-cinematography-master-class
   Learning Topics:
-  - Icon: Wildlife
+  - Icon: Telescope
     Title: Wildlife Behavior & Ethics
     Text: Understand animal behavior patterns and ethical considerations for respectful
       wildlife filming.
@@ -54,11 +54,11 @@ Course Page:
     Title: Telephoto & Specialty Lenses
     Text: Select and operate long telephoto lenses and specialized optics for distant
       wildlife subjects.
-  - Icon: Location
+  - Icon: Studio
     Title: Field Location Scouting
     Text: Develop skills for identifying optimal shooting locations and understanding
       environmental factors.
-  - Icon: Exposure
+  - Icon: Light
     Title: Exposure in Natural Light
     Text: Control exposure settings for rapidly changing natural lighting conditions
       in the field.
@@ -70,7 +70,7 @@ Course Page:
     Title: Wildlife Storytelling
     Text: Craft compelling narratives using wildlife behavior and natural environments
       as story elements.
-  - Icon: Technical
+  - Icon: People
     Title: Field Production Challenges
     Text: Solve technical problems and equipment issues that arise during remote wildlife
       shoots.

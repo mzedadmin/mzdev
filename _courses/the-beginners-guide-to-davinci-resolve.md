@@ -59,7 +59,7 @@ Course Page:
     Title: Secondary Color Adjustments
     Text: Isolate and adjust specific image elements using Power Windows, qualifiers,
       and tracking.
-  - Icon: Organize
+  - Icon: Match
     Title: Grade Management Workflow
     Text: Efficiently organize, copy, and apply color grades across hundreds of clips
       using stills and LUTs.
@@ -67,7 +67,7 @@ Course Page:
     Title: Project Setup & Preferences
     Text: Configure DaVinci Resolve projects correctly with proper color management
       and organization.
-  - Icon: Audio Waveform
+  - Icon: Mix Console
     Title: Fairlight Audio Mixing
     Text: Create cinematic-quality soundtracks with integrated professional audio
       tools.

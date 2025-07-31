@@ -69,7 +69,7 @@ Course Page:
     Title: ARRI Look System
     Text: Implement ARRI's advanced color management tools including Looks and LUTs
       for consistent creative control.
-  - Icon: Monitor
+  - Icon: Wave
     Title: Exposure Dynamics
     Text: Maximize AMIRA's exposure latitude using proper Log-C setup and dynamic
       range optimization techniques.

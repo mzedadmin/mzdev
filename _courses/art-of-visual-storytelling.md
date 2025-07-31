@@ -63,7 +63,7 @@ Course Page:
     Title: Lens Selection Strategy
     Text: Choose between still and cine lenses based on project needs and understand
       compression and color space implications.
-  - Icon: Key Light
+  - Icon: Light
     Title: Advanced Lighting
     Text: Create professional looks using high-key, glamour, and DIY lighting techniques
       with inexpensive everyday materials.
@@ -75,7 +75,7 @@ Course Page:
     Title: Gimbal Storytelling
     Text: Use gimbal stabilizers effectively to enhance narrative rather than just
       adding movement, including dual operator techniques.
-  - Icon: Format
+  - Icon: Video Camera
     Title: 4K Workflow Integration
     Text: Implement efficient 4K production workflows and understand the differences
       between HD and 4K data capture methods.

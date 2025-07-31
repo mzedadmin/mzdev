@@ -46,6 +46,31 @@ Course Page:
   - starting-youtube-channel
   - producing-from-the-front
   - writing-101
+  Learning Topics:
+  - Icon: Microphone
+    Title: Podcast Planning
+    Text: Define your niche, build listener profiles, and create a compelling show identity that attracts your target audience.
+  - Icon: Audio Waveform
+    Title: Audio Excellence
+    Text: Select and configure microphones, stands, and headphones for professional-quality podcast recordings.
+  - Icon: Mix Console
+    Title: Recording Mastery
+    Text: Master the RØDECaster Pro II for multichannel recording, audio processing, and live production capabilities.
+  - Icon: Interview
+    Title: Interview Techniques
+    Text: Develop essential skills for conducting engaging interviews and managing guest conversations effectively.
+  - Icon: Edit Suite
+    Title: Post-Production Workflow
+    Text: Edit and enhance your podcast using professional software while maintaining consistent audio quality.
+  - Icon: Organize
+    Title: Content Strategy
+    Text: Create content calendars, develop show notes, and implement SEO optimization for maximum discoverability.
+  - Icon: Performance
+    Title: Marketing & Distribution
+    Text: Promote your podcast across social platforms, build email lists, and distribute to major podcast services.
+  - Icon: Money
+    Title: Monetization Methods
+    Text: Work with brands, sell services, and build your personal brand to turn your podcast into a business.
   Lessons:
   - Lesson Title: Is Podcasting Right for You?
     Lesson Description: |-

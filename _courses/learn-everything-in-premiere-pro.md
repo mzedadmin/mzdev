@@ -40,7 +40,7 @@ Course Page:
   - the-cutting-edge
   - mastering-color
   Learning Topics:
-  - Icon: Interface
+  - Icon: Post Production
     Title: Complete Interface Mastery
     Text: Master Premiere Pro's interface, workspace setup, keyboard shortcuts, and
       multi-monitor configuration.
@@ -52,15 +52,15 @@ Course Page:
     Title: Advanced Timeline Techniques
     Text: Execute complex timeline operations, nesting, markers, and pancake editing
       workflows.
-  - Icon: Audio Mixing
+  - Icon: Audio Waveform
     Title: Professional Audio Production
     Text: Mix dialogue, music, and sound effects using advanced audio tools and Essential
       Sound panel.
-  - Icon: Color Correction
+  - Icon: Match
     Title: Complete Color Workflow
     Text: Master Lumetri Color tools, curves, wheels, secondary corrections, and advanced
       grading techniques.
-  - Icon: Motion Graphics
+  - Icon: Film Strip
     Title: Graphics & After Effects
     Text: Create titles, lower thirds, animations, and integrate After Effects for
       motion graphics.
@@ -68,7 +68,7 @@ Course Page:
     Title: Professional Delivery
     Text: Export for all platforms including social media formats, batch processing,
       and client delivery.
-  - Icon: Business
+  - Icon: Interview
     Title: Professional Business Skills
     Text: Build client relationships, manage feedback, create professional presence,
       and grow your editing business.

@@ -33,6 +33,31 @@ Course Page:
   - learn-everything-in-premiere-pro
   - get-me-started-premiere-pro
   - speed-editing-final-cut-pro
+  Learning Topics:
+  - Icon: Subtitle
+    Title: AI-Powered Transcription
+    Text: Generate accurate transcripts in seconds using built-in AI tools across major NLEs.
+  - Icon: Timeline
+    Title: Text-Based Editing
+    Text: Revolutionize your editing workflow by cutting directly from transcript text for faster rough cuts.
+  - Icon: Parameters
+    Title: Automated Captioning
+    Text: Create properly timed, formatted subtitles automatically in Premiere Pro, DaVinci Resolve, and Avid.
+  - Icon: Theme
+    Title: Third-Party Solutions
+    Text: Leverage external AI tools and services for subtitle creation when your NLE doesn't support it.
+  - Icon: Palette
+    Title: Subtitle Formatting
+    Text: Design consistent, professional subtitle styles and create reusable presets for brand consistency.
+  - Icon: World Building
+    Title: Translation Workflows
+    Text: Efficiently translate subtitles into multiple languages using modern AI language models.
+  - Icon: Format
+    Title: File Format Mastery
+    Text: Understand different subtitle formats and when to use each for various delivery requirements.
+  - Icon: Performance
+    Title: Workflow Optimization
+    Text: Streamline repetitive subtitle tasks to focus more time on creative storytelling and less on busywork.
   Lessons:
   - Lesson Title: Introduction
     Lesson Description: '"AI" can be a controversial term in our industry—and we get

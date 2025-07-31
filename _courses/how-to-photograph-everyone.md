@@ -46,19 +46,19 @@ Course Page:
     Title: Men & Women Portraits
     Text: Master posing, lighting, and camera positioning for compelling individual
       portraits of any gender.
-  - Icon: Family
+  - Icon: Camera
     Title: Maternity & Family Portraits
     Text: Create powerful maternity, baby, and family group portraits with expert
       studio techniques.
-  - Icon: Couple
+  - Icon: People
     Title: Couple Photography
     Text: Navigate unique challenges of couple portraits to create memorable, intimate
       images.
-  - Icon: Corporate
+  - Icon: Studio
     Title: Corporate Headshots
     Text: Deliver professional business portraits that capture personality while maintaining
       corporate standards.
-  - Icon: Wedding
+  - Icon: Parameters
     Title: Wedding Photography
     Text: Apply portrait techniques to wedding environments for timeless bridal and
       ceremonial images.
@@ -66,11 +66,11 @@ Course Page:
     Title: Signature Lighting Methods
     Text: Recreate Clay Blackmore's signature lighting setups for consistent professional
       results.
-  - Icon: Pose
+  - Icon: Eye
     Title: Universal Posing Techniques
     Text: Learn adaptable posing methods that work across all demographics and portrait
       styles.
-  - Icon: Psychology
+  - Icon: Accessories
     Title: Subject Psychology
     Text: Understand how to connect with and direct diverse subjects for authentic
       expressions.

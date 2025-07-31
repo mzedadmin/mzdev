@@ -51,7 +51,7 @@ Course Page:
     Title: Modular Expansion
     Text: Configure EVF, expansion units, and interchangeable lens mounts to adapt
       the camera for any production scenario.
-  - Icon: Camera
+  - Icon: Build
     Title: Flexible Rigging
     Text: Transform between handheld, studio, and shoulder-mounted configurations
       using professional accessories and cages.

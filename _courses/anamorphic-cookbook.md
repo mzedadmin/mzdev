@@ -49,7 +49,7 @@ Course Page:
   - anamorphic-cookbook-part-2
   - art-and-science-of-lenses
   Learning Topics:
-  - Icon: History
+  - Icon: Film Roll
     Title: Anamorphic History & Evolution
     Text: Understand the historical development and technical evolution of anamorphic
       lens systems.
@@ -65,17 +65,17 @@ Course Page:
     Title: Camera & Lens Compatibility
     Text: Match anamorphic lenses with appropriate camera systems for optimal image
       quality.
-  - Icon: Testing
+  - Icon: Performance
     Title: Lens Testing & Evaluation
     Text: Systematically test and evaluate anamorphic lenses to avoid costly purchasing
       mistakes.
-  - Icon: Characteristics
+  - Icon: Perspective
     Title: Anamorphic Image Characteristics
     Text: Master the unique visual qualities that define the anamorphic look and aesthetic.
-  - Icon: Workflow
+  - Icon: Process
     Title: Production Workflow
     Text: Integrate anamorphic shooting into professional production pipelines efficiently.
-  - Icon: Budget
+  - Icon: Money
     Title: Budget-Conscious Solutions
     Text: Achieve cinematic anamorphic results without breaking the bank through smart
       equipment choices.

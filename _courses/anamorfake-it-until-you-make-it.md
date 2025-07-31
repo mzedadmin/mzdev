@@ -44,7 +44,7 @@ Course Page:
     Title: Anamorphic Look Creation
     Text: Achieve the coveted widescreen cinematic aesthetic without expensive anamorphic
       glass using clever techniques.
-  - Icon: Effects
+  - Icon: Light
     Title: Lens Flare Techniques
     Text: Create stunning horizontal streak flares in-camera using budget-friendly
       filters and DIY methods.
@@ -60,7 +60,7 @@ Course Page:
     Title: Post-Production Magic
     Text: Transform spherical footage into anamorphic-style content using aspect ratio,
       distortion, and digital effects.
-  - Icon: Film Strip
+  - Icon: Node
     Title: Hybrid Workflows
     Text: Combine real anamorphic lenses with fake techniques to create unique visual
       styles and overcome budget constraints.
@@ -68,7 +68,7 @@ Course Page:
     Title: Budget Solutions
     Text: Explore cost-effective alternatives ranging from $2 to $200 that deliver
       professional anamorphic results.
-  - Icon: Lens
+  - Icon: Film Strip
     Title: Vintage Aesthetics
     Text: Craft classic anamorphic looks using modified vintage lenses and specialized
       post-production workflows.

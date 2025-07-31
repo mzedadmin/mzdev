@@ -68,7 +68,7 @@ Course Page:
     Title: Professional Interview Techniques
     Text: Perfect lighting, positioning, and interviewing skills to capture compelling
       subject stories.
-  - Icon: Slow Motion
+  - Icon: Video Camera
     Title: Slow Motion Cinematography
     Text: Master high frame rate shooting, timing, and lighting techniques for impactful
       slow motion.

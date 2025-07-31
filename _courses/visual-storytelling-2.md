@@ -51,19 +51,19 @@ Course Page:
   - philip-bloom-cinematic-masterclass
   - vincent-laforet-directing-motion
   Learning Topics:
-  - Icon: Visual Effects
+  - Icon: Effects
     Title: In-Camera Practical Effects
     Text: Master custom bokeh, pixel stick techniques, and free lensing for dreamy
       cinematic aesthetics.
-  - Icon: Color Temperature
+  - Icon: Match
     Title: Mixed Color Temperature Control
     Text: Learn three strategic approaches to combat challenging mixed lighting scenarios
       on set.
-  - Icon: Style
+  - Icon: Multi Camera
     Title: Visual Style Deconstruction
     Text: Analyze and recreate the exact look of Hollywood blockbusters, documentaries,
       and music videos.
-  - Icon: Documentary
+  - Icon: Video Camera
     Title: Documentary Style Techniques
     Text: Explore different sub-genres within documentary-style cinematography for
       narrative filmmaking.
@@ -71,15 +71,15 @@ Course Page:
     Title: Vintage vs Modern Glass
     Text: Compare still photography lenses to cinema glass for authentic period looks
       and character.
-  - Icon: Color Correction
+  - Icon: Color Wheel
     Title: Professional Color Workflow
     Text: Execute precise color correction order for optimal results when working
       solo or with colorists.
-  - Icon: Psychology
+  - Icon: Vision
     Title: Visual Subtext Mastery
     Text: Apply three fundamental rules to add deeper meaning and universal appeal
       to your imagery.
-  - Icon: Lighting
+  - Icon: Light
     Title: Advanced Lighting Techniques
     Text: Control contrast and create professional lighting setups for day exteriors
       and challenging scenarios.

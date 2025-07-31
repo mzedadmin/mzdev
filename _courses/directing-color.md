@@ -55,14 +55,14 @@ Course Page:
     Title: Color Palette Development
     Text: Create cohesive color palettes for brand and storytelling integration throughout
       production.
-  - Icon: Psychology
+  - Icon: Vision
     Title: Human Visual System & Color
     Text: Understand how human perception affects color relationships and visual hierarchy.
   - Icon: Monitor
     Title: On-Set Color Monitoring
     Text: Build custom monitoring LUTs and ensure consistent color vision across the
       entire crew.
-  - Icon: Calibration
+  - Icon: Match
     Title: Color Management Systems
     Text: Implement proper calibration, white balance, and contrast consistency across
       multiple cameras.
@@ -70,7 +70,7 @@ Course Page:
     Title: Post-Production Contrast Control
     Text: Add depth through strategic contrast manipulation and professional grading
       techniques.
-  - Icon: Focus
+  - Icon: Target
     Title: Hue & Saturation for Eye Direction
     Text: Guide viewer attention using selective hue and saturation adjustments in
       post-production.
@@ -78,7 +78,7 @@ Course Page:
     Title: Color Psychology & Mood
     Text: Convey emotional narrative through color choices that support character
       journeys.
-  - Icon: Integration
+  - Icon: Node
     Title: Production-to-Post Color Workflow
     Text: Think color-first throughout filmmaking rather than treating it as a post-production
       afterthought.

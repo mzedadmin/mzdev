@@ -67,7 +67,7 @@ Course Page:
     Title: Professional Formatting
     Text: Master industry-standard screenplay presentation to ensure your script gets
       read.
-  - Icon: Constraint
+  - Icon: Story
     Title: Creative Limitations
     Text: Transform writing constraints into storytelling advantages that strengthen
       your narrative.
