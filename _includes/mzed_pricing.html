@@ -119,7 +119,8 @@
     const courseOnlyCard = document.querySelector('#pricing-1262 .cs-course-only');
     const readyText = document.querySelector('#pricing-1262 #get-started');
 
-    toggle.addEventListener('change', function () {
+    if (toggle) {
+      toggle.addEventListener('change', function () {
       if (this.checked) {
         subscriptionCard.style.display = 'none';
         courseOnlyCard.style.display = 'grid';
@@ -132,5 +133,6 @@
           '<div class="cs-title">Ready to Get Started with <span class="title-highlight">MZed Pro?</span></div><p class="cs-text">Make a commitment to becoming a better filmmaker, today. Seven-day money-back guarantee (<a href="https://www.mzed.com/terms-of-service#section-6" class="cs-link">view full terms here</a>).</p>';
       }
     });
+    }
   </script>
 </section>

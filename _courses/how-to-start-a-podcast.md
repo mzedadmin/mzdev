@@ -12,6 +12,7 @@ Course Card:
   Runtime Minutes: 0
   Topics:
   - audio
+  - podcasting
 Course Page:
   Video: 
   Main Title: How to Start a Podcast

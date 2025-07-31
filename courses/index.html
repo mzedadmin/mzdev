@@ -4,7 +4,6 @@ permalink: "/courses/"
 layout: default
 custom_css:
 - "/assets/css/main.css"
-- "/assets/css/components/course-card.css"
 ---
 
 {% assign page = site.pages | where: "slug", "courses" | first %}
@@ -42,7 +41,7 @@ custom_css:
           </div>
         </div>
 
-        {% assign sorted_courses = site.courses | sort: "position", "last" %}
+        {% assign sorted_courses = site.courses | sort: "position" %}
         {% for course in sorted_courses %}
           {% include course_card.html course=course %}
         {% endfor %}

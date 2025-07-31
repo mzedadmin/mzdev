@@ -145,14 +145,14 @@
 
 /* Modified display properties */
 
-#services-1169 {
+#courses {
   .cs-item {
     transition: opacity 0.3s ease;
     opacity: 1;
     display: flex;
   }
 
-  .cs-item.hidden {
+  .course-card-item.hidden {
     opacity: 0;
     display: none;
     height: 0;

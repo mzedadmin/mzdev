@@ -1,8 +1,8 @@
 // Course filtering functionality
 document.addEventListener('DOMContentLoaded', function() {
-  const filterButtons = document.querySelectorAll('.filter-btn');
+  const filterButtons = document.querySelectorAll('.filter-btn:not(.reset-btn)');
   const resetButton = document.querySelector('.reset-btn');
-  const courseItems = document.querySelectorAll('.cs-item');
+  const courseItems = document.querySelectorAll('.course-card-item');
 
   // Keep track of active filters
   let activeFilters = new Set();

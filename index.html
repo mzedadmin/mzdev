@@ -5,6 +5,11 @@ layout: default
 description: MZed is the leading online education platform for filmmakers and photographers.
 ---
 
+<!-- Load Fancybox -->
+<link rel="stylesheet" href="/assets/css/fancybox.css"/>
+<script src="/assets/js/fancybox.umd.js"></script>
+<script src="/assets/js/fancybox.js"></script>
+
 <!-- ============================================ -->
 <!--                    Hero                      -->
 <!-- ============================================ -->
@@ -12,12 +17,12 @@ description: MZed is the leading online education platform for filmmakers and ph
 <section id="hero-229">
     <div class="cs-container">
         <div class="cs-flex-group">
-            <span class="cs-topper">MZed Pro</span>
+            <!-- <span class="cs-topper">MZed Pro</span> -->
             <h1 class="cs-title">Stop Searching YouTube. Start Learning Now.</h1>
             <p class="cs-text">
-                Become a better filmmaker today with MZed Pro. The most affordable way to learn from the best in the industry.
+                Become a better filmmaker today with MZed Pro. <br>The most affordable way to learn from the best in the industry.
             </p>
-            <a href="" class="cs-button-solid">Join MZed Pro</a>
+            <a href="#plan" class="cs-button-solid">Join MZed Pro</a>
             <a href="" class="cs-button-transparent">
                 <img class="cs-img" decoding="async" src="/assets/icons/down-arrow.svg" alt="icon" width="17" height="17" aria-hidden="true">
                 Learn More
@@ -206,6 +211,29 @@ description: MZed is the leading online education platform for filmmakers and ph
                                 
 
 <!-- ============================================ -->
+<!--              Latest Courses                  -->
+<!-- ============================================ -->
+
+<section id="latest-courses">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">New Releases</span>
+            <h2 class="cs-title">Latest Courses</h2>
+            <p class="cs-text">
+                Check out our newest courses from industry-leading educators.
+            </p>
+        </div>
+        <ul class="cs-card-group">
+            {% assign sorted_courses = site.courses | sort: 'position' | reverse %}
+            {% for course in sorted_courses limit: 4 %}
+                {% include course_card_mini.html course=course %}
+            {% endfor %}
+        </ul>
+        <!-- <a href="/courses/" class="cs-button-solid">View All Courses</a> -->
+    </div>
+</section>
+
+<!-- ============================================ -->
 <!--                Courses                       -->
 <!-- ============================================ -->
 
@@ -219,7 +247,7 @@ description: MZed is the leading online education platform for filmmakers and ph
     </picture>
     <div class="cs-container">
         <div class="cs-content">
-            <span class="cs-topper">Who We Are</span>
+            <span class="cs-topper">MZed Pro Courses</span>
             <h2 class="cs-title">All the courses you need to become a master filmmaker</h2>
             <p class="cs-text">
                 Over 800 lessons featuring trusted, high-quality course videos. Average course rating 4.6/5 from thousands of member reviews. New courses added regularly.
@@ -290,7 +318,7 @@ description: MZed is the leading online education platform for filmmakers and ph
     </picture>
     <div class="cs-container">
         <div class="cs-content">
-            <span class="cs-topper">Who We Are</span>
+            <span class="cs-topper">MZed Course Educators</span>
             <h2 class="cs-title">Learn from the best educators in the business</h2>
             <p class="cs-text">
                 Our educators include some of the best-known and most highly-regarded filmmakers from around the world, including Hollywood DPs and Pulitzer-Prize winners as well as respected institutions like AbelCine and ARRI Academy.
@@ -309,22 +337,21 @@ description: MZed is the leading online education platform for filmmakers and ph
 <section id="video-1683">
     <div class="cs-container">
         <div class="cs-content">
-            <span class="cs-topper">Our services</span>
+            <span class="cs-topper">MZed Pros</span>
             <h2 class="cs-title">Our community, in their own words</h2>
-            <p class="cs-text">
-                Don't just take our word for it, see what our members have to say about MZed Pro.
+            <!-- <p class="cs-text">Don't just take our word for it, see what our members have to say about MZed Pro.</p> -->
         </div>
-        <a href="" class="cs-big-link">
+        <a href="https://vimeo.com/499835399" data-fancybox data-type="iframe" class="cs-big-link">
             <!--Background Image-->
             <picture class="cs-background">
                 <source media="(min-width: 1024px)"
-                        srcset="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/i'm-an-mzed-pro-contest-banner.jpg">
+                        srcset="/assets/images/homepage/im-an-mzed-pro.jpg">
                 <source media="(min-width: 601px)"
-                        srcset="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/i'm-an-mzed-pro-contest-banner.jpg">
+                        srcset="/assets/images/homepage/im-an-mzed-pro.jpg">
                 <source media="(max-width: 600px)"
-                        srcset="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/i'm-an-mzed-pro-contest-banner.jpg">
+                        srcset="/assets/images/homepage/im-an-mzed-pro.jpg">
                 <img aria-hidden="true" loading="lazy" decoding="async"
-                        src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/i'm-an-mzed-pro-contest-banner.jpg"
+                        src="/assets/images/homepage/im-an-mzed-pro.jpg"
                         alt="meeting" width="1280" height="580">
             </picture>
             <!--Play Icon-->
@@ -540,9 +567,10 @@ Please contact us with the above details and we can arrange the custom discount 
         <!--Mobile Image-->
         <source media="(max-width: 600px)" srcset="/assets/icons/white-waves-m.svg">
         <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="/assets/icons/white-waves.svg">
-        <img aria-hidden="true" src="/assets/icons/white-waves.svg" loading="lazy" decoding="async" alt="moon" width="1920" height="647">
+        <source media="(min-width: 601px)" srcset="/assets/icons/white-waves-m.svg">
+        <img aria-hidden="true" src="/assets/icons/white-waves-m.svg" loading="lazy" decoding="async" alt="moon" width="1920" height="647">
     </picture>
 </section>
                                 
 {% include mzed_pricing.html %}
+

@@ -470,7 +470,8 @@
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
     #services-1729 {
-        padding: var(--sectionPadding);
+        padding-bottom: 0;
+        padding-top: 0;
         /* removing the side paddings to allow the cards to fit the whole page width */
         padding-right: 0;
         padding-left: 0;
@@ -1138,7 +1139,7 @@
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
     #reviews-399 {
-        padding: var(--sectionPadding);
+        padding-bottom: 4rem;
 
         .cs-container {
             width: 100%;
@@ -1517,6 +1518,130 @@
         .cs-wrapper {
             flex-direction: row;
             align-items: flex-start;
+        }
+    }
+}
+
+/*-- -------------------------- -->
+<---      Latest Courses       -->
+<--- -------------------------- -*/
+
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+    #latest-courses {
+        background-color: #f7f7f7;
+        padding: 6rem;
+    }
+
+    #latest-courses .cs-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+        max-width: 51.5rem;
+        width: 100%;
+        gap: 2rem;
+    }
+
+    #latest-courses .cs-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        text-align: center;
+    }
+
+    #latest-courses .cs-card-group {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+        justify-content: center;
+        align-items: stretch;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 60rem;
+        padding: 0;
+        gap: clamp(1rem, 2vw, 2rem);
+        list-style: none;
+    }
+
+    #latest-courses .course-card-item {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #latest-courses .course-card-link {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+    
+    #latest-courses .course-card-info {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    #latest-courses .course-card-picture {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        height: auto;
+        overflow: hidden;
+        position: relative;
+    }
+    
+    #latest-courses .course-card-picture img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+}
+
+/* Tablet - 768px */
+@media only screen and (min-width: 48rem) {
+    #latest-courses .cs-container {
+        max-width: 80rem;
+    }
+
+    #latest-courses .cs-card-group {
+        grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+        max-width: 55rem;
+        gap: 1.5rem;
+    }
+}
+
+/* Desktop - 1024px */
+@media only screen and (min-width: 64rem) {
+    #latest-courses .cs-container {
+        max-width: 90rem;
+    }
+
+    #latest-courses .cs-card-group {
+        grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+        max-width: 75rem;
+        gap: 2rem;
+    }
+}
+
+/* Large Desktop - 1300px */
+@media only screen and (min-width: 81.25rem) {
+    #latest-courses .cs-container {
+        max-width: 100rem;
+    }
+
+    #latest-courses .cs-card-group {
+        grid-template-columns: repeat(auto-fit, minmax(16rem, 18rem));
+        max-width: 80rem;
+    }
+    
+    /* Ensure up to 4 columns on very wide screens */
+    @media only screen and (min-width: 90rem) {
+        #latest-courses .cs-card-group {
+            grid-template-columns: repeat(auto-fit, minmax(15rem, 18rem));
+            max-width: 85rem;
         }
     }
 }
