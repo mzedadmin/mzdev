@@ -1,6 +1,6 @@
 ---
 title: Anamorfake It Until You Make It
-position: 2
+position: 3
 Course Card:
   Title: Anamorfake It Until You Make It
   Educator: Tito Ferradans

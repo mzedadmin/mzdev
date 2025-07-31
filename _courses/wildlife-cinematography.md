@@ -1,6 +1,6 @@
 ---
 title: Wildlife Cinematography Workshop
-position: 31
+position: 33
 Course Card:
   Title: Wildlife Cinematography Workshop
   Educator: Paul Atkins, ASC & Stephen Lighthill, ASC

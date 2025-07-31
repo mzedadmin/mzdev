@@ -1,6 +1,6 @@
 ---
 title: How to Start a Podcast
-position: 30
+position: 32
 Course Card:
   Title: How to Start a Podcast
   Educator: Latasha James

@@ -1,6 +1,6 @@
 ---
 title: Doug Jensen's Wildlife Cinematography Master Class
-position: 28
+position: 29
 Course Card:
   Title: Doug Jensen's Wildlife Cinematography Master Class
   Educator: Doug Jensen

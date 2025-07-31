@@ -1,6 +1,6 @@
 ---
 title: ARRI Christmas Master Class
-position: 7
+position: 8
 Course Card:
   Title: ARRI Christmas Master Class
   Educator: ARRI Academy

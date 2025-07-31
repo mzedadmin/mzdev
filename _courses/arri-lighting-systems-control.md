@@ -1,6 +1,6 @@
 ---
 title: ARRI Lighting Systems Control
-position: 8
+position: 9
 Course Card:
   Title: ARRI Lighting Systems Control
   Educator: ARRI Academy
