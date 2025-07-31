@@ -52,6 +52,31 @@ Course Page:
   - directing-color
   - mastering-color
   - the-definitive-guide-to-davinci-resolve
+  Learning Topics:
+  - Icon: Light Bulb
+    Title: 3 Pillars of Design
+    Text: Master depth, composition, and emotion as the foundation of professional lighting design.
+  - Icon: Interview
+    Title: Interview Lighting Setup
+    Text: Learn step-by-step key light placement and eye catchlight techniques for talking heads.
+  - Icon: Layers
+    Title: Creating Visual Depth
+    Text: Use backlighting and layering techniques to separate subjects from backgrounds effectively.
+  - Icon: Backlight
+    Title: Backlighting Mastery
+    Text: Perfect kicker lights and ambient control to make subjects stand out with professional separation.
+  - Icon: Composition
+    Title: Compositional Enhancement
+    Text: Guide viewer attention using scientific principles of human vision and strategic light placement.
+  - Icon: Emotion
+    Title: Emotional Storytelling
+    Text: Harness lighting's psychological impact to enhance narrative and character perception.
+  - Icon: Color Temperature
+    Title: Color Theory & Skin Tones
+    Text: Understand how lighting interacts with colors and skin tones to create natural, flattering results.
+  - Icon: Key Light
+    Title: Key Light Fundamentals
+    Text: Master the primary light source techniques including Chiaroscuro and Rembrandt triangle setups.
   Lessons:
   - Lesson Title: 3 Pillars of Lighting Design
     Lesson Description: At the beginning of the course, Ollie defines the term "Lighting

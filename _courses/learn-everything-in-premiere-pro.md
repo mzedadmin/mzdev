@@ -39,6 +39,31 @@ Course Page:
   - the-art-technique-of-film-editing
   - the-cutting-edge
   - mastering-color
+  Learning Topics:
+  - Icon: Interface
+    Title: Complete Interface Mastery
+    Text: Master Premiere Pro's interface, workspace setup, keyboard shortcuts, and multi-monitor configuration.
+  - Icon: Media Management
+    Title: Professional Media Management
+    Text: Organize media infrastructure, create proxy workflows, and manage large-scale projects efficiently.
+  - Icon: Timeline
+    Title: Advanced Timeline Techniques
+    Text: Execute complex timeline operations, nesting, markers, and pancake editing workflows.
+  - Icon: Audio Mixing
+    Title: Professional Audio Production
+    Text: Mix dialogue, music, and sound effects using advanced audio tools and Essential Sound panel.
+  - Icon: Color Correction
+    Title: Complete Color Workflow
+    Text: Master Lumetri Color tools, curves, wheels, secondary corrections, and advanced grading techniques.
+  - Icon: Motion Graphics
+    Title: Graphics & After Effects
+    Text: Create titles, lower thirds, animations, and integrate After Effects for motion graphics.
+  - Icon: Export
+    Title: Professional Delivery
+    Text: Export for all platforms including social media formats, batch processing, and client delivery.
+  - Icon: Business
+    Title: Professional Business Skills
+    Text: Build client relationships, manage feedback, create professional presence, and grow your editing business.
   Lessons:
   - Lesson Title: Intro from Digby to MZed Pro Members
     Lesson Description: Welcome MZed Pro members to the most thorough Adobe Premiere

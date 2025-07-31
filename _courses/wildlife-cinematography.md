@@ -41,6 +41,31 @@ Course Page:
   - lighting-people-on-location
   - the-language-of-lighting
   - doug-jensen-wildlife-cinematography-master-class
+  Learning Topics:
+  - Icon: Wildlife
+    Title: Wildlife Behavior & Ethics
+    Text: Understand animal behavior patterns and ethical considerations for respectful wildlife filming.
+  - Icon: Camera
+    Title: Large Format Camera Systems
+    Text: Master professional cinema cameras and specialized equipment for wildlife cinematography challenges.
+  - Icon: Lens
+    Title: Telephoto & Specialty Lenses
+    Text: Select and operate long telephoto lenses and specialized optics for distant wildlife subjects.
+  - Icon: Location
+    Title: Field Location Scouting
+    Text: Develop skills for identifying optimal shooting locations and understanding environmental factors.
+  - Icon: Exposure
+    Title: Exposure in Natural Light
+    Text: Control exposure settings for rapidly changing natural lighting conditions in the field.
+  - Icon: Composition
+    Title: Wildlife Composition Rules
+    Text: Apply cinematographic composition principles specifically adapted for unpredictable wildlife subjects.
+  - Icon: Story
+    Title: Wildlife Storytelling
+    Text: Craft compelling narratives using wildlife behavior and natural environments as story elements.
+  - Icon: Technical
+    Title: Field Production Challenges
+    Text: Solve technical problems and equipment issues that arise during remote wildlife shoots.
   Lessons:
   - Lesson Title: Lesson 1
     Lesson Description: In this introductory lesson, the class meets and discusses

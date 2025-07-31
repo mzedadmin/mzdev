@@ -46,6 +46,31 @@ Course Page:
   - cinematography-for-directors
   - the-art-and-science-of-lenses
   - the-language-of-lighting
+  Learning Topics:
+  - Icon: Science
+    Title: Fundamental Optics Principles
+    Text: Understand how modern lenses work and the evolution of optical technology.
+  - Icon: Focal Length
+    Title: Focal Length Mastery
+    Text: Learn the differences between wide and telephoto lenses and why there's no "normal" lens.
+  - Icon: Sensor
+    Title: Crop Factor & Sensor Size
+    Text: Master how different sensor sizes affect lens choice and field of view calculations.
+  - Icon: Specifications
+    Title: Lens Specification Analysis
+    Text: Decode manufacturer specifications and understand what lens specs really mean.
+  - Icon: Technical
+    Title: Advanced Technical Concepts
+    Text: Explore focus breathing, zoom tracking, chromatic aberration, and telecentricity effects.
+  - Icon: Character
+    Title: Lens Personality & Character
+    Text: Identify what gives lenses their distinctive looks and choose lenses for specific aesthetics.
+  - Icon: Brand
+    Title: Manufacturer Differences
+    Text: Compare the "Cooke Look" versus Zeiss and other manufacturer's distinctive optical characteristics.
+  - Icon: Specialty
+    Title: Specialty Optics Applications
+    Text: Understand anamorphic, tilt-shift, and other specialty lenses and their creative applications.
   Lessons:
   - Lesson Title: 'Introduction: What is a Lens?'
     Lesson Description: Before we get started explaining the ins and outs of lenses,

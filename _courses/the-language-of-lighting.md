@@ -49,6 +49,31 @@ Course Page:
   - the-art-and-science-of-lenses
   - lighting-people-on-location
   - cinematography-for-directors
+  Learning Topics:
+  - Icon: Vision
+    Title: Cinematographer's Eye for Light
+    Text: Develop the ability to see and describe light like a professional cinematographer.
+  - Icon: Believable
+    Title: Believable Lighting Design
+    Text: Create convincing lighting that builds fictional worlds and maintains audience immersion.
+  - Icon: Story
+    Title: Lighting as Storytelling Tool
+    Text: Use contrast, movement, and light design to deliver narrative information to audiences.
+  - Icon: Practical
+    Title: Practical vs Movie Lights
+    Text: Master when and how to use practical lighting versus dedicated movie lighting equipment.
+  - Icon: Location
+    Title: Location vs Soundstage Lighting
+    Text: Adapt lighting techniques for location shooting with equipment, crew, and time constraints.
+  - Icon: Leadership
+    Title: Set Leadership & Blocking
+    Text: Run lighting operations on set including multi-camera setups and crew coordination.
+  - Icon: Measurement
+    Title: Light Measurement Tools
+    Text: Use light meters, waveform monitors, and histograms for precise lighting planning.
+  - Icon: Color Science
+    Title: Color & Lighting Integration
+    Text: Apply color temperature, gels, vectorscopes, and color meters for professional lighting design.
   Lessons:
   - Lesson Title: Seeing light like a cinematographer
     Lesson Description: "What are the most basic objectives of lighting, and how to

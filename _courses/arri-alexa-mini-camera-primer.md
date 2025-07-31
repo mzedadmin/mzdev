@@ -40,6 +40,31 @@ Course Page:
   - arri-amira-camera-primer
   - certified-online-training-for-large-format-camera-systems
   - large-format-cinematography-with-james-laxton-asc
+  Learning Topics:
+  - Icon: Camera
+    Title: Camera Setup & Operation
+    Text: Master comprehensive setup procedures and external controls for professional ALEXA Mini operation in any environment.
+  - Icon: Settings
+    Title: Menu System Navigation
+    Text: Navigate complex menu structures efficiently and configure camera settings to match specific project requirements.
+  - Icon: Audio Waveform
+    Title: Audio & Timecode
+    Text: Implement professional audio recording workflows and synchronize multiple cameras using timecode systems.
+  - Icon: Monitor
+    Title: Scope Analysis
+    Text: Interpret waveforms, vectorscopes, and other monitoring tools to achieve precise exposure control and color accuracy.
+  - Icon: Film Reel
+    Title: ARRIRAW Workflow
+    Text: Understand ARRIRAW capture benefits and establish efficient workflows from set through post-production delivery.
+  - Icon: Color Wheel
+    Title: ARRI Looks & LUTs
+    Text: Apply creative color grading techniques using ARRI's advanced look management system for consistent visual storytelling.
+  - Icon: Prism
+    Title: Log-C Exposure
+    Text: Maximize dynamic range capture using Log-C recording and professional exposure techniques for optimal image quality.
+  - Icon: Post Production
+    Title: Post-Production Integration
+    Text: Seamlessly integrate ALEXA Mini footage into professional post-production pipelines using industry-standard workflows.
   Lessons:
   - Lesson Title: Introduction & Overview
     Lesson Description: In this opening module, AbelCine educator Corey Christian

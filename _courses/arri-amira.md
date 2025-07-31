@@ -44,6 +44,31 @@ Course Page:
   - arri-alexa-mini-camera-primer
   - canon-c500-mkii-camera-primer
   - certified-online-training-for-large-format-camera-systems
+  Learning Topics:
+  - Icon: Camera
+    Title: AMIRA Camera Features
+    Text: Explore the comprehensive feature set and ergonomic design that makes AMIRA ideal for documentary and ENG work.
+  - Icon: Settings
+    Title: External Controls
+    Text: Master all external buttons, I/O ports, and physical controls for efficient single-operator camera workflows.
+  - Icon: Audio Waveform
+    Title: Audio Integration
+    Text: Configure professional audio recording and timecode synchronization for multi-camera and external recorder setups.
+  - Icon: Target
+    Title: Project Configuration
+    Text: Establish the five key camera parameters essential for any production and streamline your setup process.
+  - Icon: Prism
+    Title: Image Processing
+    Text: Understand how AMIRA captures and processes images, from sensor to final output including RAW and Log workflows.
+  - Icon: Color Wheel
+    Title: ARRI Look System
+    Text: Implement ARRI's advanced color management tools including Looks and LUTs for consistent creative control.
+  - Icon: Monitor
+    Title: Exposure Dynamics
+    Text: Maximize AMIRA's exposure latitude using proper Log-C setup and dynamic range optimization techniques.
+  - Icon: Post Production
+    Title: Post Workflow
+    Text: Integrate AMIRA footage seamlessly into DaVinci Resolve and Premiere Pro with proper data verification and processing.
   Lessons:
   - Lesson Title: Camera Overview & Features
     Lesson Description: In this opening module, AbelCine camera specialist Megan Donnelly

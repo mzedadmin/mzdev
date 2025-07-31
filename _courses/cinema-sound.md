@@ -64,6 +64,31 @@ Course Page:
   - how-to-start-a-podcast
   - advanced-editing-with-davinci-resolve
   - learn-everything-in-premiere-pro
+  Learning Topics:
+  - Icon: Microphone
+    Title: Professional Recording Techniques
+    Text: Master microphone selection, placement, and recording protocols for pristine on-set audio capture.
+  - Icon: Audio Waveform
+    Title: Advanced Audio Editing
+    Text: Learn crossfades, normalization, ADR cutting, and synchronization mysteries for seamless edits.
+  - Icon: Wave
+    Title: Dialogue Cleanup & Restoration
+    Text: Resurrect damaged audio using iZotope RX and advanced noise reduction techniques.
+  - Icon: Foley
+    Title: Foley & Sound Effects
+    Text: Record, layer, and manipulate foley performances and SFX for immersive sonic storytelling.
+  - Icon: Music Note
+    Title: Music Integration & Scoring
+    Text: Choose, edit, and work with composers to create emotionally resonant musical soundscapes.
+  - Icon: Mix Console
+    Title: Professional Mixing & Mastering
+    Text: Balance dialogue, effects, and music using Hollywood-standard mixing techniques and plugins.
+  - Icon: Studio
+    Title: Workspace & Monitoring Setup
+    Text: Design optimal mixing environments with proper acoustics and monitoring systems.
+  - Icon: Export
+    Title: Delivery & Compliance
+    Text: Master export standards, loudness compliance, and deliverable formats for all platforms.
   Lessons:
   - Lesson Title: Recording Process, Perfection, and Purpose
     Lesson Description: |-

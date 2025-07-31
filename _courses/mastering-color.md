@@ -50,6 +50,31 @@ Course Page:
   - the-beginners-guide-to-davinci-resolve
   - directing-color
   - advanced-editing-with-davinci-resolve
+  Learning Topics:
+  - Icon: Monitor
+    Title: Professional Suite Setup
+    Text: Build trusted grading environments with proper monitor calibration and client workflow management.
+  - Icon: Contrast
+    Title: Contrast & Tonality
+    Text: Master histogram reading, waveform monitors, and lift/gamma/gain controls for perfect exposure.
+  - Icon: Color Wheel
+    Title: Color Balancing
+    Text: Use vectorscopes and RGB tools to eliminate color casts and achieve accurate color reproduction.
+  - Icon: Match
+    Title: Shot Continuity
+    Text: Create visual harmony across sequences and match footage from different camera systems seamlessly.
+  - Icon: Portrait
+    Title: Skin Tone Mastery
+    Text: Perfect memory colors and achieve realistic yet cinematic skin tones for any subject.
+  - Icon: Palette
+    Title: Creative Look Development
+    Text: Develop signature looks using curves, qualifiers, and custom LUTs while maintaining image ownership.
+  - Icon: Film Reel
+    Title: Film Emulation
+    Text: Recreate authentic film texture and color characteristics using both stock and dedicated tools.
+  - Icon: HDR
+    Title: HDR & RAW Workflows
+    Text: Master future-proof HDR delivery and RAW processing for next-generation content creation.
   Lessons:
   - Lesson Title: Grading Suite Setup
     Lesson Description: In the first module, Ollie shows us why setting up an environment

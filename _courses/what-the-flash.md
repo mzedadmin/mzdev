@@ -41,6 +41,31 @@ Course Page:
   - speedlites-the-power-in-the-possibilities
   - lighting-people-on-location
   - how-to-photograph-everyone
+  Learning Topics:
+  - Icon: Flash
+    Title: Advanced Speedlite Techniques
+    Text: Master off-camera flash positioning and power control for professional portrait lighting.
+  - Icon: Equipment
+    Title: Portable Flash Equipment
+    Text: Build an efficient speedlite kit with triggers, modifiers, and essential accessories.
+  - Icon: Lighting
+    Title: "Dirty" Lighting Methods
+    Text: Create dramatic environmental lighting using unconventional techniques and available light.
+  - Icon: Problem Solving
+    Title: Compromised Situation Solutions
+    Text: Adapt lighting techniques for challenging indoor and outdoor conditions with limited space.
+  - Icon: Mood
+    Title: Environmental Mood Creation
+    Text: Transform abandoned and difficult spaces into compelling backdrops using strategic lighting.
+  - Icon: Wedding
+    Title: Wedding Photography Workflow
+    Text: Execute complete wedding day coverage from preparation through reception using speedlites.
+  - Icon: Portrait
+    Title: Single Speedlite Mastery
+    Text: Achieve professional results using one speedlite as primary light with natural fill.
+  - Icon: Post Processing
+    Title: Flash Photography Post-Production
+    Text: Enhance speedlite-lit images through proper color correction and exposure balancing.
   Lessons:
   - Lesson Title: Introduction and Equipment
     Lesson Description: Bob begins the course by introducing lighting with Speedlites

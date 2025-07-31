@@ -45,6 +45,31 @@ Course Page:
   - beginners-guide-to-davinci-resolve
   - color-correction-with-davinci-resolve
   - mastering-color
+  Learning Topics:
+  - Icon: Cut Tool
+    Title: Speed Editing in Cut Page
+    Text: Master quick turnaround editing with smart tools designed for fast-paced workflows and same-day delivery.
+  - Icon: Timeline
+    Title: Professional Edit Page
+    Text: Work with battle-tested non-linear editing techniques that industry professionals rely on daily.
+  - Icon: Film Reel
+    Title: Media Management
+    Text: Organize and optimize high-resolution camera files efficiently before your first cut.
+  - Icon: Dialogue
+    Title: Continuity Editing
+    Text: Perfect shot/reverse-shot techniques and dialogue scene assembly with advanced trimming tools.
+  - Icon: Audio Waveform
+    Title: Fairlight Audio Mixing
+    Text: Create Hollywood-quality soundtracks with professional EQ, dynamics, and automation.
+  - Icon: Layers
+    Title: Fusion Visual Effects
+    Text: Build custom graphics, titles, and composites without leaving your editing timeline.
+  - Icon: Multi Camera
+    Title: Multicam Workflows
+    Text: Sync and switch between multiple camera angles seamlessly for music videos and live events.
+  - Icon: Subtitle
+    Title: Delivery & Subtitles
+    Text: Export projects with properly formatted subtitles and audio submixes for any platform.
   Lessons:
   - Lesson Title: Editing in the Cut Page
     Lesson Description: To get the course started Ollie takes us through Resolve's

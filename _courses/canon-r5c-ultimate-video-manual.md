@@ -51,6 +51,31 @@ Course Page:
   - canon-c500-mkii-camera-primer
   - arri-alexa-mini-camera-primer
   - canon-c200
+  Learning Topics:
+  - Icon: Camera
+    Title: 8K Hybrid Excellence
+    Text: Master the R5C's unique 8K video capabilities and hybrid design that bridges photography and professional filmmaking.
+  - Icon: Aperture
+    Title: Dual Base ISO
+    Text: Optimize sensor performance using dual base ISO settings and understand their impact on dynamic range and noise handling.
+  - Icon: Palette
+    Title: Custom Picture Profiles
+    Text: Navigate BT.709, WideDR, and CLog3 options to maximize highlight and shadow detail capture for professional workflows.
+  - Icon: Monitor
+    Title: Exposure Assistance
+    Text: Master False Color, Zebras, Waveforms, and Vectorscopes for precise exposure control and professional image evaluation.
+  - Icon: Media Management
+    Title: Recording Formats
+    Text: Understand sensor crop modes, resolution options, codecs, and frame rates to choose optimal settings for any project.
+  - Icon: Target
+    Title: Advanced Autofocus
+    Text: Harness Canon's renowned Dual Pixel autofocus system and Focus Guide features for reliable focusing in challenging conditions.
+  - Icon: Performance
+    Title: Digital Stabilization
+    Text: Implement various levels of digital image stabilization to achieve smooth footage in handheld and mobile shooting scenarios.
+  - Icon: Effects
+    Title: 180° VR Production
+    Text: Create immersive virtual reality content using Canon's Dual Fisheye lens system from production through post-production delivery.
   Lessons:
   - Lesson Title: Camera Setup
     Lesson Description: |-

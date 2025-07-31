@@ -46,6 +46,31 @@ Course Page:
   - certified-online-training-for-camera-systems
   - large-format-cinematography-with-james-laxton-asc
   - arri-christmas-master-class-with-julio-macat-asc
+  Learning Topics:
+  - Icon: Camera
+    Title: Large Format Mastery
+    Text: Master ALEXA Mini LF and ALEXA LF systems with comprehensive understanding of features, layout, and professional capabilities.
+  - Icon: Lens
+    Title: LPL Mount & Signature Primes
+    Text: Understand advanced lens design changes for large format sensors and explore ARRI Signature Prime lens characteristics.
+  - Icon: Settings
+    Title: Advanced Configuration
+    Text: Navigate complex camera configurations and remote control systems using Web Remote and practical setup exercises.
+  - Icon: Media Management
+    Title: Large Format Workflows
+    Text: Implement efficient media management using various formats, sensor modes, aspect ratios, and codec combinations.
+  - Icon: Film Reel
+    Title: ARRIRAW Deep Dive
+    Text: Understand sensor design principles, ARRIRAW processing, and differences between ProRes recording methods for optimal results.
+  - Icon: Color Wheel
+    Title: Professional Color Management
+    Text: Master ARRI's comprehensive color workflows from in-camera looks through live-grading and post-production pipeline integration.
+  - Icon: HDR
+    Title: HDR Production
+    Text: Implement High Dynamic Range recording workflows and understand proper HDR monitoring techniques using large format systems.
+  - Icon: Target
+    Title: Large Format Certification
+    Text: Complete ARRI-certified training for large format systems and earn official certification for professional camera operation.
   Lessons:
   - Lesson Title: ALEXA LF and ALEXA Mini LF
     Lesson Description: |-

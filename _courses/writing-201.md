@@ -42,6 +42,31 @@ Course Page:
   - writing-101
   - short-films-101
   - the-indie-film-blueprint
+  Learning Topics:
+  - Icon: Planning
+    Title: Advanced Story Planning
+    Text: Break down story concepts and overcome the most difficult part of the writing process.
+  - Icon: Character
+    Title: Advanced Character Development
+    Text: Discover character voices, create meaningful contrast, and build compelling character arcs.
+  - Icon: Structure
+    Title: Three-Act Structure Mastery
+    Text: Apply Joseph Campbell, Blake Snyder, and Dan Harmon structure principles effectively.
+  - Icon: World Building
+    Title: Normal World Construction
+    Text: Establish your hero's normal world with essential checklist elements for Act One.
+  - Icon: Conflict
+    Title: Antagonist & Conflict Design
+    Text: Introduce antagonists effectively and create meaningful encounters with your hero.
+  - Icon: Dialogue
+    Title: Professional Dialogue Writing
+    Text: Master the dos and don'ts of writing compelling, character-driven dialogue.
+  - Icon: Action
+    Title: Scene Action & Formatting
+    Text: Write effective scene action, transitions, and proper scene headers for screenplays.
+  - Icon: Pitch
+    Title: Screenplay Pitching Skills
+    Text: Present your completed screenplay effectively in both casual and business contexts.
   Lessons:
   - Lesson Title: Intro & Disclaimers
     Lesson Description: As we begin the course, Seth sets the tone and reminds us

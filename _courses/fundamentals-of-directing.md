@@ -47,6 +47,31 @@ Course Page:
   - vincent-laforet-directing-motion
   - anamorphic-cookbook
   - the-art-technique-of-film-editing
+  Learning Topics:
+  - Icon: Director
+    Title: The Director's Role
+    Text: Control artistic and dramatic form while visualizing scripts and guiding cast and crew.
+  - Icon: Timeline
+    Title: Three Phases of Production
+    Text: Navigate pre-production, production, and post-production with essential planning and execution.
+  - Icon: Camera
+    Title: Camera as Narrator
+    Text: Master shot types, composition, angles, and movement to tell stories through the lens.
+  - Icon: Composition
+    Title: Advanced Composition
+    Text: Balance frame elements using leading lines, symmetry, patterns, and strategic viewpoints.
+  - Icon: Camera Movement
+    Title: Camera Movement Language
+    Text: Execute pans, tilts, dollies, cranes, and Steadicam moves with purpose and precision.
+  - Icon: Grammar
+    Title: Directing Grammar Rules
+    Text: Apply screen direction, eyelines, 180-degree rule, and scene compression professionally.
+  - Icon: Analysis
+    Title: Scene Analysis Practice
+    Text: Deconstruct professional film scenes to understand directorial choices and techniques.
+  - Icon: Vision
+    Title: Vision Development
+    Text: Transform written scripts into compelling visual narratives that engage audiences.
   Lessons:
   - Lesson Title: Introduction to Directing
     Lesson Description: |-

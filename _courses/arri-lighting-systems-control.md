@@ -43,6 +43,31 @@ Course Page:
   - certified-online-training-for-camera-systems
   - large-format-cinematography-with-james-laxton-asc
   - certified-online-training-for-large-format-camera-system
+  Learning Topics:
+  - Icon: Settings
+    Title: DMX Network Fundamentals
+    Text: Build bulletproof DMX networks using proper termination, addressing, and cable management for reliable lighting control.
+  - Icon: Performance
+    Title: Network Troubleshooting
+    Text: Develop systematic approaches to diagnose and resolve common DMX and ethernet lighting network issues quickly.
+  - Icon: Integration
+    Title: Remote Device Management
+    Text: Implement RDM protocols to remotely configure and monitor lighting fixtures without physical access or ladder work.
+  - Icon: Wave
+    Title: Wireless DMX Systems
+    Text: Design and deploy reliable wireless lighting networks using proper frequency management and best practices.
+  - Icon: Settings
+    Title: Ethernet-Based Control
+    Text: Scale lighting systems using ethernet protocols for large productions requiring multiple universes of DMX control.
+  - Icon: Monitor
+    Title: Network Testing Tools
+    Text: Master essential command-line tools and testing procedures to verify ethernet-based lighting network performance.
+  - Icon: Mix Console
+    Title: Control Console Programming
+    Text: Navigate lighting console interfaces and create professional lighting designs using industry-standard programming techniques.
+  - Icon: Lightbulb
+    Title: ARRI LED Ecosystem
+    Text: Integrate SkyPanel and L-Series fixtures with SkyLink wireless systems and Stellar control applications for streamlined workflows.
   Lessons:
   - Lesson Title: DMX
     Lesson Description: Richard Cadena explains how to build a bulletproof DMX network,

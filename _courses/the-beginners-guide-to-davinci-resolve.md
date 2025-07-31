@@ -42,6 +42,31 @@ Course Page:
   - advanced-editing-with-davinci-resolve
   - color-correction-with-davinci-resolve
   - mastering-color
+  Learning Topics:
+  - Icon: Timeline
+    Title: Nonlinear Editing Fundamentals
+    Text: Master Edit page tools developed over decades of moviemaking for precise video construction.
+  - Icon: Audio Waveform
+    Title: Audio & Effects Integration
+    Text: Edit voiceovers, sound effects, transitions, and Fusion title templates within your timeline.
+  - Icon: Color Wheel
+    Title: Primary Color Correction
+    Text: Use Hollywood-grade color tools to define style and convey mood in your footage.
+  - Icon: Target
+    Title: Secondary Color Adjustments
+    Text: Isolate and adjust specific image elements using Power Windows, qualifiers, and tracking.
+  - Icon: Organize
+    Title: Grade Management Workflow
+    Text: Efficiently organize, copy, and apply color grades across hundreds of clips using stills and LUTs.
+  - Icon: Settings
+    Title: Project Setup & Preferences
+    Text: Configure DaVinci Resolve projects correctly with proper color management and organization.
+  - Icon: Audio Waveform
+    Title: Fairlight Audio Mixing
+    Text: Create cinematic-quality soundtracks with integrated professional audio tools.
+  - Icon: Node
+    Title: Fusion Visual Effects
+    Text: Build motion graphics and VFX using node-based compositing within your editing timeline.
   Lessons:
   - Lesson Title: Editing in the Edit Page
     Lesson Description: Making film and video content is a very creative, exciting,

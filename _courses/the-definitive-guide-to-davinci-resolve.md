@@ -49,6 +49,31 @@ Course Page:
   - the-beginners-guide-to-davinci-resolve
   - the-cutting-edge
   - advanced-editing-with-davinci-resolve
+  Learning Topics:
+  - Icon: Project
+    Title: Project Organization & Media Management
+    Text: Master project setup, media pool organization, and clip management for efficient workflows.
+  - Icon: Edit
+    Title: Professional Editing Techniques
+    Text: Assemble timelines, perform advanced trimming, and refine cuts with powerful editing tools.
+  - Icon: Transition
+    Title: Transitions & Effects Application
+    Text: Apply professional transitions, fades, dissolves, and advanced filter effects seamlessly.
+  - Icon: Audio Waveform
+    Title: Integrated Audio & Fairlight
+    Text: Utilize Resolve's complete DAW capabilities for professional audio mixing and processing.
+  - Icon: Fusion
+    Title: Motion Graphics & VFX with Fusion
+    Text: Create motion titles, composites, and green screen effects using integrated Fusion tools.
+  - Icon: Color Correction
+    Title: Professional Color Correction
+    Text: Execute primary and secondary color corrections using industry-standard grading techniques.
+  - Icon: Creative
+    Title: Creative Look Development
+    Text: Design custom creative looks and work with LUTs for distinctive visual styles.
+  - Icon: Export
+    Title: Professional Delivery Standards
+    Text: Export projects for web, broadcast, and cinema using proper delivery specifications.
   Lessons:
   - Lesson Title: 'Quickstart: Editing a One Minute Movie'
     Lesson Description: Before we start to deep dive into DaVinci Resolve, in this

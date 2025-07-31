@@ -50,6 +50,31 @@ Course Page:
   - mastering-color
   - color-correction-with-davinci-resolve
   - advanced-editing-with-davinci-resolve
+  Learning Topics:
+  - Icon: Palette
+    Title: Color Palette Development
+    Text: Create cohesive color palettes for brand and storytelling integration throughout production.
+  - Icon: Psychology
+    Title: Human Visual System & Color
+    Text: Understand how human perception affects color relationships and visual hierarchy.
+  - Icon: Monitor
+    Title: On-Set Color Monitoring
+    Text: Build custom monitoring LUTs and ensure consistent color vision across the entire crew.
+  - Icon: Calibration
+    Title: Color Management Systems
+    Text: Implement proper calibration, white balance, and contrast consistency across multiple cameras.
+  - Icon: Contrast
+    Title: Post-Production Contrast Control
+    Text: Add depth through strategic contrast manipulation and professional grading techniques.
+  - Icon: Focus
+    Title: Hue & Saturation for Eye Direction
+    Text: Guide viewer attention using selective hue and saturation adjustments in post-production.
+  - Icon: Emotion
+    Title: Color Psychology & Mood
+    Text: Convey emotional narrative through color choices that support character journeys.
+  - Icon: Integration
+    Title: Production-to-Post Color Workflow
+    Text: Think color-first throughout filmmaking rather than treating it as a post-production afterthought.
   Lessons:
   - Lesson Title: Creating a Palette
     Lesson Description: In the first module of the course, Ollie introduces us to

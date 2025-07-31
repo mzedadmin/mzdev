@@ -45,6 +45,31 @@ Course Page:
   - producing-from-the-front
   - selling-the-punch
   - starting-youtube-channel
+  Learning Topics:
+  - Icon: Vision
+    Title: Visual Storytelling
+    Text: Transform your script into compelling visual presentations that immediately communicate your project's tone and style.
+  - Icon: Target
+    Title: Audience Capture
+    Text: Design pitch decks that grab attention within seconds and maintain engagement throughout your entire presentation.
+  - Icon: Palette
+    Title: Design Principles
+    Text: Apply professional graphic design techniques to create cohesive, memorable pitch decks that stand out from the competition.
+  - Icon: Structure
+    Title: Deck Architecture
+    Text: Organize your pitch content strategically to build narrative tension and deliver maximum impact at key moments.
+  - Icon: Character
+    Title: Character Development
+    Text: Present compelling character profiles and story arcs that make producers emotionally invested in your project.
+  - Icon: Lightbulb
+    Title: Creative Collaboration
+    Text: Work effectively with graphic designers to bring your vision to life while maintaining creative control and authenticity.
+  - Icon: Performance
+    Title: Presentation Skills
+    Text: Master the art of pitching with confidence, handling questions, and adapting your presentation to different audience types.
+  - Icon: Target
+    Title: Industry Standards
+    Text: Understand current pitch deck conventions and expectations across different platforms, genres, and production scales.
   Lessons:
   - Lesson Title: Building a Pitch Deck
     Lesson Description: "When pitching your project to a producer, often you only

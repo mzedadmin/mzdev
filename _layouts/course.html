@@ -54,6 +54,12 @@ layout: default
 </section> -->
 
 <!-- ============================================ -->
+<!--                Course Stats                  -->
+<!-- ============================================ -->
+{% include course_stats.html course=page %}
+
+
+<!-- ============================================ -->
 <!--                Course Summary                -->
 <!-- ============================================ -->
 
@@ -120,10 +126,37 @@ layout: default
   </div>
 </section>
 
+
 <!-- ============================================ -->
-<!--                Course Stats                  -->
+<!--               What You'll Learn              -->
 <!-- ============================================ -->
-{% include course_stats.html course=page %}
+{% if page['Course Page']['Learning Topics'] %}
+<section id="services-1304">
+    <div class="cs-container">
+        <div class="cs-content">
+            <div class="cs-flex-group">
+                <span class="cs-topper">Course Overview</span>
+                <div class="cs-title">What You'll Learn</div>
+            </div>
+        </div>
+        <ul class="cs-card-group">
+            {% for topic in page['Course Page']['Learning Topics'] %}
+            <li class="cs-item">
+                <a href="#" class="cs-link">
+                    {% assign icon = site.icons | where: "title", topic.Icon | first %}
+                    {% if icon %}
+                    <img class="cs-icon" src="/assets/topic-icons/{{ icon.icon_file }}"
+                        loading="lazy" decoding="async" alt="icon" width="40" height="40" aria-hidden="true">
+                    {% endif %}
+                    <h3 class="cs-h3">{{ topic.Title }}</h3>
+                    <p class="cs-item-text">{{ topic.Text }}</p>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+{% endif %}
 
 <!-- ============================================ -->
 <!--                 Educator                     -->

@@ -54,6 +54,31 @@ Course Page:
   - visual-storytelling-2
   - directing-motion
   - the-cutting-edge
+  Learning Topics:
+  - Icon: Director
+    Title: Pre-Production Mastery
+    Text: Develop efficient workflows and location scouting techniques that work under the extreme time constraints of broadcast television.
+  - Icon: Lens
+    Title: Lens Selection Strategy
+    Text: Choose between still and cine lenses based on project needs and understand compression and color space implications.
+  - Icon: Key Light
+    Title: Advanced Lighting
+    Text: Create professional looks using high-key, glamour, and DIY lighting techniques with inexpensive everyday materials.
+  - Icon: Interview
+    Title: Interview Excellence
+    Text: Master flattering interview setups and use camera filters to achieve professional results in any environment.
+  - Icon: Camera Movement
+    Title: Gimbal Storytelling
+    Text: Use gimbal stabilizers effectively to enhance narrative rather than just adding movement, including dual operator techniques.
+  - Icon: Format
+    Title: 4K Workflow Integration
+    Text: Implement efficient 4K production workflows and understand the differences between HD and 4K data capture methods.
+  - Icon: Post Production
+    Title: Post-Production Efficiency
+    Text: Streamline post workflows and achieve cinematic looks quickly using tools like Adobe Speedgrade for color grading.
+  - Icon: Camera
+    Title: DSLR Cinematics
+    Text: Maximize cinematic potential from DSLR cameras and understand sensor size effects on performance and creative possibilities.
   Lessons:
   - Lesson Title: Introduction and Pre-Production
     Lesson Description: In the opening module Alex gives us an overview of his career

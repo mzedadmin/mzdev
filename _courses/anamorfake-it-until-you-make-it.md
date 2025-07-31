@@ -39,6 +39,31 @@ Course Page:
   - anamorphic-cookbook
   - anamorphic-cookbook-part-2
   - art-and-science-of-lenses
+  Learning Topics:
+  - Icon: Lens
+    Title: Anamorphic Look Creation
+    Text: Achieve the coveted widescreen cinematic aesthetic without expensive anamorphic glass using clever techniques.
+  - Icon: Effects
+    Title: Lens Flare Techniques
+    Text: Create stunning horizontal streak flares in-camera using budget-friendly filters and DIY methods.
+  - Icon: Settings
+    Title: Lens Modifications
+    Text: Safely modify Rokinon, Samyang, and Contax Zeiss lenses to produce oval bokeh and anamorphic characteristics.
+  - Icon: Aperture
+    Title: Oval Bokeh Design
+    Text: Design and implement oval inserts that minimize light loss while maximizing the anamorphic aesthetic.
+  - Icon: Effects
+    Title: Post-Production Magic
+    Text: Transform spherical footage into anamorphic-style content using aspect ratio, distortion, and digital effects.
+  - Icon: Film Strip
+    Title: Hybrid Workflows
+    Text: Combine real anamorphic lenses with fake techniques to create unique visual styles and overcome budget constraints.
+  - Icon: Target
+    Title: Budget Solutions
+    Text: Explore cost-effective alternatives ranging from $2 to $200 that deliver professional anamorphic results.
+  - Icon: Lens
+    Title: Vintage Aesthetics
+    Text: Craft classic anamorphic looks using modified vintage lenses and specialized post-production workflows.
   Lessons:
   - Lesson Title: Why Anamorfake It? A Cheap Option for the Anamorphic Look
     Lesson Description: How do you craft the anamorphic look without using any anamorphic
