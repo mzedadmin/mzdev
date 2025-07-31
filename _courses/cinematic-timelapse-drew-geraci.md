@@ -50,28 +50,36 @@ Course Page:
   Learning Topics:
   - Icon: Timelapse
     Title: Cinematic Timelapse Mastery
-    Text: Transform ordinary scenes into stunning time-based narratives using professional timelapse techniques for film and video.
+    Text: Transform ordinary scenes into stunning time-based narratives using professional
+      timelapse techniques for film and video.
   - Icon: Camera
     Title: Camera Setup & Intervals
-    Text: Master camera settings, interval timing, and technical requirements for capturing smooth, professional timelapse sequences.
+    Text: Master camera settings, interval timing, and technical requirements for
+      capturing smooth, professional timelapse sequences.
   - Icon: Composition
     Title: Dynamic Composition
-    Text: Compose compelling timelapse shots that incorporate movement, foreground elements, and engaging visual storytelling.
+    Text: Compose compelling timelapse shots that incorporate movement, foreground
+      elements, and engaging visual storytelling.
   - Icon: Color Wheel
     Title: Day-to-Night Transitions
-    Text: Execute seamless holy grail timelapses using ND ramping, aperture priority, and manual exposure techniques.
+    Text: Execute seamless holy grail timelapses using ND ramping, aperture priority,
+      and manual exposure techniques.
   - Icon: Post Production
     Title: DaVinci Resolve Workflow
-    Text: Process raw images into cinematic sequences using color correction, stabilization, and professional export settings.
+    Text: Process raw images into cinematic sequences using color correction, stabilization,
+      and professional export settings.
   - Icon: Effects
     Title: Flicker & Object Removal
-    Text: Eliminate common timelapse issues including flicker, unwanted objects, and exposure inconsistencies in post-production.
+    Text: Eliminate common timelapse issues including flicker, unwanted objects, and
+      exposure inconsistencies in post-production.
   - Icon: Camera Movement
     Title: Motion Control Systems
-    Text: Implement advanced motion control rigs for dynamic camera movements including pans, tilts, and tracking shots.
+    Text: Implement advanced motion control rigs for dynamic camera movements including
+      pans, tilts, and tracking shots.
   - Icon: Performance
     Title: Professional Delivery
-    Text: Convert between frame rates, create multiple outputs, and deliver broadcast-ready timelapse content for various platforms.
+    Text: Convert between frame rates, create multiple outputs, and deliver broadcast-ready
+      timelapse content for various platforms.
   Lessons:
   - Lesson Title: Introduction to Cinematic Timelapse
     Lesson Description: In this lesson, you'll be introduced to Drew Geraci and the

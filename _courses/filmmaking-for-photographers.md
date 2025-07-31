@@ -50,28 +50,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: Camera to Cinema Transition
-    Text: Transform your still photography camera into a professional filmmaking machine with essential equipment and setup.
+    Text: Transform your still photography camera into a professional filmmaking machine
+      with essential equipment and setup.
   - Icon: Audio Waveform
     Title: Professional Audio Mastery
-    Text: Master microphones, recorders, polar patterns, and foley techniques to capture broadcast-quality sound.
+    Text: Master microphones, recorders, polar patterns, and foley techniques to capture
+      broadcast-quality sound.
   - Icon: Light
     Title: Cinematic Lighting
-    Text: Adapt photographic lighting knowledge to motion pictures, working with natural and artificial light sources.
+    Text: Adapt photographic lighting knowledge to motion pictures, working with natural
+      and artificial light sources.
   - Icon: Camera Movement
     Title: Motion & Movement
-    Text: Understand the psychology of camera movement from handheld to gimbals and blocking complex sequences.
+    Text: Understand the psychology of camera movement from handheld to gimbals and
+      blocking complex sequences.
   - Icon: Timeline
     Title: Sequential Storytelling
-    Text: Construct compelling sequences using the 180-degree rule, framing choices, and cinematic psychology.
+    Text: Construct compelling sequences using the 180-degree rule, framing choices,
+      and cinematic psychology.
   - Icon: Story
     Title: Narrative Construction
-    Text: Develop storytelling skills that make films stand out in today's content-saturated environment.
+    Text: Develop storytelling skills that make films stand out in today's content-saturated
+      environment.
   - Icon: Edit Suite
     Title: Post-Production Workflow
-    Text: Master video editing from organization through color grading with time-saving techniques and professional results.
+    Text: Master video editing from organization through color grading with time-saving
+      techniques and professional results.
   - Icon: Performance
     Title: Real-World Applications
-    Text: Apply all filmmaking principles in commercial projects including promotional videos and restaurant commercials.
+    Text: Apply all filmmaking principles in commercial projects including promotional
+      videos and restaurant commercials.
   Lessons:
   - Lesson Title: Setup and Audio
     Lesson Description: "In this first episode, Philip shows you what you will need

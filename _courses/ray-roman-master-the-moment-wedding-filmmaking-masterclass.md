@@ -53,28 +53,36 @@ Course Page:
   Learning Topics:
   - Icon: Format
     Title: Wedding Day Blueprint
-    Text: Follow Ray Roman's proven system for capturing world-class wedding films from prep through reception.
+    Text: Follow Ray Roman's proven system for capturing world-class wedding films
+      from prep through reception.
   - Icon: Theatre
     Title: Cinematic Storytelling
-    Text: Create emotionally compelling narratives that showcase authentic moments and genuine connections.
+    Text: Create emotionally compelling narratives that showcase authentic moments
+      and genuine connections.
   - Icon: Performance
     Title: Professional Execution
-    Text: Master the technical and creative skills needed to deliver consistently exceptional wedding films.
+    Text: Master the technical and creative skills needed to deliver consistently
+      exceptional wedding films.
   - Icon: Light Bulb
     Title: Creative Problem Solving
-    Text: Adapt to varying wedding scenarios, lighting conditions, and cultural traditions with confidence.
+    Text: Adapt to varying wedding scenarios, lighting conditions, and cultural traditions
+      with confidence.
   - Icon: Audio Waveform
     Title: Audio Excellence
-    Text: Collaborate with DJs and capture pristine audio for speeches, vows, and ceremonial moments.
+    Text: Collaborate with DJs and capture pristine audio for speeches, vows, and
+      ceremonial moments.
   - Icon: Edit Suite
     Title: Signature Post-Production
-    Text: Develop Ray's acclaimed editing techniques and trailer-style approach to wedding film creation.
+    Text: Develop Ray's acclaimed editing techniques and trailer-style approach to
+      wedding film creation.
   - Icon: Target
     Title: High-End Branding
-    Text: Build a luxury wedding film business that attracts celebrity clients and premium pricing.
+    Text: Build a luxury wedding film business that attracts celebrity clients and
+      premium pricing.
   - Icon: Performance
     Title: Money
-    Text: Scale your wedding filmmaking into a sustainable, profitable enterprise through strategic marketing.
+    Text: Scale your wedding filmmaking into a sustainable, profitable enterprise
+      through strategic marketing.
   Lessons:
   - Lesson Title: Getting Started
     Lesson Description: As we start the masterclass Ray describes how he transitioned

@@ -44,28 +44,36 @@ Course Page:
   Learning Topics:
   - Icon: Effects
     Title: Advanced Speedlite Techniques
-    Text: Master off-camera flash positioning and power control for professional portrait lighting.
+    Text: Master off-camera flash positioning and power control for professional portrait
+      lighting.
   - Icon: Settings
     Title: Portable Flash Equipment
-    Text: Build an efficient speedlite kit with triggers, modifiers, and essential accessories.
+    Text: Build an efficient speedlite kit with triggers, modifiers, and essential
+      accessories.
   - Icon: Light
     Title: Dirty Lighting Methods
-    Text: Create dramatic environmental lighting using unconventional techniques and available light.
+    Text: Create dramatic environmental lighting using unconventional techniques and
+      available light.
   - Icon: Interview
     Title: Compromised Situation Solutions
-    Text: Adapt lighting techniques for challenging indoor and outdoor conditions with limited space.
+    Text: Adapt lighting techniques for challenging indoor and outdoor conditions
+      with limited space.
   - Icon: Light Bulb
     Title: Environmental Mood Creation
-    Text: Transform abandoned and difficult spaces into compelling backdrops using strategic lighting.
+    Text: Transform abandoned and difficult spaces into compelling backdrops using
+      strategic lighting.
   - Icon: Process
     Title: Wedding Photography Workflow
-    Text: Execute complete wedding day coverage from preparation through reception using speedlites.
+    Text: Execute complete wedding day coverage from preparation through reception
+      using speedlites.
   - Icon: Portrait
     Title: Single Speedlite Mastery
-    Text: Achieve professional results using one speedlite as primary light with natural fill.
+    Text: Achieve professional results using one speedlite as primary light with natural
+      fill.
   - Icon: Post Production
     Title: Flash Photography Post-Production
-    Text: Enhance speedlite-lit images through proper color correction and exposure balancing.
+    Text: Enhance speedlite-lit images through proper color correction and exposure
+      balancing.
   Lessons:
   - Lesson Title: Introduction and Equipment
     Lesson Description: Bob begins the course by introducing lighting with Speedlites
@@ -101,3 +109,4 @@ Course Page:
 course_purchase: true
 layout: course
 ---
+

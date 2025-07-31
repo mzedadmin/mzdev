@@ -36,28 +36,36 @@ Course Page:
   Learning Topics:
   - Icon: Director
     Title: Director Preparation
-    Text: Learn essential pre-production techniques directors use to initiate successful collaborations with cinematographers.
+    Text: Learn essential pre-production techniques directors use to initiate successful
+      collaborations with cinematographers.
   - Icon: Story
     Title: Script to Image Translation
-    Text: Extract visual elements from written scripts to create compelling cinematic imagery.
+    Text: Extract visual elements from written scripts to create compelling cinematic
+      imagery.
   - Icon: Light Bulb
     Title: Creative Leadership
-    Text: Lead visual conversations with cinematographers without requiring extensive technical knowledge.
+    Text: Lead visual conversations with cinematographers without requiring extensive
+      technical knowledge.
   - Icon: Perspective
     Title: Visual Storytelling
-    Text: Develop a director's eye for translating narrative elements into powerful visual sequences.
+    Text: Develop a director's eye for translating narrative elements into powerful
+      visual sequences.
   - Icon: Film Reel
     Title: Professional Workflow
-    Text: Follow a production from pre-production through post to understand the complete filmmaking process.
+    Text: Follow a production from pre-production through post to understand the complete
+      filmmaking process.
   - Icon: Eye
     Title: Cinematic Vision
-    Text: Create professional-quality content on limited budgets through smart creative decisions.
+    Text: Create professional-quality content on limited budgets through smart creative
+      decisions.
   - Icon: Dialogue
     Title: Communication Excellence
-    Text: Master the language and techniques for effective director-cinematographer collaboration.
+    Text: Master the language and techniques for effective director-cinematographer
+      collaboration.
   - Icon: Performance
     Title: Production Efficiency
-    Text: Implement time-saving techniques and workflows for maximizing production value.
+    Text: Implement time-saving techniques and workflows for maximizing production
+      value.
   Lessons:
   - Lesson Title: From Scene to Screen Workshop
     Lesson Description: |-

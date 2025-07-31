@@ -36,28 +36,36 @@ Course Page:
   Learning Topics:
   - Icon: Camera
     Title: EVA1 Camera Mastery
-    Text: Master Panasonic's AU-EVA1 digital cinema camera for professional productions from solo shoots to multi-camera setups.
+    Text: Master Panasonic's AU-EVA1 digital cinema camera for professional productions
+      from solo shoots to multi-camera setups.
   - Icon: Settings
     Title: External Controls
-    Text: Navigate all external buttons, I/O ports, and camera controls for efficient operation in various shooting scenarios.
+    Text: Navigate all external buttons, I/O ports, and camera controls for efficient
+      operation in various shooting scenarios.
   - Icon: Video Camera
     Title: Varicam Integration
-    Text: Utilize Panasonic VLog recording to seamlessly integrate EVA1 footage with Varicam cinema cameras.
+    Text: Utilize Panasonic VLog recording to seamlessly integrate EVA1 footage with
+      Varicam cinema cameras.
   - Icon: Audio Waveform
     Title: Audio & Timecode
-    Text: Configure professional audio recording and timecode synchronization for multi-camera workflow efficiency.
+    Text: Configure professional audio recording and timecode synchronization for
+      multi-camera workflow efficiency.
   - Icon: Target
     Title: Specialized Recording Modes
-    Text: Implement relay recording, pre-recording, timelapse, and infrared modes for diverse production requirements.
+    Text: Implement relay recording, pre-recording, timelapse, and infrared modes
+      for diverse production requirements.
   - Icon: Monitor
     Title: Exposure & Focus Tools
-    Text: Master exposure monitoring, focus assist features, and remote control capabilities for optimal image quality.
+    Text: Master exposure monitoring, focus assist features, and remote control capabilities
+      for optimal image quality.
   - Icon: Sensor
     Title: 5.7K Sensor Utilization
-    Text: Harness the full 5.7K sensor capabilities using external recorders and various codec options.
+    Text: Harness the full 5.7K sensor capabilities using external recorders and various
+      codec options.
   - Icon: Post Production
     Title: Workflow Optimization
-    Text: Implement best practices for handling EVA1 footage through post-production pipelines and delivery.
+    Text: Implement best practices for handling EVA1 footage through post-production
+      pipelines and delivery.
   Lessons:
   - Lesson Title: Introducing the EVA1
     Lesson Description: Starting off the course Nic introduces us to the Panasonic

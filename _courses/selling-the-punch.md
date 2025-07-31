@@ -44,28 +44,36 @@ Course Page:
   Learning Topics:
   - Icon: Performance
     Title: Stunt Coordination Fundamentals
-    Text: Understand the role and responsibilities of stunt coordinators in bringing combat scenes to life safely.
+    Text: Understand the role and responsibilities of stunt coordinators in bringing
+      combat scenes to life safely.
   - Icon: Dialogue
     Title: Production Meeting Process
-    Text: Learn how directors, DPs, and stunt coordinators collaborate to plan fight sequences effectively.
+    Text: Learn how directors, DPs, and stunt coordinators collaborate to plan fight
+      sequences effectively.
   - Icon: Character
     Title: Actor Safety Training
-    Text: Master techniques for working with actors in combat scenes while maintaining their safety and confidence.
+    Text: Master techniques for working with actors in combat scenes while maintaining
+      their safety and confidence.
   - Icon: Camera Movement
     Title: Combat Cinematography
-    Text: Capture dynamic fight sequences with proper camera angles, movement, and timing for maximum impact.
+    Text: Capture dynamic fight sequences with proper camera angles, movement, and
+      timing for maximum impact.
   - Icon: Structure
     Title: Rehearsal to Execution
-    Text: Follow the complete process from initial rehearsal through final filming of complex fight choreography.
+    Text: Follow the complete process from initial rehearsal through final filming
+      of complex fight choreography.
   - Icon: Analysis
     Title: Professional Standards
-    Text: Recognize best practices and red flags when working with weapons and stunts on professional sets.
+    Text: Recognize best practices and red flags when working with weapons and stunts
+      on professional sets.
   - Icon: Target
     Title: Risk Assessment
-    Text: Identify potential safety hazards and implement proper protocols to prevent on-set accidents.
+    Text: Identify potential safety hazards and implement proper protocols to prevent
+      on-set accidents.
   - Icon: Feedback
     Title: Set Safety Communication
-    Text: Develop skills for speaking up about safety concerns and maintaining professional relationships on set.
+    Text: Develop skills for speaking up about safety concerns and maintaining professional
+      relationships on set.
   Lessons:
   - Lesson Title: Unit One
     Lesson Description: |-

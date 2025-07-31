@@ -50,28 +50,36 @@ Course Page:
   Learning Topics:
   - Icon: Portrait
     Title: Powerful Posing
-    Text: Master professional posing techniques and communication skills to flatter subjects of all body types.
+    Text: Master professional posing techniques and communication skills to flatter
+      subjects of all body types.
   - Icon: Light Bulb
     Title: Available Light Magic
-    Text: Transform any location using natural light and simple modifiers to create extraordinary images.
+    Text: Transform any location using natural light and simple modifiers to create
+      extraordinary images.
   - Icon: Eye
     Title: Five Steps to Excellence
-    Text: Apply Jerry's proven formula for creating photos that consistently wow clients and audiences.
+    Text: Apply Jerry's proven formula for creating photos that consistently wow clients
+      and audiences.
   - Icon: Camera
     Title: On-Camera Flash
-    Text: Get professional results using just on-camera flash in challenging wedding reception environments.
+    Text: Get professional results using just on-camera flash in challenging wedding
+      reception environments.
   - Icon: Emotion
     Title: Theatre
-    Text: Capture genuine emotions and intimate moments that create lasting memories for your clients.
+    Text: Capture genuine emotions and intimate moments that create lasting memories
+      for your clients.
   - Icon: Lens
     Title: Creative Problem Solving
-    Text: Break conventional rules and think differently to overcome challenging lighting and location scenarios.
+    Text: Break conventional rules and think differently to overcome challenging lighting
+      and location scenarios.
   - Icon: Performance
     Title: Business Growth
-    Text: Implement marketing strategies and business templates to attract high-end clients and grow your studio.
+    Text: Implement marketing strategies and business templates to attract high-end
+      clients and grow your studio.
   - Icon: Effects
     Title: Dynamic Techniques
-    Text: Master tips and tricks for creating amazing portraits including the versatile Ice Light system.
+    Text: Master tips and tricks for creating amazing portraits including the versatile
+      Ice Light system.
   Lessons:
   - Lesson Title: Five Steps to a Powerful Photo
     Lesson Description: As we commence the course Jerry Ghionis asks us to define

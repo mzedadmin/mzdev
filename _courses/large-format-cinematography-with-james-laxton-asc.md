@@ -51,28 +51,36 @@ Course Page:
   Learning Topics:
   - Icon: Video Camera
     Title: Large Format Vision
-    Text: Explore how ALEXA 65 and large format sensors transform cinematographic approaches and create new visual perspectives.
+    Text: Explore how ALEXA 65 and large format sensors transform cinematographic
+      approaches and create new visual perspectives.
   - Icon: Lens
     Title: Signature Prime Excellence
-    Text: Master ARRI Signature Prime lenses for distinctive large format aesthetics and creative possibilities.
+    Text: Master ARRI Signature Prime lenses for distinctive large format aesthetics
+      and creative possibilities.
   - Icon: Interview
     Title: Creative Collaboration
-    Text: Understand James Laxton's approach to working with directors including Barry Jenkins on acclaimed projects.
+    Text: Understand James Laxton's approach to working with directors including Barry
+      Jenkins on acclaimed projects.
   - Icon: Light
     Title: Advanced LED Lighting
-    Text: Harness modern LED technology for emotional color control and sophisticated lighting of diverse skin tones.
+    Text: Harness modern LED technology for emotional color control and sophisticated
+      lighting of diverse skin tones.
   - Icon: Match
     Title: Color as Emotion
-    Text: Use color balance and LED flexibility to create mood and enhance storytelling through lighting design.
+    Text: Use color balance and LED flexibility to create mood and enhance storytelling
+      through lighting design.
   - Icon: Film Reel
     Title: Scene Deconstruction
-    Text: Analyze key scenes from "If Beale Street Could Talk" to understand large format cinematography choices.
+    Text: Analyze key scenes from "If Beale Street Could Talk" to understand large
+      format cinematography choices.
   - Icon: Settings
     Title: Technical Innovation
-    Text: Implement cutting-edge camera and lighting technologies to push creative boundaries in cinematography.
+    Text: Implement cutting-edge camera and lighting technologies to push creative
+      boundaries in cinematography.
   - Icon: Studio
     Title: Practical Demonstrations
-    Text: Apply large format techniques through hands-on lighting setups and real-world production scenarios.
+    Text: Apply large format techniques through hands-on lighting setups and real-world
+      production scenarios.
   Lessons:
   - Lesson Title: Interview with James Laxton ASC
     Lesson Description: Before the masterclass kicks off, James Laxton ASC sits down

@@ -46,28 +46,36 @@ Course Page:
   Learning Topics:
   - Icon: Color Wheel
     Title: Primary Color Correction
-    Text: Master fundamental color balancing techniques across multiple shots to achieve professional, consistent looks.
+    Text: Master fundamental color balancing techniques across multiple shots to achieve
+      professional, consistent looks.
   - Icon: Match
     Title: Shot Matching Excellence
-    Text: Ensure seamless color continuity between clips using automatic tools and manual matching techniques.
+    Text: Ensure seamless color continuity between clips using automatic tools and
+      manual matching techniques.
   - Icon: Target
     Title: Secondary Refinement
-    Text: Isolate and enhance specific areas within shots for targeted corrections and creative color effects.
+    Text: Isolate and enhance specific areas within shots for targeted corrections
+      and creative color effects.
   - Icon: Node
     Title: Node-Based Workflows
-    Text: Build complex, non-destructive color grades using DaVinci Resolve's powerful node pipeline system.
+    Text: Build complex, non-destructive color grades using DaVinci Resolve's powerful
+      node pipeline system.
   - Icon: Film Reel
     Title: RAW Processing
-    Text: Maximize grading potential by working with RAW video formats and scene-referred color workflows.
+    Text: Maximize grading potential by working with RAW video formats and scene-referred
+      color workflows.
   - Icon: Post Production
     Title: Grade Management
-    Text: Efficiently propagate and refine grades across timelines using groups, versions, and collaborative tools.
+    Text: Efficiently propagate and refine grades across timelines using groups, versions,
+      and collaborative tools.
   - Icon: Monitor
     Title: Professional Monitoring
-    Text: Utilize scopes, waveforms, and calibrated displays for accurate color evaluation and correction.
+    Text: Utilize scopes, waveforms, and calibrated displays for accurate color evaluation
+      and correction.
   - Icon: Export
     Title: Delivery Mastery
-    Text: Export projects in industry-standard formats including Digital Cinema Packages for theatrical distribution.
+    Text: Export projects in industry-standard formats including Digital Cinema Packages
+      for theatrical distribution.
   Lessons:
   - Lesson Title: Balancing Footage
     Lesson Description: We begin the course by learning how to balance footage across
