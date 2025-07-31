@@ -64,7 +64,7 @@ Course Page:
     Title: On-Camera Flash
     Text: Get professional results using just on-camera flash in challenging wedding
       reception environments.
-  - Icon: Emotion
+  - Icon: Theatre
     Title: Theatre
     Text: Capture genuine emotions and intimate moments that create lasting memories
       for your clients.
