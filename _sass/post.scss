@@ -1,0 +1,235 @@
+/*-- -------------------------- -->
+<---        Blog Post Styles     -->
+<--- -------------------------- -*/
+
+/* Mobile */
+@media only screen and (min-width: 0rem) {
+  #post-hero {
+    width: 100%;
+    height: clamp(250px, 50vw, 500px);
+    position: relative;
+    overflow: hidden;
+    background-color: #f7f7f7;
+    
+    .cs-background {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+      
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    
+    .cs-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.4) 100%);
+    }
+  }
+  
+  .post-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3rem 1rem;
+  }
+  
+  .post-header {
+    margin-bottom: 3rem;
+    
+    .post-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      
+      .post-date {
+        font-size: 0.875rem;
+        color: #666;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+      
+      .post-category {
+        font-size: 0.875rem;
+        color: var(--primary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-weight: 600;
+      }
+    }
+    
+    .post-title {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      line-height: 1.2;
+      margin-bottom: 1rem;
+      color: var(--headerColor);
+      font-family: 'CalibreWeb-Bold', 'Roboto', Arial, Helvetica, sans-serif;
+    }
+    
+    .post-subtitle {
+      font-size: 1.25rem;
+      line-height: 1.5;
+      color: #666;
+      font-weight: 400;
+    }
+  }
+  
+  .post-content {
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    
+    h2 {
+      font-size: 2rem;
+      font-family: 'CalibreWeb-Medium', 'Roboto', Arial, Helvetica, sans-serif;
+    }
+    
+    h3 {
+      font-size: 1.5rem;
+      font-family: 'CalibreWeb-Medium', 'Roboto', Arial, Helvetica, sans-serif;
+    }
+    
+    p {
+      margin-bottom: 1.5rem;
+      line-height: 1.7;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 2rem 0;
+      border-radius: 8px;
+    }
+    
+    blockquote {
+      margin: 2rem 0;
+      padding: 1rem 2rem;
+      border-left: 4px solid var(--primary);
+      background-color: #f9f9f9;
+      
+      p {
+        margin-bottom: 0;
+        font-style: italic;
+      }
+    }
+    
+    ul, ol {
+      margin-bottom: 1.5rem;
+      padding-left: 2rem;
+      
+      li {
+        margin-bottom: 0.5rem;
+        line-height: 1.7;
+      }
+    }
+    
+    a {
+      color: var(--primary);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.3s ease;
+      
+      &:hover {
+        border-bottom-color: var(--primary);
+      }
+    }
+    
+    pre {
+      background-color: #f4f4f4;
+      padding: 1rem;
+      border-radius: 4px;
+      overflow-x: auto;
+      margin: 2rem 0;
+      
+      code {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 0.875rem;
+      }
+    }
+    
+    code {
+      background-color: #f4f4f4;
+      padding: 0.125rem 0.25rem;
+      border-radius: 3px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.875rem;
+    }
+  }
+  
+  .post-navigation {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e0e0e0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    
+    .nav-link {
+      text-decoration: none;
+      
+      .nav-label {
+        font-size: 0.875rem;
+        color: #666;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 0.5rem;
+        display: block;
+      }
+      
+      .nav-title {
+        font-size: 1.125rem;
+        color: var(--headerColor);
+        line-height: 1.4;
+        transition: color 0.3s ease;
+      }
+      
+      &:hover .nav-title {
+        color: var(--primary);
+      }
+      
+      &.nav-next {
+        text-align: right;
+      }
+    }
+  }
+}
+
+/* Tablet */
+@media only screen and (min-width: 768px) {
+  .post-container {
+    padding: 4rem 2rem;
+  }
+  
+  .post-content {
+    font-size: 1.125rem;
+    
+    h2 {
+      font-size: 2.25rem;
+    }
+    
+    h3 {
+      font-size: 1.75rem;
+    }
+  }
+}
+
+/* Desktop */
+@media only screen and (min-width: 1024px) {
+  .post-container {
+    padding: 5rem 2rem;
+  }
+  
+  .post-header {
+    margin-bottom: 4rem;
+  }
+}

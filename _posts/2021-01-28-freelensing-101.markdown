@@ -1,0 +1,129 @@
+---
+date: '2021-01-28'
+image: /assets/images/posts/freelensing-101-hero.jpg
+layout: post
+meta_description: Freelensing or Lens Whacking is a cheap and delightful way to add
+  a unique, creative effect to your visuals.
+subtitle: Freelensing or Lens Whacking is a cheap and delightful way to add a unique,
+  creative effect to your visuals.
+title: Freelensing 101
+---
+
+**Sometimes the best creative tools in your filmmaking tool belt are also the cheapest. Like a shower curtain to diffuse light, a rug to kill the room echo, or even a vape pen to create instant fog. Ok, some cheap effects are more addicting than others.**
+
+[Freelensing](https://en.wikipedia.org/wiki/Freelensing), or *lens whacking* as it's also called, can also give you a ton of bang for the buck. You can create a dreamy visual look, with light leaks and focus shifts that are impossible to achieve with post-production plugins. And best of all, it's cheap.
+
+All it takes is an old manual lens. And a camera of course. But that's it, just an old lens and a camera. Plus an SD card to record. And a battery. And maybe some gloves if it's cold outside.
+
+![Freelensing example showing dreamy blur effect](/assets/images/posts/freelensing-101-example.jpg)
+*Image Credit: Philip Bloom*
+
+## What is Freelensing?
+
+Free lensing is a photo or video technique that involves an interchangeable lens camera, and a lens that you hold freely in front of the camera sensor, without actually mounting the lens.
+
+![Philip Bloom demonstrating freelensing technique](/assets/images/posts/freelensing-101-philip-bloom-demo.jpg)
+*Image Credit: Philip Bloom*
+
+In the first lesson of [Philip Bloom's Cinematic Masterclass](https://www.mzed.com/courses/philip-bloom-cinematic-masterclass?tap_a=17272-420962&tap_s=2490653-f2e424) – which is completely free to watch – you can see a hands-on demonstration of freelensing. Philip shows you his favorite lenses to use for the effect, as well as some tips to ensure good results.
+
+## Lens Whacking and Flange
+
+So how does freelensing actually work? First you'll want to think about the flange, which is the distance between the lens mount and the sensor. It varies depending on the camera. And as [Philip mentions here](https://www.mzed.com/courses/philip-bloom-cinematic-masterclass/modules/1?t=637&tap_a=17272-420962&tap_s=2490653-f2e424), mirrorless cameras tend to have the shortest flange.
+
+To give you the best amount of wiggle room while freelensing, you want to use a lens that has a larger flange than the camera. That's why a mirrorless camera makes a great combination with old manual lenses.
+
+![Lens flange distance explanation for freelensing](/assets/images/posts/freelensing-101-flange-distance.jpg)
+*Image Credit: Philip Bloom*
+
+## Which Lens is Best for Freelensing?
+
+If you're using a Canon EF mounted camera, an old Nikon 35mm lens could be your ticket for the best freelensing experience. Nikon lenses are a little further away than Canon mounts, so the small gap gives you the ability to let in light leaks while still being able to move the lens around.
+
+Another benefit to the Nikon manual lens on a Canon camera is you can get infinity focus. With an EF lens on an EF camera, you'll only see it in focus for close-up objects. That's because to get infinity focus, the EF lens has to be attached to the EF mount camera. And to achieve freelensing, you want to keep the lens unattached.
+
+![Using lens adapters for freelensing](/assets/images/posts/freelensing-101-lens-adapter.jpg)
+*Image Credit: Philip Bloom*
+
+One of the fun aspects of freelensing is you can experiment with different old manual lenses to see which one you like for your camera. It makes late night eBay hunting a cheap way to spend a Sunday night.
+
+If you're using a crop sensor camera, you most likely want an old lens that has a wider field of view, so you're not hemmed into a zoomed in frame. A 35mm lens on a crop sensor works great for lens whacking, and a 50mm on a full frame camera makes for a fine combination as well.
+
+What if your camera has a lens adapter on it? Say, a Canon RF mirrorless camera with an EF adapter on it? Or a Sony camera with an EF adapter? You don't need to worry about the sensor, only the final lens mount that you're freelensing with. So if your adapter is meant for EF lenses, then an old Nikon will do the trick.
+
+One of the most popular lenses for freelensing is the [Nikon E Series f/1.8 50mm](https://www.kenrockwell.com/nikon/50f18E.htm), or 35mm for crop sensor cameras. There are both plastic and metal housings for it, but it really doesn't matter which one you use, just get the one that is cheap and available. You're not going to be using the focus wheel while freelensing, so it's not worth paying extra for a slightly better build.
+
+![Nikon E Series lens for freelensing](/assets/images/posts/freelensing-101-nikon-e-series.jpg)
+*Image Credit: Slavik Boyechko*
+
+## How to Get Great Footage with Freelensing
+
+Once you have your camera and lens in hand, it's time to go out and start freelensing. Make sure to set your focus to infinity, since you'll be adjusting focus simply by moving the lens forward and backward, away and back toward the lens mount.
+
+Next you'll want to set the exposure, and typically you'll choose an aperture that is not so shallow that you can barely keep anything in focus, but open enough that you still get a dreamy look by moving in and out of focus. Then while you're shooting, you can control exposure using the ISO wheel or a variable ND filter if you have one.
+
+![Focus control technique for freelensing](/assets/images/posts/freelensing-101-focus-technique.jpg)
+*Image Credit: Philip Bloom*
+
+Since there's no lens image stabilization and you're hand holding not only the camera but a little old lens, how can you ensure you get smooth footage? Well first, if your camera has IBIS – in-body image stabilization – then try turning it on and seeing if it works even without a lens attached. That should make a huge difference.
+
+If you don't have IBIS, you might want to add another point of contact, like an external viewfinder or loupe. Of course you can use your camera's built-in EVF if you're using a mirrorless camera. The main thing is to be able to see the image very well, since you're controlling very fine shifts in focus, and be able to slightly move yourself or the camera while keeping it steady.
+
+Lastly, one of the best ways to stabilize freelensing footage is simply to shoot in slow motion. In fact, it helps with the dreamy look that lens whacking gives you. How much slow motion to use is dependent on your camera capabilities and your intended style for the look. But as a general rule 60 fps slowed down on a 24fps timeline will look quite pleasant.
+
+## Free Lensing Recommended Techniques
+
+Here's a few more tips from Philip Bloom's lesson on lens whacking. First, to control the amount of light coming in, try holding the lens with your left hand, and use your hand to shield the top of the lens from sunlight.
+
+![Hand technique for controlling light leaks](/assets/images/posts/freelensing-101-light-control.jpg)
+*Image Credit: Philip Bloom*
+
+Now as you move the lens away from the lens mount, you'll start to see your image in focus. Try wiggling the lens around with your hand without shifting the distance from the lens mount – it gives you an interesting effect that is unique to freelensing.
+
+And if you move the lens even further away, you'll be able to focus on really close or macro objects. Of course it's also harder to maintain the focus when the lens is so far from the lens mount, since your hands are holding both the camera and lens freely. But with slow motion you should be able to get some great close-up footage with dreamy light leaks.
+
+## Lens Whacking Requires Motion
+
+When you're freelensing, just the fact that you can shift focus and introduce light leaks is not enough to add visual interest to your shot. You need motion, and you can do that by gently moving yourself while you're shooting, as well as find subjects that are in motion. Or better yet, both you and the subject in motion.
+
+![Camera motion technique for freelensing](/assets/images/posts/freelensing-101-camera-motion.jpg)
+*Image Credit: Philip Bloom*
+
+The key is to be planted with your shooting stance, and gently rock sideways or back and forth. That way you don't introduce camera jitters or shake. And just a slow amount of motion – preferably in slow motion – can really make the dreamy look of freelensing come alive.
+
+## Conclusion
+
+So now you know a little bit about freelensing, or lens whacking, and you can begin the journey of hunting for a cheap old lens to experiment with. But before you begin, a concern you might have is whether you can damage your camera sensor.
+
+Having your camera sensor exposed to the elements is certainly not recommended, since dust particles or moisture can get inside. And playing around with the electrical contacts on a lens mount probably isn't a good idea either. That's why camera manufacturers recommend you power off the camera before changing lenses.
+
+![Saturday Night Live intro using freelensing](/assets/images/posts/freelensing-101-snl-example.jpg)
+*Image Credit: Alex Buono*
+
+So take those two warnings with caution. If you're worried about your warranty on a brand new camera, you may not want to dive into freelensing right away. However, thousands of photographers and filmmakers utilize this technique all the time without problems, so as anything, your experience may vary.
+
+If you want to learn more about free lensing, check out [Philip Bloom's Cinematic Masterclass Lesson 1](https://www.mzed.com/courses/philip-bloom-cinematic-masterclass/modules/1/?tap_a=17272-420962&tap_s=2490653-f2e424) – it's completely free to watch, all you have to do is create a login.
+
+MZed Pro members might also want to watch [Lesson 3 in Alex Buono's Visual Storytelling 2](https://www.mzed.com/courses/visual-storytelling-2/modules/3?tap_a=17272-420962&tap_s=2490653-f2e424), where he demonstrates how he uses free lensing to shoot the Saturday Night Live intro sequence.
+
+## Learn All About Lenses with MZed Pro
+
+There are many ways to use the gear you already have in new and creative ways. With a subscription to [MZed Pro](https://www.mzed.com/checkout/?sku=MZEDPRO12&tap_a=17272-420962&tap_s=2490653-f2e424), you can learn from a wide variety of filmmakers who each bring their own perspective on how to transform your filmmaking.
+
+As an MZed Pro member, you get access to this course as well as everything else on the platform, plus we're constantly adding more courses. For just $30/month (billed annually at $349), here's everything you'll get:
+
+- 42 courses, over 500 high quality lessons spanning over 275 hours of learning.
+- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
+- Exclusive access to ARRI Academy online courses.
+- Unlimited access to stream all the content during the 12 months.
+- Offline download and viewing with the MZed iOS app.
+- The majority of MZed courses provide an industry-recognized certificate upon completion.
+- Purchasing the courses outright would cost over $9,800.
+- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
+- 7-day money back guarantee if you decide it's not for you.
+
+**[Join MZed Pro now to get started](https://www.mzed.com/checkout/?sku=MZEDPRO12&tap_a=17272-420962&tap_s=2490653-f2e424)**!
+
+**Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
+
+**What's your experience with freelensing? Share your creative lens whacking techniques in the comments below!**

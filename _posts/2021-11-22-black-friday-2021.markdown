@@ -1,0 +1,11 @@
+---
+date: '2021-11-22'
+image: null
+layout: post
+meta_description: Thank you to everyone who joined MZed Pro during our Black Friday
+  Sale!
+subtitle: Thank you to everyone who joined MZed Pro during our Black Friday Sale!
+title: MZed Black Friday 2021
+---
+
+Thanks everyone who joined during our Black Friday Sale! See you next year!

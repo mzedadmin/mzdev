@@ -1,0 +1,66 @@
+---
+date: 2019-11-13
+image: /assets/images/posts/mzed-app-hero.jpg
+layout: post
+meta_description: With the MZed iOS App, you can download courses and lessons to your
+  device to watch offline.
+subtitle: With the MZed iOS App, you can download courses and lessons to your device
+  to watch offline.
+title: Offline Viewing Now Available with Our iOS App
+---
+
+<p>We&rsquo;re excited to announce a new MZed app that will enable MZed Pro members to watch courses on their iPhone or iPad - including offline viewing.&nbsp;</p>
+
+<p>We love hearing suggestions from members for ways we can improve MZed, and one of the most popular requests has been the ability to watch MZed content offline. Often it&rsquo;s precisely the moments when we are disconnected that we can give our undivided attention to long-form education content. Whether it&rsquo;s while traveling on bus, train, or airplane, or simply at times when you turn off all the gadgets so you can concentrate on your learning, offline viewing could benefit many MZed members.</p>
+
+<p><img alt="mzed-app" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-ios-app-home.jpg" style="height:100%; width:100%" /></p>
+
+<p>But until now, the only way to watch an MZed course offline was by purchasing a course outright, and downloading it to watch on any device. While we have many customers who prefer to purchase and own a course for lifetime access, the cost of buying a course is not nearly as affordable as our 12-month MZed Pro membership, at $299 for the year, or about $25 per month.</p>
+
+<p>So now that a streaming subscription can also enable offline video downloads, we truly believe the MZed Pro membership is the best value in filmmaking education today, period.&nbsp;</p>
+
+<h2><strong>MZed app for iPhone and iPad</strong></h2>
+
+<p><strong><img alt="mzed iphone ipad app" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-iphone-ipad-app.jpg" style="height:100%; width:100%" /></strong></p>
+
+<p>How does MZed work on iOS? It&rsquo;s simple! You can download the app <a href="https://apps.apple.com/au/app/mzed/id1456561064"><strong>here</strong></a>, and once installed, you can login to your MZed account, watch any course that you already could watch on your desktop, and of course, download lessons for offline viewing.&nbsp;</p>
+
+<p>For those of you watching your data allowance, the app gives you the choice whether to use mobile data for course downloads. By default, it&rsquo;s turned off, preventing you from accidentally downloading large files over mobile data.</p>
+
+<p><img alt="mzed-app-manage-downloads-offline" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-app-manage-downloads-offline.jpg" style="height:100%; width:100%" /></p>
+
+<p>Another feature we&rsquo;re glad to implement is the ability to see the phone or device storage breakdown, and how much hard drive space MZed offline courses are taking up. Videos can be very data heavy, and on some phones, space can fill up fast. So here&rsquo;s a quick shortcut to see how much space MZed is taking up, and with one button, you can clear all the downloads.</p>
+
+<div>
+<p>What else can the app do? For one, there are captions for all the same courses that have subtitles on our website. Our membership is global, so it&rsquo;s very important for us to offer subtitles for our educational videos. Another feature is you can choose whether to download the highest quality versions of the course lessons, or to let the app download the best version based on your device settings.</p>
+
+<p>And while the app can provide members with a convenient method of accessing course content, it&rsquo;s also a great introduction for people who haven&rsquo;t become an MZed member. There are free lessons that anybody can watch right away, without having to create an account first. For example, the new ARRI Academy &ldquo;High Dynamic Range with Karl Walter Lindenlaub ASC&rdquo; course is completely free to watch for anyone who downloads the MZed iOS app. And as a bonus, if you have a compatible iPhone or iPad, that course will play in HDR.</p>
+
+<p><img alt="mzed-app-watch-videos-phone" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-ios-app-view-course.jpg" style="height:100%; width:100%" />&nbsp;</p>
+
+<p><strong>Other notable features in our new iOS app:&nbsp;</strong></p>
+
+<ul>
+	<li>
+	<p>Certificates of Completion will continue to be provided for any course that you complete. If you complete a course offline, the app will email you the certificate the next time your phone goes online.</p>
+	</li>
+	<li>
+	<p>The app fully supports your Watch Lists.</p>
+	</li>
+	<li>
+	<p>If you enable notifications, you&rsquo;ll be notified as soon as MZed adds exciting new content.</p>
+	</li>
+	<li>
+	<p>With the app, it&rsquo;s now even easier to <a href="https://www.mzed.com/news/watch-mzed-on-your-apple-tv">watch&nbsp;Mzed on your Apple TV</a>.</p>
+	</li>
+	<li>
+	<p>There&rsquo;s seamless integration with watching courses on other platforms, so you can pause a lesson on the app and continue watching where you left off on a desktop or tablet browser, and vice versa.</p>
+	</li>
+</ul>
+
+<p>Go on and give it a try, and see how you like the new MZed app. We&rsquo;re thrilled to make it a reality - it&rsquo;s been a dream of ours for a long time now. But it&rsquo;s our first app, so please let us know how you think we can improve.</p>
+
+<p>And of course, if you enjoy using the MZed app, please rate and review it to let other members know what to expect.&nbsp;</p>
+
+<div><strong><a href="https://apps.apple.com/au/app/mzed/id1456561064">MZed App in the App Store</a></strong></div>
+</div>

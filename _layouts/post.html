@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<main id="main">
+  <!-- ============================================ -->
+  <!--                 Hero Image                   -->
+  <!-- ============================================ -->
+  {% if page.image %}
+  <section id="post-hero">
+    <picture class="cs-background">
+      <source media="(min-width: 1024px)" srcset="{{ page.image }}">
+      <source media="(min-width: 601px)" srcset="{{ page.image }}">
+      <source media="(max-width: 600px)" srcset="{{ page.image }}">
+      <img aria-hidden="true" loading="eager" decoding="async"
+          src="{{ page.image }}" alt="{{ page.title }} hero image" width="1920" height="600">
+    </picture>
+    <div class="cs-overlay"></div>
+  </section>
+  {% endif %}
+
+  <!-- ============================================ -->
+  <!--               Post Content                   -->
+  <!-- ============================================ -->
+  <article class="post-container">
+    <header class="post-header">
+      <div class="post-meta">
+        <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+        {% if page.category %}
+        <span class="post-category">{{ page.category }}</span>
+        {% endif %}
+      </div>
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="post-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <!-- ============================================ -->
+    <!--            Post Navigation                   -->
+    <!-- ============================================ -->
+    <nav class="post-navigation">
+      {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="nav-link nav-prev">
+        <span class="nav-label">Previous Post</span>
+        <span class="nav-title">{{ page.previous.title }}</span>
+      </a>
+      {% else %}
+      <div></div>
+      {% endif %}
+      
+      {% if page.next.url %}
+      <a href="{{ page.next.url | relative_url }}" class="nav-link nav-next">
+        <span class="nav-label">Next Post</span>
+        <span class="nav-title">{{ page.next.title }}</span>
+      </a>
+      {% else %}
+      <div></div>
+      {% endif %}
+    </nav>
+  </article>
+</main>

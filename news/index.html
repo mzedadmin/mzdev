@@ -1,0 +1,60 @@
+---
+title: News & Articles
+permalink: "/news/"
+layout: default
+custom_css:
+- "/assets/css/main.css"
+---
+
+<!-- ============================================ -->
+<!--                News & Articles               -->
+<!-- ============================================ -->
+
+<main id="main">
+  <section id="news">
+    <div class="cs-container">
+      <div class="cs-content">
+        <span class="cs-topper">MZed Blog</span>
+        <div class="cs-title">News & Articles</div>
+        <p class="cs-text">Stay up to date with the latest filmmaking tips, industry insights, and educational content from MZed.</p>
+      </div>
+      <ul class="news-card-group">
+        {% for post in site.posts %}
+          <li class="news-card-item">
+            <a href="{{ post.url | relative_url }}" class="news-card-link" aria-label="Read {{ post.title }}">
+              {% if post.image %}
+              <picture class="news-card-picture">
+                <source media="(max-width: 600px)" srcset="{{ post.image }}">
+                <source media="(min-width: 601px)" srcset="{{ post.image }}">
+                <img loading="lazy" 
+                     decoding="async" 
+                     src="{{ post.image }}"
+                     alt="{{ post.title }}" 
+                     width="413" 
+                     height="240">
+              </picture>
+              {% else %}
+              <div class="news-card-placeholder">
+              </div>
+              {% endif %}
+              <div class="news-card-info">
+                <div class="news-card-meta">
+                  <time class="news-card-date" datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                  </time>
+                </div>
+                <h3 class="news-card-title">{{ post.title }}</h3>
+                {% if post.subtitle %}
+                <p class="news-card-subtitle">{{ post.subtitle }}</p>
+                {% endif %}
+              </div>
+              <div class="news-card-overlay">
+                <span class="news-card-overlay-text">Read Article</span>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</main>

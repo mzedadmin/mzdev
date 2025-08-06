@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/
 DS_Store
+process_article_template.py
+CINED_ARTICLE_PROCESSING_WORKFLOW.md
