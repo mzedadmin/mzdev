@@ -1,11 +1,11 @@
 ---
-date: '2020-10-25'
-image: /assets/images/posts/monthly-giveaways-hero.jpg
+title: Monthly Giveaways and Other Member Benefits Coming to MZed
+date: 2020-10-25 00:00:00 Z
+image: "/assets/images/posts/monthly-giveaways-hero.jpg"
 layout: post
 meta_description: MZed Pro members will automatically be entered to win filmmaking
   gear prizes.
 subtitle: MZed Pro members will automatically be entered to win filmmaking gear prizes.
-title: Monthly Giveaways and Other Member Benefits Coming to MZed
 ---
 
 If you're already an MZed Pro member, you're going to love this announcement. And if you haven't yet joined MZed Pro, listen up!

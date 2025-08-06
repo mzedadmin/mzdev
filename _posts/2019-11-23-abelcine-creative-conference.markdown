@@ -1,10 +1,10 @@
 ---
-date: '2019-11-23'
-image: /assets/images/posts/abelcine-creative-conference-hero.jpg
+title: AbelCine Hosts Director of Photography Creative Conference
+date: 2019-11-23 00:00:00 Z
+image: "/assets/images/posts/abelcine-creative-conference-hero.jpg"
 layout: post
 meta_description: The 3-day workshop is coming to Brooklyn, NY on December 6-8
 subtitle: The 3-day workshop is coming to Brooklyn, NY on December 6-8
-title: AbelCine Hosts Director of Photography Creative Conference
 ---
 
 If you're going to be in Brooklyn, NY around December 6-8, you may want to clear your calendar. [**AbelCine**](https://www.abelcine.com/) and [**FMC**](https://www.fmctraining.com/) are putting together a 3-day workshop for content creators who want to carve out a career as a Director of Photography.

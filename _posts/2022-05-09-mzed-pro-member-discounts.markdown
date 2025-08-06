@@ -1,10 +1,10 @@
 ---
-date: '2022-05-09'
-image: /assets/images/posts/mzed-pro-member-discounts-hero.jpg
+title: Free 30 GB Lifetime Storage with pCloud
+date: 2022-05-09 00:00:00 Z
+image: "/assets/images/posts/mzed-pro-member-discounts-hero.jpg"
 layout: post
 meta_description: MZed Pro members get additional perks during their annual subscription
 subtitle: MZed Pro members get additional perks during their annual subscription
-title: Free 30 GB Lifetime Storage with pCloud
 ---
 
 Many of you already know that MZed is the leading educational membership for filmmakers. One of the many perks of the annual MZed Pro membership is getting access to a variety of discounts. Read on to find out what current partner deals are available!

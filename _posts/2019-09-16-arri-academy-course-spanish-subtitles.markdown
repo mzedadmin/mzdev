@@ -1,12 +1,12 @@
 ---
-date: '2019-09-16'
-image: /assets/images/posts/arri-academy-course-spanish-subtitles-hero.jpg
+title: ARRI Course Subtitles Now Available in Spanish
+date: 2019-09-16 00:00:00 Z
+image: "/assets/images/posts/arri-academy-course-spanish-subtitles-hero.jpg"
 layout: post
 meta_description: English and Spanish subtitles enable more filmmakers to watch ARRI
   courses on MZed.
 subtitle: English and Spanish subtitles enable more filmmakers to watch ARRI courses
   on MZed.
-title: ARRI Course Subtitles Now Available in Spanish
 ---
 
 Good news: Spanish subtitles are now available on the ARRI [Certified Online Training for Camera Systems](https://www.mzed.com/courses/certified-online-training-for-camera-systems) course. They join the already available English subtitles.

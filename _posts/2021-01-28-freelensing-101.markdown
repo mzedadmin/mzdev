@@ -1,12 +1,12 @@
 ---
-date: '2021-01-28'
-image: /assets/images/posts/freelensing-101-hero.jpg
+title: Freelensing 101
+date: 2021-01-28 00:00:00 Z
+image: "/assets/images/posts/freelensing-101-hero.jpg"
 layout: post
 meta_description: Freelensing or Lens Whacking is a cheap and delightful way to add
   a unique, creative effect to your visuals.
 subtitle: Freelensing or Lens Whacking is a cheap and delightful way to add a unique,
   creative effect to your visuals.
-title: Freelensing 101
 ---
 
 **Sometimes the best creative tools in your filmmaking tool belt are also the cheapest. Like a shower curtain to diffuse light, a rug to kill the room echo, or even a vape pen to create instant fog. Ok, some cheap effects are more addicting than others.**

@@ -1,10 +1,10 @@
 ---
-date: '2023-06-16'
-image: /assets/images/posts/guide-to-motion-control-timelapse-hero.jpg
+title: Mastering Motion Control in Timelapse
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/guide-to-motion-control-timelapse-hero.jpg"
 layout: post
 meta_description: A beginner's guide to motorized timelapse
 subtitle: A beginner's guide to motorized timelapse
-title: Mastering Motion Control in Timelapse
 ---
 
 Timelapse is a beautiful tool if you want to show change, emphasize progress over a longer period, or capture some precious moments flying by. But what if we could add camera motion to it and literally move through space, underlining the smooth flow of passing time? In the freshly added [Part II of the MZed course "Cinematic Timelapse"](https://www.mzed.com/courses/cinematic-timelapse-drew-geraci?tap_a=17272-420962&tap_s=3880741-f10cef), photographer and filmmaker Drew Geraci focuses precisely on this technique and talks us through the basic key points of how to master a motion control timelapse. Heads up, magic ahead!

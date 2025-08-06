@@ -1,12 +1,12 @@
 ---
-date: '2020-07-12'
-image: /assets/images/posts/video-production-during-covid-19-hero.jpg
+title: Video Production in the time of COVID-19
+date: 2020-07-12 00:00:00 Z
+image: "/assets/images/posts/video-production-during-covid-19-hero.jpg"
 layout: post
 meta_description: While you wait for filmmaking production work to resume, here are
   four types of videos that clients are hiring for right now.
 subtitle: While you wait for filmmaking production work to resume, here are four types
   of videos that clients are hiring for right now.
-title: Video Production in the time of COVID-19
 ---
 
 Filmmakers around the world have been hit hard by coronavirus closures - for many of us, business has come to an abrupt stop for months now. And while the film industry is slowly re-opening, the [protocals for safe practice](https://covid19.lacounty.gov/wp-content/uploads/HOO-Appendix-J-Reopening-Protocol-for-Music-Television-and-Film-Production.pdf?vero_conv=by01bokiPgAfuT_fnJjbErFOX3SQqlaj4i9rjUXoZDk0aQZwTXYDwdIaPS2dlInrAR3azfFRkMkCR3_9Q8rALm5mN9KJXHWf)s can be difficult to digest ([here's a summary](https://fstoppers.com/bts/new-production-protocols-photo-and-video-production-during-covid-19-493589) from Fstoppers).

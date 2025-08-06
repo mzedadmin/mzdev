@@ -1,10 +1,12 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/the-black-and-white-world-of-el-conde-hero.jpg
-layout: post
-meta_description: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinematography. What's so special about the black-and-white world of El Conde?
-subtitle: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinematography. What's so special about the black-and-white world of El Conde?
 title: The Black and White World of El Conde
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/the-black-and-white-world-of-el-conde-hero.jpg"
+layout: post
+meta_description: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinematography.
+  What's so special about the black-and-white world of El Conde?
+subtitle: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinematography.
+  What's so special about the black-and-white world of El Conde?
 ---
 
 "Everything has already been done, every story has been told, every scene has been shot. It's our job to do it one better." This quote by the great Stanley Kubrick kept spinning in my head while we were watching [Pablo Larraín's](https://www.imdb.com/name/nm1883257/?ref_=tt_ov_dr) dark comedy, "[El Conde](https://www.imdb.com/title/tt21113540/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_el%2520conde)". It isn't like no one does black-and-white films anymore – in fact, three out of the five films nominated for "Best Cinematography" at the [upcoming Oscars](https://www.cined.com/oscar-nominations-2024-announced-not-without-surprises/) feature monochromatic sequences. Not even the satiric vampire story is a novel invention (a nod towards [Taika Waititi's "What We Do in the Shadows"](https://www.imdb.com/title/tt3416742/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_what%2520we%2520)). Yet, this dry comedic feature gave me a feeling that they managed to do it "one better". What's so special about the black-and-white world of El Conde then? Let's find out together.

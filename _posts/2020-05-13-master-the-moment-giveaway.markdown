@@ -1,12 +1,12 @@
 ---
-date: '2020-05-13'
-image: /assets/images/posts/master-the-moment-giveaway-hero.jpg
+title: Master the Moment Giveaway
+date: 2020-05-13 00:00:00 Z
+image: "/assets/images/posts/master-the-moment-giveaway-hero.jpg"
 layout: post
 meta_description: Watch a free lesson and enter to win $4,000 worth of wedding filmmaking
   prizes!
 subtitle: Watch a free lesson and enter to win $4,000 worth of wedding filmmaking
   prizes!
-title: Master the Moment Giveaway
 ---
 
 To celebrate the launch of our newest premium course - [Ray Roman's Master the Moment](https://www.mzed.com/courses/ray-roman-master-the-moment-wedding-filmmaking-masterclass) \- we've put together a giveaway that you won't want to miss! In addition to the filmmaking gear prizes listed below, we're also giving away free access to one of the lessons in the course. All the info on how to enter is below.

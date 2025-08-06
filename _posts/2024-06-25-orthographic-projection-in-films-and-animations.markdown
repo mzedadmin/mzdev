@@ -1,10 +1,12 @@
 ---
-date: '2024-06-25'
-image: /assets/images/posts/orthographic-projection-in-films-and-animations-hero.jpg
-layout: post
-meta_description: Do you remember the epic "Severance" intro? There is one tool, that makes it stand out even more - orthographic projection!
-subtitle: Do you remember the epic "Severance" intro? There is one tool, that makes it stand out even more - orthographic projection!
 title: Orthographic Projection in Films and Animations
+date: 2024-06-25 00:00:00 Z
+image: "/assets/images/posts/orthographic-projection-in-films-and-animations-hero.jpg"
+layout: post
+meta_description: Do you remember the epic "Severance" intro? There is one tool, that
+  makes it stand out even more - orthographic projection!
+subtitle: Do you remember the epic "Severance" intro? There is one tool, that makes
+  it stand out even more - orthographic projection!
 ---
 
 Each time I stumble upon newly published stills from the upcoming season of the "[Severance](https://tv.apple.com/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx)" series, my head instantly replays one thing: its epic intro. Do you remember how beautifully odd and fascinatingly disgusting it looked, with somewhat clumsy animation and creative scene transitions? However, there is one tool that makes this intro stand out even more. Namely, orthographic projection. Sounds difficult? No worries! We will dissect this term piece by piece until we reach its pumping heart and show how it can visually impact your scenes.

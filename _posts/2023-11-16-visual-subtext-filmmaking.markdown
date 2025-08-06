@@ -1,14 +1,12 @@
 ---
-
-
-date: '2023-11-16'
-image: /assets/images/posts/visual-subtext-filmmaking-hero.jpg
+title: What is Visual Subtext?
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/visual-subtext-filmmaking-hero.jpg"
 layout: post
 meta_description: Enrich your filmmaking storytelling with these tips on symbols,
   signs, and metaphors
 subtitle: Enrich your filmmaking storytelling with these tips on symbols, signs, and
   metaphors
-title: What is Visual Subtext?
 ---
 
 ![Visual Subtext Makes Your Story Richer – Here Is How It Works](/assets/images/posts/visual-subtext-filmmaking-hero.jpg)

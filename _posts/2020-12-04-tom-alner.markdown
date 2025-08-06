@@ -1,12 +1,12 @@
 ---
-date: '2020-12-04'
-image: /assets/images/posts/tom-alner-hero.jpg
+title: Keep Shooting, Keep Improving, and Try to Learn Something New Every Day.
+date: 2020-12-04 00:00:00 Z
+image: "/assets/images/posts/tom-alner-hero.jpg"
 layout: post
 meta_description: Scotland filmmaker Tom Alner sees every film as a chance to get
   better at his craft.
 subtitle: Scotland filmmaker Tom Alner sees every film as a chance to get better at
   his craft.
-title: Keep Shooting, Keep Improving, and Try to Learn Something New Every Day.
 ---
 
 MZed is more than an educational resource - we're also a community of thousands of filmmakers from around the globe, connected through our shared love of filmmaking and learning.

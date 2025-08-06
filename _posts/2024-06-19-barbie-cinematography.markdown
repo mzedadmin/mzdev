@@ -1,10 +1,12 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/barbie-cinematography-hero.jpg
+title: Authentic Artificiality of Barbie's Cinematography – Made of Plastic, It's
+  Fantastic?
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/barbie-cinematography-hero.jpg"
 layout: post
-meta_description: Rodrigo Prieto's cinematography for Barbie creates authentic artificiality - exploring the Technicolor look and two-world visual approach.
+meta_description: Rodrigo Prieto's cinematography for Barbie creates authentic artificiality
+  - exploring the Technicolor look and two-world visual approach.
 subtitle: Made of Plastic, It's Fantastic?
-title: Authentic Artificiality of Barbie's Cinematography – Made of Plastic, It's Fantastic?
 ---
 
 ![Authentic Artificiality of Barbie's Cinematography – Made of Plastic, It's Fantastic?](/assets/images/posts/barbie-cinematography-hero.jpg)

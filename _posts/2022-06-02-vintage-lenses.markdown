@@ -1,12 +1,11 @@
 ---
-
-date: '2022-06-02'
-image: /assets/images/posts/vintage-lenses-hero.jpg
+title: When to Choose Vintage Lenses
+date: 2022-06-02 00:00:00 Z
+image: "/assets/images/posts/vintage-lenses-hero.jpg"
 layout: post
 meta_description: For some looks, nothing beats the flaws and imperfections of vintage
   lenses
 subtitle: For some looks, nothing beats the flaws and imperfections of vintage lenses
-title: When to Choose Vintage Lenses
 ---
 
 There are so many beautiful lenses these days, with amazing clarity, contrast, and focus, but when you're looking to recreate an older look, nothing quite beats an old vintage lens.

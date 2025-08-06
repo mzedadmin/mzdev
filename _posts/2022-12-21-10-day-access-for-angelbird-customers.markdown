@@ -1,10 +1,10 @@
 ---
-date: '2022-12-21'
-image: /assets/images/posts/10-day-access-for-angelbird-customers-hero.jpg
+title: Angelbird Customers Get 10 Days to Try MZed Pro
+date: 2022-12-21 00:00:00 Z
+image: "/assets/images/posts/10-day-access-for-angelbird-customers-hero.jpg"
 layout: post
 meta_description: We're excited to announce our new partnership with Angelbird
 subtitle: We're excited to announce our new partnership with Angelbird
-title: Angelbird Customers Get 10 Days to Try MZed Pro
 ---
 
 We have some great news to share: MZed is partnering with [Angelbird](https://www.angelbird.com/), one of the leading makers of professional camera recording media, and we are giving free 10-day access to all MZed Pro courses to customers of Angelbird products. The unique access codes are included inside the packaging of Angelbird memory cards & readers. 

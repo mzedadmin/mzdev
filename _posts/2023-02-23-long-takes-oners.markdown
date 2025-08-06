@@ -1,15 +1,12 @@
 ---
-
-
-
-date: '2023-02-23'
-image: /assets/images/posts/long-takes-oners-hero.jpg
+title: How to Use Long Takes or Oners in Your Film
+date: 2023-02-23 00:00:00 Z
+image: "/assets/images/posts/long-takes-oners-hero.jpg"
 layout: post
 meta_description: Uninterrupted sequences add incredible suspense and tension, but
   they require careful planning
 subtitle: Uninterrupted sequences add incredible suspense and tension, but they require
   careful planning
-title: How to Use Long Takes or Oners in Your Film
 ---
 
 ![How to Create a Suspenseful Long Take - With Movie/TV Scene Examples](/assets/images/posts/long-takes-suspenseful-shining-hero.jpg)

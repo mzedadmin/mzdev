@@ -1,13 +1,12 @@
 ---
-
-date: '2023-11-16'
-image: /assets/images/posts/location-scouting-ai-tools-hero.jpg
+title: AI Tools for Location Scouting
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/location-scouting-ai-tools-hero.jpg"
 layout: post
 meta_description: Setting the stage for your film is essential, and there's some new
   AI tools to help
 subtitle: Setting the stage for your film is essential, and there's some new AI tools
   to help
-title: AI Tools for Location Scouting
 ---
 
 ![Useful Tips and AI Tools for Location Scouting](/assets/images/posts/location-scouting-ai-tools-hero.jpg)

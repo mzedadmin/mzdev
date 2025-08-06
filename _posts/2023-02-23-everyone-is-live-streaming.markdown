@@ -1,12 +1,11 @@
 ---
-
-date: '2023-02-23'
-image: /assets/images/posts/everyone-is-live-streaming-hero.jpg
+title: Everyone is a TV Station
+date: 2023-02-23 00:00:00 Z
+image: "/assets/images/posts/everyone-is-live-streaming-hero.jpg"
 layout: post
 meta_description: Live streaming is found at every corner of the video production
   world now
 subtitle: Live streaming is found at every corner of the video production world now
-title: Everyone is a TV Station
 ---
 
 **It's interesting how trends circle back every couple of decades. Although each resurgence of a trend feels new and fresh for most of us, when you get to a certain age you start to notice history repeating itself, but never without a twist.**

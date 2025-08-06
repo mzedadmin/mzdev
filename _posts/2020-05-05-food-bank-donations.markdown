@@ -1,10 +1,10 @@
 ---
-date: '2020-05-05'
-image: /assets/images/posts/food-bank-donations-hero.jpg
+title: MZed Members Donate Over 90,000 Meals to Food Bank for COVID-19 Relief
+date: 2020-05-05 00:00:00 Z
+image: "/assets/images/posts/food-bank-donations-hero.jpg"
 layout: post
 meta_description: We are humbled by your generosity - thank you!
 subtitle: We are humbled by your generosity - thank you!
-title: MZed Members Donate Over 90,000 Meals to Food Bank for COVID-19 Relief
 ---
 
 _**5/5/2020 Update: Because we made our donation on #GivingTuesday, a donor matched our contribution to Food Bank LA, doubling our total donation amount to over 180,000 meals!**_

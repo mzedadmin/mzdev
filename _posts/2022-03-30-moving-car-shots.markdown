@@ -1,13 +1,12 @@
 ---
-
-date: '2022-03-30'
-image: /assets/images/posts/moving-car-shots-hero.jpg
+title: Moving Car Shots on a Budget
+date: 2022-03-30 00:00:00 Z
+image: "/assets/images/posts/moving-car-shots-hero.jpg"
 layout: post
 meta_description: How do you simulate a moving car shot, without resorting to expensive
   trailers or special fx?
 subtitle: How do you simulate a moving car shot, without resorting to expensive trailers
   or special fx?
-title: Moving Car Shots on a Budget
 ---
 
 There are several ways to shoot and light a car scene, but the "Poor Man's Process" continues to be a popular approach to safely and affordably simulate a moving car, while focusing on the actor's performance inside the vehicle.

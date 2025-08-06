@@ -1,12 +1,10 @@
 ---
-
-
-date: '2025-01-10'
-image: /assets/images/posts/lighting-a-holiday-themed-scene-hero.jpg
+title: Lighting a Holiday Themed Scene
+date: 2025-01-10 00:00:00 Z
+image: "/assets/images/posts/lighting-a-holiday-themed-scene-hero.jpg"
 layout: post
 meta_description: Learn the tricks from the DP of Home Alone
 subtitle: Learn the tricks from the DP of Home Alone
-title: Lighting a Holiday Themed Scene
 ---
 
 The holidays are all around us! And what better way to spend it as a filmmaker than to shoot a festive video? So, here are some of the tricks for lighting a holiday-themed scene from none other than the legendary director of photography, Julio Macat. For those of you who are not good with names, Julio shot "Home Alone," one of the most rewatched Christmas movies of all time. Therefore, he definitely has an insight or two on this topic, alongside some practical tips and tricks for lighting in general.

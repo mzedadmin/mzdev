@@ -1,12 +1,12 @@
 ---
-date: '2022-09-08'
-image: /assets/images/posts/mzed-educator-rubidium-wu-releases-indie-film-hero.jpg
+title: MZed Educator Rubidium Wu Releases New Indie Film
+date: 2022-09-08 00:00:00 Z
+image: "/assets/images/posts/mzed-educator-rubidium-wu-releases-indie-film-hero.jpg"
 layout: post
 meta_description: Read an interview with Wu about the challenges of producing "The
   Devil's Fortune"
 subtitle: Read an interview with Wu about the challenges of producing "The Devil's
   Fortune"
-title: MZed Educator Rubidium Wu Releases New Indie Film
 ---
 
 Producing an independent feature film is a challenge on its own. Let alone doing it in the midst of a global pandemic. That's exactly the mountain that director Rubidium Wu had to climb while shooting his latest film "The Devil's Fortune". We recently had the opportunity to sit down with him to talk about the lessons he has learned along this path.

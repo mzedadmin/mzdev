@@ -1,10 +1,12 @@
 ---
-date: '2024-02-27'
-image: /assets/images/posts/anamorphic-cookbook-part-2-is-now-live-hero.jpg
+title: Anamorphic Cookbook Part 2 Course Launched on MZed – Camera Rigging Secrets
+  and More
+date: 2024-02-27 00:00:00 Z
+image: "/assets/images/posts/anamorphic-cookbook-part-2-is-now-live-hero.jpg"
 layout: post
-meta_description: Tito Ferradans returns with Anamorphic Cookbook Part 2, covering camera rigging secrets, keystone effect solutions, and lens adapter techniques.
+meta_description: Tito Ferradans returns with Anamorphic Cookbook Part 2, covering
+  camera rigging secrets, keystone effect solutions, and lens adapter techniques.
 subtitle: Camera Rigging Secrets and More
-title: Anamorphic Cookbook Part 2 Course Launched on MZed – Camera Rigging Secrets and More
 ---
 
 ![Anamorphic Cookbook Part 2 Course Launched on MZed – Camera Rigging Secrets and More](/assets/images/posts/anamorphic-cookbook-part-2-is-now-live-hero.jpg)

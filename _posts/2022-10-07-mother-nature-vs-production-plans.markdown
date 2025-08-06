@@ -1,12 +1,11 @@
 ---
-
-date: '2022-10-07'
-image: /assets/images/posts/mother-nature-vs-production-plans-hero.jpg
+title: When Mother Nature Changes Your Production Plans
+date: 2022-10-07 00:00:00 Z
+image: "/assets/images/posts/mother-nature-vs-production-plans-hero.jpg"
 layout: post
 meta_description: Philip Bloom shows you how to adapt a story to unpredictable shooting
   conditions.
 subtitle: Philip Bloom shows you how to adapt a story to unpredictable shooting conditions.
-title: When Mother Nature Changes Your Production Plans
 ---
 
 Problem-solving is at the heart of filmmaking. But while the unexpected is always just around the corner at any shoot, a marked spirit of adaptation is even more vital for solo shooters and small crews having to deal with day exteriors, miserable weather, and a ticking clock.

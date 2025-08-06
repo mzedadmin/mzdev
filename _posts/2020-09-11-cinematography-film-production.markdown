@@ -1,13 +1,12 @@
 ---
-
-date: '2020-09-11'
-image: /assets/images/posts/cinematography-film-production-hero.jpg
+title: How to plan for a film production
+date: 2020-09-11 00:00:00 Z
+image: "/assets/images/posts/cinematography-film-production-hero.jpg"
 layout: post
 meta_description: From development, pre-production, and principal photography to post-production
   and distribution, here is the entire process.
 subtitle: From development, pre-production, and principal photography to post-production
   and distribution, here is the entire process.
-title: How to plan for a film production
 ---
 
 A film production consists of at least five major stages during its life cycle, from a brilliant idea to a completed film out in the world. Let's take a look at all of the 5 stages of film production, as well as the role of a cinematographer.

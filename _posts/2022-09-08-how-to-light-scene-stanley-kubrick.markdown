@@ -1,10 +1,10 @@
 ---
-date: '2022-09-08'
-image: /assets/images/posts/how-to-light-scene-stanley-kubrick-hero.jpg
+title: How to Light a Scene like Stanley Kubrick
+date: 2022-09-08 00:00:00 Z
+image: "/assets/images/posts/how-to-light-scene-stanley-kubrick-hero.jpg"
 layout: post
 meta_description: Using a simple candlelight trick can transform your cinematography
 subtitle: Using a simple candlelight trick can transform your cinematography
-title: How to Light a Scene like Stanley Kubrick
 ---
 
 Cinematic lighting doesn't necessarily require a truck packed full with grip hardware and next-generation lighting equipment. Sometimes there are situations when you really need to make the best out of what's available on set, and simple candlelight can do the job.

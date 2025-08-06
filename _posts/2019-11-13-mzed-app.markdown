@@ -1,12 +1,12 @@
 ---
-date: 2019-11-13
-image: /assets/images/posts/mzed-app-hero.jpg
+title: Offline Viewing Now Available with Our iOS App
+date: 2019-11-13 00:00:00 Z
+image: "/assets/images/posts/mzed-app-hero.jpg"
 layout: post
 meta_description: With the MZed iOS App, you can download courses and lessons to your
   device to watch offline.
 subtitle: With the MZed iOS App, you can download courses and lessons to your device
   to watch offline.
-title: Offline Viewing Now Available with Our iOS App
 ---
 
 <p>We&rsquo;re excited to announce a new MZed app that will enable MZed Pro members to watch courses on their iPhone or iPad - including offline viewing.&nbsp;</p>

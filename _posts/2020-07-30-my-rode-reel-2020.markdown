@@ -1,10 +1,10 @@
 ---
-date: '2020-07-30'
-image: /assets/images/posts/my-rode-reel-2020-hero.jpg
+title: My RØDE Reel is Back with Prizes including $1 Million Cash
+date: 2020-07-30 00:00:00 Z
+image: "/assets/images/posts/my-rode-reel-2020-hero.jpg"
 layout: post
 meta_description: The world's largest short film competition is now open for entries.
 subtitle: The world's largest short film competition is now open for entries.
-title: My RØDE Reel is Back with Prizes including $1 Million Cash
 ---
 
 **R ØDE Microphones** is back with the World's Largest Short Film Competition, **My R ØDE Reel**. Now in its 7th year, RØDE has once again upped the ante with a **monumental** **$1 million in cash to be won.** This the biggest cash prize ever offered in a short film competition, making My RØDE Reel a very attractive event for filmmakers around the world. Entries are open now and close Wednesday, October 7.

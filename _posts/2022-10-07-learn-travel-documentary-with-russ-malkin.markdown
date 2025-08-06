@@ -1,12 +1,12 @@
 ---
-date: '2022-10-07'
-image: /assets/images/posts/learn-travel-documentary-with-russ-malkin-hero.jpg
+title: New Adventure Travel Filmmaking Course with Russ Malkin
+date: 2022-10-07 00:00:00 Z
+image: "/assets/images/posts/learn-travel-documentary-with-russ-malkin-hero.jpg"
 layout: post
 meta_description: Learn to build a documentary filmmaking career with legendary Producer/Director
   Russ Malkin of the Long Way series with Ewan McGregor and Charley Boorman.
 subtitle: Learn to build a documentary filmmaking career with legendary Producer/Director
   Russ Malkin of the Long Way series with Ewan McGregor and Charley Boorman.
-title: New Adventure Travel Filmmaking Course with Russ Malkin
 ---
 
 If you know how to make a video, you already have the unique skills that allow you to go out and make a travel documentary. Now there's a new course to help you raise the stakes and turn adventure filmmaking into a career: meet the newly added MZed course about "Adventure Filmmaking".

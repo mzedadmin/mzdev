@@ -1,11 +1,12 @@
 ---
-
-date: '2024-11-07'
-image: /assets/images/posts/single-source-lighting-in-film-hero.jpg
-layout: post
-meta_description: Can you light a scene with just one source? Sure! But what dramatic impact will the image have? Let's look at some iconic examples.
-subtitle: Can you light a scene with just one source? Sure! But what dramatic impact will the image have? Let's look at some iconic examples.
 title: Single-Source Lighting in Film
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/single-source-lighting-in-film-hero.jpg"
+layout: post
+meta_description: Can you light a scene with just one source? Sure! But what dramatic
+  impact will the image have? Let's look at some iconic examples.
+subtitle: Can you light a scene with just one source? Sure! But what dramatic impact
+  will the image have? Let's look at some iconic examples.
 ---
 
 Limitations ignite creativity. When we define rules and boundaries, our brain tries to find a new way around them. Are you familiar with the Oulipo movement? This was a gathering of French-speaking writers and mathematicians in the 1960s who came up with different constrained writing techniques. An example is to omit certain letters in your work or to create a poem where each line is a single word, and each successive word is one letter longer. That helped to harness new ideas. Introducing constraints is a powerful tool in filmmaking as well. Can you light a scene with just one source? Sure! But how will the image look, and what dramatic impact will it have? Trust me, the possibilities are endless. Let's dive into some of the iconic examples of using single-source lighting!

@@ -1,10 +1,10 @@
 ---
-date: '2022-11-17'
-image: /assets/images/posts/mzed-asc-cooperation-announcement-hero.jpg
+title: MZed and American Society of Cinematographers (ASC) Announce Educational Cooperation
+date: 2022-11-17 00:00:00 Z
+image: "/assets/images/posts/mzed-asc-cooperation-announcement-hero.jpg"
 layout: post
 meta_description: 'NULL'
 subtitle: 'NULL'
-title: MZed and American Society of Cinematographers (ASC) Announce Educational Cooperation
 ---
 
 At this year's [CamerImage festival](https://camerimage.pl/en/) in Toruń, Poland, CineD, with its filmmaking education platform MZed, and the American Society of Cinematographers (ASC) have announced a cooperation agreement.

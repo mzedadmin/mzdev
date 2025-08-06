@@ -1,13 +1,12 @@
 ---
-
-date: '2022-02-09'
-image: /assets/images/posts/arri-sensor-explained-hero.jpg
+title: Learning the basics of ARRI sensors
+date: 2022-02-09 00:00:00 Z
+image: "/assets/images/posts/arri-sensor-explained-hero.jpg"
 layout: post
 meta_description: From photo sites to ARRIRAW recording, here's how the tech creates
   the ARRI look.
 subtitle: From photo sites to ARRIRAW recording, here's how the tech creates the ARRI
   look.
-title: Learning the basics of ARRI sensors
 ---
 
 To understand how ARRIRAW works and what makes it different from other raw formats, it helps to go straight to the source.

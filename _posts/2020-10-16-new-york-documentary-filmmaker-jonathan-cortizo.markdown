@@ -1,12 +1,12 @@
 ---
-date: '2020-10-16'
-image: /assets/images/posts/new-york-documentary-filmmaker-jonathan-cortizo-hero.jpg
+title: 'Stage Time Above Perfection: Filmmaking like a Stand-Up Comedian'
+date: 2020-10-16 00:00:00 Z
+image: "/assets/images/posts/new-york-documentary-filmmaker-jonathan-cortizo-hero.jpg"
 layout: post
 meta_description: New York based filmmaker Jonathan Cortizo shares his approach to
   improving his documentary skills.
 subtitle: New York based filmmaker Jonathan Cortizo shares his approach to improving
   his documentary skills.
-title: 'Stage Time Above Perfection: Filmmaking like a Stand-Up Comedian'
 ---
 
 MZed is more than an educational resource - we're also a community of thousands of filmmakers from around the globe, connected through our shared love of filmmaking and learning.

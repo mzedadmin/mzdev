@@ -1,12 +1,11 @@
 ---
-
-date: '2023-03-31'
-image: /assets/images/posts/tips-how-to-start-youtube-hero.jpg
+title: Tips on How to Start a Youtube Channel
+date: 2023-03-31 00:00:00 Z
+image: "/assets/images/posts/tips-how-to-start-youtube-hero.jpg"
 layout: post
 meta_description: Everyday is a good day to start YouTubing. Here's the smart way
   to begin.
 subtitle: Everyday is a good day to start YouTubing. Here's the smart way to begin.
-title: Tips on How to Start a Youtube Channel
 ---
 
 ![How to Start a YouTube Channel – The First Steps to Launch](/assets/images/posts/youtube-channel-guide-hero.jpg)

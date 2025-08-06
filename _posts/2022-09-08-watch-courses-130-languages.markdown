@@ -1,13 +1,12 @@
 ---
-
-date: '2022-09-08'
-image: /assets/images/posts/watch-courses-130-languages-hero.jpg
+title: Watch MZed Courses in Over 130 Languages
+date: 2022-09-08 00:00:00 Z
+image: "/assets/images/posts/watch-courses-130-languages-hero.jpg"
 layout: post
 meta_description: Using Google Chrome, you can follow along with a live transcript
   in any language
 subtitle: Using Google Chrome, you can follow along with a live transcript in any
   language
-title: Watch MZed Courses in Over 130 Languages
 ---
 
 Generally speaking, being proficient in English often grants non-native speakers access to better and more influential sources of information. Still, there are many different reasons why you might find learning a new skill in your mother tongue more convenient, whether it be for speed or comfort. Hence, since language should not be an obstacle to your growth, MZed offers creators worldwide a valuable way to enjoy 300+ hours of online filmmaking education in over 130 languages.

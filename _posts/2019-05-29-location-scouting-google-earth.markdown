@@ -1,12 +1,12 @@
 ---
-date: '2019-05-29'
-image: /assets/images/posts/location-scouting-google-earth-hero.jpg
+title: Location Scouting with Google Earth
+date: 2019-05-29 00:00:00 Z
+image: "/assets/images/posts/location-scouting-google-earth-hero.jpg"
 layout: post
 meta_description: Can't get to the actual location before the shoot? Take a tip from
   Alex Buono and use these great online tools.
 subtitle: Can't get to the actual location before the shoot? Take a tip from Alex
   Buono and use these great online tools.
-title: Location Scouting with Google Earth
 ---
 
 Location scouting is an important step in preparing for any field shoot, even if it's just a timelapse. It's especially key if you're planning to use the sun as your main light. But how do you location scout if you can't make it to the actual location before the shoot?

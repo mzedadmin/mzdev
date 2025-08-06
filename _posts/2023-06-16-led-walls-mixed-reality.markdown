@@ -1,12 +1,10 @@
 ---
-
-
-date: '2023-06-16'
-image: /assets/images/posts/led-walls-mixed-reality-hero.jpg
+title: LED Walls and Mixed Reality
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/led-walls-mixed-reality-hero.jpg"
 layout: post
 meta_description: Virtual production is not just for Hollywood anymore
 subtitle: Virtual production is not just for Hollywood anymore
-title: LED Walls and Mixed Reality
 ---
 
 ![Useful Tips on Working with LED Walls in Mixed Reality](/assets/images/posts/led-walls-mixed-reality-hero.jpg)

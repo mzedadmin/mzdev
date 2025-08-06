@@ -1,12 +1,12 @@
 ---
-date: '2022-12-21'
-image: /assets/images/posts/gifts-for-filmmakers-film-students-hero.jpg
+title: Gifts for Filmmakers and Film Students
+date: 2022-12-21 00:00:00 Z
+image: "/assets/images/posts/gifts-for-filmmakers-film-students-hero.jpg"
 layout: post
 meta_description: It's never too late to give the gift of education to a filmmaker
   or film student in your life.
 subtitle: It's never too late to give the gift of education to a filmmaker or film
   student in your life.
-title: Gifts for Filmmakers and Film Students
 ---
 
 Looking for a last-minute gift for a filmmaker or film student in your life? You'd think buying a piece of gear is the best option, but you have about 1 in 10 million chances of picking the exact thing that they actually need or want. That's why investing in education is a safe bet - with the MZed Pro Membership you get full access to the leading online education platform with over 50 courses.

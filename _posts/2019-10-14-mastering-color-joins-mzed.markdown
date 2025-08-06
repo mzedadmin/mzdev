@@ -1,12 +1,12 @@
 ---
-date: '2019-10-14'
-image: /assets/images/posts/mastering-color-joins-mzed-hero.jpg
+title: Mastering Color Joins MZed Pro
+date: 2019-10-14 00:00:00 Z
+image: "/assets/images/posts/mastering-color-joins-mzed-hero.jpg"
 layout: post
 meta_description: The most comprehensive color grading tutorial is now available to
   all MZed Pro members.
 subtitle: The most comprehensive color grading tutorial is now available to all MZed
   Pro members.
-title: Mastering Color Joins MZed Pro
 ---
 
 We're excited to announce that the [Mastering Color](https://www.mzed.com/courses/mastering-color) course by instructor [Ollie Kenchington](https://www.mzed.com/educators/ollie-kenchington) is joining the MZed Pro library for unlimited access to members.

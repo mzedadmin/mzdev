@@ -1,11 +1,11 @@
 ---
-date: '2020-10-13'
-image: /assets/images/posts/filmmaking-for-photographers-mzed-pro-hero.jpg
+title: Filmmaking for Photographers joins MZed Pro
+date: 2020-10-13 00:00:00 Z
+image: "/assets/images/posts/filmmaking-for-photographers-mzed-pro-hero.jpg"
 layout: post
 meta_description: Philip Bloom's exceptional course is now available to all MZed Pro
   members.
 subtitle: Philip Bloom's exceptional course is now available to all MZed Pro members.
-title: Filmmaking for Photographers joins MZed Pro
 ---
 
 We're excited to announce that [Filmmaking for Photographers](https://www.mzed.com/courses/filmmaking-for-photographers) \- Philip Bloom's latest course - is now joining the MZed Pro library. That means it's now free to stream for MZed Pro members, and you can also download the course and watch it offline with our iOS app.

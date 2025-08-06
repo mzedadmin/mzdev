@@ -1,10 +1,10 @@
 ---
-date: '2019-10-03'
-image: /assets/images/posts/learn-filmmaking-hero.jpg
+title: Learn Filmmaking Step by Step
+date: 2019-10-03 00:00:00 Z
+image: "/assets/images/posts/learn-filmmaking-hero.jpg"
 layout: post
 meta_description: If you're new to MZed courses, start here.
 subtitle: If you're new to MZed courses, start here.
-title: Learn Filmmaking Step by Step
 ---
 
 If you've just joined MZed Pro, you may be wondering which course is a good starting point on your journey to learn filmmaking. What should you watch first?

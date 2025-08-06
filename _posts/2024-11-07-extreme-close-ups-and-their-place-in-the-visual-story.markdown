@@ -1,10 +1,12 @@
 ---
-date: '2024-11-07'
-image: /assets/images/posts/extreme-close-ups-and-their-place-in-the-visual-story-hero.jpg
-layout: post
-meta_description: What if we portray a character through a wide lens? Why do wide-angle close-ups feel so expressive? Let's figure it out together!
-subtitle: What if we portray a character through a wide lens? Why do wide-angle close-ups feel so expressive? Let's figure it out together!
 title: Extreme Close-Ups and Their Place in the Visual Story
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/extreme-close-ups-and-their-place-in-the-visual-story-hero.jpg"
+layout: post
+meta_description: What if we portray a character through a wide lens? Why do wide-angle
+  close-ups feel so expressive? Let's figure it out together!
+subtitle: What if we portray a character through a wide lens? Why do wide-angle close-ups
+  feel so expressive? Let's figure it out together!
 ---
 
 When we show our characters up close, most likely we're interested in the emotions they express or are going through at that particular moment. But what if we portray them through a wide lens? How will it affect the overall impact of the shot? What emotions can it convey? And why do wide-angle close-ups always feel so expressive? Let's figure it out together!

@@ -1,12 +1,11 @@
 ---
-
-date: '2024-11-07'
-image: /assets/images/posts/tips-and-tricks-to-build-tension-in-scripts-hero.jpg
+title: Tips and Tricks to Build Tension in Scripts
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/tips-and-tricks-to-build-tension-in-scripts-hero.jpg"
 layout: post
 meta_description: Tension is mastered by the horror genre, but you can use it in any
   story
 subtitle: Tension is mastered by the horror genre, but you can use it in any story
-title: Tips and Tricks to Build Tension in Scripts
 ---
 
 Spooky season is in full swing, and what better time to cuddle into a cozy blanket and watch something nerve-tingling? Did someone say, trick or treat? I would say: trick. Or rather: tricks. This time around, we're going to take a look at a few different tricks to build tension in scripts. After all, this is where every film—suspenseful or not—begins.

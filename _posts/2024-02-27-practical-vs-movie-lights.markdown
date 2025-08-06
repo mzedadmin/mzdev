@@ -1,10 +1,11 @@
 ---
-date: '2024-02-27'
-image: /assets/images/posts/practical-vs-movie-lights-hero.jpg
-layout: post
-meta_description: When to use practical lights vs movie lights - Tal Lazar explains the benefits, limitations, and creative decisions behind each approach.
-subtitle: How and Why to Use Them
 title: Practical Lights or Movie Lights? – How and Why to Use Them
+date: 2024-02-27 00:00:00 Z
+image: "/assets/images/posts/practical-vs-movie-lights-hero.jpg"
+layout: post
+meta_description: When to use practical lights vs movie lights - Tal Lazar explains
+  the benefits, limitations, and creative decisions behind each approach.
+subtitle: How and Why to Use Them
 ---
 
 ![Practical Lights or Movie Lights? – How and Why to Use Them](/assets/images/posts/practical-vs-movie-lights-hero.jpg)

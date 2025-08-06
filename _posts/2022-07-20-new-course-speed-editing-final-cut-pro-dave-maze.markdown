@@ -1,10 +1,10 @@
 ---
-date: '2022-07-20'
-image: /assets/images/posts/new-course-speed-editing-final-cut-pro-dave-maze-hero.jpg
+title: 'New Course: Speed Editing in Final Cut Pro with Dave Maze'
+date: 2022-07-20 00:00:00 Z
+image: "/assets/images/posts/new-course-speed-editing-final-cut-pro-dave-maze-hero.jpg"
 layout: post
 meta_description: Learn how to edit like a speed demon from YouTuber Dave Maze
 subtitle: Learn how to edit like a speed demon from YouTuber Dave Maze
-title: 'New Course: Speed Editing in Final Cut Pro with Dave Maze'
 ---
 
 One of the main attractions to Final Cut Pro is speed, but it takes some guidance to learn how to optimize your workflow for maximum efficiency. Today, we're excited to launch a brand new course on MZed: **[Speed Editing in Final Cut Pro with Dave Maze](https://www.mzed.com/courses/speed-editing-final-cut-pro)**.

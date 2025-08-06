@@ -1,12 +1,10 @@
 ---
-
-
-date: '2023-07-14'
-image: /assets/images/posts/lines-in-shot-composition-hero.jpg
+title: Mastering Lines in Shot Composition
+date: 2023-07-14 00:00:00 Z
+image: "/assets/images/posts/lines-in-shot-composition-hero.jpg"
 layout: post
 meta_description: Lines are an essential element for masterful shot composition
 subtitle: Lines are an essential element for masterful shot composition
-title: Mastering Lines in Shot Composition
 ---
 
 ![Using Lines in Shot Composition – A Journey of Visual Mastery with Film Examples](/assets/images/posts/lines-in-shot-composition-hero.jpg)

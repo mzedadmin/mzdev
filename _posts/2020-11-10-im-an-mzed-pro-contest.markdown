@@ -1,12 +1,12 @@
 ---
-date: '2020-11-10'
-image: /assets/images/posts/im-an-mzed-pro-contest-hero.jpg
+title: '"I’m an MZed Pro" Contest'
+date: 2020-11-10 00:00:00 Z
+image: "/assets/images/posts/im-an-mzed-pro-contest-hero.jpg"
 layout: post
 meta_description: Are you an MZed Pro? Win a Canon C70 cinema camera by making a short
   video about yourself!
 subtitle: Are you an MZed Pro? Win a Canon C70 cinema camera by making a short video
   about yourself!
-title: '"I’m an MZed Pro" Contest'
 ---
 
 **_Are you an[MZed Pro](https://stage.mzed.com/mzed-pro)?_**

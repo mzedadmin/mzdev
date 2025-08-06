@@ -1,12 +1,12 @@
 ---
-date: '2020-03-16'
-image: /assets/images/posts/coronavirus-donations-hero.jpg
+title: 20 Percent of All Sales to be Donated to Coronavirus Fallout
+date: 2020-03-16 00:00:00 Z
+image: "/assets/images/posts/coronavirus-donations-hero.jpg"
 layout: post
 meta_description: MZed is donating a portion of all memberships and purchases to Los
   Angeles Food Bank
 subtitle: MZed is donating a portion of all memberships and purchases to Los Angeles
   Food Bank
-title: 20 Percent of All Sales to be Donated to Coronavirus Fallout
 ---
 
 **UPDATE: We've increased our commitment to supporting those most in need, so we'll continue to donate 20% of all sales through the month of April also.**

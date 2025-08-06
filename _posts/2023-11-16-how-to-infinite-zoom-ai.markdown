@@ -1,14 +1,12 @@
 ---
-
-
-date: '2023-11-16'
-image: /assets/images/posts/how-to-infinite-zoom-ai-hero.jpg
+title: How to Create an Infinite Zoom Video Using AI
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/how-to-infinite-zoom-ai-hero.jpg"
 layout: post
 meta_description: Zoom-Out videos are trending right now, so here's a tutorial on
   how to create infinite zoom with AI
 subtitle: Zoom-Out videos are trending right now, so here's a tutorial on how to create
   infinite zoom with AI
-title: How to Create an Infinite Zoom Video Using AI
 ---
 
 ![How to Make an Impressive Zoom-Out Video With the Help of AI Tools? -  A Tutorial](/assets/images/posts/how-to-infinite-zoom-ai-hero.jpg)

@@ -1,13 +1,12 @@
 ---
-
-date: '2023-06-16'
-image: /assets/images/posts/simpe-color-grading-tips-hero.jpg
+title: Simple Yet Powerful Color Grading Tips
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/simpe-color-grading-tips-hero.jpg"
 layout: post
 meta_description: Used correctly, color grading can draw their eyes to where you want
   them to look
 subtitle: Used correctly, color grading can draw their eyes to where you want them
   to look
-title: Simple Yet Powerful Color Grading Tips
 ---
 
 ![How to Guide Viewer's Attention with Color – Simple Yet Powerful Grading Tips](/assets/images/posts/simpe-color-grading-tips-hero.jpg)

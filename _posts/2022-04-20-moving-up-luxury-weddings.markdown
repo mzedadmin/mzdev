@@ -1,13 +1,12 @@
 ---
-
-date: '2022-04-20'
-image: /assets/images/posts/moving-up-luxury-weddings-hero.jpg
+title: Moving Up into Luxury Weddings
+date: 2022-04-20 00:00:00 Z
+image: "/assets/images/posts/moving-up-luxury-weddings-hero.jpg"
 layout: post
 meta_description: The key to charging more and filming less weddings is to move up
   into higher end weddings
 subtitle: The key to charging more and filming less weddings is to move up into higher
   end weddings
-title: Moving Up into Luxury Weddings
 ---
 
 The goal of every wedding filmmaker is to succeed as a business, which in a nutshell means doing less weddings but charging more. How do you achieve this challenging transition from volume-based work to high-value, luxury wedding videography?

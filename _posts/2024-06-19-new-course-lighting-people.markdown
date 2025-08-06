@@ -1,10 +1,13 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/new-course-lighting-people-hero.jpg
+title: Lighting People On Location New Course with Paul Atkins & Stephen Lighthill,
+  ASC, only on MZed
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/new-course-lighting-people-hero.jpg"
 layout: post
-meta_description: In Lighting People, ASC members Paul Atkins and Stephen Lighthill teach practical tips for lighting people on location, indoors & outdoors.
-subtitle: In Lighting People, ASC members Paul Atkins and Stephen Lighthill teach practical tips for lighting people on location, indoors & outdoors.
-title: Lighting People On Location New Course with Paul Atkins & Stephen Lighthill, ASC, only on MZed
+meta_description: In Lighting People, ASC members Paul Atkins and Stephen Lighthill
+  teach practical tips for lighting people on location, indoors & outdoors.
+subtitle: In Lighting People, ASC members Paul Atkins and Stephen Lighthill teach
+  practical tips for lighting people on location, indoors & outdoors.
 ---
 
 <iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/hr30ngnDZws?rel=0" frameborder="0" allow="autoplay" allowfullscreen="" enablejsapi="true" id="widget2" data-gtm-yt-inspected-17="true"></iframe>

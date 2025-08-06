@@ -1,11 +1,10 @@
 ---
-
-date: '2023-03-22'
-image: /assets/images/posts/nomadland-making-of-intimacy.jpg
+title: Behind the Scenes of Nomadland
+date: 2023-03-22 00:00:00 Z
+image: "/assets/images/posts/nomadland-making-of-intimacy.jpg"
 layout: post
 meta_description: An interview with DP Joshua James Richards
 subtitle: An interview with DP Joshua James Richards
-title: Behind the Scenes of Nomadland
 ---
 
 ![Nomadland – A Masterclass in Naturalistic Cinematography with DP Joshua James Richards](/assets/images/posts/nomadland-making-of-intimacy-hero.jpg)

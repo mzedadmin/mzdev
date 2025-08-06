@@ -1,10 +1,10 @@
 ---
-date: '2024-11-07'
-image: /assets/images/posts/using-the-film-score-as-a-narrator-in-the-story-hero.jpg
+title: Using the Film Score as a Narrator in the Story
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/using-the-film-score-as-a-narrator-in-the-story-hero.jpg"
 layout: post
 meta_description: How music can add another dimension to your film
 subtitle: How music can add another dimension to your film
-title: Using the Film Score as a Narrator in the Story
 ---
 
 Sure, films can work without music. They can work without audio altogether, and the silent movie era proved it better than I ever could. But what a joy it is to have a composer on your project and turn the score into a strong storytelling tool on its own! It's possible to add another level to your narrative that no filmmaker should miss. What are the main ingredients? How to use a film score as a narrator? Whose workflow can we learn from? All that and more below.

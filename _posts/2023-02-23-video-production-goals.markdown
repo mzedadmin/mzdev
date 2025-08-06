@@ -1,12 +1,12 @@
 ---
-date: '2023-02-23'
-image: /assets/images/posts/video-production-goals-hero.jpg
+title: How to Get Out of Your Comfort Zone
+date: 2023-02-23 00:00:00 Z
+image: "/assets/images/posts/video-production-goals-hero.jpg"
 layout: post
 meta_description: This year, try something completely different. It'll open you up
   to entirely new opportunities.
 subtitle: This year, try something completely different. It'll open you up to entirely
   new opportunities.
-title: How to Get Out of Your Comfort Zone
 ---
 
 As we start another year, it's a good time to think about what you want to achieve with your video production. You can certainly set concrete goals, whether it's business or personal goals, but that mindset can be limited to what you know today - your worldview, your current situation, your opportunities and what you think is possible next year. So instead of setting a specific goal, make it your objective to get out of your comfort zone in 2023, and then see where the experiments take you.

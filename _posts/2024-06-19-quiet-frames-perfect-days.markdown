@@ -1,10 +1,12 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/quiet-frames-perfect-days-hero.jpg
-layout: post
-meta_description: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding bliss in simple things. We explore the poetry of the film "Perfect Days".
-subtitle: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding bliss in simple things. We explore the poetry of the film "Perfect Days".
 title: The Quiet Frames of "Perfect Days" – Depicting Beauty in the Mundane
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/quiet-frames-perfect-days-hero.jpg"
+layout: post
+meta_description: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding
+  bliss in simple things. We explore the poetry of the film "Perfect Days".
+subtitle: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding bliss
+  in simple things. We explore the poetry of the film "Perfect Days".
 ---
 
 "Live here and now! Enjoy the moment! Find beauty in the mundane!" – For some, these are just "mindful" thoughts with an unclear origin trending in social media. For Hirayama, they are postulates he builds his life on. A new, peaceful, and slightly bittersweet drama, "[Perfect Days](https://www.imdb.com/title/tt27503384/?ref_=nm_flmg_t_2_dr)" by [Wim Wenders](https://www.imdb.com/name/nm0000694/), depicts everyday scenes in Tokyo, following a toilet cleaner who has found bliss in simple things. It's so meditative that some may call this film too slow-paced and boring. However, if its central message resonates with you in any way, read along! Let's dive into the transcendental routine and explore the poetry of the quiet frames in "Perfect Days"!

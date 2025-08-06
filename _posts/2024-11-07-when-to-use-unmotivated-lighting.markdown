@@ -1,10 +1,10 @@
 ---
-date: '2024-11-07'
-image: /assets/images/posts/when-to-use-unmotivated-lighting-hero.jpg
+title: When to Use Unmotivated Lighting
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/when-to-use-unmotivated-lighting-hero.jpg"
 layout: post
 meta_description: Sometimes in cinematography you have to break the rules
 subtitle: Sometimes in cinematography you have to break the rules
-title: When to Use Unmotivated Lighting
 ---
 
 Lighting should be believable and motivated—or at least, that's what modern filmmaking conventions say. We have already talked a lot about it and how to achieve it. After all, emulating light is a crucial skill for lighting designers. However, how about breaking the rules? What if we want to use unmotivated light deliberately as a storytelling tool? Let's take a look at some examples that may help us on this mission.

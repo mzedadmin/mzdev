@@ -1,11 +1,10 @@
 ---
-
-date: '2024-02-27'
-image: /assets/images/posts/analyzing-editing-the-bear-hero.jpg
+title: Analyzing the Editing of "The Bear"
+date: 2024-02-27 00:00:00 Z
+image: "/assets/images/posts/analyzing-editing-the-bear-hero.jpg"
 layout: post
 meta_description: Breaking down a couple scenes that are particularly emotional
 subtitle: Breaking down a couple scenes that are particularly emotional
-title: Analyzing the Editing of "The Bear"
 ---
 
 ![Emotional Editing - How "The Bear" Series Gets Under Our Skin](/assets/images/posts/analyzing-editing-the-bear-hero.jpg)

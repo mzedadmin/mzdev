@@ -1,12 +1,12 @@
 ---
-date: '2024-02-29'
-image: /assets/images/posts/new-live-event-tal-lazar-feb-2024-hero.jpg
+title: New Live Event with Tal Lazar
+date: 2024-02-29 00:00:00 Z
+image: "/assets/images/posts/new-live-event-tal-lazar-feb-2024-hero.jpg"
 layout: post
 meta_description: MZed Pro members are invited to learn how to find the hidden truth
   in a scene
 subtitle: MZed Pro members are invited to learn how to find the hidden truth in a
   scene
-title: New Live Event with Tal Lazar
 ---
 
 In this hour-long session Tal Lazar will take a deep-dive into the type of preparation a director does in order to initiate a successful collaboration with a cinematographer. The event will cover:

@@ -1,11 +1,10 @@
 ---
-
-date: '2023-11-19'
-image: /assets/images/posts/promote-podcast-or-video-hero.jpg
+title: How to Promote a Podcast or Video
+date: 2023-11-19 00:00:00 Z
+image: "/assets/images/posts/promote-podcast-or-video-hero.jpg"
 layout: post
 meta_description: Expand your audience with these tips
 subtitle: Expand your audience with these tips
-title: How to Promote a Podcast or Video
 ---
 
 ![Promoting a Podcast or Video – Marketing Tips to Expand Your Audience](/assets/images/posts/promote-podcast-or-video-hero.jpg)

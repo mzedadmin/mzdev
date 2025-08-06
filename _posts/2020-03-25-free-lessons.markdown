@@ -1,12 +1,12 @@
 ---
-date: '2020-03-25'
-image: /assets/images/posts/free-lessons-hero.jpg
+title: Learn for Free with MZed
+date: 2020-03-25 00:00:00 Z
+image: "/assets/images/posts/free-lessons-hero.jpg"
 layout: post
 meta_description: Watch a variety of filmmaking lessons for free - just create a login
   to get started.
 subtitle: Watch a variety of filmmaking lessons for free - just create a login to
   get started.
-title: Learn for Free with MZed
 ---
 
 There are a lot of lessons here at MZed that you can watch for free, without having to purchase a course or enrolling in an MZed Pro subscription. The only requirement is to create a login - which [you can do here](https://www.mzed.com/register). Below is an up-to-date summary of all of our freebies so you can start learning right here and now!

@@ -1,12 +1,12 @@
 ---
-date: '2020-10-26'
-image: /assets/images/posts/adrian-uchujin-storey-documentary-filmmaker-hero.jpg
+title: To be a good documentary filmmaker, you have to love people
+date: 2020-10-26 00:00:00 Z
+image: "/assets/images/posts/adrian-uchujin-storey-documentary-filmmaker-hero.jpg"
 layout: post
 meta_description: UK-based director, producer, shooter and editor Adrian Storey -
   aka Uchujin - finds inspiration in diversity of lifestyles.
 subtitle: UK-based director, producer, shooter and editor Adrian Storey - aka Uchujin
   - finds inspiration in diversity of lifestyles.
-title: To be a good documentary filmmaker, you have to love people
 ---
 
 MZed is more than an educational resource - we're also a community of thousands of filmmakers from around the globe, connected through our shared love of filmmaking and learning.

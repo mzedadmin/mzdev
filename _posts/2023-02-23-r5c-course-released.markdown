@@ -1,12 +1,12 @@
 ---
-date: '2023-02-23'
-image: /assets/images/posts/r5c-course-released-hero.jpg
+title: 'New Course: The Ultimate Canon R5 C Video Manual'
+date: 2023-02-23 00:00:00 Z
+image: "/assets/images/posts/r5c-course-released-hero.jpg"
 layout: post
 meta_description: Ollie Kenchington is back with an epic course, all about the Canon
   EOS R5 C
 subtitle: Ollie Kenchington is back with an epic course, all about the Canon EOS R5
   C
-title: 'New Course: The Ultimate Canon R5 C Video Manual'
 ---
 
 We are very proud to launch the best and most comprehensive Canon R5 C course on the planet: Canon R5 C - **[The ULTIMATE Video Manual by Ollie Kenchington](https://www.mzed.com/courses/canon-r5c-ultimate-video-manual)**. Read on to learn everything about the content of this course, on one of the most popular (video) cameras Canon has ever released.

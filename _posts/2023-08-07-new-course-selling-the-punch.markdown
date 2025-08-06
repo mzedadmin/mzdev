@@ -1,11 +1,11 @@
 ---
-date: '2023-08-07'
-image: /assets/images/posts/new-course-selling-the-punch-hero.jpg
+title: 'A New Combat and Safety Course for Filmmakers: Selling The Punch'
+date: 2023-08-07 00:00:00 Z
+image: "/assets/images/posts/new-course-selling-the-punch-hero.jpg"
 layout: post
 meta_description: Writer/Director Rin Ehlers Sheldon talks about why this course was
   made
 subtitle: Writer/Director Rin Ehlers Sheldon talks about why this course was made
-title: 'A New Combat and Safety Course for Filmmakers: Selling The Punch'
 ---
 
 ## ![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%204.jpg)

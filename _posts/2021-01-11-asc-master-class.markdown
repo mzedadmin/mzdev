@@ -1,12 +1,12 @@
 ---
-date: '2021-01-11'
-image: null
+title: ASC Master Class is Highly Recommended
+date: 2021-01-11 00:00:00 Z
+image: 
 layout: post
 meta_description: Currently taught remotely via Zoom, now anyone in the world can
   take the ASC's cinematography workshop
 subtitle: Currently taught remotely via Zoom, now anyone in the world can take the
   ASC's cinematography workshop
-title: ASC Master Class is Highly Recommended
 ---
 
 The ASC (The American Society of Cinematographers) has been putting on [its in-person master class courses](https://theasc.com/asc/education/master-class) for a long time. In fact, part of its core mission is to provide continuous learning opportunities for both its members and the greater filmmaking community. On top of the education, participants are able to network and brush shoulders with some of the greatest cinematographers in filmmaking history.

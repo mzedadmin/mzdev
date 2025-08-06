@@ -1,12 +1,11 @@
 ---
-
-date: '2023-06-16'
-image: /assets/images/posts/craft-precision-editing-hero.jpg
+title: The Craft of Precision Editing
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/craft-precision-editing-hero.jpg"
 layout: post
 meta_description: Understanding when to cut and why can enhance your superpowers in
   filmmaking
 subtitle: Understanding when to cut and why can enhance your superpowers in filmmaking
-title: The Craft of Precision Editing
 ---
 
 To cut or not to cut? – a question every editor faces regularly. Or at least, they should. As the great Alfred Hitchcock once said, montage is not cutting the film, but rather the assembling of its pieces. Carefully choosing the right ones and putting them into a precise order not only tells a story but also creates a different impact on the viewers. There is no doubt that editing is a hugely powerful tool. Understanding when to cut and why can enhance your superpowers in filmmaking drastically. Here, we picked some helpful techniques for you to try.

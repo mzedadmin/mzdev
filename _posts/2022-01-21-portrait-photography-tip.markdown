@@ -1,13 +1,12 @@
 ---
-
-date: '2022-01-21'
-image: /assets/images/posts/portrait-photography-tip-hero.jpg
+title: How to Level Up with Portrait Photography
+date: 2022-01-21 00:00:00 Z
+image: "/assets/images/posts/portrait-photography-tip-hero.jpg"
 layout: post
 meta_description: Master photographer Jerry Ghionis teaches you one essential tip
   for posing female subjects
 subtitle: Master photographer Jerry Ghionis teaches you one essential tip for posing
   female subjects
-title: How to Level Up with Portrait Photography
 ---
 
 Photography and Filmmaking have always had a natural crossover, and it's inevitable that as a video creator you will also be asked to take professional photos at some point in your career.

@@ -1,11 +1,10 @@
 ---
-
-date: '2024-06-19'
-image: /assets/images/posts/blurring-the-lines-music-sound-design-hero.jpg
+title: Blurring the Lines Between Music and Sound Design
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/blurring-the-lines-music-sound-design-hero.jpg"
 layout: post
 meta_description: Film examples that push the boundaries
 subtitle: Film examples that push the boundaries
-title: Blurring the Lines Between Music and Sound Design
 ---
 
 What sonic elements belong to the film score, and what belongs to sound design? In the conventional movie-making process, it's rather a question of dividing responsibilities. However, it can also be a creative choice. Nowadays, more and more films follow this approach. In this article, we take a look at outstanding movie examples, such as "Arrival", "Dune", and "Chernobyl", take a deep dive into their rare score workflows, and explore the poetic topic of blurring the lines between music and sound design.

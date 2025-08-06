@@ -1,12 +1,12 @@
 ---
-date: '2020-12-17'
-image: /assets/images/posts/new-york-filmmaker-thomas-cooksey-hero.jpg
+title: The Magic of Creating Something From Just an Idea
+date: 2020-12-17 00:00:00 Z
+image: "/assets/images/posts/new-york-filmmaker-thomas-cooksey-hero.jpg"
 layout: post
 meta_description: New York City filmmaker Thomas J. Cooksey is a director, cinematographer,
   editor, and occasional actor.
 subtitle: New York City filmmaker Thomas J. Cooksey is a director, cinematographer,
   editor, and occasional actor.
-title: The Magic of Creating Something From Just an Idea
 ---
 
 _MZed is more than an educational resource - we 're also a community of thousands of filmmakers from around the globe, connected through our shared love of filmmaking and learning._

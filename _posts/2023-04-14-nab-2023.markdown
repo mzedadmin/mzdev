@@ -1,13 +1,12 @@
 ---
-
-date: '2023-04-14'
-image: /assets/images/posts/nab-2023-hero.jpg
+title: CineD and MZed at NAB 2023 - Visit Our Booth in Central Hall
+date: 2023-04-14 00:00:00 Z
+image: "/assets/images/posts/nab-2023-hero.jpg"
 layout: post
 meta_description: This year at NAB we have our very own booth - stop by for prizes
   and free access to MZed Pro
 subtitle: This year at NAB we have our very own booth - stop by for prizes and free
   access to MZed Pro
-title: CineD and MZed at NAB 2023 - Visit Our Booth in Central Hall
 ---
 
 ![CineD at NAB 2023 - Visit our Booth, Win Prizes. Can't Attend? Enjoy our Full Show Coverage](/assets/images/posts/nab-2023-hero.jpg)

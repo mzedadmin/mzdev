@@ -1,11 +1,10 @@
 ---
-
-date: '2024-06-19'
-image: /assets/images/posts/lighting-in-color-101-things-you-should-know-hero.jpg
+title: Lighting in Color 101
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/lighting-in-color-101-things-you-should-know-hero.jpg"
 layout: post
 meta_description: Things That You Should Know
 subtitle: Things That You Should Know
-title: Lighting in Color 101
 ---
 
 Lighting for film or video is not an easy task per se. Although it brings enormous joy, it can also be quite frustrating. Especially if you are just starting out. Add color to this equation, and the task quickly becomes advanced. However, there is nothing one can't learn. Our [MZed course, "The Language of Lighting,"](https://www.mzed.com/courses/the-language-of-lighting) offers an entire module dedicated to lighting in color. There, seasoned filmmaker and educator [Tal Lazar](https://www.latentimages.com/) gives us thorough insights into what we should keep in mind and things to watch out for.

@@ -1,10 +1,11 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/mastering-cinematography-for-directors-new-course-hero.jpg
-layout: post
-meta_description: Tal Lazar's comprehensive cinematography course takes directors to the heart of their story and explains how to express it in images.
-subtitle: A New Comprehensive Course on MZed.com
 title: Mastering Cinematography for Directors – A New Comprehensive Course on MZed.com
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/mastering-cinematography-for-directors-new-course-hero.jpg"
+layout: post
+meta_description: Tal Lazar's comprehensive cinematography course takes directors
+  to the heart of their story and explains how to express it in images.
+subtitle: A New Comprehensive Course on MZed.com
 ---
 
 <iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/f-mJdwe8mXc?rel=0" frameborder="0" allow="autoplay" allowfullscreen="" enablejsapi="true" id="widget2" data-gtm-yt-inspected-13="true"></iframe>

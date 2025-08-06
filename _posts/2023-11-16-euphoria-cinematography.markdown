@@ -1,10 +1,10 @@
 ---
-date: '2023-11-16'
-image: /assets/images/posts/euphoria-cinematography-hero.jpg
+title: Behind the Scenes of "Euphoria" Cinematography
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/euphoria-cinematography-hero.jpg"
 layout: post
 meta_description: DP Marcell Rév breaks down scenes from Season 1 and 2 of Euphoria
 subtitle: DP Marcell Rév breaks down scenes from Season 1 and 2 of Euphoria
-title: Behind the Scenes of "Euphoria" Cinematography
 ---
 
 ![The Remarkable Cinematography of Euphoria – Embracing the Change Throughout the Show](/assets/images/posts/euphoria-cinematography-hero.jpg)

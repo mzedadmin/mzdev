@@ -1,10 +1,10 @@
 ---
-date: '2020-12-03'
-image: /assets/images/posts/december-2020-giveaway-hero.jpg
+title: December Giveaway and Winner Announcement
+date: 2020-12-03 00:00:00 Z
+image: "/assets/images/posts/december-2020-giveaway-hero.jpg"
 layout: post
 meta_description: MZed Pro members are automatically entered to win each month!
 subtitle: MZed Pro members are automatically entered to win each month!
-title: December Giveaway and Winner Announcement
 ---
 
 In November we launched a new monthly giveaway, awarding filmmaking gear to MZed Pro members to help you achieve your goals for becoming a better filmmaker. And also just to say thanks for being a part of our family.

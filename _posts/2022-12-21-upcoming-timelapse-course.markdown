@@ -1,10 +1,10 @@
 ---
-date: '2022-12-21'
-image: /assets/images/posts/upcoming-timelapse-course-hero.jpg
+title: Upcoming Timelapse Course from Drew Geraci
+date: 2022-12-21 00:00:00 Z
+image: "/assets/images/posts/upcoming-timelapse-course-hero.jpg"
 layout: post
 meta_description: Learn how to shoot timelapses from a legendary timelapse filmmaker
 subtitle: Learn how to shoot timelapses from a legendary timelapse filmmaker
-title: Upcoming Timelapse Course from Drew Geraci
 ---
 
 We are proud to announce that the master of timelapse filmmaking himself, Drew Geraci, has created a 2-part course for MZed. He has worked with some of the best filmmakers in the world, including Steven Spielberg on his recent "West Side Story", and David Fincher on the famous "House of Cards" intro. This course will be available for purchase and MZed Pro member streaming soon.

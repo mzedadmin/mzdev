@@ -1,13 +1,12 @@
 ---
-
-date: '2022-02-23'
-image: /assets/images/posts/human-color-perception-hero.jpg
+title: Learning the biological nature of human color perception
+date: 2022-02-23 00:00:00 Z
+image: "/assets/images/posts/human-color-perception-hero.jpg"
 layout: post
 meta_description: The reasons we prefer greens and reds over blue can help inform
   us as visual storytellers.
 subtitle: The reasons we prefer greens and reds over blue can help inform us as visual
   storytellers.
-title: Learning the biological nature of human color perception
 ---
 
 As filmmakers we have the power to elicit real emotion from viewers using only images and sound, and colors play a significant part in that biological response. But why do humans react to certain colors? To get to the foundation of color theory in filmmaking, we have to look at the evolutionary reasons why some colors affect us differently than others.

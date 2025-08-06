@@ -1,12 +1,10 @@
 ---
-
-
-date: '2024-11-07'
-image: /assets/images/posts/the-art-of-the-interview-hero.jpg
+title: The Art of the Interview
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/the-art-of-the-interview-hero.jpg"
 layout: post
 meta_description: Diving into a Meaningful Conversation in Your Podcast or Video
 subtitle: Diving into a Meaningful Conversation in Your Podcast or Video
-title: The Art of the Interview
 ---
 
 Interviews. They have existed for so long and are still a large part of podcasting, documentaries, portrait films, and corporate videos. Even if you just arrange a conversation with an expert while researching for your next script – you need the most meaningful answers you can get, don't you? Let's talk about the art of the interview and how to conduct it as effectively as possible.

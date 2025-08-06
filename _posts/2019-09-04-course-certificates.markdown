@@ -1,12 +1,12 @@
 ---
-date: '2019-09-04'
-image: /assets/images/posts/course-certificates-hero.jpg
+title: 'Now Available: Certificates of Completion'
+date: 2019-09-04 00:00:00 Z
+image: "/assets/images/posts/course-certificates-hero.jpg"
 layout: post
 meta_description: When you finish an MZed online course, shouldn’t you deserve a little
   recognition? Now you can download and print a certificate of completion.
 subtitle: When you finish an MZed online course, shouldn’t you deserve a little recognition?
   Now you can download and print a certificate of completion.
-title: 'Now Available: Certificates of Completion'
 ---
 
 Here at MZed we're excited about education. It's an incredible feeling to acquire new skills, improve yourself, and open up new doors for your future. However, while it only takes a moment to decide to invest in your education, it can take a long time (maybe even a lifetime) to carry out the process of learning.

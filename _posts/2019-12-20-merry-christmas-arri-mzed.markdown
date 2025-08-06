@@ -1,12 +1,12 @@
 ---
-date: '2019-12-20'
-image: /assets/images/posts/merry-christmas-arri-mzed-hero.jpg
+title: Merry Christmas from ARRI and MZed
+date: 2019-12-20 00:00:00 Z
+image: "/assets/images/posts/merry-christmas-arri-mzed-hero.jpg"
 layout: post
 meta_description: Celebrate the end of the decade with this ARRI Academy masterclass
   with Julio Macat.
 subtitle: Celebrate the end of the decade with this ARRI Academy masterclass with
   Julio Macat.
-title: Merry Christmas from ARRI and MZed
 ---
 
 During the 2019 Camerimage film festival, cinematographer Julio Macat ASC took the stage alongside ARRI for a masterclass that will surely inspire filmmakers of all experience and backgrounds. And thanks to ARRI Academy, you can now watch the course online exclusively on MZed - both [here on MZed.com](https://www.mzed.com/courses/arri-christmas-master-class-with-julio-macat-asc) and in [our iOS app](https://apps.apple.com/au/app/mzed/id1456561064).

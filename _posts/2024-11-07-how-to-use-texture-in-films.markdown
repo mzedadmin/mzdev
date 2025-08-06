@@ -1,10 +1,12 @@
 ---
-date: '2024-11-07'
-image: /assets/images/posts/how-to-use-texture-in-films-hero.jpg
-layout: post
-meta_description: How do we convey the sense of touch in images? By using textures, an often underestimated tool. Let's talk about texture in films!
-subtitle: How do we convey the sense of touch in images? By using textures, an often underestimated tool. Let's talk about texture in films!
 title: How to Use Texture in Films
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/how-to-use-texture-in-films-hero.jpg"
+layout: post
+meta_description: How do we convey the sense of touch in images? By using textures,
+  an often underestimated tool. Let's talk about texture in films!
+subtitle: How do we convey the sense of touch in images? By using textures, an often
+  underestimated tool. Let's talk about texture in films!
 ---
 
 When we talk about visual storytelling or deconstructing film scenes, we often discuss composition, lighting, color, sound design, and music. But is there another sensory dimension? One that we human beings experience all the time in real life? Namely: The sense of touch? Well, we obviously can't let the audience touch any of the elements in the shot. However, we can indeed evoke this sensation. How? Through textures, which are a significant visual tool and, sadly, often overlooked. Let's take a look at some inspiring examples of using texture in films!

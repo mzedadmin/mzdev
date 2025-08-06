@@ -1,10 +1,11 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/how-to-light-people-outdoors-tips-hero.jpg
-layout: post
-meta_description: Paul Atkins, ASC shares practical tips for lighting people outdoors using the sun to your advantage. Quick setups with limited gear.
-subtitle: Tips on Handling the Sun from Paul Atkins, ASC
 title: How to Light People Outdoors – Tips on Handling the Sun from Paul Atkins, ASC
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/how-to-light-people-outdoors-tips-hero.jpg"
+layout: post
+meta_description: Paul Atkins, ASC shares practical tips for lighting people outdoors
+  using the sun to your advantage. Quick setups with limited gear.
+subtitle: Tips on Handling the Sun from Paul Atkins, ASC
 ---
 
 ![How to Light People Outdoors – Tips on Handling the Sun from Paul Atkins, ASC](/assets/images/posts/how-to-light-people-outdoors-tips-hero.jpg)

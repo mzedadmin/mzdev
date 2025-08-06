@@ -1,13 +1,12 @@
 ---
-
-date: '2022-01-21'
-image: /assets/images/posts/2022-goal-business-of-filmmaking-hero.jpg
+title: Make Your 2022 Goal to Learn the Filmmaking Business
+date: 2022-01-21 00:00:00 Z
+image: "/assets/images/posts/2022-goal-business-of-filmmaking-hero.jpg"
 layout: post
 meta_description: For this year's resolution, make 2022 the year you focus on the
   business side of filmmaking.
 subtitle: For this year's resolution, make 2022 the year you focus on the business
   side of filmmaking.
-title: Make Your 2022 Goal to Learn the Filmmaking Business
 ---
 
 Now is the time when we all set our new year resolutions. Here's our suggestion: make 2022 the year you focus on the business of filmmaking.

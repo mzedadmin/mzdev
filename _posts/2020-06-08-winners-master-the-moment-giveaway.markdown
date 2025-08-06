@@ -1,10 +1,10 @@
 ---
-date: '2020-06-08'
-image: /assets/images/posts/winners-master-the-moment-giveaway-hero.jpg
+title: Winners of the Master the Moment Giveaway
+date: 2020-06-08 00:00:00 Z
+image: "/assets/images/posts/winners-master-the-moment-giveaway-hero.jpg"
 layout: post
 meta_description: We're pleased to announce nine winners from around the world
 subtitle: We're pleased to announce nine winners from around the world
-title: Winners of the Master the Moment Giveaway
 ---
 
 We're pleased to announce the winners of the [_Master the Moment Giveaway_](https://www.mzed.com/news/master-the-moment-giveaway) \- thank you to everyone who participated!

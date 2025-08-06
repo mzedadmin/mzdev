@@ -1,3 +1,8 @@
+---
+title: Learning Produce Shoot Documentaries
+date: 2022-01-19 00:00:00 Z
+---
+
 ---\n
 date: '2022-01-19'
 image: /assets/images/posts/learning-produce-shoot-documentaries-hero.jpg

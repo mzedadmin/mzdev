@@ -1,10 +1,11 @@
 ---
-date: '2024-02-27'
-image: /assets/images/posts/art-of-the-pitch-deck-hero.jpg
-layout: post
-meta_description: How to create a convincing pitch for your film project - industry expert tips on crafting compelling pitch decks and presentations.
-subtitle: Tips from the Industry Experts
 title: How to Create a Convincing Pitch for Your Film? - Tips from the Industry Experts
+date: 2024-02-27 00:00:00 Z
+image: "/assets/images/posts/art-of-the-pitch-deck-hero.jpg"
+layout: post
+meta_description: How to create a convincing pitch for your film project - industry
+  expert tips on crafting compelling pitch decks and presentations.
+subtitle: Tips from the Industry Experts
 ---
 
 ![How to Create a Convincing Pitch for Your Film? - Tips from the Industry Experts](/assets/images/posts/art-of-the-pitch-deck-hero.jpg)

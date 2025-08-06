@@ -1,11 +1,11 @@
 ---
-date: '2023-11-16'
-image: /assets/images/posts/aspect-ratio-storytelling-examples-hero.jpg
+title: Storytelling with Aspect Ratios
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/aspect-ratio-storytelling-examples-hero.jpg"
 layout: post
 meta_description: Let's explore some film examples that use aspect ratio to drive
   the story
 subtitle: Let's explore some film examples that use aspect ratio to drive the story
-title: Storytelling with Aspect Ratios
 ---
 
 "What aspect ratio will fit here?" When you start a new film or video project, that question would (or should) be among the first you ask in preproduction. Of course, you can always stick with the go-to 16:9 format. However, why not explore alternative options that go beyond the norm? Aspect ratio isn't just about framing your images and taking advantage of a specific screen size. Over time, filmmakers have started to use aspect ratio as a storytelling tool or to create a specific visual atmosphere. In this article, we'll take a look at some strong examples of films that utilize these techniques, and talk about ways you can apply them in your own projects.

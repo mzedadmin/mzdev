@@ -1,11 +1,11 @@
 ---
-date: '2022-09-08'
-image: /assets/images/posts/mzed-cined-ibc-2022-hero.jpg
+title: Join MZed and CineD at IBC 2022
+date: 2022-09-08 00:00:00 Z
+image: "/assets/images/posts/mzed-cined-ibc-2022-hero.jpg"
 layout: post
 meta_description: Booth visitors will receive free 30-day access to MZed Pro and other
   prizes!
 subtitle: Booth visitors will receive free 30-day access to MZed Pro and other prizes!
-title: Join MZed and CineD at IBC 2022
 ---
 
 Headed to IBC? Make sure to stop by [Booth 12.A94](https://ibc22.mapyourshow.com/8_0/floorplan/?st=keyword&sv=cined&hallID=G&selectedBooth=booth~12.A94) to meet the CineD crew and get a booklet that contains a free 30-day access code to MZed Pro, as well as daily prize giveaways. We hope to see you there!

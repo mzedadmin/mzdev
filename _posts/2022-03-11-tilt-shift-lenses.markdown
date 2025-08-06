@@ -1,13 +1,12 @@
 ---
-
-date: '2022-03-11'
-image: /assets/images/posts/tilt-shift-lenses-hero.jpg
+title: Learning about Tilt Shift Lenses
+date: 2022-03-11 00:00:00 Z
+image: "/assets/images/posts/tilt-shift-lenses-hero.jpg"
 layout: post
 meta_description: There's a few reasons to use a tilt shift lens, from timelapse,
   to architecture, to portraits
 subtitle: There's a few reasons to use a tilt shift lens, from timelapse, to architecture,
   to portraits
-title: Learning about Tilt Shift Lenses
 ---
 
 Now that we seem to have more than enough cameras to satisfy our filmmaking needs, it's a good time to focus on lenses, and in particular [specialty lenses](https://www.cined.com/gear-guides/specialty-lenses/). Let's take a quick look at what you can do with a tilt-shift lens.

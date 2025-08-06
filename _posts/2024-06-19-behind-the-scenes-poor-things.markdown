@@ -1,10 +1,10 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/behind-the-scenes-poor-things-hero.jpg
+title: Behind the Scenes of 'Poor Things'
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/behind-the-scenes-poor-things-hero.jpg"
 layout: post
 meta_description: A playground for beauty and bizarreness
 subtitle: A playground for beauty and bizarreness
-title: Behind the Scenes of 'Poor Things'
 ---
 
 "I'm a flawed, experimenting person", says Bella Baxter, the main character of "[Poor Things](https://www.imdb.com/title/tt14230458/?ref_=nv_sr_srsg_1_tt_1_nm_6_q_poor%2520)". I can't help but wonder whether this description also perfectly matches director [Yorgos Lanthimos](https://www.mzed.com/courses/asc-clubhouse-conversations/modules/848?tap_a=17272-420962&tap_s=4677954-164a45) and, in fact, the whole cast and crew of this bizarre and wonderful film. After watching it, my first question was: How on Earth do you create such an imaginative, playful world, chaotic and concise at the same time? [In the ASC clubhouse conversation](https://vimeo.com/897123534), cinematographer [Robbie Ryan](https://www.imdb.com/name/nm0752811/?ref_=nv_sr_srsg_0_tt_1_nm_7_q_Robbie%2520Ryan) takes us behind the scenes of "Poor Things", shares insights into this collaboration, and talks about the cinematographic rules they had (or maybe lack thereof).

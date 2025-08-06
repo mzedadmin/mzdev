@@ -1,12 +1,11 @@
 ---
-
-date: '2023-02-23'
-image: /assets/images/posts/choosing-timelapse-interval-hero.jpg
+title: Choosing the Right Timelapse Interval
+date: 2023-02-23 00:00:00 Z
+image: "/assets/images/posts/choosing-timelapse-interval-hero.jpg"
 layout: post
 meta_description: Clouds, cars, people, events - they all have the perfect timelapse
   interval
 subtitle: Clouds, cars, people, events - they all have the perfect timelapse interval
-title: Choosing the Right Timelapse Interval
 ---
 
 If photography and video had a child, it would be a timelapse. You get the best of both worlds: framing up an amazing photo, and then creating a moving visual feast out of a few thousand of those photos. But there are some important technical details that are necessary for getting a great timelapse, and one of them is choosing the timelapse interval setting.

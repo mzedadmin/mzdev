@@ -1,13 +1,12 @@
 ---
-
-date: '2022-03-30'
-image: /assets/images/posts/working-with-film-budgets-hero.jpg
+title: Working with different film budgets
+date: 2022-03-30 00:00:00 Z
+image: "/assets/images/posts/working-with-film-budgets-hero.jpg"
 layout: post
 meta_description: Every indie film is different, but here are some guidelines to help
   you get started
 subtitle: Every indie film is different, but here are some guidelines to help you
   get started
-title: Working with different film budgets
 ---
 
 When you set out to make your indie film, at some point you'll have to come to terms with your budget. The amount of money you have to spend on your film determines your shoot days, your locations, and most importantly, your cast and crew.

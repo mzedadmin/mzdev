@@ -1,10 +1,12 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/scene-to-screen-hero.jpg
-layout: post
-meta_description: Professional cinematographer and educator Tal Lazar dives deep into the prime components of a great visual story and shares some tips.
-subtitle: Professional cinematographer and educator Tal Lazar dives deep into the prime components of a great visual story and shares some tips.
 title: From Scene to Screen – Where the Journey to a Great Visual Story Begins
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/scene-to-screen-hero.jpg"
+layout: post
+meta_description: Professional cinematographer and educator Tal Lazar dives deep into
+  the prime components of a great visual story and shares some tips.
+subtitle: Professional cinematographer and educator Tal Lazar dives deep into the
+  prime components of a great visual story and shares some tips.
 ---
 
 As filmmakers, we often encounter unexpected trouble. Sudden rain ruins a romantic sunset scene, the main actor gets stuck in traffic, and a peaceful meadow you scouted last week happens to be occupied by cows. Sounds familiar? Then you know what happens next: the thoroughly constructed shot list flies into the garbage. However, if the director truly knows what the story and scene's purpose are, everything's good. You'll always figure out another way of communicating what you intend to. In his latest workshop ["From Scene to Screen" on MZed.com](https://www.mzed.com/courses/from-scene-to-screen?tap_a=17272-420962&tap_s=4844991-d617b5), professional cinematographer and educator Tal Lazar shows us where the journey to a great visual story begins. He dives deep into the prime components and shares some tips on practicing visual storytelling on your own.

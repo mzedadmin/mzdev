@@ -1,11 +1,10 @@
 ---
-
-date: '2023-11-17'
-image: /assets/images/posts/preparing-for-travel-documentary-hero.jpg
+title: Preparing for a Travel Documentary
+date: 2023-11-17 00:00:00 Z
+image: "/assets/images/posts/preparing-for-travel-documentary-hero.jpg"
 layout: post
 meta_description: Tips to ensure your  trip and production go smoothly
 subtitle: Tips to ensure your  trip and production go smoothly
-title: Preparing for a Travel Documentary
 ---
 
 ![Dos and Don't When Preparing for a Travel Documentary](/assets/images/posts/preparing-for-travel-documentary-hero.jpg)

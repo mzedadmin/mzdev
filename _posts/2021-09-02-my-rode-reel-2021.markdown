@@ -1,12 +1,12 @@
 ---
-date: '2021-09-02'
-image: /assets/images/posts/my-rode-reel-2021-hero.jpg
+title: My RØDE Reel 2021 and the TikTok Challenge
+date: 2021-09-02 00:00:00 Z
+image: "/assets/images/posts/my-rode-reel-2021-hero.jpg"
 layout: post
 meta_description: The world's biggest film festival is back with more prizes and a
   TikTok contest
 subtitle: The world's biggest film festival is back with more prizes and a TikTok
   contest
-title: My RØDE Reel 2021 and the TikTok Challenge
 ---
 
 RØDE's annual short film competition **My R ØDE Reel **is back with a whopping $250,000 cash prize for the winner, as well as a new TikTok category.

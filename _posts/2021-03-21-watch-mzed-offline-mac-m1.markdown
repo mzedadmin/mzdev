@@ -1,10 +1,10 @@
 ---
-date: '2021-03-21'
-image: null
+title: How to Download and Watch MZed Courses Offline on Apple M1 Macs
+date: 2021-03-21 00:00:00 Z
+image: 
 layout: post
 meta_description: You can now Sideload the MZed App on your Macbook or Mac Mini
 subtitle: You can now Sideload the MZed App on your Macbook or Mac Mini
-title: How to Download and Watch MZed Courses Offline on Apple M1 Macs
 ---
 
 We have some great news if you're using one of the newer M1 Macs - you can now download and watch MZed courses offline by sideloading the MZed iOS app onto your computer. If you have a Macbook Air, Pro, or Mac Mini with the M1 chip, you're in luck!

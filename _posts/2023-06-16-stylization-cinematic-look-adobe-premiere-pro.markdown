@@ -1,11 +1,10 @@
 ---
-
-date: '2023-06-16'
-image: /assets/images/posts/stylization-cinematic-look-adobe-premiere-pro-hero.jpg
+title: Stylization in Adobe Premiere Pro
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/stylization-cinematic-look-adobe-premiere-pro-hero.jpg"
 layout: post
 meta_description: Quick tips on creating cinematic looks
 subtitle: Quick tips on creating cinematic looks
-title: Stylization in Adobe Premiere Pro
 ---
 
 Everyone has their dream shooting conditions. With preferred camera systems, lighting experts on set, extensive scene breakdowns, and perfectly-planned use of sun outdoors – this list can go on forever. Except, the reality is not always that poetic. Sometimes you don't have the time, budget, or even the need for so much effort (when you film a daily YouTube vlog, for example). However, it shouldn't stop you from creating an atmospheric video if you want to. In his MZed-course, Senior Editor Digby Hogan shares a few simple and quick tricks for achieving a cinematic look in Premiere Pro, regardless of your source footage quality. Let's take a look at some of them together!

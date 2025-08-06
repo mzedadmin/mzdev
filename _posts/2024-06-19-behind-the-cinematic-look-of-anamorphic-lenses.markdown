@@ -1,10 +1,11 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/behind-the-cinematic-look-of-anamorphic-lenses-hero.jpg
-layout: post
-meta_description: Tito Ferradans explains anamorphic vs spherical lenses, the technology behind the cinematic look, and why shooting scope creates magic.
-subtitle: A Short Guide for Beginners
 title: Behind the Cinematic Look of Anamorphic Lenses – A Short Guide for Beginners
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/behind-the-cinematic-look-of-anamorphic-lenses-hero.jpg"
+layout: post
+meta_description: Tito Ferradans explains anamorphic vs spherical lenses, the technology
+  behind the cinematic look, and why shooting scope creates magic.
+subtitle: A Short Guide for Beginners
 ---
 
 ![Behind the Cinematic Look of Anamorphic Lenses – A Short Guide for Beginners](/assets/images/posts/behind-the-cinematic-look-of-anamorphic-lenses-hero.jpg)

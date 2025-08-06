@@ -1,11 +1,11 @@
 ---
-date: '2020-02-12'
-image: null
+title: Filmmaking for Photographers Giveaway
+date: 2020-02-12 00:00:00 Z
+image: 
 layout: post
 meta_description: Watch a free lesson and enter to win $3,000 worth of filmmaking
   prizes!
 subtitle: Watch a free lesson and enter to win $3,000 worth of filmmaking prizes!
-title: Filmmaking for Photographers Giveaway
 ---
 
 To celebrate the release of [Philip Bloom's _Filmmaking for Photographers_ course](https://www.mzed.com/courses/filmmaking-for-photographers), we're hosting a month-long giveaway! In addition to the filmmaking gear prizes listed below, we're also giving away free access to one of the lessons in the course, a one hour primer on camera movement. All the info on how to enter (and gain bonus entries) is below.

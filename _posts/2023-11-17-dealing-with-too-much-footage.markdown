@@ -1,12 +1,10 @@
 ---
-
-
-date: '2023-11-17'
-image: /assets/images/posts/dealing-with-too-much-footage-hero.jpg
+title: How to Deal with Too Much Footage
+date: 2023-11-17 00:00:00 Z
+image: "/assets/images/posts/dealing-with-too-much-footage-hero.jpg"
 layout: post
 meta_description: Tips from an Oscar-winning Film Editor
 subtitle: Tips from an Oscar-winning Film Editor
-title: How to Deal with Too Much Footage
 ---
 
 ![Efficient Editing – How to Make a Decent Clip Selection from Too Much Footage](/assets/images/posts/dealing-with-too-much-footage-hero.jpg)

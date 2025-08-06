@@ -1,12 +1,10 @@
 ---
-
-
-date: '2025-01-10'
-image: /assets/images/posts/creative-ways-to-use-overhead-shots-hero.jpg
+title: Creative Ways to Use Overhead Shots
+date: 2025-01-10 00:00:00 Z
+image: "/assets/images/posts/creative-ways-to-use-overhead-shots-hero.jpg"
 layout: post
 meta_description: They're more than just gear flatlays
 subtitle: They're more than just gear flatlays
-title: Creative Ways to Use Overhead Shots
 ---
 
 Wouldn't it be great if we could always take a look from above and observe our situation from a different perspective? In films, this is possible – namely, with overhead shots, also known as top angle shots, top shots, top-down, bird's eye view, or god's eye view. They are not easy to execute but oh-so-powerful in framing the story. This camera perspective has been around for a long while, yet filmmakers still find creative ways to use it. (If you watched the meticulously choreographed opening shot of the recent film "The Substance" that made a lot of noise, then you know what I mean). Let's analyze some of the incredible overhead shots together – from the prominent to the newest ones – and find out how they enhance visual storytelling.

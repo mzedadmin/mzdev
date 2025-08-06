@@ -1,10 +1,10 @@
 ---
-date: '2022-05-12'
-image: /assets/images/posts/new-learn-everything-in-premiere-pro-course-hero.jpg
+title: Learn EVERYTHING in Premiere Pro - New 25-Hour Long Course
+date: 2022-05-12 00:00:00 Z
+image: "/assets/images/posts/new-learn-everything-in-premiere-pro-course-hero.jpg"
 layout: post
 meta_description: You won't find a better Adobe Premiere Pro course anywhere else
 subtitle: You won't find a better Adobe Premiere Pro course anywhere else
-title: Learn EVERYTHING in Premiere Pro - New 25-Hour Long Course
 ---
 
 Offering over 100 individual lessons across 13 sections, you won't find better Adobe Premiere Pro training anywhere else. Senior Editor Digby Hogan will show you everything you need to know and support you along the way in understanding every aspect of Adobe Premiere Pro. 

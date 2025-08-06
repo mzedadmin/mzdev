@@ -1,12 +1,12 @@
 ---
-date: '2021-01-20'
-image: /assets/images/posts/new-course-arri-lighting-hero.jpg
+title: New Course on ARRI Lighting Systems
+date: 2021-01-20 00:00:00 Z
+image: "/assets/images/posts/new-course-arri-lighting-hero.jpg"
 layout: post
 meta_description: Learn to control digital lighting using DMX, RDM, Wireless controls,
   and ethernet networks.
 subtitle: Learn to control digital lighting using DMX, RDM, Wireless controls, and
   ethernet networks.
-title: New Course on ARRI Lighting Systems
 ---
 
 ARRI Academy has released a new course today, _**[ARRI Lighting Systems Control](https://www.mzed.com/courses/arri-lighting-systems-control)**_. If you've ever wanted to improve your knowledge and proficiency with digital lighting, this course is for you. 

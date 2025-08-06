@@ -1,10 +1,12 @@
 ---
-date: '2024-06-19'
-image: /assets/images/posts/shutter-speed-101-hero.jpg
-layout: post
-meta_description: Shutter speed is not only a camera setting you set and forget. Here we talk all about the rules and how to break them for the story.
-subtitle: Shutter speed is not only a camera setting you set and forget. Here we talk all about the rules and how to break them for the story.
 title: Shutter Speed 101
+date: 2024-06-19 00:00:00 Z
+image: "/assets/images/posts/shutter-speed-101-hero.jpg"
+layout: post
+meta_description: Shutter speed is not only a camera setting you set and forget. Here
+  we talk all about the rules and how to break them for the story.
+subtitle: Shutter speed is not only a camera setting you set and forget. Here we talk
+  all about the rules and how to break them for the story.
 ---
 
 Welcome to our new episode of the visual storytelling series! But wait – the title suggests that we're going to only talk about the shutter speed – the camera setting you normally calculate using a simple formula and then set up and forget? Oh yes, that's right! We will take a detailed look at shutter speed conventions and how they work, but not only that. Also on the program today: Various film examples that break these rules for the sake of the story.

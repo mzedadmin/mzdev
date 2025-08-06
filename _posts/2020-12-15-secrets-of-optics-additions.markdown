@@ -1,11 +1,11 @@
 ---
-date: '2020-12-15'
-image: /assets/images/posts/secrets-of-optics-additions-hero.jpg
+title: New Additions to The Secrets of Optics Course
+date: 2020-12-15 00:00:00 Z
+image: "/assets/images/posts/secrets-of-optics-additions-hero.jpg"
 layout: post
 meta_description: Recently shot lens examples and demonstrations make this course
   even better.
 subtitle: Recently shot lens examples and demonstrations make this course even better.
-title: New Additions to The Secrets of Optics Course
 ---
 
 If you want to learn about lenses inside and out, [The Secrets of Optics](https://www.mzed.com/courses/the-secrets-of-optics) is a popular course that touches on a wide variety of optics-related topics. Instructor [Mitch Gross](https://www.mzed.com/educators/mitch-gross), in partnership with [AbelCine](https://www.abelcine.com/), provides an easy-to-follow primer on the history of lenses, the difference between cinema and photo lenses, sensors and lens mounts, specialty lenses, and much more.

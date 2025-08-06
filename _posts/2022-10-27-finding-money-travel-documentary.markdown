@@ -1,13 +1,12 @@
 ---
-
-date: '2022-10-27'
-image: /assets/images/posts/finding-money-travel-documentary-hero.jpg
+title: How to fund your travel documentary
+date: 2022-10-27 00:00:00 Z
+image: "/assets/images/posts/finding-money-travel-documentary-hero.jpg"
 layout: post
 meta_description: Finding the money is not easy, but it's essential to making a career
   from adventure filmmaking
 subtitle: Finding the money is not easy, but it's essential to making a career from
   adventure filmmaking
-title: How to fund your travel documentary
 ---
 
 If you're simply looking to go on an adventure and film yourself or a friend, then there's not much stopping you to get on the road and go for it. But if you want to create something bigger, like a feature-length documentary, or a series, then you'll need to explore ways of funding your documentary.

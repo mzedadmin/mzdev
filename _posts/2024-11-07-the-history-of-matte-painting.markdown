@@ -1,11 +1,10 @@
 ---
-
-date: '2024-11-07'
-image: /assets/images/posts/the-history-of-matte-painting-hero.jpg
+title: The History of Matte Painting
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/the-history-of-matte-painting-hero.jpg"
 layout: post
 meta_description: Explore the evolution of matte painting in film
 subtitle: Explore the evolution of matte painting in film
-title: The History of Matte Painting
 ---
 
 Do you know the feeling of when you stand on a partially dressed set, look at the monitor, and witness how film magic transforms the space around you? Amazing, right? However, I believe the effect is even more impressive when a painted glass with breathtaking or impossible scenery is placed in front of the camera. Are you familiar with the technique I'm referring to? Yes, as the title suggests, today we'll delve into the world of matte painting, exploring its history and evolution in filmmaking.

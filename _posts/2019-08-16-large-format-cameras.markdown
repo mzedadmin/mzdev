@@ -1,13 +1,12 @@
 ---
-
-date: '2019-08-16'
-image: /assets/images/posts/large-format-cameras-hero.jpg
+title: Telling Intimate Stories with Large Format ARRI Cameras
+date: 2019-08-16 00:00:00 Z
+image: "/assets/images/posts/large-format-cameras-hero.jpg"
 layout: post
 meta_description: Moonlight’s James Laxton ASC illustrates why a large format ARRI
   camera is not just for action films.
 subtitle: Moonlight’s James Laxton ASC illustrates why a large format ARRI camera
   is not just for action films.
-title: Telling Intimate Stories with Large Format ARRI Cameras
 ---
 
 As he begins his ARRI Academy masterclass, [James Laxton ASC](https://en.wikipedia.org/wiki/James_Laxton) summarizes his views on large format cameras by stating his guiding cinematography principle: make choices based on the context of the story. You want to match the tool to the story.

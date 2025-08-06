@@ -1,12 +1,10 @@
 ---
-
-
-date: '2023-06-16'
-image: /assets/images/posts/cleaning-lenses-arri-guide-hero.jpg
+title: Step by Step Instructions for Cleaning Lenses
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/cleaning-lenses-arri-guide-hero.jpg"
 layout: post
 meta_description: ARRI experts show you to clean your lenses properly
 subtitle: ARRI experts show you to clean your lenses properly
-title: Step by Step Instructions for Cleaning Lenses
 ---
 
 **Every piece of camera gear needs constant love and care. Lenses are no exception, and I bet, at this moment, you are asking yourself whether there is anything new about cleaning a lens. Well, let the industry experts from [ARRI](https://www.arri.com/en) surprise you. In the [Tech Talk, available on MZed.com](https://www.mzed.com/courses/arri-tech-talk/modules/5), they provide step-by-step instructions on how to clean your lenses properly. We share this quick rundown here, and even if the topic sounds obvious, give it a try! You're in for a treat.**

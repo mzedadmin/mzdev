@@ -1,12 +1,12 @@
 ---
-date: '2019-07-16'
-image: /assets/images/posts/davinci-resolve-video-editing-software-hero.jpg
+title: Why Starting with DaVinci Resolve Makes Sense
+date: 2019-07-16 00:00:00 Z
+image: "/assets/images/posts/davinci-resolve-video-editing-software-hero.jpg"
 layout: post
 meta_description: It might be wise to start your video editing journey with DaVinci
   Resolve. Here's why.
 subtitle: It might be wise to start your video editing journey with DaVinci Resolve.
   Here's why.
-title: Why Starting with DaVinci Resolve Makes Sense
 ---
 
 It's extremely difficult to convince a proficient editor to switch software. After all, a familiar NLE becomes sort of like an extension of your hands and brain. And if there isn't an economical reason to switch - like a client or workplace requirement - then taking on a new program is purely a personal choice to keep growing, learning, and expanding skill sets.

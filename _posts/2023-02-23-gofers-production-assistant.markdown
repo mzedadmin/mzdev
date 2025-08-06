@@ -1,13 +1,12 @@
 ---
-
-date: '2023-02-23'
-image: /assets/images/posts/gofers-production-assistant-hero.jpg
+title: How to Become a Production Assistant
+date: 2023-02-23 00:00:00 Z
+image: "/assets/images/posts/gofers-production-assistant-hero.jpg"
 layout: post
 meta_description: A new book entitled "Gofers" provides insight into this crucial
   film industry role
 subtitle: A new book entitled "Gofers" provides insight into this crucial film industry
   role
-title: How to Become a Production Assistant
 ---
 
 There are endless books about directing movies, but it's rare to see a dedicated guide for film crews. "[Gofers: On the Front Lines of Film and Television](https://www.passingplanes.com/book)" is a new book that is entirely focused on the production assistant role in the film industry. And because of how specific it is, every line in the book becomes precious advice for any up and coming PA.

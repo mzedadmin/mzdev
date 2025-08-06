@@ -1,10 +1,10 @@
 ---
-date: '2021-01-13'
-image: /assets/images/posts/im-an-mzed-pro-winner-hero.jpg
+title: Winner of the I’m an MZed Pro Contest
+date: 2021-01-13 00:00:00 Z
+image: "/assets/images/posts/im-an-mzed-pro-winner-hero.jpg"
 layout: post
 meta_description: We're floored by all of the video submissions from MZed Pro members.
 subtitle: We're floored by all of the video submissions from MZed Pro members.
-title: Winner of the I’m an MZed Pro Contest
 ---
 
 Our very first film competition was a huge success and it's all thanks to our amazing MZed Pro members. We loved seeing and hearing your stories, about how you discovered filmmaking, how you learn and continuously improve your craft, and how MZed has helped you along that journey.

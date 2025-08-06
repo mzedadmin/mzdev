@@ -1,12 +1,12 @@
 ---
-date: '2019-07-31'
-image: /assets/images/posts/arri-academy-comes-to-mzed-hero.jpg
+title: ARRI Academy comes to MZed
+date: 2019-07-31 00:00:00 Z
+image: "/assets/images/posts/arri-academy-comes-to-mzed-hero.jpg"
 layout: post
 meta_description: ARRI’s official online training courses will now be available exclusively
   on MZed.
 subtitle: ARRI’s official online training courses will now be available exclusively
   on MZed.
-title: ARRI Academy comes to MZed
 ---
 
 For many filmmakers, ARRI cameras can be intimidating. They are the best of the best, used to capture the largest scale movies and commercials. In fact, ARRI cameras were used on[ _every single film_](https://www.premiumbeat.com/blog/cameras-lenses-2019-oscar-nominations/) that received a nomination for either Best Motion Picture or Best Cinematography in the 2019 Academy Awards. 

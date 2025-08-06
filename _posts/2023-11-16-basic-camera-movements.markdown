@@ -1,13 +1,11 @@
 ---
-
-
-date: '2023-11-16'
-image: /assets/images/posts/basic-camera-movements-hero.jpg
+title: Camera Movement Essentials
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/basic-camera-movements-hero.jpg"
 layout: post
 meta_description: Learn how even simple camera moves like pans and tilts are used
   by the masters
 subtitle: Learn how even simple camera moves like pans and tilts are used by the masters
-title: Camera Movement Essentials
 ---
 
 ![What Stories Does Camera Motion Tell? – Basic Movements with Film Examples](/assets/images/posts/basic-camera-movements-hero.jpg)

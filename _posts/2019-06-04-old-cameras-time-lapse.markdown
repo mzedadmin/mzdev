@@ -1,11 +1,10 @@
 ---
-
-date: '2019-06-04'
-image: /assets/images/posts/old-cameras-time-lapse-hero.jpg
+title: Old Photo Cameras are Perfect for Video Time Lapse
+date: 2019-06-04 00:00:00 Z
+image: "/assets/images/posts/old-cameras-time-lapse-hero.jpg"
 layout: post
 meta_description: Are your old cameras gathering dust? Use them as time lapse workhorses.
 subtitle: Are your old cameras gathering dust? Use them as time lapse workhorses.
-title: Old Photo Cameras are Perfect for Video Time Lapse
 ---
 
 Throughout your journey as a filmmaker, you might end up with still camera bodies that don't get much use anymore. But instead of selling or disposing of them, consider repurposing these cameras as dedicated timelapse cameras. 

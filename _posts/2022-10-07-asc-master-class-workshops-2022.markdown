@@ -1,13 +1,12 @@
 ---
-
-date: '2022-10-07'
-image: /assets/images/posts/asc-master-class-workshops-2022-hero.jpg
+title: Looking ahead to ASC Master Classes
+date: 2022-10-07 00:00:00 Z
+image: "/assets/images/posts/asc-master-class-workshops-2022-hero.jpg"
 layout: post
 meta_description: The American Society of Cinematographers is back with their world-renown
   in-person workshops
 subtitle: The American Society of Cinematographers is back with their world-renown
   in-person workshops
-title: Looking ahead to ASC Master Classes
 ---
 
 The ASC (The American Society of Cinematographers) has been putting on its [in-person master class courses](https://theasc.com/asc/education/master-class) for a long time now. In fact, part of its core mission is to provide continuous learning opportunities for both its members and the greater filmmaking community. On top of the education, participants are able to network and brush shoulders with some of the greatest cinematographers in filmmaking history.

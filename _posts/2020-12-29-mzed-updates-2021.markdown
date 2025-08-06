@@ -1,10 +1,10 @@
 ---
-date: '2020-12-29'
-image: /assets/images/posts/mzed-updates-2021-hero.jpg
+title: Important Updates to MZed Pro
+date: 2020-12-29 00:00:00 Z
+image: "/assets/images/posts/mzed-updates-2021-hero.jpg"
 layout: post
 meta_description: MZed Pro members will now have access to every course, period.
 subtitle: MZed Pro members will now have access to every course, period.
-title: Important Updates to MZed Pro
 ---
 
 Today as we start the new year we're also announcing some fresh updates to the MZed Pro membership.

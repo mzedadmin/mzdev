@@ -1,12 +1,12 @@
 ---
-date: '2022-07-28'
-image: /assets/images/posts/arri-tech-talk-on-mzed-hero.jpg
+title: ARRI Tech Talk Live – Now on MZed
+date: 2022-07-28 00:00:00 Z
+image: "/assets/images/posts/arri-tech-talk-on-mzed-hero.jpg"
 layout: post
 meta_description: Stream the ARRI Tech Talk Live videos or download and watch them
   offline with the iOS app.
 subtitle: Stream the ARRI Tech Talk Live videos or download and watch them offline
   with the iOS app.
-title: ARRI Tech Talk Live – Now on MZed
 ---
 
 If you're into serious filmmaking, you're probably already familiar with the ARRI Tech Talk Live video series over on [YouTube](https://www.youtube.com/playlist?list=PLqORVKxCwMdOvODn1XN2YkwlEpyntpRyG), right? Now [this series is getting a second home at MZed](https://www.mzed.com/courses/arri-tech-talk), where all videos are of course also free to watch.

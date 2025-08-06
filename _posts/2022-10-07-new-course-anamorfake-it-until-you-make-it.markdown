@@ -1,12 +1,12 @@
 ---
-date: '2022-10-07'
-image: null
+title: 'New Course: Anamorfake It Until You Make It'
+date: 2022-10-07 00:00:00 Z
+image: 
 layout: post
 meta_description: Learn how to simulate the anamorphic look using affordable lens
   mods and editing techniques.
 subtitle: Learn how to simulate the anamorphic look using affordable lens mods and
   editing techniques.
-title: 'New Course: Anamorfake It Until You Make It'
 ---
 
 If you can't justify the cost of anamorphic lenses or adapters, but you still want to play around with the anamorphic look, you're in luck. Anamorphic extraordinaire [Tito Ferradans](https://www.cined.com/how-to-use-anamorphic-lenses-an-interview-with-tito-ferradans/) is back with another video series - along with an ebook guide - and this time it's all about "faking" the anamorphic look without breaking the bank.

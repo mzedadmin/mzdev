@@ -1,10 +1,10 @@
 ---
-date: '2025-01-10'
-image: /assets/images/posts/how-to-shoot-mirror-scenes-hero.jpg
+title: How to Shoot Mirror Scenes
+date: 2025-01-10 00:00:00 Z
+image: "/assets/images/posts/how-to-shoot-mirror-scenes-hero.jpg"
 layout: post
 meta_description: Mirrors can be tricky to avoid filming yourself - here's some tips
 subtitle: Mirrors can be tricky to avoid filming yourself - here's some tips
-title: How to Shoot Mirror Scenes
 ---
 
 Mirror, mirror on the wall… Mirrors are an impressive tool in cinematography. Not only do they have the potential for creating fascinating shot compositions and [ambiguous space](https://www.cined.com/types-of-space-in-film-explained-crafting-depth-in-your-cinematic-story/), but they can add another layer to your story through the character's reflection. Reflections themselves pose a big issue, though. Namely, how do you hide your camera and crew? Choosing the right angle is surely a way to do it, but what if you are after rather tricky shots with mirrors? Let's take a look at some examples and ways to execute them!

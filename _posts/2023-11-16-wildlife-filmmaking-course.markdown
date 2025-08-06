@@ -1,11 +1,11 @@
 ---
-date: '2023-11-16'
-image: /assets/images/posts/wildlife-filmmaking-course-hero.jpg
+title: Wildlife Cinematography Course – New and Exclusive to MZed
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/wildlife-filmmaking-course-hero.jpg"
 layout: post
 meta_description: A wildlife filmmaking workshop was recently held at Jackson Wild
   Summit
 subtitle: A wildlife filmmaking workshop was recently held at Jackson Wild Summit
-title: Wildlife Cinematography Course – New and Exclusive to MZed
 ---
 
 What do you imagine when you hear "wildlife cinematography"? A lonely DP hiding in the bushes for days, hoping to get a close-up shot of a rare animal? A run-and-gun video shoot where the cameras are always rolling and what they capture is left to a lucky chance?

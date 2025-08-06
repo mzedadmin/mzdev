@@ -1,12 +1,10 @@
 ---
-
-
-date: '2023-06-16'
-image: /assets/images/posts/indie-films-distribution-tips-hero.jpg
+title: Indie Film Distribution
+date: 2023-06-16 00:00:00 Z
+image: "/assets/images/posts/indie-films-distribution-tips-hero.jpg"
 layout: post
 meta_description: Here's how to get your indie film seen
 subtitle: Here's how to get your indie film seen
-title: Indie Film Distribution
 ---
 
 ![How to Get Your Indie Film Seen – Key Points of Distribution](/assets/images/posts/indie-films-distribution-tips-hero.jpg)

@@ -1,14 +1,12 @@
 ---
-
-
-date: '2023-11-16'
-image: /assets/images/posts/lighting-for-livestream-hero.jpg
+title: How to Light for Livestream
+date: 2023-11-16 00:00:00 Z
+image: "/assets/images/posts/lighting-for-livestream-hero.jpg"
 layout: post
 meta_description: Zoom, Teams, Google Meet - ARRI shows you how to look your best
   for video calls
 subtitle: Zoom, Teams, Google Meet - ARRI shows you how to look your best for video
   calls
-title: How to Light for Livestream
 ---
 
 ![How to Light Faces for Livestream? – Quick Tips from ARRI Specialists](/assets/images/posts/lighting-for-livestream-hero.jpg)

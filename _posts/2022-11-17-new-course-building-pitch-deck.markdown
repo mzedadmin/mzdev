@@ -1,12 +1,12 @@
 ---
-date: '2022-11-17'
-image: /assets/images/posts/new-course-building-pitch-deck-hero.jpg
+title: 'New Course: Building a Pitch Deck'
+date: 2022-11-17 00:00:00 Z
+image: "/assets/images/posts/new-course-building-pitch-deck-hero.jpg"
 layout: post
 meta_description: If you want to grab a producer or funder's attention, you need a
   memorable pitch deck.
 subtitle: If you want to grab a producer or funder's attention, you need a memorable
   pitch deck.
-title: 'New Course: Building a Pitch Deck'
 ---
 
 When you're ready to pitch your project to a producer or funder, you often only have seconds to grab their attention. A visually rich film pitch deck can make or break your chances of hearing back. 

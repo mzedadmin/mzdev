@@ -1,11 +1,10 @@
 ---
-
-date: '2024-11-07'
-image: /assets/images/posts/wide-angle-close-ups-and-emotional-impact-hero.jpg
+title: Wide-angle Close-ups and Emotional Impact
+date: 2024-11-07 00:00:00 Z
+image: "/assets/images/posts/wide-angle-close-ups-and-emotional-impact-hero.jpg"
 layout: post
 meta_description: Portraying character emotions through wide angle close ups
 subtitle: Portraying character emotions through wide angle close ups
-title: Wide-angle Close-ups and Emotional Impact
 ---
 
 When we show our characters up close, most likely we're interested in the emotions they express or are going through at that particular moment. But what if we portray them through a wide lens? How will it affect the overall impact of the shot? What emotions can it convey? And why do wide-angle close-ups always feel so expressive? Let's figure it out together!

@@ -1,11 +1,10 @@
 ---
-
-date: '2023-07-14'
-image: /assets/images/posts/impact-headroom-storytelling-hero.jpg
+title: The Impact of Headroom in Visual Storytelling
+date: 2023-07-14 00:00:00 Z
+image: "/assets/images/posts/impact-headroom-storytelling-hero.jpg"
 layout: post
 meta_description: Imbalance is a strong tool when composing a shot
 subtitle: Imbalance is a strong tool when composing a shot
-title: The Impact of Headroom in Visual Storytelling
 ---
 
 ![The Art of Imbalance – Exploring the Impact of Headroom in Storytelling](/assets/images/posts/impact-headroom-storytelling-hero.jpg)

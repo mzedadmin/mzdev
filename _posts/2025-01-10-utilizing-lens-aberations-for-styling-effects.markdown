@@ -1,11 +1,10 @@
 ---
-
-date: '2025-01-10'
-image: /assets/images/posts/utilizing-lens-aberations-for-styling-effects-hero.jpg
+title: Utilizing Lens Aberations for Styling Effects
+date: 2025-01-10 00:00:00 Z
+image: "/assets/images/posts/utilizing-lens-aberations-for-styling-effects-hero.jpg"
 layout: post
 meta_description: It's a feature, not a bug
 subtitle: It's a feature, not a bug
-title: Utilizing Lens Aberations for Styling Effects
 ---
 
 Christmas is around the corner, and you might or might not be looking for interesting lenses to give to your favorite cinematographer as a present (including yourself, of course). Maybe even vintage ones because, as we often hear, they have character. What gives a lens personality, though? Seasoned cinematographer and educator Tal Lazar answers: its flaws. In his MZed course "The Art & Science of Lenses," he revisits all common lens aberrations, explains why they appear, and demonstrates how they influence the image. Let's take a glimpse!

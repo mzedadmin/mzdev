@@ -1,12 +1,12 @@
 ---
-date: '2021-10-13'
-image: /assets/images/posts/mzed-joins-cined-hero.jpg
+title: MZed Joins CineD
+date: 2021-10-13 00:00:00 Z
+image: "/assets/images/posts/mzed-joins-cined-hero.jpg"
 layout: post
 meta_description: Together, we can provide you even more tools to help you on your
   filmmaking journey.
 subtitle: Together, we can provide you even more tools to help you on your filmmaking
   journey.
-title: MZed Joins CineD
 ---
 
 MZed is incredibly proud to announce that we are joining **[CineD](https://www.cined.com)** , the leader in digital filmmaking technology news and reviews.

@@ -1,11 +1,10 @@
 ---
-
-date: '2023-03-31'
-image: /assets/images/posts/tips-write-short-film-hero.jpg
+title: Writing a Short Film in Your Own Voice
+date: 2023-03-31 00:00:00 Z
+image: "/assets/images/posts/tips-write-short-film-hero.jpg"
 layout: post
 meta_description: Seth Worley provides tips on how to write a unique short film
 subtitle: Seth Worley provides tips on how to write a unique short film
-title: Writing a Short Film in Your Own Voice
 ---
 
 ![How to Write a Compelling Story for a Short Film – Tips for Aspiring Filmmakers](/assets/images/posts/short-film-writing-hero.jpg)

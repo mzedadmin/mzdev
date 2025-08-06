@@ -1,12 +1,12 @@
 ---
-date: '2019-12-16'
-image: /assets/images/posts/what-does-hdr-mean-hero.jpg
+title: What does HDR mean?
+date: 2019-12-16 00:00:00 Z
+image: "/assets/images/posts/what-does-hdr-mean-hero.jpg"
 layout: post
 meta_description: High Dynamic Range is taking over filmmaking, monitoring, viewing,
   and projection, but what actually is HDR?
 subtitle: High Dynamic Range is taking over filmmaking, monitoring, viewing, and projection,
   but what actually is HDR?
-title: What does HDR mean?
 ---
 
 HDR, or High Dynamic Range, is a term we hear a lot in filmmaking these days. From TVs to external monitors, to camera specs and editing software, HDR is a growing area of interest. But if you haven't had an opportunity to dive into HDR, how do you learn what it is and where to begin?

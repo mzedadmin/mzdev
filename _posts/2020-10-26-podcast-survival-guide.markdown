@@ -1,11 +1,11 @@
 ---
-date: '2020-10-26'
-image: null
+title: Podcaster Survival Guide now part of Cinema Sound
+date: 2020-10-26 00:00:00 Z
+image: 
 layout: post
 meta_description: Learn everything you need to know as a podcast producer with these
   new lessons.
 subtitle: Learn everything you need to know as a podcast producer with these new lessons.
-title: Podcaster Survival Guide now part of Cinema Sound
 ---
 
 [Cinema Sound](https://www.mzed.com/courses/cinema-sound) is already the most thorough course on audio production, with over 86 hours of hands-on tutorials, but now there is a new addition to the course that makes it even more essential viewing for students of audio production.

@@ -1,12 +1,12 @@
 ---
-date: '2020-12-25'
-image: /assets/images/posts/advanced-editing-davinci-resolve-hero.jpg
+title: 'New Course: Advanced Editing with DaVinci Resolve'
+date: 2020-12-25 00:00:00 Z
+image: "/assets/images/posts/advanced-editing-davinci-resolve-hero.jpg"
 layout: post
 meta_description: Ollie Kenchington guides you through editing a documentary, commercial
   promo, multicam music video, and more.
 subtitle: Ollie Kenchington guides you through editing a documentary, commercial promo,
   multicam music video, and more.
-title: 'New Course: Advanced Editing with DaVinci Resolve'
 ---
 
 Ollie Kenchington is back with another DaVinci Resolve course, but this time it's geared toward advanced editing techniques. If you've already gone through the [Definitive Guide to DaVinci Resolve](https://www.mzed.com/courses/the-definitive-guide-to-davinci-resolve), then this new course is a perfect next step.
