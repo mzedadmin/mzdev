@@ -86,7 +86,7 @@ courses:
     sale: 187
   high-dynamic-range-with-karl-walter-lindenlaub-asc:
     regular: 0
-    sale: null
+    sale: 
   arri-christmas-master-class-with-julio-macat-asc:
     regular: 199
     sale: 179
