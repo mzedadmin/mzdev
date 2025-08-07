@@ -121,6 +121,7 @@ Course Page:
       foundation for picking the right lighting unit for a task. \n\nWe finish with
       reviewing safety procedures needed to work on location."
 course_purchase: true
+sku: MZLL
 layout: course
 ---
 

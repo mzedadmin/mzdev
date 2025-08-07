@@ -135,6 +135,7 @@ Course Page:
       how to approach pitching your screenplay or ideas whether it's to friends or
       in a business context.
 course_purchase: true
+sku: MZW201
 layout: course
 ---
 

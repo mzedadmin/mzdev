@@ -125,6 +125,7 @@ Course Page:
       these concepts in action. This module also touches on the topic of colors and
       skin tones, exploring how lighting interacts with them.
 course_purchase: true
+sku: MZITL
 layout: course
 ---
 

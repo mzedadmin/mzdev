@@ -188,6 +188,7 @@ Course Page:
       What happens when a problem occurs, such as dropping a lens and how to clean
       a lens without damaging it.
 course_purchase: true
+sku: MZASL
 layout: course
 ---
 

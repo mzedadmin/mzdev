@@ -125,6 +125,7 @@ Course Page:
     Lesson Description: Now that your short film is done, it's important to honestly
       evaluate the outcome and seek honest feedback.
 course_purchase: true
+sku: MZSF101
 layout: course
 ---
 

@@ -107,6 +107,7 @@ Course Page:
       and executive produced a wide variety of award-winning films, documentaries,
       and television productions.
 course_purchase: true
+sku: MZPF
 layout: course
 ---
 

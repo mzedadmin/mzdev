@@ -125,6 +125,7 @@ Course Page:
       Resolve, and finally working with Raw recordings using Canon's "Cinema RAW Development"
       software.
 course_purchase: true
+sku: MZC300MK2
 layout: course
 ---
 

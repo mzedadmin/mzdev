@@ -331,6 +331,28 @@ description: MZed is the leading online education platform for filmmakers and ph
 
 
 <!-- ============================================ -->
+<!--              Recent Articles                 -->
+<!-- ============================================ -->
+
+<section id="recent-articles">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">MZed Blog</span>
+            <h2 class="cs-title">Recent Articles</h2>
+            <p class="cs-text">
+                Stay up to date with the latest filmmaking tips, industry insights, and educational content.
+            </p>
+        </div>
+        <ul class="news-card-group">
+            {% for post in site.posts limit: 4 %}
+                {% include news_card.html post=post %}
+            {% endfor %}
+        </ul>
+        <a href="/news/" class="cs-button-solid">View All Articles</a>
+    </div>
+</section>
+
+<!-- ============================================ -->
 <!--                   Video                      -->
 <!-- ============================================ -->
 

@@ -92,6 +92,7 @@ Course Page:
     Lesson Description: Back at the workshop, the class reviews and discusses footage
       from the second shoot day.
 course_purchase: true
+sku: MZASCWF
 layout: course
 ---
 

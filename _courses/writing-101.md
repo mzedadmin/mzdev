@@ -118,6 +118,7 @@ Course Page:
     Lesson Description: In this bonus module Seth walks through all the resources
       available with the course.
 course_purchase: true
+sku: MZW101
 layout: course
 ---
 

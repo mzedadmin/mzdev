@@ -135,6 +135,7 @@ Course Page:
       color correction and grading is all covered as he shows us how to get the best
       possible results from the footage we've shot.
 course_purchase: true
+sku: MZPBCM
 layout: course
 ---
 

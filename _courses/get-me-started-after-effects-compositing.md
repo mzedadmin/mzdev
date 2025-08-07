@@ -178,6 +178,7 @@ Course Page:
       officially got tools, tricks, and confidence under your belt. Take what you've
       learned and go make something awesome.
 course_purchase: false
+sku: MZGMSAEC
 layout: course
 ---
 

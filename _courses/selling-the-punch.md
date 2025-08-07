@@ -93,6 +93,7 @@ Course Page:
 
       Hear their war stories of when things didn't go well and their safety was at risk. Learn what to say and how to approach a situation when you don't feel safe, so you can secure a long career in the business without fear of mishaps.
 course_purchase: true
+sku: MZSTP
 layout: course
 ---
 

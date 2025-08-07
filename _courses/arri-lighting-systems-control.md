@@ -121,6 +121,7 @@ Course Page:
       and control. You will learn about SkyPanel and L-Series fixtures’ software,
       wireless DMX system SkyLink and a control app for iOS and Android – Stellar.'
 course_purchase: true
+sku: MZARRILSC
 layout: course
 ---
 

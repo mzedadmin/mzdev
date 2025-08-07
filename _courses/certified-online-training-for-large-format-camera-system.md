@@ -119,6 +119,7 @@ Course Page:
       understanding of how to monitor HDR on set using ARRI's large-format camera
       system.
 course_purchase: true
+sku: MZARRICOTLFCS
 layout: course
 ---
 

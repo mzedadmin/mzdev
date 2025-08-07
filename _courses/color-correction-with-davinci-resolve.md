@@ -135,6 +135,7 @@ Course Page:
       your project in a variety of industry-standard formats, including a Digital
       Cinema Package (DCP) for cinema distribution.
 course_purchase: true
+sku: MZCCDR
 layout: course
 ---
 

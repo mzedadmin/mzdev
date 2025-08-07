@@ -739,6 +739,7 @@ Course Page:
       This course is not for the faint-hearted and you have come all this way and
       learnt so much throughout the journey.
 course_purchase: true
+sku: MZLEPP
 layout: course
 ---
 

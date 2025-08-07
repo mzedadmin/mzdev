@@ -116,6 +116,7 @@ Course Page:
       In this final lesson, we see examples from several films and
       hear a discussion from IFI students.
 course_purchase: true
+sku: MZFD
 layout: course
 ---
 

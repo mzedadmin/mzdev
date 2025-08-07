@@ -107,6 +107,7 @@ Course Page:
       the techniques from previous modules on a real client's wedding shoot, allowing
       you to see it come to life before stepping through his post-event workflow.
 course_purchase: true
+sku: MZWTF
 layout: course
 ---
 

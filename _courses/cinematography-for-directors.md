@@ -120,6 +120,7 @@ Course Page:
       What are common conventions, like the rule of thirds and short siding, and how
       are they used in films?
 course_purchase: true
+sku: MZCFD
 layout: course
 ---
 

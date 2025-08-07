@@ -97,6 +97,7 @@ Course Page:
     Lesson Description: In the final module for the course, Ian shows us how to apply
       the LUTs we've created during post-production using Blackmagic DaVinci Resolve.
 course_purchase: true
+sku: MZUL
 layout: course
 ---
 

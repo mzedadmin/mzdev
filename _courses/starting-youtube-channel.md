@@ -167,6 +167,7 @@ Course Page:
       on your YouTube journey. At the end of the day, this is your YouTube channel
       and we're excited to be here to support you!
 course_purchase: true
+sku: MZYT
 layout: course
 ---
 

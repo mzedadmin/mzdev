@@ -144,6 +144,7 @@ Course Page:
       prepared for you to be gone for a while? Do you have all of your notes organized?
       Finally, you're off on your adventure!
 course_purchase: true
+sku: MZAF
 layout: course
 ---
 

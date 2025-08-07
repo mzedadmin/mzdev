@@ -112,6 +112,7 @@ Course Page:
       and captions, and why both matter. You'll also get a clear overview of the various
       subtitle file formats and learn when and where to use each one.
 course_purchase: false
+sku: MZTEFSM
 layout: course
 ---
 

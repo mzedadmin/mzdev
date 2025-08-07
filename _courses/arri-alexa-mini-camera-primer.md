@@ -115,6 +115,7 @@ Course Page:
       of the post-production basics for the Alexa Mini, including how to process ARRIRaw
       footage and how to import LUTs and framelines for the camera.
 course_purchase: true
+sku: MZAAMCP
 layout: course
 ---
 

@@ -104,6 +104,7 @@ Course Page:
       with folks who truly enjoy anamorphic adapters, and why they feel that way!
       A love letter to tinkering, and a masterclass with valuable tips and tricks.
 course_purchase: true
+sku: MZAC2
 layout: course
 ---
 

@@ -126,6 +126,7 @@ Course Page:
       pacing and timing in editing, and working with audio, music and color, as well
       as general tips and tricks to get the best possible results.
 course_purchase: true
+sku: MZFFP
 layout: course
 ---
 

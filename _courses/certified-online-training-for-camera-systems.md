@@ -126,6 +126,7 @@ Course Page:
       a camera sensor. Then we investigate High Dynamic Range (HDR) video and how
       the ARRI cameras are already equipped to take full advantage of these new formats.
 course_purchase: true
+sku: MZARRICOTCS
 layout: course
 ---
 

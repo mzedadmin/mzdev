@@ -114,6 +114,7 @@ Course Page:
       look without using anamorphic glass. Tito and his crew used various modified
       lenses and post-production tricks to create the visuals here.'
 course_purchase: true
+sku: MZANF
 layout: course
 ---
 

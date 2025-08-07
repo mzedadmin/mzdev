@@ -111,6 +111,7 @@ Course Page:
       basics for the Amira, ensuring that data is verified when offloaded. She then
       dives into DaVinci Resolve and Premiere Pro, showing how to work with the footage.
 course_purchase: true
+sku: MZAMIRA
 layout: course
 ---
 

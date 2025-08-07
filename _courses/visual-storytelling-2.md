@@ -167,6 +167,7 @@ Course Page:
       of how he attempted to incorporate these techniques into his work on "Green
       Street Hooligans".
 course_purchase: true
+sku: MZAVS2
 layout: course
 ---
 

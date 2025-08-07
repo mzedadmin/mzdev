@@ -117,6 +117,7 @@ Course Page:
       for more help. Tito also describes how and why he decided to make the Anamorphic
       Cookbook course.
 course_purchase: true
+sku: MZAC
 layout: course
 ---
 

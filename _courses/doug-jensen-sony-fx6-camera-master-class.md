@@ -284,6 +284,7 @@ Course Page:
       focus modes, menu configuration, and the innovative breathing compensation feature
       and bokeh control mode.
 course_purchase: true
+sku: MZFX6
 layout: course
 ---
 

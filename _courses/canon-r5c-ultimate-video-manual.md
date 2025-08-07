@@ -158,6 +158,7 @@ Course Page:
       steps needed in Adobe Premiere Pro, Ollie shows the entire workflow from start
       to finish, using a test shot he captures in his local town.
 course_purchase: true
+sku: MZR5C
 layout: course
 ---
 

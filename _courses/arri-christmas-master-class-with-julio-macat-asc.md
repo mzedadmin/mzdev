@@ -132,6 +132,7 @@ Course Page:
     Lesson Description: In this bonus interview, Julio Macat ASC talks about his experiences
       shooting "After the Wedding" with the ARRI ALEXA 65.
 course_purchase: true
+sku: MZARRICM
 layout: course
 ---
 

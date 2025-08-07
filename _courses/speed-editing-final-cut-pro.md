@@ -116,6 +116,7 @@ Course Page:
     Lesson Description: Dave wraps up the Speed Editing in Final Cut Pro course with
       some final thoughts.
 course_purchase: true
+sku: MZSEFCP
 layout: course
 ---
 

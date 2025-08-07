@@ -432,6 +432,7 @@ Course Page:
       over the critical aspects of creating a mix for the internet in the loudness
       war generation, and proves that louder makes people "like" your production better.
 course_purchase: true
+sku: MZCS
 layout: course
 ---
 

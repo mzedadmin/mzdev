@@ -92,6 +92,7 @@ Course Page:
       you need to know about how to make your own pitch deck, or work with a designer
       to create a visual presentation that sells your project."
 course_purchase: true
+sku: MZBPD
 layout: course
 ---
 

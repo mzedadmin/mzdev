@@ -100,6 +100,7 @@ Course Page:
     Lesson Description: Closing out the course we look at workflow and best practices
       for handling footage from the EVA1.
 course_purchase: true
+sku: MZEVA1
 layout: course
 ---
 

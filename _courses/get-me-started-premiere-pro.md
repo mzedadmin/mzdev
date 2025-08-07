@@ -107,6 +107,7 @@ Course Page:
 
         Finally, I'll show you how to export your movie, ready to be published. See you in the classroom!
 course_purchase: false
+sku: MZGMSPP
 layout: course
 ---
 

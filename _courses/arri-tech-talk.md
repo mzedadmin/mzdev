@@ -183,6 +183,7 @@ Course Page:
 
       The online experience engaged six actors in their own homes, split between Los Angeles and New York with digital sets created with a green screen. The lighting on actors had to match up perfectly with the lighting in the digital environment behind them. Andrew used SkyPanels equipped with a CineMiranda unit, which plugged into actors' home ethernet without any complicated setup, this allowed him to set looks remotely once the backgrounds were ready and even tweak the lighting in real-time during rehearsals and the event.
 course_purchase: false
+sku: MZARRITT
 layout: course
 ---
 

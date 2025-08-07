@@ -249,6 +249,7 @@ Course Page:
       archiving raw footage ensures efficient retrieval. Filming wildlife requires
       patience and preparation."
 course_purchase: true
+sku: MZWCM
 layout: course
 ---
 

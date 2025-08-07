@@ -124,6 +124,7 @@ Course Page:
     Lesson Description: This bonus module allows you to see the finished product of
       the "Ox & Origin" commercial from the course.
 course_purchase: true
+sku: MZDC
 layout: course
 ---
 

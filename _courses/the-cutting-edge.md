@@ -120,6 +120,7 @@ Course Page:
     Lesson Description: In the final module Adam closes the course with career advice,
       including his tips and guidelines for working well with directors and producers.
 course_purchase: true
+sku: MZCE
 layout: course
 ---
 

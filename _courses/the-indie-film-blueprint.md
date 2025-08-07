@@ -204,6 +204,7 @@ Course Page:
       indie filmmaking journey worthwhile - and sustainable - so you can recoup costs,
       pay your investors, and go on to make more films."
 course_purchase: true
+sku: MZIFB
 layout: course
 ---
 

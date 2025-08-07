@@ -98,6 +98,7 @@ Course Page:
       Fong to discuss the best approaches to family and group portraits. Then Clay
       sits down with Sandy Puc to discuss her charity and what keeps her motivated.
 course_purchase: true
+sku: MZHTPE
 layout: course
 ---
 

@@ -73,6 +73,7 @@ Course Page:
       into the type of preparation a director does in order to initiate a successful
       collaboration with a cinematographer.
 course_purchase: false
+sku: MZFSTS
 layout: course
 ---
 

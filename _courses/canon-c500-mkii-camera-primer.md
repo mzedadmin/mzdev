@@ -170,6 +170,7 @@ Course Page:
       own utilities as well as Adobe Premiere Pro, Final Cut Pro and DaVinci Resolve.
       Jem also makes his final statements about the course and the C500 Mark II camera.
 course_purchase: true
+sku: MZC500MK2
 layout: course
 ---
 

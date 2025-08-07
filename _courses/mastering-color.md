@@ -145,6 +145,7 @@ Course Page:
       and how working in raw can benefit your clients, even if you are only delivering
       in HD SDR.
 course_purchase: true
+sku: MZMC
 layout: course
 ---
 

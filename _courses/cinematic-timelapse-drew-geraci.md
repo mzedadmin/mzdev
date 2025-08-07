@@ -142,6 +142,7 @@ Course Page:
     Lesson Description: In this final lesson of Part II, Drew goes over converting
       24p to 60p, as well as exporting multiple clips.
 course_purchase: true
+sku: MZCT
 layout: course
 ---
 

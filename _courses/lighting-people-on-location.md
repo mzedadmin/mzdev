@@ -133,6 +133,7 @@ Course Page:
       Stephen talks about the importance of consistency in lighting, framing and lens
       selection within one production, and much more."
 course_purchase: true
+sku: MZASCLP
 layout: course
 ---
 

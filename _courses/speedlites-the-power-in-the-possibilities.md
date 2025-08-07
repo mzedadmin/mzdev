@@ -90,6 +90,7 @@ Course Page:
     Lesson Description: To complete the course Stephen walks us through various outdoor
       scenarios including a pool, beach, pier and finishing with an evening city skyline.
 course_purchase: true
+sku: MZSTPITP
 layout: course
 ---
 

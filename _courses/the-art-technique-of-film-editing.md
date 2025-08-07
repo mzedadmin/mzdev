@@ -380,6 +380,7 @@ Course Page:
       Niel Armstrong, played by actor Ryan Gosling, ejecting from the aircraft at
       the final moment before it explodes.
 course_purchase: true
+sku: MZATFE
 layout: course
 ---
 

@@ -157,6 +157,7 @@ Course Page:
       bid, budgeting, storyboarding and all the way through execution, sharing his
       tips for success and hard-won lessons.
 course_purchase: true
+sku: MZDM
 layout: course
 ---
 

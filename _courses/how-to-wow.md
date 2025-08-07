@@ -112,6 +112,7 @@ Course Page:
       on how to evoke emotion through photography including intimate portraits from
       his own wedding day.
 course_purchase: true
+sku: MZHTW
 layout: course
 ---
 

@@ -150,6 +150,7 @@ Course Page:
       course, in this bonus module Ollie breaks down the new features of Resolve 16's
       public beta including the new "Cut" page.
 course_purchase: true
+sku: MZDGDR
 layout: course
 ---
 

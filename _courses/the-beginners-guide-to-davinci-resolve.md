@@ -131,6 +131,7 @@ Course Page:
 
       The delivery will allow you to render out your timeline, complete with grades, effects, and audio wrapped in a single file of your choosing. Archiving will allow you to save your media and projects so that opening an older project in the future will be easier and not take up too much drive space.
 course_purchase: true
+sku: MZBGDR
 layout: course
 ---
 

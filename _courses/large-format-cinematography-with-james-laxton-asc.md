@@ -102,6 +102,7 @@ Course Page:
     Lesson Description: In the final module of the masterclass, James Laxton ASC demonstrates
       how he uses LED lighting and color balance to create mood in a scene.
 course_purchase: true
+sku: MZARRILFCJL
 layout: course
 ---
 

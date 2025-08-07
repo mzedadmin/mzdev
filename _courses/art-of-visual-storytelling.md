@@ -154,6 +154,7 @@ Course Page:
     Lesson Description: Alex finishes the course with a history lesson on aspect ratios
       and how we've arrived at the 16x9 standard.
 course_purchase: true
+sku: MZAVS
 layout: course
 ---
 

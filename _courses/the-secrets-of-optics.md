@@ -106,6 +106,7 @@ Course Page:
     Lesson Description: For the final module in the course we look at specialty lenses
       and adaptors such as anamorphic and tilt-shift and discuss their application.
 course_purchase: true
+sku: MZTSOO
 layout: course
 ---
 

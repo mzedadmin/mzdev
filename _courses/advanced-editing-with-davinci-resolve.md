@@ -135,6 +135,7 @@ Course Page:
       The aim of this lesson is to shed some light on how to add, format, and include
       subtitles and audio submixes for your final output.
 course_purchase: true
+sku: MZAEDR
 layout: course
 ---
 

@@ -138,6 +138,7 @@ Course Page:
       what you need to do to get on their radar and start attracting high-end wedding
       clients.
 course_purchase: true
+sku: MZMTM
 layout: course
 ---
 

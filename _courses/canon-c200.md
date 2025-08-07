@@ -107,6 +107,7 @@ Course Page:
       ACS walks us through the options for handling Canon's new Cinema RAW Light format
       and gives his professional take on how well the format performs for post-production.
 course_purchase: true
+sku: MZC200
 layout: course
 ---
 

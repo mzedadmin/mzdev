@@ -267,6 +267,7 @@ Course Page:
       with Latasha James! If you enjoyed this course, give us a star rating and let
       us know what kind of courses you'd like to see here at MZed!
 course_purchase: true
+sku: MZHTSP
 layout: course
 ---
 
