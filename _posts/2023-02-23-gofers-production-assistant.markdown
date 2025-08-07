@@ -1,5 +1,4 @@
 ---
-
 title: How to Become a Production Assistant
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/gofers-production-assistant-hero.jpg"

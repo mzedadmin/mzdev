@@ -1,5 +1,4 @@
 ---
-
 title: Choosing the Right Timelapse Interval
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/choosing-timelapse-interval-hero.jpg"

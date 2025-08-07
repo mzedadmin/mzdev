@@ -1,5 +1,4 @@
 ---
-
 title: Learning the Fundamental Language of Directing
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/learning-language-of-directing-hero.jpg"
