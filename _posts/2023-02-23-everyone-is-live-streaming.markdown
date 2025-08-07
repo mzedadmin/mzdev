@@ -1,4 +1,5 @@
 ---
+
 title: Everyone is a TV Station
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/everyone-is-live-streaming-hero.jpg"
@@ -8,33 +9,37 @@ meta_description: Live streaming is found at every corner of the video productio
 subtitle: Live streaming is found at every corner of the video production world now
 ---
 
+![Everyone Is a TV Station – The Future of Live Streaming](/assets/images/posts/everyone-live-streaming-house-worship-hero.jpg)
+
 **It's interesting how trends circle back every couple of decades. Although each resurgence of a trend feels new and fresh for most of us, when you get to a certain age you start to notice history repeating itself, but never without a twist.**
+
+**MZed Pro 1-Year Filmmaking Courses Subscription**
 
 For example, even though we finally have brilliant high-resolution cameras in our pockets at all times (which is what we wanted all along right?), [Gen Z is ditching their phone cameras in favor of 20-year-old digital point-and-shoots](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html). It's definitely the vibe and a software filter on the most advanced camera ever just can't replace vintage hardware. Which in this case is still digital, but hey it's old and grainy digital.
 
 "If you have to ask why then it's not for you" is a typical response when we old hats are stumped about some new (old) product. Like Sony's dedicated MP3 players which are going for $350-$3700 and are practically sold out everywhere. "Sometimes you just want distraction-free listening on a simple device rather than have a phone/computer that does it all." Hmm, wonder if my old iPods are a hot commodity now.
 
-![Sony new MP3 player](/assets/images/posts/everyone-is-live-streaming-sony-mp3-player.jpg)
-*Sony's dedicated MP3 players are selling for $350-$3700 and are practically sold out everywhere*
+[![sony new mp3 player](/assets/images/posts/everyone-live-streaming-sony-mp3-player.png)](/assets/images/posts/everyone-live-streaming-sony-mp3-player.png)
 
 And just when we're starting to peak with amazing display tech on our phones, tablets, and monitors, the rise of slow, pixelated, greyscale e-ink displays is about to make bright, saturated colors incredibly unhip. Actually, this one I'm all for. The world needs to bring back PDAs and Palm Pilots.
 
-![BOOX Mira e-ink monitors](/assets/images/posts/everyone-is-live-streaming-eink-monitors.jpg)
-*BOOX Mira e-ink monitors. Is grayscale the future? Image source: Onyx Boox*
+[![mira-pro-eink-monitors](/assets/images/posts/everyone-live-streaming-eink-monitors.jpg)](/assets/images/posts/everyone-live-streaming-eink-monitors.jpg)
 
-So let's get back to the topic at hand. What trends are resurfacing in the video production world? From my vantage point, seeing where [MZed members](https://www.mzed.com?tap_a=17272-420962&tap_s=3522724-6f9f95) are coming from and what kind of work they're doing, hearing from educators, and just having my ear to the video scene, I can tell you this: live TV is back but in a new way.
+BOOX Mira e-ink monitors. Is grayscale the future? Image source: Onyx Boox
 
-![Amazon Live streaming platform](/assets/images/posts/everyone-is-live-streaming-amazon-live.jpg)
-*Amazon Live is basically a 24/7 home shopping network run by influencers*
+So let's get back to the topic at hand. What trends are resurfacing in the video production world? From my vantage point, seeing where [MZed members](https://www.mzed.com/?tap_a=17272-420962&tap_s=3522724-6f9f95) are coming from and what kind of work they're doing, hearing from educators, and just having my ear to the video scene, I can tell you this: live TV is back but in a new way.
 
-## From Cinematic DSLR Films to YouTube Live
+[![amazon live](/assets/images/posts/everyone-live-streaming-amazon-live.jpg)](/assets/images/posts/everyone-live-streaming-amazon-live.jpg)
 
-When the DSLR revolution first hit, I was working at a PBS station where everything was shot live in the studio, with nothing more than some talking heads and a cheesy set. The look and feel of DSLR video, the approach to storytelling, the ethos – and even just the urge to get outside and shoot *something*, about a person or a place or thing – it was all an incredibly refreshing change that launched a generation of video creators.
+Amazon Live is basically a 24/7 home shopping network run by influencers.
+
+When the DSLR revolution first hit, I was working at a PBS station where everything was shot live in the studio, with nothing more than some talking heads and a cheesy set. The look and feel of DSLR video, the approach to storytelling, the ethos – and even just the urge to get outside and shoot _something_, about a person or a place or thing – it was all an incredibly refreshing change that launched a generation of video creators.
 
 And with that revolution came a gigantic rush of gear acquisition, rapid improvements in production workflows, a ton of education and community support, and now a steady career path for in-house corporate video creators.
 
-![Man filming podcast episode with live streaming equipment](/assets/images/posts/everyone-is-live-streaming-podcast-setup.jpg)
-*Image by DCStudio on Freepik*
+[![filming a podcast](/assets/images/posts/everyone-live-streaming-podcast-filming.jpg)](/assets/images/posts/everyone-live-streaming-podcast-filming.jpg)
+
+[Image by DCStudio](https://www.freepik.com/free-photo/young-man-filming-podcast-episode-camera-studio-live-broadcasting-online-discussion-create-social-media-content-male-influencer-vlogging-show-with-livestream-equipment_29954780.htm#query=live%20streaming&position=3&from_view=search&track=sph) on Freepik
 
 This makes it interesting and slightly sad to see that the generation of up-and-coming creative filmmakers, the ones who are buying gear now and learning and sharing and setting trends, have unanimously gone back indoors to become miniature TV stations broadcasting talking head opinions. At least the sets have become much cooler this time around.
 
@@ -42,146 +47,65 @@ It's certainly incredible how far the technology has come, where a single person
 
 But it's also a little sad to me because we have all this capability now to tell stories about other people and places in the world, but we're choosing the lowest hanging fruit, the live talking head studio program, which is exactly what local live TV used to do before DSLR was set to change all that… for a while at least.
 
-## Clients Want TV Shows, Not Videos
-
 While up-and-coming video creators are starting their own YouTube channels that look very much like TV station productions of yore, just about every working video producer I know has shifted to live-streaming productions for clients. What started as a pandemic response to business closures has become an undeniable cornerstone of our industry today.
 
 While it sounds very new and innovative and it certainly uses some profound technology in the process, what we're really talking about is multi-cam live TV interview shows. Sort of like the YouTube trend mentioned above, but corporate. In essence, clients want their own TV shows now. They even have a steady broadcast schedule. TV Guide, anyone?
 
-![Video interview show setup](/assets/images/posts/everyone-is-live-streaming-interview-show.jpg)
-*Photo by cottonbro studio from Pexels*
+[![video interview show](/assets/images/posts/everyone-live-streaming-video-interview.jpg)](/assets/images/posts/everyone-live-streaming-video-interview.jpg)
 
-## The Technology Behind Modern Live Streaming
+[Photo by cottonbro studio](https://www.pexels.com/photo/a-person-holding-black-camera-6883804/) from Pexels
 
-The technical capabilities available to individual creators and small businesses today would have required massive infrastructure and budgets just a decade ago. Modern live streaming setups can include:
+What first started as the new norm of "every business needs to have a podcast" has become "every business needs to live stream." Again, I have to say, it's amazing that this is even a possibility nowadays, with only a [Blackmagic ATEM Mini Pro](https://www.cined.com/blackmagic-design-atem-mini-pro-switchers-price-drop/), a few cameras, and some lights, you can replicate what a TV station would have to spend hundreds of thousands of dollars building only a few years ago. And that's not including the studio crew, master control operators, and traffic staff that was required to broadcast a little interview show.
 
-**Multi-Camera Production**: Software like OBS Studio, ATEM Mini, or more advanced switchers allow seamless cutting between multiple camera angles in real-time.
+The more advanced versions of this production can look more like a network news show than a local public TV interview, with graphics, roll-ins, a mixture of in-studio and phone/zoom interviews and more.
 
-**Graphics and Lower Thirds**: Professional-looking graphics, logos, and lower thirds can be added on the fly without expensive character generators.
+What's truly fascinating about this whole trend coming back is that now there's a unique angle to the live TV show that we never could have expected. While the studio crew and talent are all in the same room, often the director or producer are remote, maybe even states away remotely.
 
-**Interactive Elements**: Live chat integration, real-time polls, and viewer Q&A sessions create engagement that traditional TV never had.
+[![burbank-studios-minneapolis](/assets/images/posts/everyone-live-streaming-burbank-studios.jpg)](/assets/images/posts/everyone-live-streaming-burbank-studios.jpg)
 
-**Global Distribution**: Content can be simultaneously broadcast to multiple platforms - YouTube, Facebook, LinkedIn, Twitch, and more.
+Screengrabs from a virtual production studio near me – [Burbank Entertainment in Minneapolis](https://burbankentertainment.com/virtual)
 
-## Virtual Production and LED Walls
+Very soon, thanks to new cloud-based workflows, we'll see remote camera switchers produce shows using talent who are entirely in different parts of the world. I mean, that's all possible now with Zoom of course, but I'm thinking small businesses and corporations are going to ditch the studio and put on entirely virtual shows in a professional way, using virtual backgrounds. Live local client productions are going global. Or maybe they already have?
 
-One of the most significant developments in live streaming production is the adoption of virtual production techniques. What started as Hollywood technology for films like "The Mandalorian" has trickled down to local studios and corporate productions.
+Finally, I think we're getting to what I see is much bigger than all the YouTubers and corporate clients combined, and that is the House of Worship. If you went to any small town in North America or Europe right now, you would find what looks like 5-10 full-fledged TV stations.
 
-![Virtual production studio setup](/assets/images/posts/everyone-is-live-streaming-virtual-production.jpg)
-*Screengrabs from a virtual production studio near me – Burbank Entertainment in Minneapolis*
+One Sunday a few weeks ago I went on YouTube on my TV and started searching for every and any church within 20 miles of my small town. It was shocking. Every single church, no matter how small, was broadcasting live to YouTube, using multiple cameras, great-sounding audio, and a series of slides at a minimum.
 
-These virtual production studios offer:
+[![house of worship concert](/assets/images/posts/everyone-live-streaming-church-service.jpg)](/assets/images/posts/everyone-live-streaming-church-service.jpg)
 
-**Dynamic Backgrounds**: Instead of static green screens, LED walls provide realistic lighting and reflections that change with camera movement.
+Live Sunday service screengrab from a church near me. Image credit: YouTube
 
-**Cost Efficiency**: No need to travel to locations or build elaborate sets when any environment can be digitally created.
+Some of the bigger churches had higher-end production components, including animations, pre-recorded roll-ins, stage lighting, and full-on concert performances with bands and on-screen lyrics for the viewer at home. The musicians even had their own screens with tablature for the songs they were playing. There were tons of cameras, some moving on cranes, and it was all seamless, high quality, and live.
 
-**Real-Time Rendering**: Modern graphics engines render backgrounds in real-time, allowing for immediate feedback and adjustments.
+Now think of how many churches there are out there, and how many live productions are happening each and every week, with all of the components and crew and everything that a TV station would have to have just a few years ago.
 
-**Weather Independence**: Outdoor scenes can be shot indoors regardless of actual weather conditions.
+I would even guess that the majority of high-end filmmaking gear is being purchased by houses of worship now, rather than only going to rental houses in LA. Did you know that [1 out of every 3 Fender guitars sold today is going to someone who plays in a Church band](https://relevantmagazine.com/culture/music/fender-one-in-three-guitars-were-bought-by-people-who-play-in-praise-and-worship-bands/)?
 
-## The House of Worship Revolution
+[![house of worship video production](/assets/images/posts/everyone-live-streaming-church-production.png)](/assets/images/posts/everyone-live-streaming-church-production.png)
 
-Perhaps no industry has embraced live streaming more completely than religious organizations. The pandemic forced churches, synagogues, mosques, and other houses of worship to quickly adapt to digital broadcasting, and many have never looked back.
+Screengrab from a popular house of worship YouTube channel – Image credit: [@churchfront](https://www.youtube.com/@Churchfront)
 
-![House of worship live streaming setup](/assets/images/posts/everyone-is-live-streaming-church-service.jpg)
-*Live Sunday service screengrab from a church near me. Image credit: YouTube*
+What's interesting to me is that outside of the church community, none of the filmmaking industry is really even talking about houses of worship. I'm certain that a major demographic of readers here and [MZed education members](https://www.mzed.com/?tap_a=17272-420962&tap_s=3522724-6f9f95) are primarily working in the church community, often with live production. But are we catering any of our discussion toward them?
 
-The production values in religious broadcasting have skyrocketed:
+Anyway, I'll end with this. It's profound to think about how much of the filmmaking industry today is going towards live production, whether it's individuals broadcasting from their basements, corporate clients creating their own interview shows, or churches performing like legitimate TV stations.
 
-**Professional Lighting**: LED panels and intelligent lighting systems create broadcast-quality illumination.
+When we talk about filmmakers or video producers, we should update our assumptions about who they are. It wasn't so long ago that many of us here were in one of a handful of disciplines, like corporate or event videography, documentary, short or long-form narrative, news photography, or commercials. But now it appears that many of us are also a TV station.
 
-**Multiple Camera Angles**: Services are now shot like television productions with wide shots, close-ups, and detail shots.
+No matter what type of video production you're into, [an MZed Pro subscription](https://www.mzed.com/?tap_a=17272-420962&tap_s=3522724-6f9f95) will help you level up your skills with over 700 lessons in cinematography, camera operation, editing, audio, color grading, you name it.
 
-**Audio Production**: Professional sound mixing ensures every word is heard clearly, whether in person or online.
+Plus we're constantly adding more courses, which become available to MZed Pro members immediately when they're released. For less than $1 a day, (billed annually at $349), here's everything you'll get:
 
-**Post-Production Elements**: Many services now include pre-produced segments, testimonials, and promotional content.
+-   50+ courses, over 700 high-quality lessons spanning nearly 400 hours of learning.
+-   Unlimited access to stream all the content during the 12 months.
+-   Offline download and viewing with the MZed iOS app.
+-   Discounts to ARRI Academy online courses, exclusively on MZed.
+-   The majority of our courses provide an industry-recognized certificate upon completion.
+-   Purchasing the courses outright would cost over $8,500.
+-   Course topics include cinematography, directing, lighting, cameras, and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
+-   7-day money-back guarantee if you decide it's not for you.
 
-![House of worship video production setup](/assets/images/posts/everyone-is-live-streaming-church-production.jpg)
-*Screengrab from a popular house of worship YouTube channel – Image credit: @churchfront*
+[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=3522724-6f9f95)
 
-## The Economics of Live Streaming
+_Feature Image by [Freepik](https://www.freepik.com/free-photo/young-male-priest-streaming-sermon-from-church-with-smartphone_23181535.htm#query=house%20of%20worship%20live&position=12&from_view=search&track=ais)_
 
-The financial model of live streaming has created new opportunities and challenges:
-
-**Lower Barrier to Entry**: Starting a live stream requires significantly less capital than traditional broadcasting.
-
-**Subscription Models**: Platforms like Twitch, Patreon, and YouTube memberships allow creators to monetize directly.
-
-**Corporate Sponsorships**: Brands are increasingly sponsoring live content, similar to traditional TV advertising.
-
-**Equipment Costs**: While initial investment is lower, professional-level live streaming still requires significant equipment investment.
-
-## Educational and Training Applications
-
-Live streaming has revolutionized education and corporate training:
-
-**Interactive Workshops**: Real-time Q&A and breakout rooms make virtual training more engaging.
-
-**Global Reach**: Experts can teach students worldwide without travel costs.
-
-**Recording and Replay**: Live sessions can be recorded for later viewing, extending their value.
-
-**Cost Effectiveness**: Training hundreds of people simultaneously is more economical than in-person sessions.
-
-## Technical Challenges and Solutions
-
-Despite the accessibility of live streaming technology, several challenges remain:
-
-**Internet Bandwidth**: Reliable, high-speed internet is crucial for quality streaming.
-
-**Latency Issues**: Delays between streaming and viewer reception can affect interactive elements.
-
-**Technical Failures**: Live production leaves no room for mistakes - everything must work perfectly in real-time.
-
-**Content Management**: Managing multiple platforms, schedules, and content versions requires sophisticated workflows.
-
-## The Future of Live Broadcasting
-
-Several trends are shaping the future of live streaming:
-
-**AI Integration**: Automated camera switching, real-time transcription, and intelligent content moderation.
-
-**5G Networks**: Faster mobile networks will enable high-quality streaming from anywhere.
-
-**Augmented Reality**: AR elements will become more common in live productions.
-
-**Interactive Commerce**: Integration with e-commerce platforms for direct sales during broadcasts.
-
-## Industry Impact and Career Opportunities
-
-The live streaming boom has created entirely new career paths:
-
-**Live Stream Producers**: Specialists who manage the technical and creative aspects of live broadcasts.
-
-**Virtual Event Coordinators**: Professionals who plan and execute online events and conferences.
-
-**Streaming Consultants**: Experts who help businesses develop live streaming strategies.
-
-**Technical Operators**: Specialists in streaming software, hardware, and platform management.
-
-## Challenges for Traditional Media
-
-Traditional television and media companies face significant challenges from the live streaming revolution:
-
-**Lower Production Costs**: Independent creators can produce content at a fraction of traditional TV costs.
-
-**Direct Audience Relationships**: Streamers build direct connections with viewers without network intermediaries.
-
-**Flexible Scheduling**: On-demand and flexible streaming schedules appeal to modern viewing habits.
-
-**Niche Content**: Streaming allows for highly specialized content that wouldn't work on traditional TV.
-
-## Conclusion
-
-The resurgence of live broadcasting through streaming platforms represents both a return to television's roots and a radical departure from traditional media models. While the format may look familiar – talking heads, interview shows, live events – the underlying technology, economics, and audience relationships are fundamentally different.
-
-What's particularly interesting is how this trend reflects broader cultural shifts toward authenticity, interactivity, and personalization. Audiences want to feel connected to creators and brands in ways that traditional one-way broadcasting never allowed.
-
-For video professionals, this shift represents both opportunity and challenge. The technical skills required for live production are different from traditional video production, requiring real-time decision-making, multi-platform management, and audience engagement strategies.
-
-The democratization of broadcasting technology means that everyone can now be a TV station, but success still requires understanding of storytelling, technical excellence, and audience development. The tools may be more accessible, but the fundamentals of good content creation remain as important as ever.
-
-As we look to the future, live streaming will likely continue evolving, incorporating new technologies and serving new purposes. But one thing is clear: the age of passive media consumption is over, and the future belongs to creators who can engage audiences in real-time, authentic conversations.
-
-Whether you're a seasoned video professional looking to expand your services or a newcomer considering a career in digital media, understanding live streaming production is no longer optional – it's essential. The question isn't whether live streaming will continue to grow, but how quickly you can adapt to this new reality of democratized broadcasting.
+[![mzed courses](/assets/images/posts/everyone-live-streaming-mzed-courses.jpg)](/assets/images/posts/everyone-live-streaming-mzed-courses.jpg)

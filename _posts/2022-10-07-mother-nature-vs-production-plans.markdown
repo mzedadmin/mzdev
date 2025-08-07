@@ -8,98 +8,108 @@ meta_description: Philip Bloom shows you how to adapt a story to unpredictable s
 subtitle: Philip Bloom shows you how to adapt a story to unpredictable shooting conditions.
 ---
 
-Problem-solving is at the heart of filmmaking. But while the unexpected is always just around the corner at any shoot, a marked spirit of adaptation is even more vital for solo shooters and small crews having to deal with day exteriors, miserable weather, and a ticking clock.
+![Adapting the Story to Shooting Conditions – With Philip Bloom](/assets/images/posts/mother-nature-vs-production-plans-hero.jpg)
 
-So despite weeks or even months of preparation, you always need to be ready to take a detour from the original creative plan to make the best out of what nature has to offer. Put simply, you just cannot afford to get back home empty-handed.
+**Problem-solving is at the heart of filmmaking. But while the unexpected is always just around the corner at any shoot, a marked spirit of adaptation is even more vital for solo shooters and small crews having to deal with day exteriors, miserable weather, and a ticking clock.**
 
-![Behind the scenes shooting in challenging weather conditions](/assets/images/posts/mother-nature-vs-production-plans-bad-weather-bts.jpg)
-*Image credit: Philip Bloom / MZed*
+Related Course
 
-## The Reality of Outdoor Filmmaking
+## Filmmaking for Photographers
 
-Outdoor filmmaking presents unique challenges that studio work simply doesn't have. Weather conditions can change in minutes, lighting can shift dramatically, and equipment can fail when exposed to the elements. For filmmakers working with smaller crews or as solo operators, these challenges are magnified exponentially.
+[![Filmmaking for Photographers](/assets/images/posts/filmmaking-for-photographers-course.jpg)](https://www.mzed.com/courses/filmmaking-for-photographers?tap_a=17272-420962&tap_s=3897887-d89a01)
 
-![Setting up for interior shots during challenging conditions](/assets/images/posts/mother-nature-vs-production-plans-interior-setup.jpg)
-*Image credit: Philip Bloom / MZed*
+Philip Bloom returns with this guide to making the jump from telling a story in a single frame to telling a story over time and space. This course is aimed at established photographers, but also holds relevant information for filmmakers.
 
-The key to successful outdoor production lies not in fighting these conditions, but in learning to work with them. This means developing a flexible mindset and having backup plans for your backup plans.
+**MZed Pro 1-Year Filmmaking Courses Subscription**
 
-## Preparing for the Unpredictable
+As an outdoor filmmaker, I can't recall how many times I found myself in the mountains facing lighting conditions that were exactly the opposite of what I had wished for. And still, despite weeks or even months of preparation, you always need to be ready to take a detour from the original creative plan to make the best out of what nature has to offer. Put simply, you just cannot afford to get back home empty-handed.
 
-Before heading out on any outdoor shoot, preparation becomes your best friend. This goes beyond just checking the weather forecast – it means understanding how different conditions will affect your story, your equipment, and your shooting schedule.
+That's precisely the topic of the [Story and Narrative](https://www.mzed.com/courses/filmmaking-for-photographers/modules/5?tap_a=17272-420962&tap_s=3140924-861afc) module of Philip Bloom's [Filmmaking for Photographers](https://www.mzed.com/courses/filmmaking-for-photographers?tap_a=17272-420962&tap_s=3140924-861afc) course on MZed. In this insightful lesson, Philip takes on the challenge of shooting a real estate video for the perfect summer resort, a beautiful beach house in Southern England, in the middle of the winter. That's a demanding task, to say the least.
 
-![Exterior shots adapted for weather conditions](/assets/images/posts/mother-nature-vs-production-plans-exterior-shots.jpg)
-*Image credit: Philip Bloom / MZed*
+[![](/assets/images/posts/philip-bloom-bad-weather-bts.jpg)](/assets/images/posts/philip-bloom-bad-weather-bts.jpg)
 
-Equipment preparation is crucial. Weather-sealing your gear, having backup power sources, and protecting your camera from the elements can mean the difference between a successful shoot and a complete disaster. But beyond the technical aspects, you need to prepare mentally for the unexpected.
+Image credit: Philip Bloom / MZed
 
-## Creative Problem-Solving in Real Time
+## **Expectations vs reality**
 
-When conditions change unexpectedly, the ability to think creatively and adapt your approach becomes essential. Sometimes the best shots come from these unplanned moments when you're forced to think outside the box.
+With a career spanning more than 3 decades, Philip Bloom knows the importance of proper pre-production. Therefore, since he didn't have the luxury of location scouting for this project, he did his homework in advance. He carefully looked at pictures of the location online, put down a detailed shot list, and imagined the warm, summer tones he was looking for. However, as it often happens in real-world scenarios, the reality did not match his expectations.
 
-![Comparison of bad weather vs good weather edits](/assets/images/posts/mother-nature-vs-production-plans-edit-comparison.jpg)
-*The "bad weather" and "good weather" edits side by side. Image credit: Philip Bloom / MZed*
+[![](/assets/images/posts/philip-bloom-interior-bts.jpg)](/assets/images/posts/philip-bloom-interior-bts.jpg)
 
-Philip Bloom emphasizes that these challenges often lead to more authentic and compelling footage. When you're working with natural conditions rather than trying to control them completely, you often capture something more genuine and emotionally resonant.
+Image credit: Philip Bloom / MZed
 
-## Working with Natural Light
+First, the weather forecast for the 3-day shooting window wasn't very promising, with predicted overcast skies and fierce gusts of wind. Moreover, as he first walked into the house, he soon realized that the available mixed lighting wasn't very flattering. To top this off, the model he involved to make the property look more lively was only available for a little over 24 hours between Day 1 and Day 2.
 
-One of the biggest variables in outdoor shooting is lighting. Unlike controlled studio environments, natural light is constantly changing. Cloud cover, time of day, and weather conditions all dramatically affect the look and feel of your footage.
+[![](/assets/images/posts/philip-bloom-day-exteriors.jpg)](/assets/images/posts/philip-bloom-day-exteriors.jpg)
 
-![Final edit showcasing adaptation to bad weather](/assets/images/posts/mother-nature-vs-production-plans-bad-weather-edit.jpg)
-*Image credit: Philip Bloom / MZed*
+Image credit: Philip Bloom / MZed
 
-Learning to work with available light, rather than against it, opens up creative possibilities that artificial lighting often can't replicate. The key is understanding how to use these changing conditions to enhance your story rather than fighting them.
+## **The importance of multiple backup plans**
 
-## Adapting Your Story
+Clearly, the only way out of such a testing situation resides in your ability to think outside the box, let go of your creative ego, and make adjustments as you go. And the way Philip slaloms between the different issues is simply brilliant.
 
-Sometimes the most important adaptation isn't technical – it's narrative. When conditions force you to change your planned shots or approach, being flexible with your storytelling can lead to more compelling content.
+To start off, rather than hoping for the impossible, he develops multiple backup plans. His first strategy consists in letting the camera roll even during bad weather hours while making the best out of the brief sunshine slots.
 
-![Interior lighting setup adapted for conditions](/assets/images/posts/mother-nature-vs-production-plans-interior-lighting.jpg)
-*Image credit: Philip Bloom / MZed*
+[![](/assets/images/posts/philip-bloom-edit-comparison.jpg)](/assets/images/posts/philip-bloom-edit-comparison.jpg)
 
-This might mean changing the emotional tone of a sequence to match the weather, or finding ways to incorporate unexpected elements into your narrative. The best filmmakers learn to see these changes not as obstacles, but as opportunities.
+The "bad weather" and "good weather" edits side by side. Image credit: Philip Bloom / MZed
 
-## The Importance of Backup Plans
+In the end, this approach resulted in two very different edits to choose from: one emulating hot summertime, and the other showcasing the harsh shooting conditions. While the former seems to be the most appealing (and logical) option to attract would-be renters for the property, Philip demonstrates how a little bit of humor can turn a probable failure into a potential success (note the copywriting trick below, which gives a twist to the ending of the "bad weather" edit).
 
-Having multiple backup plans isn't just good practice – it's essential for outdoor productions. This includes backup locations, alternative shot lists, and even completely different approaches to telling your story.
+[![](/assets/images/posts/philip-bloom-bad-weather-edit-text.jpg)](/assets/images/posts/philip-bloom-bad-weather-edit-text.jpg)
 
-![Interior shot result despite challenging conditions](/assets/images/posts/mother-nature-vs-production-plans-interior-shot.jpg)
-*Image credit: Philip Bloom / MZed*
+Image credit: Philip Bloom / MZed
 
-These backup plans should be thought out in advance, not improvised on the spot. Taking time during pre-production to consider various scenarios and how you'll handle them can save your entire shoot when conditions turn challenging.
+Moreover, Philip made sure to bring home some empty interior shots of the property. Although these traditional real estate views are far from Philip's creative intent and assignment, they can still be a relevant asset for the client. Finally, as a last resort, Philip suggests building the possibility of a re-shoot into the budget and contract of every gig involving outdoor exteriors.
 
-## Solo Shooter Strategies
+## **If there's a will, there's a way**
 
-For solo shooters and small crews, adapting to conditions becomes even more critical. Without the luxury of a large crew to help solve problems, you need to be self-sufficient and resourceful.
+According to Philip's original plan, the model's role was that of connecting the beach house and the natural world, thus emphasizing the advantageous position of the property. However, while recreating a golden hour look indoors can easily be done with a basic lighting kit and some CTO gel, you cannot say the same about faking sunshine on a beach hit by strong winds and sandstorms. Hence, Philip had to find a visual alternative to shooting on the shoreline.
 
-![Using candles for atmospheric lighting](/assets/images/posts/mother-nature-vs-production-plans-candle-lighting.jpg)
-*Image credit: Philip Bloom / MZed*
+[![](/assets/images/posts/philip-bloom-interior-lighting.jpg)](/assets/images/posts/philip-bloom-interior-lighting.jpg)
 
-This means streamlining your setup, having equipment that's reliable and portable, and developing the skills to handle multiple roles simultaneously. It also means knowing when to push forward and when to retreat and try again another day.
+Image credit: Philip Bloom / MZed
 
-## Time Management and Scheduling
+In the end, he still managed to convey a naturalistic feel thanks to wise camera placement. Indeed, in scenes in which the landscape is clearly visible outside the windows, Philip ensured to crop out elements, such as branches and trees, that could blatantly reveal the strong outside winds. A simple, effective workaround.
 
-Working with natural conditions often means working within very specific time windows. Golden hour doesn't wait for anyone, and weather windows can be brief and unpredictable.
+[![](/assets/images/posts/philip-bloom-beach-house-interiors.jpg)](/assets/images/posts/philip-bloom-beach-house-interiors.jpg)
 
-Effective time management in these situations means prioritizing your most important shots, having equipment ready to go at a moment's notice, and being able to work efficiently when conditions are right.
+Image credit: Philip Bloom / MZed
 
-## Making the Most of Challenging Conditions
+Another ingenious tweak to the original shot list that helped Philip achieve his goal against all odds was his decision to add some night interior scenes. Indeed, he could use candlelight to create a warm, cozy environment inside, while bad weather was hiding in the dark.
 
-Some of the most memorable and impactful footage comes from challenging shooting conditions. Storms, fog, unusual lighting – these elements can add production value and emotional weight that would be expensive or impossible to create artificially.
+[![](/assets/images/posts/philip-bloom-candle-lighting.jpg)](/assets/images/posts/philip-bloom-candle-lighting.jpg)
 
-The key is learning to recognize when challenging conditions are actually opportunities in disguise, and having the technical skills and creative vision to capitalize on them.
+Image credit: Philip Bloom / MZed
 
-## Lessons Learned
+## **More from Philip Bloom on MZed**
 
-The most important lesson in adapting to shooting conditions is developing resilience and flexibility. Every challenging shoot teaches you something new about problem-solving, equipment, and creative thinking.
+Although Philip Bloom's [Filmmaking for Photographers](https://www.mzed.com/courses/filmmaking-for-photographers?tap_a=17272-420962&tap_s=3140924-861afc) course is aimed at photographers moving their first steps into the world of motion picture, it can still be a valuable resource for established filmmakers.
 
-These experiences build confidence and skills that make you a better filmmaker overall. They teach you to see possibilities where others see problems, and to find creative solutions under pressure.
+However, if you're looking for something even more suitable for aspiring filmmakers, make sure to check out Philip's [Cinematic Masterclass](https://www.mzed.com/courses/philip-bloom-cinematic-masterclass?tap_a=17272-420962&tap_s=3140924-861afc) on MZed, an extensive 9-hour journey through the craft of independent filmmaking.
 
-## Conclusion
+## **What else do you get with MZed Pro?**
 
-Mother Nature doesn't follow shooting schedules or respect production budgets. But for filmmakers willing to adapt and work with natural conditions rather than against them, these challenges become opportunities to create more authentic, compelling, and visually striking content.
+As an [MZed Pro member](https://www.mzed.com/?tap_a=17272-420962&tap_s=3140924-861afc), you also get access to over 300 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
 
-The key is preparation, flexibility, and a willingness to see unexpected conditions as creative opportunities rather than obstacles. With the right mindset and approach, even the most challenging shooting conditions can lead to your best work.
+For just $30/month (billed annually at $349), here's everything you'll get:
 
-Whether you're a solo shooter or working with a small crew, learning to adapt your story and approach to shooting conditions is an essential skill that will serve you throughout your filmmaking career.
+-   40+ courses, over 600 high-quality lessons spanning over 300 hours of learning.
+-   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
+-   Unlimited access to stream all the content during the 12 months.
+-   Offline download and viewing with the MZed iOS app.
+-   Discounts to ARRI Academy online courses, exclusively on MZed.
+-   The majority of our courses provide an industry-recognized certificate upon completion.
+-   Purchasing the courses outright would cost over $7,500.
+-   Course topics include cinematography, directing, lighting, cameras, and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
+-   7-day money back guarantee if you decide it's not for you.
+
+[Join MZed Pro now and start watching today!](https://www.mzed.com/checkout/?sku=MZEDPRO12?tap_a=17272-420962&tap_s=3140924-861afc)
+
+[![](/assets/images/posts/mzed-courses-tiles-august.jpg)](https://www.mzed.com/?tap_a=17272-420962&tap_s=3128363-5eabdb)
+
+Image source: MZed
+
+Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/).
+
+**What's your approach to shooting day exteriors? Do you have any tips to avoid getting back home empty-handed? Share your experience in the comments below!**
