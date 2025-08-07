@@ -1,10 +1,11 @@
 ---
 title: How to Shoot Mirror Scenes
 date: 2025-01-10 00:00:00 Z
+published: false
 image: "/assets/images/posts/how-to-shoot-mirror-scenes-hero.jpg"
-layout: post
 meta_description: Mirrors can be tricky to avoid filming yourself - here's some tips
 subtitle: Mirrors can be tricky to avoid filming yourself - here's some tips
+layout: post
 ---
 
 Mirror, mirror on the wall… Mirrors are an impressive tool in cinematography. Not only do they have the potential for creating fascinating shot compositions and [ambiguous space](https://www.cined.com/types-of-space-in-film-explained-crafting-depth-in-your-cinematic-story/), but they can add another layer to your story through the character's reflection. Reflections themselves pose a big issue, though. Namely, how do you hide your camera and crew? Choosing the right angle is surely a way to do it, but what if you are after rather tricky shots with mirrors? Let's take a look at some examples and ways to execute them!
@@ -64,7 +65,7 @@ Ready for another astonishing shot? I bet you know this one as well. Yet, do you
 
 Some may think it's all possible through effects and computer-generated images. Nowadays, most filmmakers probably use the mighty rotoscoping for mirror shots and don't bother to hide the camera behind a fake wall. However, it wasn't the approach in this particular sequence from "[Black Swan](https://www.imdb.com/title/tt0947798/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Black%2520Swan)."
 
-VFX artists from the YouTube channel "[Corridor Crew](https://www.youtube.com/results?search_query=corridor+crew)" found some behind-the-scenes footage and demonstrated the process here. In fact, this scene with Natalie Portman was filmed from behind a reciprocal mirror, also called a one-way mirror. It's a mirror that appears reflective from one side and transparent from another (like we know from interrogation room sequences in films). This way, the creators of "Black Swan" got reflections to form an infinite labyrinth for real. As for the element in the reflection, where she scrapes herself, they filmed it on the green screen, trying to replicate the same camera movement, and then stabilized it and tracked it back into the original shot.
+VFX artists from the YouTube channel "[Corridor Crew](https://www.youtube.com/results?search_query=corridor\+crew)" found some behind-the-scenes footage and demonstrated the process here. In fact, this scene with Natalie Portman was filmed from behind a reciprocal mirror, also called a one-way mirror. It's a mirror that appears reflective from one side and transparent from another (like we know from interrogation room sequences in films). This way, the creators of "Black Swan" got reflections to form an infinite labyrinth for real. As for the element in the reflection, where she scrapes herself, they filmed it on the green screen, trying to replicate the same camera movement, and then stabilized it and tracked it back into the original shot.
 
 ![Black Swan green screen setup for mirror effects](/assets/images/posts/mirror-scenes-black-swan-green-screen.jpg)
 *Black Swan used green screen techniques combined with reciprocal mirrors. Image source: Searchlight Pictures*
@@ -213,17 +214,25 @@ As an [MZed Pro member](https://www.mzed.com/), you get access to over 500 hours
 
 For just $30/month (billed annually at $349), here's what you'll get:
 
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
+* 55\+ courses, over 850\+ high-quality lessons, spanning over 500 hours of learning.
 
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
+* Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
+
+* Unlimited access to stream all content during the 12 months.
+
+* Offline download and viewing with the MZed iOS app.
+
+* Discounts to ARRI Academy online courses, exclusively on MZed.
+
+* Most of our courses provide an industry-recognized certificate upon completion.
+
+* Purchasing the courses outright would cost over $9,500.
+
+* Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
+
+* 7-day money-back guarantee if you decide it's not for you.
+
+**[Join MZed Pro now and start watching today!](https://www.mzed.com/)**
 
 ## Conclusion
 
