@@ -60,7 +60,6 @@ exclude:
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
-- jekyll-relative-links
 siteleaf:
   build_command: bundle exec jekyll build
   serve_command: bundle exec jekyll serve
