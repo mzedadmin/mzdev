@@ -47,7 +47,7 @@ defaults:
   values:
     layout: page
 url: https://mzedadmin.github.io/mzdev
-baseurl: ""
+baseurl: ''
 description: MZed is the leading online education platform for filmmakers and photographers.
 markdown: kramdown
 permalink: pretty
