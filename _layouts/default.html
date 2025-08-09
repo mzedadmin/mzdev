@@ -45,7 +45,9 @@
     {% if page.custom_js %} {% for js_file in page.custom_js %}
     <script src="{{ js_file | relative_url }}"></script>
     {% endfor %} {% endif %}
-
+    
+    <!-- GitHub Pages URL fix -->
+    <script src="{{ '/assets/js/url-fix.js' | relative_url }}"></script>
 
   </body>
 </html>
