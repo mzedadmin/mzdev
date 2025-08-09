@@ -46,8 +46,8 @@ defaults:
     type: pages
   values:
     layout: page
-url: http://example.com
-baseurl: 
+url: https://mzedadmin.github.io/mzdev/
+baseurl: "/mzdev"
 description: MZed is the leading online education platform for filmmakers and photographers.
 markdown: kramdown
 permalink: pretty
