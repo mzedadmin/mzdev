@@ -1,10 +1,3 @@
+# Override for GitHub Pages deployment
 url: "https://mzedadmin.github.io"
 baseurl: "/mzdev"
-
-# Enable relative links processing
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: false
