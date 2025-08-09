@@ -1,2 +1,10 @@
-url: "https://mzedadmin.github.io/mzdev"
-baseurl: ""
+url: "https://mzedadmin.github.io"
+baseurl: "/mzdev"
+
+# Enable relative links processing
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
