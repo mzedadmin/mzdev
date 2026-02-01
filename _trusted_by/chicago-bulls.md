@@ -1,5 +1,6 @@
 ---
 title: Chicago Bulls
-logo: /assets/images/logos/bulls.svg
 position: 2
+logo: "/assets/images/logos/bulls.svg"
 ---
+
