@@ -1243,467 +1243,304 @@ $sectionPadding: var(--sectionPadding);
 
 /*--          Pricing           - -*/
 
-#plan {
-  font-family: 'Calibre', Arial, sans-serif;
-  color: #333;
-  padding: 6rem 2rem;
-  background-image: url(/mzdev/assets/images/homepage/mzed-background.jpg);
-}
-#plan .cs-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  text-align: center;
-  display: flex;
-  justify-content: left;
-  gap: 4rem;
-}
-@media (max-width: 768px) {
-  #plan .cs-container {
-    flex-direction: column;
-    gap: 2rem;
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+  #plan {
+    font-family: 'Calibre', Arial, sans-serif;
+    padding: clamp(3.75rem, 7.82vw, 6.25rem) 1rem;
+    background-image: url(/mzdev/assets/images/homepage/mzed-background.jpg);
+    background-size: cover;
+    background-position: center;
+
+    .cs-container {
+      width: 100%;
+      max-width: 56.25rem;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: clamp(2rem, 4vw, 3rem);
+    }
+
+    .cs-content {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .cs-title {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      font-weight: bold;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+
+    .cs-accent {
+      color: var(--primaryLight);
+    }
+
+    .cs-text {
+      font-size: clamp(1rem, 1.8vw, 1.15rem);
+      color: #fff;
+      opacity: 0.85;
+      margin: 0;
+    }
+
+    /* --- Card group --- */
+    .cs-card-group {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    /* --- Individual card --- */
+    .cs-card {
+      width: 100%;
+      max-width: 22rem;
+      background: #fff;
+      border-radius: 0.75rem;
+      padding: 2rem 1.5rem;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+    }
+
+    .cs-card-annual {
+      order: -1;
+      border: 2px solid var(--primaryLight);
+    }
+
+    .cs-card-monthly {
+      order: 0;
+      border: 2px solid transparent;
+    }
+
+    /* --- Badge --- */
+    .cs-badge {
+      position: absolute;
+      top: -0.875rem;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: var(--primaryLight);
+      color: #1a1a2e;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      padding: 0.3rem 1rem;
+      border-radius: 2rem;
+      white-space: nowrap;
+    }
+
+    /* --- Card header --- */
+    .cs-plan-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--headerColor);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin: 0 0 1rem;
+    }
+
+    .cs-card-annual .cs-plan-name {
+      color: #1a1a2e;
+    }
+
+    /* --- Price display --- */
+    .cs-card-price {
+      margin-bottom: 1.5rem;
+    }
+
+    .cs-price {
+      font-size: clamp(2.5rem, 5vw, 3.5rem);
+      font-weight: 700;
+      color: var(--headerColor);
+      line-height: 1;
+    }
+
+    .cs-price-period {
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--bodyTextColor);
+    }
+
+    .cs-billed-annually {
+      display: block;
+      font-size: 0.85rem;
+      color: #999;
+      margin-top: 0.25rem;
+    }
+
+    /* --- CTA buttons --- */
+    .cs-button {
+      display: block;
+      width: 100%;
+      margin-top: auto;
+      padding: 0.85rem 1.5rem;
+      font-size: 1rem;
+      font-weight: 700;
+      text-decoration: none;
+      text-align: center;
+      border-radius: 0.3rem;
+      transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+      cursor: pointer;
+      box-sizing: border-box;
+    }
+
+    .cs-button-annual {
+      background-color: var(--primary);
+      color: #fff;
+      border: 2px solid var(--primary);
+
+      &:hover {
+        background-color: #c9342b;
+        border-color: #c9342b;
+      }
+    }
+
+    .cs-button-monthly {
+      background-color: #fff;
+      color: var(--primary);
+      border: 2px solid var(--primary);
+
+      &:hover {
+        background-color: var(--primary);
+        color: #fff;
+      }
+    }
+
+    /* --- Risk text --- */
+    .cs-risk-text {
+      font-size: 0.8rem;
+      line-height: 1.4em;
+      color: #999;
+      margin: 0.75rem 0 0;
+      text-align: center;
+    }
+
+    /* --- Shared features --- */
+    .cs-features {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+      width: 100%;
+      max-width: 28rem;
+    }
+
+    .cs-feature-item {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 0.95rem;
+      color: #fff;
+      opacity: 0.9;
+    }
+
+    .cs-check {
+      width: 1.25rem;
+      height: 1.25rem;
+      flex-shrink: 0;
+    }
+
+    /* --- Trust signal (matches hero pattern) --- */
+    .cs-trust-signal {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+    }
+
+    .cs-avatars {
+      display: flex;
+      flex-shrink: 0;
+
+      img {
+        width: 2rem;
+        height: 2rem;
+        border-radius: 50%;
+        border: 2px solid rgba(255, 255, 255, 0.8);
+        object-fit: cover;
+        display: block;
+
+        &:not(:first-child) {
+          margin-left: -0.5rem;
+        }
+      }
+    }
+
+    .cs-trust-info {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .cs-stars {
+      font-size: 0.875rem;
+      line-height: 1em;
+      color: var(--primaryLight);
+      letter-spacing: 0.05em;
+    }
+
+    .cs-trust-text {
+      font-size: 0.8125rem;
+      line-height: 1.4em;
+      font-weight: 600;
+      color: var(--bodyTextColorWhite);
+      opacity: 0.9;
+      margin: 0;
+    }
   }
 }
-#plan .cs-container-left {
-  margin-top: 8rem;
-  width: 60%;
-  max-width: 450px;
-  margin: auto;
-}
-#plan .cs-container-left .cs-title,
-#plan .cs-container-left .cs-text {
-  text-align: left;
-}
-#plan .cs-container-left .cs-text {
-  margin: 2rem 0 3rem 0;
-}
-#plan .cs-logo {
-  max-width: 200px;
-  padding: 2rem 0 0 0.5rem;
-}
-#plan .cs-title {
-  font-size: 2.5rem;
-  font-weight: bold;
-  margin-bottom: 1rem;
-  color: white;
-}
-#plan .title-highlight {
-  color: #fbb11c;
-}
-#plan .cs-text {
-  font-size: 1rem;
-  margin-bottom: 2rem;
-  color: white;
-}
-#plan .cs-link {
-  color: #ccc;
-  text-decoration: none;
-}
-#plan .cs-toggle-group {
-  width: 100%;
-  margin: 0;
-  padding: 0.75rem;
-  box-sizing: border-box;
-  background-color: #f1f1f4;
-  border-radius: 0.5rem;
-  display: grid;
-  grid-template-columns: 1fr 0.5fr 1fr;
-  justify-content: center;
-  justify-items: center;
-  align-items: center;
-  margin-bottom: 2rem;
-}
-#plan .cs-toggle-group .cs-toggle-text:first-of-type {
-  grid: 1 / span 1;
-  padding: 0.3rem 1.5rem 0.3rem 0;
-  font-weight: 600;
-}
-#plan .cs-toggle-group .cs-toggle-text:last-of-type {
-  grid: 3 / span 1;
-  padding-left: 1.5rem;
-  font-weight: 600;
-}
-#plan .cs-toggle-group .cs-toggle {
-  grid: 2 / span 1;
-  height: 34px;
-}
-#plan .cs-toggle-group .cs-toggle input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-#plan .cs-toggle-group .cs-toggle .cs-toggle-slider {
-  cursor: pointer;
-  background-color: #5cb5e6;
-  transition: 0.4s;
-  border-radius: 34px;
-  max-width: 62px;
-}
-#plan .cs-toggle-group .cs-toggle .cs-toggle-slider:before {
-  position: absolute;
-  content: '';
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  transition: 0.4s;
-  border-radius: 50%;
-}
-#plan .cs-pricing-card {
-  display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
-  background: white;
-  border-radius: 1rem;
-  overflow: hidden;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-#plan .cs-pricing-card .title-highlight {
-  color: #eb3e33;
-  font-weight: 600;
-  display: block;
-}
-#plan .cs-pricing-card .cs-column {
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-}
-@media (max-width: 768px) {
-  #plan .cs-pricing-card .cs-column {
-    padding: 0;
-    min-width: 0;
-  }
-}
-#plan .cs-pricing-card .cs-column .cs-title {
-  color: #444;
-  font-size: 1.5rem;
-  font-weight: 600;
-}
-#plan .cs-pricing-card .cs-column.cs-annual {
-  background-color: #1a1a2e;
-  color: white;
-  margin-top: -1px;
-}
-#plan .cs-pricing-card .cs-column.cs-annual .cs-title {
-  color: white;
-}
-#plan .cs-pricing-card .cs-column.cs-monthly {
-  background-color: rgba(0, 0, 0, 0.02);
-}
-#plan .cs-pricing-card .cs-row {
-  display: contents;
-  min-height: 0;
-  height: auto;
-}
-#plan .cs-pricing-card .cs-row > * {
-  padding: 0.5rem 1rem;
-  margin-top: -1px;
-  display: flex;
-  align-items: center;
-  text-align: left;
-  justify-content: center;
-  font-size: 1rem;
-}
-#plan .cs-pricing-card .cs-row .feature.border-top {
-  border-top: 0.3px solid #e9e9e9;
-  margin-top: 0;
-}
-#plan .cs-pricing-card .cs-row .monthly.border-top {
-  border-top: 0.5px solid #e9e9e9;
-}
-#plan .cs-pricing-card .cs-row .annual.border-top {
-  border-top: 0.5px solid #333;
-}
-#plan .cs-pricing-card .cs-row .monthly-container {
-  background-color: #fafafa;
-}
-#plan .cs-pricing-card .cs-row .monthly {
-  background-color: #fafafa;
-  margin-top: 0px;
-}
-#plan .cs-pricing-card .cs-row .feature {
-  justify-content: flex-start;
-  color: #666;
-  padding-left: 1.5rem;
-}
-#plan .cs-pricing-card .cs-checkmark {
-  color: #ff6600;
-  font-weight: bold;
-  font-size: 1.2rem;
-  margin-right: 0.5rem;
-}
-#plan .cs-pricing-card .cs-button {
-  display: block;
-  width: 100%;
-  padding: 0.7rem;
-  text-decoration: none;
-  border: none;
-  border-radius: 5px;
-  font-size: 1rem;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  margin-top: auto;
-}
-#plan .cs-pricing-card .cs-button-monthly {
-  background-color: white;
-  color: #ff6600;
-  border: 1px solid #ea3f34;
-}
-#plan .cs-pricing-card .cs-button-monthly:hover {
-  background-color: #5cb5e6;
-  border: 1px solid #5cb5e6;
-  color: white;
-}
-#plan .cs-pricing-card .cs-button-annual {
-  background-color: #ea3f34;
-  color: white;
-  margin-top: 2px;
-}
-#plan .cs-pricing-card .cs-button-annual:hover {
-  background-color: #5cb5e6;
-}
-#plan .cs-pricing-card .cs-risk-text {
-  font-size: 0.75rem;
-  line-height: 1.4em;
-  color: #999;
-  margin: 0.5rem 0 0;
-  text-align: center;
-}
-#plan .cs-pricing-card .cs-column.cs-annual .cs-risk-text {
-  color: rgba(255, 255, 255, 0.6);
-}
-#plan .cs-pricing-card .feature {
-  background-color: white;
-}
-#plan .cs-pricing-card .annual {
-  background-color: #1a1a2e;
-  color: white;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-}
-#plan .cs-pricing-card .billed-annually {
-  font-size: 0.8rem;
-  color: #e5dede;
-  margin-top: 4px;
-  font-weight: 100;
-}
-#plan .cs-pricing-card .monthly .no {
-  margin-left: -8px;
-}
-#plan .cs-pricing-card .price {
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-#plan .cs-pricing-card .monthly.price {
-  align-self: flex-start;
-}
-#plan .cs-toggle {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-#plan .cs-toggle input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-#plan .cs-toggle input:checked + .cs-toggle-slider {
-  background-color: #1a1a2e;
-}
-#plan .cs-toggle input:focus + .cs-toggle-slider {
-  box-shadow: 0 0 1px #2196f3;
-}
-#plan .cs-toggle-slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  transition: 0.4s;
-  border-radius: 34px;
-}
-#plan .cs-toggle-slider:before {
-  position: absolute;
-  content: '';
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  transition: 0.4s;
-  border-radius: 50%;
-}
-#plan .cs-course-only {
-  display: none;
-  grid-template-columns: 1.5fr 1fr;
-  align-items: center;
-  padding: 1rem 2rem;
-  border-radius: 1rem;
-  text-align: center;
-  overflow: hidden;
-}
-#plan .cs-course-only .cs-title {
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin-bottom: 1rem;
-  text-align: left;
-}
-#plan .cs-course-only .cs-column.feature {
-  grid-column: 1 / span 2;
-}
-#plan .cs-course-only .cs-row .monthly,
-#plan .cs-course-only .cs-row .feature {
-  background-color: white;
-  border-bottom: 0.5px solid #e9e9e9;
-  min-height: 3rem;
-  align-self: flex-end;
-}
-#plan .cs-course-only .cs-row .feature {
-  margin-top: 0;
-}
-#plan .cs-course-only .cs-checkmark {
-  margin-right: 0;
-}
-#plan .cs-course-only .cs-button {
-  background-color: #eb3e33;
-  color: white;
-  border: none;
-  padding: 0.7rem 1rem;
-  font-size: 1rem;
-  font-weight: bold;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-#plan .cs-course-only .cs-button:hover {
-  background-color: #d62115;
-}
-@media (max-width: 768px) {
-  #plan .cs-container-left {
-    width: 100%;
-  }
-  #plan .cs-course-only .cs-column .cs-title {
-    font-size: 1.3rem !important;
-  }
-  #plan .cs-course-only .cs-column .cs-button {
-    max-width: 95%;
-    margin-top: 1.5rem;
-    padding: 1rem;
-  }
-  #plan .cs-pricing-card {
-    overflow-x: auto;
-    margin-top: -2rem;
-  }
-  #plan .cs-pricing-card .cs-course-only {
-    grid-template-columns: 0.5fr 1fr;
-  }
-  #plan .cs-pricing-card .feature {
-    grid-column-start: 1;
-  }
-  #plan .cs-pricing-card .cs-monthly {
-    grid-column-start: 2;
-  }
-  #plan .cs-pricing-card .cs-annual {
-    grid-column-start: 3;
-  }
-  #plan .cs-pricing-card .cs-column .cs-title {
-    font-size: 1rem;
-    padding: 1rem 0.5rem;
-  }
-  #plan .cs-pricing-card .cs-row {
-    display: contents;
-  }
-  #plan .cs-pricing-card .cs-row > * {
-    padding: 0.5rem 1rem;
-    margin-top: -1px;
-    min-height: 0;
-    height: auto;
-    font-size: 1rem;
-    display: flex;
-  }
-  #plan .cs-pricing-card .price {
-    font-size: 1rem;
-  }
-  #plan .cs-pricing-card .cs-logo {
-    padding: 1.5rem;
-  }
-  #plan .cs-pricing-card .cs-button {
-    margin: 0.5rem 0.3rem;
-    padding: 0.4rem;
-    font-size: 0.8rem;
-    max-width: 90%;
-  }
-  #plan .cs-pricing-card .cs-annual .cs-button {
-    margin-top: 10px;
-  }
-}
-@media (max-width: 768px) and (max-width: 390px) {
-  #plan .cs-container-left .cs-toggle-group {
-    width: 112%;
-    margin-left: -20px;
-  }
-}
-@media (max-width: 768px) and (max-width: 390px) {
-  #plan .cs-pricing-card {
-    margin-left: -20px;
-    margin-right: -20px;
-  }
-  #plan .cs-pricing-card .cs-row .feature {
-    font-size: 0.9rem;
-  }
-}
+
+/* Tablet - 768px */
 @media only screen and (min-width: 48rem) {
-  #plan #plan .cs-container {
-    flex-direction: row;
-    align-items: center;
-  }
-  #plan #plan .cs-container-left {
-    width: 40%;
-  }
-  #plan #plan .cs-container-right {
-    width: 60%;
-  }
-  #plan #plan .cs-pricing-card {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-@media only screen and (min-width: 48rem) {
-  #plan #plan .cs-container {
-    max-width: 1200px;
-  }
-  #plan #plan .cs-pricing-card {
-    grid-template-columns: 1.5fr 1fr 1fr;
-  }
-}
-@keyframes toggleOn {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(26px);
+  #plan {
+    .cs-card-group {
+      flex-direction: row;
+      justify-content: center;
+      align-items: stretch;
+    }
+
+    .cs-card-annual {
+      order: 0;
+    }
+
+    .cs-card {
+      width: 50%;
+      max-width: 20rem;
+    }
+
+    .cs-card-annual {
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
+    }
+
+    .cs-features {
+      grid-template-columns: 1fr 1fr;
+      max-width: 44rem;
+      gap: 0.75rem 2rem;
+    }
   }
 }
-@keyframes toggleOff {
-  0% {
-    transform: translateX(26px);
+
+/* Desktop - 1200px */
+@media only screen and (min-width: 75rem) {
+  #plan {
+    .cs-container {
+      max-width: 62.5rem;
+    }
+
+    .cs-card {
+      max-width: 22rem;
+    }
   }
-  100% {
-    transform: translateX(0);
-  }
-}
-#plan .cs-toggle-slider:before {
-  animation-duration: 0.3s;
-  animation-fill-mode: forwards;
-}
-#plan .cs-toggle input:checked + .cs-toggle-slider:before {
-  animation-name: toggleOn;
-}
-#plan .cs-toggle input:not(:checked) + .cs-toggle-slider:before {
-  animation-name: toggleOff;
 }
 
 /*--------What You'll Learn--------*/

@@ -103,15 +103,17 @@ The homepage follows an **Attention > Interest > Trust > Action** conversion fun
 ### Homepage Frontmatter (Siteleaf-editable)
 ```yaml
 hero:
-  headline: "Stop Searching YouTube. Start Learning Now."
-  subtext: "Become a better filmmaker today..."
-  cta_text: "Join MZed Pro"
+  headline: "800+ Lessons from the World's Top Filmmakers."
+  headline2: "One Subscription."              # Rendered in gold accent color
+  subtext: "60+ courses from Oscar & Emmy Award winners, Hollywood DPs, and top content creators."
+  subtext2: "Stream anywhere. Cancel anytime." # Rendered bold with tagline styling
+  cta_text: "Get MZed Pro"
   cta_link: "#plan"
-  risk_text: "7-day money-back guarantee on annual plans. Cancel monthly anytime."
+  social_proof: "Join 100,000+ filmmakers"     # Shown with avatar stack + stars
 catalog:
   topper: "Course Library"
   title: "All the courses you need to become a master filmmaker"
-  text: "Over 800 lessons featuring trusted..."
+  text: "Over 800 lessons featuring trusted, high-quality course videos..."
 educators_section:
   topper: "World-Class Educators"
   title: "Learn from the best educators in the business"
@@ -123,10 +125,17 @@ cta_banner:
   risk_text: "7-day money-back guarantee on annual plans. Cancel monthly anytime."
 ```
 
+### Hero Structure
+The hero uses a column flex layout with visual hierarchy:
+- **headline** (font-weight: 300, white) + **headline2** wrapped in `.cs-title-accent` (font-weight: 700, gold/primaryLight)
+- **subtext** (0.85 opacity, max-width: 36rem) + **subtext2** wrapped in `.cs-text-tagline` (font-weight: 600, letter-spacing)
+- CTA button (18px font, 56px horizontal padding)
+- Trust signal: 5 overlapping educator avatar circles + gold stars + social proof text (pulled from `_educators` collection, sorted by position, limit 5)
+
 ### Homepage Includes
 | Include | Purpose |
 |---|---|
-| `trusted_by.html` | Scrolling logo bar of trusted brands |
+| `trusted_by.html` | Scrolling logo bar — "Trusted by teams at" (50s animation) |
 | `stats_strip.html` | 4 key numbers: Courses, Lessons, Hours, Value (course count is dynamic from collection) |
 | `course_catalog.html` | Netflix-style horizontal-scroll rows grouped by topic from `_data/course_categories.yml` |
 | `course_thumb.html` | Lightweight thumbnail card: image + title + educator |
@@ -152,12 +161,30 @@ Courses appear in multiple categories if they have multiple topics. Categories w
 
 ## Conversion Optimization Decisions
 
-- **Single CTA in hero** - Research shows multiple CTAs reduce conversion. One "Join MZed Pro" button with risk-reduction text underneath.
-- **Risk-reduction text** at every CTA point (hero, CTA banner, pricing) - "7-day money-back guarantee" / "Cancel anytime" reduces purchase anxiety.
-- **Stats strip** instead of large feature sections - Dense number presentation is more impactful and gets visitors to the course catalog faster.
+- **Value-first headline** - Leads with library scale (800+) and credential authority (World's Top Filmmakers), with "One Subscription." as a bold gold accent line. Research shows outcome/value headlines outperform pain-point framing.
+- **Trust signal in hero** - Overlapping educator avatars + 5 stars + "Join 100,000+ filmmakers" follows the modern SaaS social proof pattern (similar to Cursor, Linear, etc.)
+- **Credential stacking in subtext** - "Oscar & Emmy Award winners, Hollywood DPs, and top content creators" is specific and aspirational vs generic "best in the industry"
+- **Single CTA per section** - Research shows 371% more clicks vs multiple CTAs. "Get MZed Pro" uses a power verb ("Get") that implies receiving value.
+- **Risk-reduction text** at CTA banner and pricing points. Hero uses "Stream anywhere. Cancel anytime." as a bold tagline instead.
+- **Stats strip** with dark background and gold numbers — dense number presentation is more impactful and gets visitors to the course catalog faster.
 - **Streaming-platform catalog** - Netflix-style horizontal scroll shows breadth of library without overwhelming. Pure CSS scroll-snap, no JS carousel.
 - **Real educator cards** instead of static background image - Actual faces and names build more trust than a generic photo.
 - **CTA banner after trust section** - Placed after video testimonial + written reviews for maximum trust-to-action conversion.
+
+## Section Background Flow
+```
+Hero             → dark (video overlay)
+Trusted By       → #f7f7f7 (light gray)
+Stats Strip      → #1a1a2e (dark navy)
+Course Catalog   → #14142b (dark navy)
+Educators        → #fff (white)
+Video            → #f7f7f7 (light gray)
+Reviews          → #fff (white)
+CTA Banner       → var(--primary) (red)
+Recent Articles  → #f7f7f7 (light gray)
+FAQ              → #fff (white)
+Pricing          → #fff (white)
+```
 
 ## Change Log
 
@@ -174,3 +201,9 @@ Courses appear in multiple categories if they have multiple topics. Categories w
 - `_sass/homepage.scss` - Removed ~700 lines of old section styles, added styles for stats-strip, course-catalog, educator-showcase, cta-banner, recent-articles, risk-text
 - `_sass/course.scss` - Added `.cs-risk-text` styles in pricing section
 - `_includes/mzed_pricing.html` - Added "Cancel anytime" / "7-day money-back guarantee" under CTA buttons
+
+### 2025-02-01: Homepage Visual Enhancements
+**Modified:**
+- `index.html` - Hero: new conversion-optimized copy (value-first headline, credential-stacking subtext, "Get MZed Pro" CTA), trust signal component with educator avatars + stars + social proof, split headline/subtext into two-part frontmatter fields with `.cs-title-accent` and `.cs-text-tagline` spans. FAQ: removed SVG waves background.
+- `_includes/trusted_by.html` - Changed label from "Trusted by" to "Trusted by teams at"
+- `_sass/homepage.scss` - Hero: column flex layout, font-weight 300 headline + 700 gold accent, larger subtext (22px max) and button (18px), trust signal with overlapping avatar stack. Trusted by: slowed animation 30s→50s. Stats strip: dark bg (#1a1a2e), gold numbers (primaryLight), dividers. Course catalog: compacted padding/gaps/thumbnails (13rem max). Educator showcase: compacted padding/gaps/photos (6rem max). Video: added #f7f7f7 background. Reviews: border-radius 16px→4px. FAQ: changed from dark (#14142b) to white background with standard text colors, removed wave background styles.

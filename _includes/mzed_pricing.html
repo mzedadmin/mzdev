@@ -2,139 +2,101 @@
 <!--             MZed Pro Pricing                 -->
 <!-- ============================================ -->
 
+{% assign monthly = site.data.prices.mzed-monthly %}
+{% assign annual = site.data.prices.mzed-annual %}
+{% assign diff = monthly | minus: annual %}
+{% assign savings = diff | times: 100 | divided_by: monthly %}
+
 <section id="plan">
   <div class="cs-container">
-    <div class="cs-container-left">
-      <div id="get-started">
-        <div class="cs-title">
-          Ready to Get Started with <span class="title-highlight">MZed Pro?</span>
+    <!-- Centered heading -->
+    <div class="cs-content">
+      <h2 class="cs-title">
+        Ready to Get Started with <span class="cs-accent">MZed Pro?</span>
+      </h2>
+      <p class="cs-text">
+        Make a commitment to becoming a better filmmaker today.
+      </p>
+    </div>
+
+    <!-- Pricing cards -->
+    <div class="cs-card-group">
+
+      <!-- Monthly Card -->
+      <div class="cs-card cs-card-monthly">
+        <div class="cs-card-header">
+          <h3 class="cs-plan-name">Monthly</h3>
         </div>
-        <p class="cs-text">
-          Make a commitment to becoming a better filmmaker, today. Seven-day money-back guarantee
-          (<a href="https://www.mzed.com/terms-of-service#section-6" class="cs-link"
-            >view full terms here</a
-          >).
-        </p>
+        <div class="cs-card-price">
+          <span class="cs-price">${{ monthly }}</span>
+          <span class="cs-price-period">/month</span>
+        </div>
+        <a href="https://www.mzed.com/checkout/?sku=MZEDPRO1" class="cs-button cs-button-monthly">
+          Join Monthly
+        </a>
+        <p class="cs-risk-text">Cancel anytime</p>
+      </div>
+
+      <!-- Annual Card (recommended) -->
+      <div class="cs-card cs-card-annual">
+        <div class="cs-badge">Best Value — Save {{ savings }}%</div>
+        <div class="cs-card-header">
+          <h3 class="cs-plan-name">Annual</h3>
+        </div>
+        <div class="cs-card-price">
+          <span class="cs-price">${{ annual }}</span>
+          <span class="cs-price-period">/month</span>
+          <span class="cs-billed-annually">billed annually</span>
+        </div>
+        <a href="https://www.mzed.com/checkout/?sku=MZEDPRO12" class="cs-button cs-button-annual">
+          Join Annually
+        </a>
+        <p class="cs-risk-text">7-day money-back guarantee</p>
+      </div>
+
+    </div>
+
+    <!-- Shared feature list -->
+    <ul class="cs-features">
+      <li class="cs-feature-item">
+        <img src="{{ site.baseurl }}/assets/icons/round-check.svg" alt="" class="cs-check" />
+        Unlimited access to all 60+ courses and 800+ lessons
+      </li>
+      <li class="cs-feature-item">
+        <img src="{{ site.baseurl }}/assets/icons/round-check.svg" alt="" class="cs-check" />
+        Learn from Academy Award and Pulitzer Prize winning educators
+      </li>
+      <li class="cs-feature-item">
+        <img src="{{ site.baseurl }}/assets/icons/round-check.svg" alt="" class="cs-check" />
+        Offline viewing with the MZed iOS app
+      </li>
+      <li class="cs-feature-item">
+        <img src="{{ site.baseurl }}/assets/icons/round-check.svg" alt="" class="cs-check" />
+        Industry-recognized certificates upon completion
+      </li>
+      <li class="cs-feature-item">
+        <img src="{{ site.baseurl }}/assets/icons/round-check.svg" alt="" class="cs-check" />
+        Over $9,000 in course value
+      </li>
+      <li class="cs-feature-item">
+        <img src="{{ site.baseurl }}/assets/icons/round-check.svg" alt="" class="cs-check" />
+        Stream on any device, anywhere
+      </li>
+    </ul>
+
+    <!-- Social proof -->
+    <div class="cs-trust-signal">
+      <div class="cs-avatars">
+        {% assign top_educators = site.educators | sort: "position" %}
+        {% for educator in top_educators limit: 5 %}
+        <img src="{{ educator.Image | relative_url }}" alt="{{ educator.name }}" loading="lazy" width="36" height="36">
+        {% endfor %}
+      </div>
+      <div class="cs-trust-info">
+        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="cs-trust-text">Join 100,000+ filmmakers</p>
       </div>
     </div>
 
-    <div class="cs-container-right">
-      <!-- MZed Pro -->
-      <div class="cs-pricing-card">
-        <div class="cs-column feature">
-          <img src="{{ site.baseurl }}/assets/icons/MZed-PRO-CMYK.svg" alt="MZed PRO" class="cs-logo" />
-        </div>
-        <div class="cs-column cs-monthly">
-          <div class="cs-title">Monthly Membership</div>
-        </div>
-        <div class="cs-column cs-annual">
-          <div class="cs-title annual">Annual Membership</div>
-        </div>
-        <div class="cs-row">
-          <div class="feature">Monthly price</div>
-          <div class="monthly-container">
-            <div class="monthly price">${{ site.data.prices.mzed-monthly }}/month</div>
-          </div>
-          <div class="annual price">
-            ${{ site.data.prices.mzed-annual }}/month
-            <div class="billed-annually">(billed annually)</div>
-          </div>
-        </div>
-        <div class="cs-row">
-          <div class="feature border-top">Unlimited access to all courses</div>
-          <div class="monthly border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-          <div class="annual border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-        </div>
-        <div class="cs-row">
-          <div class="feature border-top">
-            Learn from Academy Award and Pulitzer Prize winning educators
-          </div>
-          <div class="monthly border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-          <div class="annual border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-        </div>
-        <div class="cs-row">
-          <div class="feature border-top">Offline download and viewing with the MZed iOS app</div>
-          <div class="monthly border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-          <div class="annual border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-        </div>
-        <div class="cs-row">
-          <div class="feature border-top">
-            Industry-recognized certificates upon course completion
-          </div>
-          <div class="monthly border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-          <div class="annual border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-        </div>
-        <div class="cs-row">
-          <div class="feature border-top">Over $9000 in course value</div>
-          <div class="monthly border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-          <div class="annual border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-        </div>
-        <div class="cs-row">
-          <div class="feature border-top">7-day money back guarantee</div>
-          <div class="monthly border-top"><img src="{{ site.baseurl }}/assets/icons/no.svg" class="no" /></div>
-          <div class="annual border-top">
-            <span class="cs-checkmark"><img src="{{ site.baseurl }}/assets/icons/round-check.svg" /></span>
-          </div>
-        </div>
-        <div class="cs-column feature"></div>
-        <div class="cs-column cs-monthly">
-          <a class="cs-button cs-button-monthly" href="https://www.mzed.com/checkout/?sku=MZEDPRO1"
-            >Join Monthly</a
-          >
-          <p class="cs-risk-text">Cancel anytime</p>
-        </div>
-        <div class="cs-column cs-annual">
-          <a class="cs-button cs-button-annual" href="https://www.mzed.com/checkout/?sku=MZEDPRO12"
-            >Join Annually</a
-          >
-          <p class="cs-risk-text">7-day money-back guarantee</p>
-        </div>
-      </div>
-    </div>
   </div>
-
-  <script>
-    const toggle = document.querySelector('#pricing-1262 .cs-toggle input');
-    const subscriptionCard = document.querySelector(
-      '#pricing-1262 .cs-pricing-card:not(.cs-course-only)'
-    );
-    const courseOnlyCard = document.querySelector('#pricing-1262 .cs-course-only');
-    const readyText = document.querySelector('#pricing-1262 #get-started');
-
-    if (toggle) {
-      toggle.addEventListener('change', function () {
-      if (this.checked) {
-        subscriptionCard.style.display = 'none';
-        courseOnlyCard.style.display = 'grid';
-        readyText.innerHTML =
-          '<div class="cs-title">Ready to Get Started with <span class="title-highlight">Selling the Punch?</span></div><p class="cs-text">Make a commitment to becoming a better filmmaker, today. Purchase the course and own it for life.</p>';
-      } else {
-        subscriptionCard.style.display = 'grid';
-        courseOnlyCard.style.display = 'none';
-        readyText.innerHTML =
-          '<div class="cs-title">Ready to Get Started with <span class="title-highlight">MZed Pro?</span></div><p class="cs-text">Make a commitment to becoming a better filmmaker, today. Seven-day money-back guarantee (<a href="https://www.mzed.com/terms-of-service#section-6" class="cs-link">view full terms here</a>).</p>';
-      }
-    });
-    }
-  </script>
 </section>
