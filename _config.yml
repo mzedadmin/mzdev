@@ -22,6 +22,9 @@ collections:
   uploads:
     title: Uploads
     output: false
+  trusted_by:
+    title: Trusted By
+    output: false
 defaults:
 - scope:
     path: ''

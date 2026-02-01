@@ -23,7 +23,7 @@
             
             {% if page.name %}
                 {% assign educator_slug = page.name | slugify %}
-            <a href="/educators/{{ educator_slug }}" class="cs-button-solid"
+            <a href="{{ site.baseurl }}/educators/{{ educator_slug }}" class="cs-button-solid"
                     aria-label="learn more about {{ page.name }}">Learn More about {{ page.name | split: " " | first }}</a>
             {% endif %}
         </div>

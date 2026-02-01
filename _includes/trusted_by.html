@@ -1,0 +1,27 @@
+<!-- ============================================ -->
+<!--                 Trusted By                   -->
+<!-- ============================================ -->
+
+{% assign logos = site.trusted_by | sort: "position" %}
+{% if logos.size > 0 %}
+<section id="trusted-by">
+    <div class="cs-container">
+        <span class="cs-topper">Trusted by</span>
+        <div class="cs-track-wrapper">
+            <div class="cs-track">
+                {% for item in logos %}
+                <div class="cs-logo-item">
+                    <img src="{{ site.baseurl }}{{ item.logo }}" alt="{{ item.title }}" loading="lazy" decoding="async">
+                </div>
+                {% endfor %}
+                <!-- Duplicate for seamless loop -->
+                {% for item in logos %}
+                <div class="cs-logo-item">
+                    <img src="{{ site.baseurl }}{{ item.logo }}" alt="{{ item.title }}" loading="lazy" decoding="async" aria-hidden="true">
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}

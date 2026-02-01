@@ -3,9 +3,9 @@ layout: default
 ---
 
    <!-- Load Fancybox -->
-    <link rel="stylesheet" href="/assets/css/fancybox.css"/>
-    <script src="/assets/js/fancybox.umd.js"></script>
-    <script src="/assets/js/fancybox.js"></script>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css"/>
+    <script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/fancybox.js"></script>
 
 <main id="main">
 <!-- ============================================ -->
@@ -27,7 +27,7 @@ layout: default
       <!--Play Icon-->
       <picture class="cs-picture">
         <img class="cs-link-icon" aria-hidden="true" loading="lazy" decoding="async"
-            src="/assets/icons/tax-play.svg" alt="play icon" width="48" height="48">
+            src="{{ site.baseurl }}/assets/icons/tax-play.svg" alt="play icon" width="48" height="48">
       </picture>
     </a>
 
@@ -81,7 +81,7 @@ layout: default
         <picture class="cs-button-wrapper">
           <img
             class="cs-button-icon"
-            src="/assets/icons/angle-arrow.svg"
+            src="{{ site.baseurl }}/assets/icons/angle-arrow.svg"
             alt="icon"
             loading="lazy"
             decoding="async"
@@ -145,7 +145,7 @@ layout: default
                 <a href="#" class="cs-link">
                     {% assign icon = site.icons | where: "title", topic.Icon | first %}
                     {% if icon %}
-                    <img class="cs-icon" src="/assets/topic-icons/{{ icon.icon_file }}"
+                    <img class="cs-icon" src="{{ site.baseurl }}/assets/topic-icons/{{ icon.icon_file }}"
                         loading="lazy" decoding="async" alt="icon" width="40" height="40" aria-hidden="true">
                     {% endif %}
                     <h3 class="cs-h3">{{ topic.Title }}</h3>

@@ -6,9 +6,9 @@ description: MZed is the leading online education platform for filmmakers and ph
 ---
 
 <!-- Load Fancybox -->
-<link rel="stylesheet" href="/assets/css/fancybox.css"/>
-<script src="/assets/js/fancybox.umd.js"></script>
-<script src="/assets/js/fancybox.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css"/>
+<script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
+<script src="{{ site.baseurl }}/assets/js/fancybox.js"></script>
 
 <!-- ============================================ -->
 <!--                    Hero                      -->
@@ -24,19 +24,35 @@ description: MZed is the leading online education platform for filmmakers and ph
             </p>
             <a href="#plan" class="cs-button-solid">Join MZed Pro</a>
             <a href="" class="cs-button-transparent">
-                <img class="cs-img" decoding="async" src="/assets/icons/down-arrow.svg" alt="icon" width="17" height="17" aria-hidden="true">
+                <img class="cs-img" decoding="async" src="{{ site.baseurl }}/assets/icons/down-arrow.svg" alt="icon" width="17" height="17" aria-hidden="true">
                 Learn More
             </a>
         </div>
     </div>
 
-    <!-- Background Image -->
+    <!-- Dark Overlay -->
+    <div class="cs-overlay"></div>
+
+    <!-- Background Video -->
+    {% assign active_id = site.data.hero_videos.active %}
+    {% for video in site.data.hero_videos.videos %}
+        {% if video.id == active_id %}
+    <video class="cs-video" autoplay muted loop playsinline>
+        {% if video.webm != "" %}<source src="{{ video.webm }}" type="video/webm">{% endif %}
+        <source src="{{ video.mp4 }}" type="video/mp4">
+    </video>
+        {% endif %}
+    {% endfor %}
+
+    <!-- Background Image (fallback) -->
     <picture class="cs-picture">
-        <source media="(max-width: 600px)" srcset="/assets/images/homepage/course-tiles-rotated.jpg">
-        <source media="(min-width: 601px)" srcset="/assets/images/homepage/course-tiles-rotated.jpg">
-        <img decoding="async" src="/assets/images/homepage/course-tiles-rotated.jpg" alt="mountains" width="2250" height="1500" aria-hidden="true">
+        <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg">
+        <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg">
+        <img decoding="async" src="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg" alt="mountains" width="2250" height="1500" aria-hidden="true">
     </picture>
 </section>
+
+{% include trusted_by.html %}
                                 
 
 <!-- ============================================ -->
@@ -47,10 +63,10 @@ description: MZed is the leading online education platform for filmmakers and ph
     <div class="cs-container">
         <picture class="cs-picture">
             <!--Mobile Image-->
-            <source media="(max-width: 600px)" srcset="/assets/images/homepage/learn-with-mzed-pro.jpg">
+            <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/images/homepage/learn-with-mzed-pro.jpg">
             <!--Tablet and above Image-->
-            <source media="(min-width: 601px)" srcset="/assets/images/homepage/learn-with-mzed-pro.jpg">
-            <img loading="lazy" decoding="async" src="/assets/images/homepage/learn-with-mzed-pro.jpg" alt="models" width="586" height="690">
+            <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/images/homepage/learn-with-mzed-pro.jpg">
+            <img loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/images/homepage/learn-with-mzed-pro.jpg" alt="models" width="586" height="690">
         </picture>
         <div class="cs-content">
             <span class="cs-topper">Our Features</span>
@@ -120,11 +136,11 @@ description: MZed is the leading online education platform for filmmakers and ph
             <li class="cs-item">
                 <picture class="cs-picture">
                     <source media="(max-width: 600px)"
-                            srcset="/assets/images/homepage/mzed-educators.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-educators.jpg">
                     <source media="(min-width: 601px)"
-                            srcset="/assets/images/homepage/mzed-educators.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-educators.jpg">
                     <img decoding="async"
-                            src="/assets/images/homepage/mzed-educators.jpg"
+                            src="{{ site.baseurl }}/assets/images/homepage/mzed-educators.jpg"
                             alt="finance" width="413" height="374" aria-hidden="true" loading="lazy">
                 </picture>
                 <div class="cs-details">
@@ -135,18 +151,18 @@ description: MZed is the leading online education platform for filmmakers and ph
                     </p>
                     <a href="/" class="cs-link">
                         Join Us Today
-                        <img class="cs-arrow" loading="lazy" decoding="async" src="/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
+                        <img class="cs-arrow" loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
                     </a>
                 </div>
             </li>
             <li class="cs-item">
                 <picture class="cs-picture">
                     <source media="(max-width: 600px)"
-                            srcset="/assets/images/homepage/mzed-pro-value.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-pro-value.jpg">
                     <source media="(min-width: 601px)"
-                            srcset="/assets/images/homepage/mzed-pro-value.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-pro-value.jpg">
                     <img decoding="async"
-                            src="/assets/images/homepage/mzed-pro-value.jpg"
+                            src="{{ site.baseurl }}/assets/images/homepage/mzed-pro-value.jpg"
                             alt="finance" width="413" height="374" aria-hidden="true" loading="lazy">
                 </picture>
                 <div class="cs-details">
@@ -157,18 +173,18 @@ description: MZed is the leading online education platform for filmmakers and ph
                     </p>
                     <a href="/" class="cs-link">
                         Join Us Today
-                        <img class="cs-arrow" loading="lazy" decoding="async" src="/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
+                        <img class="cs-arrow" loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
                     </a>
                 </div>
             </li>
             <li class="cs-item">
                 <picture class="cs-picture">
                     <source media="(max-width: 600px)"
-                            srcset="/assets/images/homepage/mzed-educator-latasha-james.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-educator-latasha-james.jpg">
                     <source media="(min-width: 601px)"
-                            srcset="/assets/images/homepage/mzed-educator-latasha-james.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-educator-latasha-james.jpg">
                     <img decoding="async"
-                            src="/assets/images/homepage/mzed-educator-latasha-james.jpg"
+                            src="{{ site.baseurl }}/assets/images/homepage/mzed-educator-latasha-james.jpg"
                             alt="finance" width="413" height="374" aria-hidden="true" loading="lazy">
                 </picture>
                 <div class="cs-details">
@@ -179,18 +195,18 @@ description: MZed is the leading online education platform for filmmakers and ph
                     </p>
                     <a href="/" class="cs-link">
                         Join Us Today
-                        <img class="cs-arrow" loading="lazy" decoding="async" src="/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
+                        <img class="cs-arrow" loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
                     </a>
                 </div>
             </li>
             <li class="cs-item">
                 <picture class="cs-picture">
                     <source media="(max-width: 600px)"
-                            srcset="/assets/images/homepage/mzed-ios-app-arri.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-ios-app-arri.jpg">
                     <source media="(min-width: 601px)"
-                            srcset="/assets/images/homepage/mzed-ios-app-arri.jpg">
+                            srcset="{{ site.baseurl }}/assets/images/homepage/mzed-ios-app-arri.jpg">
                     <img decoding="async"
-                            src="/assets/images/homepage/mzed-ios-app-arri.jpg"
+                            src="{{ site.baseurl }}/assets/images/homepage/mzed-ios-app-arri.jpg"
                             alt="finance" width="413" height="374" aria-hidden="true" loading="lazy">
                 </picture>
                 <div class="cs-details">
@@ -201,7 +217,7 @@ description: MZed is the leading online education platform for filmmakers and ph
                     </p>
                     <a href="/" class="cs-link">
                         Join Us Today
-                        <img class="cs-arrow" loading="lazy" decoding="async" src="/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
+                        <img class="cs-arrow" loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/icons/chevron-right-white.svg" alt="icon" width="20" height="20" aria-hidden="true">
                     </a>
                 </div>
             </li>
@@ -240,10 +256,10 @@ description: MZed is the leading online education platform for filmmakers and ph
 <section id="RPsbs-600">
     <picture class="cs-background">
         <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="/assets/images/homepage/course-tiles-rotated.jpg">
+        <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg">
         <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="/assets/images/homepage/course-tiles-rotated.jpg">
-        <img loading="lazy" decoding="async" src="/assets/images/homepage/course-tiles-rotated.jpg" alt="room" width="960" height="796">
+        <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg">
+        <img loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg" alt="room" width="960" height="796">
     </picture>
     <div class="cs-container">
         <div class="cs-content">
@@ -311,10 +327,10 @@ description: MZed is the leading online education platform for filmmakers and ph
 <section id="RPsbsr-600">
     <picture class="cs-background">
         <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="/assets/images/homepage/mzed-educator-grid.jpg">
+        <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/images/homepage/mzed-educator-grid.jpg">
         <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="/assets/images/homepage/mzed-educator-grid.jpg">
-        <img loading="lazy" decoding="async" src="/assets/images/homepage/mzed-educator-grid.jpg" alt="room" width="960" height="796">
+        <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/images/homepage/mzed-educator-grid.jpg">
+        <img loading="lazy" decoding="async" src="{{ site.baseurl }}/assets/images/homepage/mzed-educator-grid.jpg" alt="room" width="960" height="796">
     </picture>
     <div class="cs-container">
         <div class="cs-content">
@@ -348,7 +364,7 @@ description: MZed is the leading online education platform for filmmakers and ph
                 {% include news_card.html post=post %}
             {% endfor %}
         </ul>
-        <a href="/news/" class="cs-button-solid">View All Articles</a>
+        <a href="{{ site.baseurl }}/news/" class="cs-button-solid">View All Articles</a>
     </div>
 </section>
 
@@ -367,13 +383,13 @@ description: MZed is the leading online education platform for filmmakers and ph
             <!--Background Image-->
             <picture class="cs-background">
                 <source media="(min-width: 1024px)"
-                        srcset="/assets/images/homepage/im-an-mzed-pro.jpg">
+                        srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg">
                 <source media="(min-width: 601px)"
-                        srcset="/assets/images/homepage/im-an-mzed-pro.jpg">
+                        srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg">
                 <source media="(max-width: 600px)"
-                        srcset="/assets/images/homepage/im-an-mzed-pro.jpg">
+                        srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg">
                 <img aria-hidden="true" loading="lazy" decoding="async"
-                        src="/assets/images/homepage/im-an-mzed-pro.jpg"
+                        src="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg"
                         alt="meeting" width="1280" height="580">
             </picture>
             <!--Play Icon-->
@@ -587,10 +603,10 @@ Please contact us with the above details and we can arrange the custom discount 
     <!--SVG Waves-->
     <picture class="cs-background">
         <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="/assets/icons/white-waves-m.svg">
+        <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/icons/white-waves-m.svg">
         <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="/assets/icons/white-waves-m.svg">
-        <img aria-hidden="true" src="/assets/icons/white-waves-m.svg" loading="lazy" decoding="async" alt="moon" width="1920" height="647">
+        <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/icons/white-waves-m.svg">
+        <img aria-hidden="true" src="{{ site.baseurl }}/assets/icons/white-waves-m.svg" loading="lazy" decoding="async" alt="moon" width="1920" height="647">
     </picture>
 </section>
                                 

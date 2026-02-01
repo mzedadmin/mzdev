@@ -1,0 +1,11 @@
+active: main-reel # change this to switch the live video
+
+videos:
+  - id: main-reel
+    title: "MZed Course Highlights"
+    mp4: "https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/video/mzed-pro/Video-Wall-2022-Update-v1.mp4"
+    webm: ""
+  - id: alt-reel
+    title: "Alternative Reel"
+    mp4: "https://cdn-url/hero-alt.mp4"
+    webm: ""

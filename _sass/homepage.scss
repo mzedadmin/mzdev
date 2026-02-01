@@ -12,32 +12,40 @@
         /* prevents overflow from the lines extending past the screen width */
         overflow: hidden;
 
+        .cs-overlay {
+            /* Dark overlay — sits between content and video/image */
+            width: 100%;
+            height: 100%;
+            background: #000;
+            opacity: .6;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        .cs-video {
+            /* Background video */
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -2;
+        }
+
         .cs-picture {
-            /* Background Image */
+            /* Background Image (fallback behind video) */
             width: 100%;
             height: 100%;
             display: block;
             position: absolute;
             top: 0;
             left: 0;
-            z-index: -2;
+            z-index: -3;
 
-            &:before {
-                /* Black Color Overlay */
-                content: '';
-                width: 100%;
-                height: 100%;
-                background: #000;
-                opacity: .6;
-                position: absolute;
-                display: block;
-                top: 0;
-                left: 0;
-                z-index: 1;
-                /* prevents the cursor from interacting with it */
-                pointer-events: none;
-            }
-            
             img {
                 position: absolute;
                 top: 0;
@@ -221,24 +229,89 @@
     }
 }
 
-/* Desktop Parallax Effect - 1300px */
-@media only screen and (min-width: 81.25rem) {
-    #hero-229 {
-        background: url("https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/course-tiles-rotated.jpg");
-		background-size: cover;
-		background-position: center;
-		background-repeat: no-repeat;
-        /* creates parallax effect on background image */
-        background-attachment: fixed;
-        /* remove img tag so we can make parallax work */
-        .cs-picture {
+/*-- -------------------------- -->
+<---         Trusted By         -->
+<--- -------------------------- -*/
+
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+    #trusted-by {
+        padding: clamp(2.5rem, 5vw, 3.5rem) 0;
+        background-color: #f7f7f7;
+        overflow: hidden;
+
+        .cs-container {
+            width: 100%;
+            max-width: calc(1280/16 * 1rem);
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: clamp(1.25rem, 3vw, 2rem);
+        }
+
+        .cs-topper {
+            font-size: clamp(0.8125rem, 1.6vw, 1rem);
+            line-height: 1.2em;
+            text-transform: uppercase;
+            text-align: center;
+            letter-spacing: .1rem;
+            font-weight: 700;
+            color: #767676;
+            display: block;
+        }
+
+        .cs-track-wrapper {
+            width: 100%;
+            overflow: hidden;
+            /* fade edges */
+            mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+            -webkit-mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+        }
+
+        .cs-track {
+            display: flex;
+            align-items: center;
+            gap: clamp(2rem, 5vw, 3.5rem);
+            width: max-content;
+            animation: trusted-scroll 30s linear infinite;
+        }
+
+        @keyframes trusted-scroll {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        .cs-logo-item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+
             img {
-                display: none;
+                width: auto;
+                height: clamp(1.25rem, 3vw, 2rem);
+                display: block;
+                filter: grayscale(100%) brightness(0.5);
+                opacity: 0.6;
             }
         }
     }
 }
-                                
+
+/* Tablet - 768px */
+@media only screen and (min-width: 48rem) {
+    #trusted-by {
+        .cs-logo-item img {
+            height: clamp(1.5rem, 2.5vw, 2.25rem);
+        }
+    }
+}
+
 
 /*-- -------------------------- -->
 <---        Side By Side        -->
