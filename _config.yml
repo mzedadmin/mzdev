@@ -19,11 +19,11 @@ collections:
   settings:
     title: Pricing and Global Settings
     output: false
-  uploads:
-    title: Uploads
-    output: false
   trusted_by:
     title: Trusted By
+    output: false
+  uploads:
+    title: Uploads
     output: false
 defaults:
 - scope:
