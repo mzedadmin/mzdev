@@ -1462,6 +1462,16 @@ $sectionPadding: var(--sectionPadding);
 #plan .cs-pricing-card .cs-button-annual:hover {
   background-color: #5cb5e6;
 }
+#plan .cs-pricing-card .cs-risk-text {
+  font-size: 0.75rem;
+  line-height: 1.4em;
+  color: #999;
+  margin: 0.5rem 0 0;
+  text-align: center;
+}
+#plan .cs-pricing-card .cs-column.cs-annual .cs-risk-text {
+  color: rgba(255, 255, 255, 0.6);
+}
 #plan .cs-pricing-card .feature {
   background-color: white;
 }

@@ -1,0 +1,13 @@
+{% assign course = include.course %}
+<a href="{{ course.url | relative_url }}" class="course-thumb" aria-label="{{ course['Course Card'].Title }}">
+    <picture class="course-thumb-picture">
+        <img loading="lazy" decoding="async"
+             src="{{ course['Course Card'].Image | relative_url }}"
+             alt="{{ course['Course Card'].Title }}"
+             width="280" height="158">
+    </picture>
+    <div class="course-thumb-info">
+        <h4 class="course-thumb-title">{{ course['Course Card'].Title }}</h4>
+        <p class="course-thumb-educator">{{ course['Course Card'].Educator }}</p>
+    </div>
+</a>

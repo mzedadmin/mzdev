@@ -1,0 +1,30 @@
+- name: "Cinematography"
+  topic: "cinematography"
+  position: 1
+- name: "Filmmaking"
+  topic: "filmmaking"
+  position: 2
+- name: "Lighting"
+  topic: "lighting"
+  position: 3
+- name: "Editing & Post-Production"
+  topic: "editing"
+  position: 4
+- name: "Color Grading"
+  topic: "color-grading"
+  position: 5
+- name: "Visual Storytelling"
+  topic: "visual-storytelling"
+  position: 6
+- name: "Directing"
+  topic: "directing"
+  position: 7
+- name: "Photography"
+  topic: "photography"
+  position: 8
+- name: "Audio & Podcasting"
+  topic: "audio"
+  position: 9
+- name: "Producing"
+  topic: "producing"
+  position: 10

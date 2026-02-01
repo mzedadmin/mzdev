@@ -1,0 +1,30 @@
+<!-- ============================================ -->
+<!--               Course Catalog                -->
+<!-- ============================================ -->
+
+<section id="course-catalog">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">{{ page.catalog.topper | default: "Course Library" }}</span>
+            <h2 class="cs-title">{{ page.catalog.title | default: "All the courses you need to become a master filmmaker" }}</h2>
+            <p class="cs-text">{{ page.catalog.text | default: "Stream any course, anytime. New courses added regularly." }}</p>
+        </div>
+
+        {% assign categories = site.data.course_categories | sort: "position" %}
+        {% for cat in categories %}
+            {% assign cat_courses = site.courses | where_exp: "course", "course['Course Card'].Topics contains cat.topic" | sort: "position" | reverse %}
+            {% if cat_courses.size > 0 %}
+            <div class="catalog-row">
+                <h3 class="catalog-row-title">{{ cat.name }} <span class="catalog-row-count">({{ cat_courses.size }})</span></h3>
+                <div class="catalog-row-scroll">
+                    {% for course in cat_courses %}
+                        {% include course_thumb.html course=course %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+        <a href="{{ site.baseurl }}/courses/" class="cs-button-solid">View All {{ site.courses.size }} Courses</a>
+    </div>
+</section>

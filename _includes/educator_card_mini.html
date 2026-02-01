@@ -1,0 +1,13 @@
+{% assign educator = include.educator %}
+<li class="educator-mini">
+    <a href="{{ educator.url | relative_url }}" class="educator-mini-link" aria-label="learn more about {{ educator.name }}">
+        <picture class="educator-mini-picture">
+            <img loading="lazy" decoding="async"
+                 src="{{ educator.Image | relative_url }}"
+                 alt="{{ educator.name }}"
+                 width="200" height="200">
+        </picture>
+        <h4 class="educator-mini-name">{{ educator.name }}</h4>
+        <p class="educator-mini-subtitle">{{ educator.subtitle }}</p>
+    </a>
+</li>
