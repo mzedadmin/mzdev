@@ -4,12 +4,13 @@ permalink: "/"
 layout: default
 description: MZed is the leading online education platform for filmmakers and photographers.
 hero:
-  headline: Stop Searching YouTube. Start Learning Now.
-  subtext: Become a better filmmaker today with MZed Pro. The most affordable way
-    to learn from the best in the industry.
-  cta_text: Join MZed Pro
+  headline: "800+ Lessons from the World's Top Filmmakers."
+  headline2: "One Subscription."
+  subtext: "60+ courses from Oscar & Emmy Award winners, Hollywood DPs, and top content creators."
+  subtext2: "Stream anywhere. Cancel anytime."
+  cta_text: "Get MZed Pro"
   cta_link: "#plan"
-  risk_text: 7-day money-back guarantee on annual plans. Cancel monthly anytime.
+  social_proof: "Join 100,000+ filmmakers"
 catalog:
   topper: Course Library
   title: All the courses you need to become a master filmmaker
@@ -40,10 +41,21 @@ cta_banner:
 <section id="hero-229">
     <div class="cs-container">
         <div class="cs-flex-group">
-            <h1 class="cs-title">{{ page.hero.headline }}</h1>
-            <p class="cs-text">{{ page.hero.subtext }}</p>
+            <h1 class="cs-title">{{ page.hero.headline }}<br><span class="cs-title-accent">{{ page.hero.headline2 }}</span></h1>
+            <p class="cs-text">{{ page.hero.subtext }}<br><span class="cs-text-tagline">{{ page.hero.subtext2 }}</span></p>
             <a href="{{ page.hero.cta_link }}" class="cs-button-solid">{{ page.hero.cta_text }}</a>
-            <p class="cs-risk-text">{{ page.hero.risk_text }}</p>
+            <div class="cs-trust-signal">
+                <div class="cs-avatars">
+                    {% assign top_educators = site.educators | sort: "position" %}
+                    {% for educator in top_educators limit: 5 %}
+                    <img src="{{ educator.Image | relative_url }}" alt="{{ educator.name }}" loading="eager" width="36" height="36">
+                    {% endfor %}
+                </div>
+                <div class="cs-trust-info">
+                    <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                    <p class="cs-trust-text">{{ page.hero.social_proof }}</p>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -324,14 +336,6 @@ Please contact us with the above details and we can arrange the custom discount 
             </ul>
         </div>
     </div>
-    <!--SVG Waves-->
-    <picture class="cs-background">
-        <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/icons/white-waves-m.svg">
-        <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/icons/white-waves-m.svg">
-        <img aria-hidden="true" src="{{ site.baseurl }}/assets/icons/white-waves-m.svg" loading="lazy" decoding="async" alt="moon" width="1920" height="647">
-    </picture>
 </section>
                                 
 {% include mzed_pricing.html %}
