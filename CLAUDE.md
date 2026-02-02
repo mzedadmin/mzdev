@@ -271,3 +271,8 @@ Pricing          → #fff (white)
 ### 2025-02-01: Course Detail Page Polish
 **Modified:**
 - `_layouts/course.html` — Recommended courses: reframed as "Included with MZed Pro" / "More Courses You'll Love" with dynamic course count (`site.courses.size - 1`). Reviews: "Course Reviews" → "Reviews", "What Viewers are Saying" → "What Students Are Saying". What You'll Learn: replaced dead `<a href="#">` wrappers with `<div>` elements.
+
+### 2025-02-01: Course Summary Scroll-Reveal Animation
+**Modified:**
+- `_sass/course.scss` — Added scroll-reveal animation styles to `#sbs-1015`: text elements (`.cs-topper`, `.cs-title`, `.cs-text`, `.cs-button-12`) start hidden (`opacity: 0`, `translateY(1.5rem)`) with 0.6s ease-out transitions and staggered delays (0s/0.15s/0.3s/0.45s). `.is-visible` class reveals them. Includes `prefers-reduced-motion: reduce` media query to skip animation.
+- `_layouts/course.html` — Added inline Intersection Observer script after `#sbs-1015` section. Observes `.cs-topper` element with `rootMargin: '0px 0px -10% 0px'` so animation triggers when text is clearly in viewport, not just peeking in. Falls back to immediate visibility if IntersectionObserver is unsupported.

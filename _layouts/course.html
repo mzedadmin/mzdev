@@ -98,6 +98,13 @@ layout: default
 
   <section id="sbs-1015">
     <div class="cs-container">
+      <picture class="cs-picture">
+        <source media="(max-width: 600px)" srcset="{{ page['Course Page']['Main Image'] | relative_url }}" />
+        <source media="(min-width: 601px)" srcset="{{ page['Course Page']['Main Image'] | relative_url }}" />
+        <img loading="lazy" decoding="async"
+          src="{{ page['Course Page']['Main Image'] | relative_url }}"
+          alt="{{ page.title }} course image" width="950" height="480" />
+      </picture>
       <div class="cs-content">
         <span class="cs-topper">About the Course</span>
         <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
@@ -110,64 +117,43 @@ layout: default
         <a href="#plan" class="cs-button-12">
           Start watching with MZed Pro
           <picture class="cs-button-wrapper">
-            <img
-              class="cs-button-icon"
+            <img class="cs-button-icon"
               src="{{ site.baseurl }}/assets/icons/angle-arrow.svg"
-              alt="icon"
-              loading="lazy"
-              decoding="async"
-              width="28"
-              height="28"
-            />
+              alt="icon" loading="lazy" decoding="async" width="28" height="28" />
           </picture>
         </a>
       </div>
-      <picture class="cs-picture">
-        <!--Mobile Image-->
-        <source
-          media="(max-width: 600px)"
-          srcset="{{ page['Course Page']['Main Image']  | relative_url }}"
-        />
-        <!--Tablet and above Image-->
-        <source
-          media=" (min-width: 601px)"
-          srcset="{{ page['Course Page']['Main Image'] | relative_url }}"
-        />
-        <img
-          loading="lazy"
-          decoding="async"
-          src="{{ page['Course Page']['Main Image'] | relative_url }}"
-          alt="{{ page.title }} course image"
-          width="950"
-          height="480"
-        />
-      </picture>
     </div>
+    {% if page['Course Page']['Additional Images'] %}
     <div class="cs-image-group">
       {% for image in page['Course Page']['Additional Images'] %}
       <picture class="cs-image">
-        <!--Mobile Image-->
-        <source
-          media="(max-width: 600px)"
-          srcset="{{ image | relative_url }}"
-        />
-        <!--Tablet and above Image-->
-        <source
-          media="(min-width: 601px)"
-          srcset="{{ image | relative_url }}"
-        />
-        <img
-          loading="lazy"
-          decoding="async"
+        <img loading="lazy" decoding="async"
           src="{{ image | relative_url }}"
           alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
-          width="368"
-          height="284"
-        />
+          width="368" height="284" />
       </picture>
       {% endfor %}
     </div>
+    {% endif %}
   </section>
+
+  <script>
+  (function() {
+    var section = document.getElementById('sbs-1015');
+    if (!section || !('IntersectionObserver' in window)) {
+      if (section) section.classList.add('is-visible');
+      return;
+    }
+    var target = section.querySelector('.cs-topper');
+    new IntersectionObserver(function(entries, observer) {
+      if (entries[0].isIntersecting) {
+        section.classList.add('is-visible');
+        observer.disconnect();
+      }
+    }, { rootMargin: '0px 0px -10% 0px' }).observe(target);
+  })();
+  </script>
 
   <!-- ============================================ -->
   <!--               What You'll Learn              -->
