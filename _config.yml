@@ -29,43 +29,44 @@ collections:
     title: Uploads
     output: false
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: courses
-  values:
-    layout: course
-    permalink: "/courses/:title/"
-- scope:
-    path: ''
-    type: educators
-  values:
-    layout: educator
-    permalink: "/educators/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: "/posts/:title/"
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: course
+      permalink: "/courses/:title/"
+  - scope:
+      path: ""
+      type: educators
+    values:
+      layout: educator
+      permalink: "/educators/:title/"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+mzed_chrome: true
 url: https://mzedadmin.github.io
 baseurl: "/mzdev"
 description: MZed is the leading online education platform for filmmakers and photographers.
 markdown: kramdown
 permalink: pretty
 exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- vendor
-- README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
 plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
 siteleaf:
   build_command: bundle exec jekyll build
   serve_command: bundle exec jekyll serve

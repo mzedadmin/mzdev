@@ -1,0 +1,261 @@
+/*-- -------------------------- -->
+<---       MZed Footer          -->
+<--- -------------------------- -*/
+
+// ========================================
+//  Newsletter Section
+// ========================================
+.mzed-footer-newsletter {
+  background: #f7f7f7;
+  padding: 3rem 1.25rem;
+
+  &__inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+    text-align: center;
+  }
+
+  &__text {
+    h3 {
+      font-family: 'CalibreWeb-Medium', 'Roboto', Arial, sans-serif;
+      font-size: clamp(1.25rem, 3vw, 1.75rem);
+      color: var(--headerColor);
+      margin-bottom: 0.5rem;
+
+      span {
+        color: var(--secondary);
+      }
+    }
+
+    p {
+      font-size: 1rem;
+      color: var(--bodyTextColor);
+      margin: 0;
+    }
+  }
+
+  &__form {
+    display: flex;
+    gap: 0;
+    width: 100%;
+    max-width: 28rem;
+
+    input[type="email"] {
+      flex: 1;
+      font-family: 'CalibreWeb', 'Roboto', Arial, sans-serif;
+      font-size: 0.938rem;
+      padding: 0.75rem 1rem;
+      border: 1px solid #ddd;
+      border-right: none;
+      border-radius: 4px 0 0 4px;
+      outline: none;
+      background: #fff;
+      color: var(--headerColor);
+
+      &::placeholder {
+        color: #999;
+      }
+
+      &:focus {
+        border-color: var(--secondary);
+      }
+    }
+
+    button {
+      font-family: 'CalibreWeb-Bold', 'Roboto', Arial, sans-serif;
+      font-size: 0.938rem;
+      font-weight: 700;
+      padding: 0.75rem 1.5rem;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: 0 4px 4px 0;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background-color 0.2s;
+
+      &:hover {
+        background: #c7312a;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 48rem) {
+  .mzed-footer-newsletter__inner {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .mzed-footer-newsletter__text {
+    flex: 1;
+  }
+
+  .mzed-footer-newsletter__form {
+    flex: 0 0 auto;
+    width: auto;
+    min-width: 22rem;
+  }
+}
+
+// ========================================
+//  Footer Links Grid
+// ========================================
+.mzed-footer {
+  background: #fff;
+
+  &__inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 3rem 1.25rem;
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  &__col {
+    h4 {
+      font-family: 'CalibreWeb-Bold', 'Roboto', Arial, sans-serif;
+      font-size: 0.813rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--headerColor);
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    a {
+      font-family: 'CalibreWeb', 'Roboto', Arial, sans-serif;
+      font-size: 0.938rem;
+      color: var(--bodyTextColor);
+      text-decoration: none;
+      transition: color 0.2s;
+
+      &:hover {
+        color: var(--primary);
+      }
+    }
+  }
+
+  // Social icons column
+  &__social-icons {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: #f2f2f2;
+      color: var(--headerColor);
+      transition: background-color 0.2s, color 0.2s;
+
+      &:hover {
+        background: var(--primary);
+        color: #fff;
+      }
+
+      svg {
+        width: 18px;
+        height: 18px;
+      }
+    }
+  }
+
+  &__app-badge {
+    display: inline-block;
+
+    svg {
+      width: 120px;
+      height: 40px;
+    }
+  }
+}
+
+// 2-column at tablet
+@media only screen and (min-width: 36rem) {
+  .mzed-footer__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+// 4-column at desktop
+@media only screen and (min-width: 64rem) {
+  .mzed-footer__grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2.5rem;
+  }
+}
+
+// ========================================
+//  Legal Bar
+// ========================================
+.mzed-footer__legal {
+  border-top: 1px solid #eee;
+  background: #fff;
+
+  &-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    text-align: center;
+  }
+}
+
+.mzed-footer__copyright,
+.mzed-footer__tagline {
+  font-family: 'CalibreWeb', 'Roboto', Arial, sans-serif;
+  font-size: 0.813rem;
+  color: #999;
+}
+
+.mzed-footer__legal-links {
+  display: flex;
+  gap: 1.5rem;
+
+  a {
+    font-family: 'CalibreWeb', 'Roboto', Arial, sans-serif;
+    font-size: 0.813rem;
+    color: #999;
+    text-decoration: none;
+    transition: color 0.2s;
+
+    &:hover {
+      color: var(--headerColor);
+    }
+  }
+}
+
+@media only screen and (min-width: 48rem) {
+  .mzed-footer__legal-inner {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+  }
+}

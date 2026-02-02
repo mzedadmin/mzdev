@@ -42,6 +42,8 @@ Marketing/landing site for MZed, an online education platform for filmmakers and
 - `_sass/courses.scss` - Courses listing page
 - `_sass/educator.scss` - Individual educator page
 - `_sass/educators.scss` - Educators listing page
+- `_sass/nav.scss` - MZed nav (transparent homepage, solid inner pages, mobile hamburger)
+- `_sass/footer.scss` - MZed footer (newsletter, link grid, legal bar)
 - `_sass/news-card.scss` - News/blog card component
 - `_sass/post.scss` - Blog post page
 
@@ -308,3 +310,23 @@ Standalone, opt-in scroll-reveal system using `data-reveal` attributes. Two new 
 - `educators/index.html` — `data-reveal` on `.cs-content`, `data-reveal-children` on `.cs-card-group`.
 - `news/index.html` — `data-reveal` on `.cs-content`, `data-reveal-children` on `.news-card-group`.
 - `_layouts/post.html` — `data-reveal` on `.post-container`.
+
+### 2025-02-02: Production Nav & Footer
+Replaced `#tempnav` with a production-quality nav and footer matching mzed.com's look and feel. Both wrapped in `{% if site.mzed_chrome %}` kill switch — set `mzed_chrome: false` in `_config.yml` to disable.
+
+**Nav:** Transparent/absolute on homepage (white text over hero), solid white with bottom border on inner pages. Inline SVG MZed logo, left-aligned links (Our Courses, Our Educators, Gift, News), right-aligned "Join MZed Pro" CTA + "Log in" button. Mobile hamburger with animated X toggle and dropdown menu. BEM class structure (`.mzed-nav`, `--transparent`/`--solid` modifiers).
+
+**Footer:** Newsletter section (light gray bg, email input + subscribe button). 4-column link grid (MZed, Support, Learn About topics from `course_categories.yml`, Connect with social icons). Legal bar with copyright, Terms/Privacy links, "Empowering Filmmakers" tagline. Responsive: 1-col → 2-col → 4-col.
+
+**Created:**
+- `_includes/mzed_nav.html` — Nav with homepage detection (`page.url == '/'`), inline SVG logo, desktop links + actions, mobile hamburger with inline toggle script.
+- `_includes/mzed_footer.html` — Newsletter form, 4-column link grid with dynamic topic links from `course_categories.yml`, social icon SVGs (Facebook, X, Instagram, YouTube), legal bar.
+- `_sass/nav.scss` — BEM styles, `--transparent`/`--solid` variants, mobile menu, desktop breakpoint at 48rem.
+- `_sass/footer.scss` — Newsletter, link grid (responsive 1→2→4 col), social icons with hover, legal bar.
+
+**Modified:**
+- `_config.yml` — Added `mzed_chrome: true` kill switch.
+- `_layouts/default.html` — Replaced `#tempnav` with conditional `mzed_nav.html` include, added conditional `mzed_footer.html` before scripts.
+- `assets/css/main.scss` — Added `@use 'nav'` and `@use 'footer'`.
+- `_sass/core-styles.scss` — Removed `#tempnav` styles (~33 lines).
+- `news/index.html` — Added `mzed_pricing.html` include above footer.

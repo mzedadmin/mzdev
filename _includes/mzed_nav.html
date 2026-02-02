@@ -1,0 +1,71 @@
+{% assign is_home = false %}
+{% if page.url == '/' %}{% assign is_home = true %}{% endif %}
+
+<nav class="mzed-nav {% if is_home %}mzed-nav--transparent{% else %}mzed-nav--solid{% endif %}" id="mzed-nav">
+  <div class="mzed-nav__inner">
+    <!-- Logo -->
+    <a href="{{ site.baseurl }}/" class="mzed-nav__logo" aria-label="MZed Home">
+      <svg viewBox="0 0 348 105" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path class="mzed-nav__logo-m" d="M87.3,96.9V44L67.6,96.9H55.7L36,44v52.9H9.3v-88h36.8l15.4,42.2L76.9,8.9H114v88H87.3z"/>
+        <path class="mzed-nav__logo-z" d="M121.6,96.9V75.8l33.5-43.7h-33.5V8.9h68.7v21l-33.6,43.8h34.6v23.2H121.6z"/>
+        <path class="mzed-nav__logo-e" d="M195.8,65.1c0-18.5,14.1-33.4,34.7-33.4c18.7,0,33.1,13.5,33.1,35.9v4.9h-43.3c1.3,4.1,5.9,8.1,13.7,8.1c3.6,0,11.5-1.7,14.6-4.5l9.8,14.6c-6.3,5.4-17.7,7.9-27.2,7.9C211.3,98.6,195.8,86.1,195.8,65.1z M230.5,49.8c-7.3,0-9.6,4.7-10.4,7.7h21C240.4,54.6,238.1,49.8,230.5,49.8z"/>
+        <path class="mzed-nav__logo-d" d="M314.7,96.9v-6.7c-5.4,6.1-11.5,8.3-17.9,8.3c-15.4,0-28.1-11.6-28.1-33.5c0-21.1,12.4-33.4,28.1-33.4c6.5,0,12.9,2.2,17.9,8.3v-31h23.8v88L314.7,96.9L314.7,96.9z M314.7,73.2V56.8c-2.2-2.8-6.7-4.2-9.9-4.2c-6.5,0-11.9,4.5-11.9,12.4s5.4,12.5,11.9,12.5C307.9,77.5,312.4,75.9,314.7,73.2z"/>
+      </svg>
+    </a>
+
+    <!-- Desktop Links -->
+    <ul class="mzed-nav__links">
+      <li><a href="{{ site.baseurl }}/courses/">Our Courses</a></li>
+      <li><a href="{{ site.baseurl }}/educators/">Our Educators</a></li>
+      <li><a href="#">Gift</a></li>
+      <li><a href="{{ site.baseurl }}/news/">News</a></li>
+    </ul>
+
+    <!-- Desktop Actions -->
+    <div class="mzed-nav__actions">
+      <a href="#plan" class="mzed-nav__cta">Join MZed Pro</a>
+      <a href="#" class="mzed-nav__login">Log in</a>
+    </div>
+
+    <!-- Mobile Hamburger -->
+    <button class="mzed-nav__hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div class="mzed-nav__mobile-menu" id="mzed-mobile-menu">
+    <ul>
+      <li><a href="{{ site.baseurl }}/courses/">Our Courses</a></li>
+      <li><a href="{{ site.baseurl }}/educators/">Our Educators</a></li>
+      <li><a href="#">Gift</a></li>
+      <li><a href="{{ site.baseurl }}/news/">News</a></li>
+    </ul>
+    <div class="mzed-nav__mobile-actions">
+      <a href="#plan" class="mzed-nav__cta">Join MZed Pro</a>
+      <a href="#" class="mzed-nav__login">Log in</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+(function() {
+  var btn = document.querySelector('.mzed-nav__hamburger');
+  var menu = document.getElementById('mzed-mobile-menu');
+  var nav = document.getElementById('mzed-nav');
+  if (!btn || !menu) return;
+  btn.addEventListener('click', function() {
+    var open = nav.classList.toggle('mzed-nav--open');
+    btn.setAttribute('aria-expanded', open);
+  });
+  // Close on link click
+  menu.querySelectorAll('a').forEach(function(a) {
+    a.addEventListener('click', function() {
+      nav.classList.remove('mzed-nav--open');
+      btn.setAttribute('aria-expanded', 'false');
+    });
+  });
+})();
+</script>

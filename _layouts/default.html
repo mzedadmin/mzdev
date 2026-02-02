@@ -29,18 +29,12 @@
     {% if page.head %} {{ page.head }} {% endif %}
   </head>
   <body>
-    <!-- temporary nav -->
-    <nav id="tempnav">
-      <ul>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/courses/">Courses</a></li>
-        <li><a href="{{ site.baseurl }}/educators/">Educators</a></li>
-        <li><a href="{{ site.baseurl }}/news/">News</a></li>
-      </ul>
-    </nav>
+    {% if site.mzed_chrome %}{% include mzed_nav.html %}{% endif %}
 
     <!-- Content from page or layout -->
     {{ content }}
+
+    {% if site.mzed_chrome %}{% include mzed_footer.html %}{% endif %}
 
     <!-- Include default scripts -->
     {% if page.custom_js %} {% for js_file in page.custom_js %}

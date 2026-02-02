@@ -1,0 +1,93 @@
+<!-- Newsletter -->
+<section class="mzed-footer-newsletter">
+  <div class="mzed-footer-newsletter__inner">
+    <div class="mzed-footer-newsletter__text">
+      <h3>Subscribe to the <span>MZed newsletter</span></h3>
+      <p>The latest course announcements, news and offers. Be the first to know!</p>
+    </div>
+    <form class="mzed-footer-newsletter__form" action="#" method="post">
+      <input type="email" placeholder="Enter your email" aria-label="Email address" required />
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>
+
+<!-- Footer Links -->
+<footer class="mzed-footer">
+  <div class="mzed-footer__inner">
+    <div class="mzed-footer__grid">
+
+      <!-- Column 1: MZed -->
+      <div class="mzed-footer__col">
+        <h4>MZed</h4>
+        <ul>
+          <li><a href="#plan">MZed Pro</a></li>
+          <li><a href="{{ site.baseurl }}/courses/">Courses</a></li>
+          <li><a href="{{ site.baseurl }}/educators/">Educators</a></li>
+          <li><a href="#">Gift</a></li>
+          <li><a href="{{ site.baseurl }}/news/">News & Articles</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 2: Support -->
+      <div class="mzed-footer__col">
+        <h4>Support</h4>
+        <ul>
+          <li><a href="#faq-1261">FAQs</a></li>
+          <li><a href="#">Contact & Support</a></li>
+          <li><a href="#">Content Licensing</a></li>
+          <li><a href="#">Get our iOS app</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 3: Learn About -->
+      <div class="mzed-footer__col">
+        <h4>Learn About</h4>
+        <ul>
+          {% for cat in site.data.course_categories | sort: 'position' %}
+          <li><a href="{{ site.baseurl }}/courses/#{{ cat.topic }}">{{ cat.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <!-- Column 4: Connect -->
+      <div class="mzed-footer__col mzed-footer__col--social">
+        <h4>Connect</h4>
+        <div class="mzed-footer__social-icons">
+          <a href="https://facebook.com/maboroshi.zed" aria-label="Facebook" target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          </a>
+          <a href="https://twitter.com/maboroshized" aria-label="Twitter / X" target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          </a>
+          <a href="https://instagram.com/maboroshized" aria-label="Instagram" target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zM5.838 12a6.162 6.162 0 1112.324 0 6.162 6.162 0 01-12.324 0zM12 16a4 4 0 110-8 4 4 0 010 8zm4.965-10.405a1.44 1.44 0 112.881.001 1.44 1.44 0 01-2.881-.001z"/></svg>
+          </a>
+          <a href="https://youtube.com/@MZed" aria-label="YouTube" target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+          </a>
+        </div>
+        <a href="#" class="mzed-footer__app-badge" aria-label="Download on the App Store">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" fill="currentColor" aria-hidden="true">
+            <rect width="120" height="40" rx="5" fill="#000"/>
+            <text x="60" y="16" fill="#fff" font-size="7" text-anchor="middle" font-family="sans-serif">Download on the</text>
+            <text x="60" y="29" fill="#fff" font-size="12" text-anchor="middle" font-family="sans-serif" font-weight="bold">App Store</text>
+          </svg>
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Legal Bar -->
+  <div class="mzed-footer__legal">
+    <div class="mzed-footer__legal-inner">
+      <span class="mzed-footer__copyright">&copy; 2026 The Dorsia Group LLC</span>
+      <div class="mzed-footer__legal-links">
+        <a href="#">Terms of Service</a>
+        <a href="#">Privacy Policy</a>
+      </div>
+      <span class="mzed-footer__tagline">MZed &mdash; Empowering Filmmakers</span>
+    </div>
+  </div>
+</footer>
