@@ -1,8 +1,9 @@
 ---
 title: Ryan Connolly
+position: 1
 name: Ryan Connolly
 job: Director
-position: 1
-image: /assets/images/testimonials/ryan-connolly.jpg
-review: "MZed is the best filmmaking educational resource out there."
+image: "/assets/images/testimonials/ryan-connolly.jpg"
+review: MZed is the best filmmaking educational resource out there.
 ---
+
