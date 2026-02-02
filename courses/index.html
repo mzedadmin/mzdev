@@ -4,9 +4,11 @@ permalink: "/courses/"
 layout: default
 custom_css:
 - "/assets/css/main.css"
+Header:
+  Topper: Course Library
+  Title: "60+ Courses. 800+ Lessons. All Yours."
+  Text: "From cinematography and lighting to editing, color grading, and directing — stream our entire library with MZed Pro."
 ---
-
-{% assign page = site.pages | where: "slug", "courses" | first %}
 
 <!-- ============================================ -->
 <!--                Courses                       -->
@@ -15,15 +17,20 @@ custom_css:
 <main id="main">
   <section id="courses">
     <div class="cs-container">
+      <!-- prettier-ignore -->
+      {% assign total_lessons = 0 %}
+      {% for course in site.courses %}
+        {% assign total_lessons = total_lessons | plus: course['Course Card']['Lessons'] %}
+      {% endfor %}
       <div class="cs-content">
-        <span class="cs-topper">{{ page['Header']['Topper'] }}</span>
-        <div class="cs-title">{{ page['Header']['Title'] }}</div>
-        <p class="cs-text">{{ page.Header.Text }}</p>
+        <span class="cs-topper">{{ page.Header.Topper }}</span>
+        <div class="cs-title">{{ site.courses.size }}+ Courses. {{ total_lessons }}+ Lessons. All Yours.</div>
+        <p class="cs-text">From cinematography and lighting to editing, color grading, and directing<br>— stream our entire library with MZed Pro.</p>
       </div>
       <ul class="cs-card-group">
         <!-- Topics -->
         <div class="filter-container">
-          <div class="filter-title">Filter Courses by Topic</div>
+          <div class="filter-title">Browse by Topic</div>
           <div class="filter-buttons">
             <button class="filter-btn" data-topic="audio">Audio</button>
             <button class="filter-btn" data-topic="cinematography">Cinematography</button>
@@ -37,7 +44,7 @@ custom_css:
             <button class="filter-btn" data-topic="screenwriting">Screenwriting</button>
             <button class="filter-btn" data-topic="visual-storytelling">Visual Storytelling</button>
             <button class="filter-btn" data-topic="podcasting">Podcasting</button>
-            <button class="filter-btn reset-btn">Reset Filters</button>
+            <button class="filter-btn reset-btn">Show All</button>
           </div>
         </div>
 
@@ -49,8 +56,8 @@ custom_css:
     </div>
   </section>
 
-  <!-- MZed Pro Section -->
-  {% include mzed_stats.html section=page.mzed_pro_section %}
+  <!-- Stats Strip -->
+  {% include stats_strip.html %}
 
   <!-- Pricing Section -->
   {% include mzed_pricing.html %}

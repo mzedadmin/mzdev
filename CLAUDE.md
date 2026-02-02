@@ -241,3 +241,11 @@ Pricing          → #fff (white)
 - `index.html` — Reviews section: replaced 3 hardcoded cards with Liquid loop over `_testimonials` sorted by position. Trust signal avatars use 5 hand-picked reviewer photos (local images). Review card alignment fix (`.cs-flex-group` margin-top: auto pushes reviewer info to bottom).
 - `_includes/mzed_pricing.html` — Trust signal avatars use same 5 reviewer photos (local images).
 - `_sass/homepage.scss` — Reviews: removed `justify-content: center` from `.cs-item`, added `margin-top: auto` to `.cs-flex-group` for consistent card alignment.
+
+### 2025-02-01: Courses Listing Page Overhaul
+**Modified:**
+- `courses/index.html` — New frontmatter header copy ("Course Library" / dynamic course+lesson counts / subtext with line break). Replaced `mzed_stats.html` with `stats_strip.html` for consistent branding. Filter labels: "Browse by Topic" / "Show All".
+- `_sass/course-card.scss` — Compact cards: hidden inline description (`display: none`), smaller title (1.15rem), educator (0.875rem), tighter padding/gap. Stats bar changed from dark (`var(--headerColor)`) to light (`#f7f7f7`) with dark text. Hover overlay redesigned: dark background with course description (1.2rem, 5-line clamp) and "Go to Course →" link.
+- `_sass/courses.scss` — Removed ~135 lines of `#mzed-summary-stats` styles. Tighter grid gap (`clamp(0.75rem, 1.5vw, 1.25rem)`). 4-col desktop breakpoint moved from 1300px to 1024px.
+- `_includes/course_card.html` — Overlay now includes course description text and arrow on "Go to Course →".
+- `_includes/mzed_stats.html` — Updated "$9000+" to "$10,000+" (still used on course detail pages).
