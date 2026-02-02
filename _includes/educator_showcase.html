@@ -3,18 +3,30 @@
 <!-- ============================================ -->
 
 <section id="educator-showcase">
-    <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">{{ page.educators_section.topper | default: "World-Class Educators" }}</span>
-            <h2 class="cs-title">{{ page.educators_section.title | default: "Learn from the best educators in the business" }}</h2>
-            <p class="cs-text">{{ page.educators_section.text | default: "Our educators include some of the best-known and most highly-regarded filmmakers from around the world, including Hollywood DPs and Pulitzer-Prize winners as well as respected institutions like AbelCine and ARRI Academy." }}</p>
-        </div>
-        <ul class="educator-grid">
-            {% assign sorted_educators = site.educators | sort: "position" %}
-            {% for educator in sorted_educators limit: 8 %}
-                {% include educator_card_mini.html educator=educator %}
-            {% endfor %}
-        </ul>
-        <a href="{{ site.baseurl }}/educators/" class="cs-button-solid">See All {{ site.educators.size }} Educators</a>
+  <div class="cs-container">
+    <div class="cs-content">
+      <span class="cs-topper"
+        >{{ page.educators_section.topper | default: "World-Class Educators"
+        }}</span
+      >
+      <h2 class="cs-title">
+        {{ page.educators_section.title | default: "Learn from the best
+        filmmakers in the business" }}
+      </h2>
+      <p class="cs-text">
+        {{ page.educators_section.text | default: "Our educators include some of
+        the best-known and most highly-regarded filmmakers from around the
+        world, including Hollywood DPs and Pulitzer-Prize winners as well as
+        respected institutions like AbelCine and ARRI Academy." }}
+      </p>
     </div>
+    <ul class="educator-grid">
+      {% assign sorted_educators = site.educators | sort: "position" %} {% for
+      educator in sorted_educators limit: 8 %} {% include
+      educator_card_mini.html educator=educator %} {% endfor %}
+    </ul>
+    <a href="{{ site.baseurl }}/educators/" class="cs-button-solid"
+      >See All {{ site.educators.size }} Educators</a
+    >
+  </div>
 </section>

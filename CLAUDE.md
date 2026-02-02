@@ -142,7 +142,7 @@ The hero uses a column flex layout with visual hierarchy:
 | `educator_showcase.html` | Top 8 educators from collection (sorted by position) |
 | `educator_card_mini.html` | Circular photo + name + subtitle card |
 | `cta_banner.html` | Full-width red CTA with risk-reduction text |
-| `mzed_pricing.html` | Comparison pricing table with Monthly/Annual columns |
+| `mzed_pricing.html` | Two side-by-side pricing cards (Monthly/Annual) with shared feature list, trust signal, and dynamic savings badge |
 
 ### Course Catalog Categories
 Defined in `_data/course_categories.yml`, sorted by `position`:
@@ -166,20 +166,22 @@ Courses appear in multiple categories if they have multiple topics. Categories w
 - **Credential stacking in subtext** - "Oscar & Emmy Award winners, Hollywood DPs, and top content creators" is specific and aspirational vs generic "best in the industry"
 - **Single CTA per section** - Research shows 371% more clicks vs multiple CTAs. "Get MZed Pro" uses a power verb ("Get") that implies receiving value.
 - **Risk-reduction text** at CTA banner and pricing points. Hero uses "Stream anywhere. Cancel anytime." as a bold tagline instead.
-- **Stats strip** with dark background and gold numbers — dense number presentation is more impactful and gets visitors to the course catalog faster.
+- **Stats strip** with light gray background and multicolor numbers (red/blue/green/gold) at 4rem — dense number presentation is impactful and flows smoothly from the trusted-by section into the course catalog.
 - **Streaming-platform catalog** - Netflix-style horizontal scroll shows breadth of library without overwhelming. Pure CSS scroll-snap, no JS carousel.
 - **Real educator cards** instead of static background image - Actual faces and names build more trust than a generic photo.
 - **CTA banner after trust section** - Placed after video testimonial + written reviews for maximum trust-to-action conversion.
+- **Testimonial section** - Video + written reviews share gray background, creating one unified trust zone. White review cards with box-shadow pop off the background. Gold 5-star ratings on each card add quantitative credibility. Section header uses social proof number ("See why 100,000+ filmmakers choose MZed Pro").
+- **Pricing cards** - Two side-by-side cards replace comparison table (both plans have identical features, so table was redundant). Monthly anchors left, annual right with gold border + "Best Value — Save X%" dynamic badge. Shared feature list (6 items in 2-col grid) below cards. Trust signal with educator avatars at bottom.
 
 ## Section Background Flow
 ```
 Hero             → dark (video overlay)
 Trusted By       → #f7f7f7 (light gray)
-Stats Strip      → #1a1a2e (dark navy)
+Stats Strip      → #f7f7f7 (light gray)
 Course Catalog   → #14142b (dark navy)
 Educators        → #fff (white)
 Video            → #f7f7f7 (light gray)
-Reviews          → #fff (white)
+Reviews          → #f7f7f7 (light gray)
 CTA Banner       → var(--primary) (red)
 Recent Articles  → #f7f7f7 (light gray)
 FAQ              → #fff (white)
@@ -207,3 +209,13 @@ Pricing          → #fff (white)
 - `index.html` - Hero: new conversion-optimized copy (value-first headline, credential-stacking subtext, "Get MZed Pro" CTA), trust signal component with educator avatars + stars + social proof, split headline/subtext into two-part frontmatter fields with `.cs-title-accent` and `.cs-text-tagline` spans. FAQ: removed SVG waves background.
 - `_includes/trusted_by.html` - Changed label from "Trusted by" to "Trusted by teams at"
 - `_sass/homepage.scss` - Hero: column flex layout, font-weight 300 headline + 700 gold accent, larger subtext (22px max) and button (18px), trust signal with overlapping avatar stack. Trusted by: slowed animation 30s→50s. Stats strip: dark bg (#1a1a2e), gold numbers (primaryLight), dividers. Course catalog: compacted padding/gaps/thumbnails (13rem max). Educator showcase: compacted padding/gaps/photos (6rem max). Video: added #f7f7f7 background. Reviews: border-radius 16px→4px. FAQ: changed from dark (#14142b) to white background with standard text colors, removed wave background styles.
+
+### 2025-02-01: Pricing Section Redesign
+**Modified:**
+- `_includes/mzed_pricing.html` - Complete rewrite from 3-column comparison table to two side-by-side pricing cards. Dynamic Liquid savings badge, shared 6-item feature list, trust signal with educator avatars + stars.
+- `_sass/course.scss` - Replaced ~460 lines of comparison table + toggle styles with ~170 lines of card-based styles. Mobile-first with cards stacked (annual first), side-by-side at tablet+. Removed dead toggle script and CSS animations.
+
+### 2025-02-01: Testimonial & Stats Section Enhancements
+**Modified:**
+- `index.html` - Reviews: added 5-star gold ratings to all 3 review cards. Video section: updated topper to "Member Reviews" and headline to "See why 100,000+ filmmakers choose MZed Pro".
+- `_sass/homepage.scss` - Reviews: gray background (#f7f7f7), white cards with box-shadow, hidden quote icons, larger star ratings (1.5rem), gray profile borders. Stats strip: light gray bg (#f7f7f7), multicolor numbers (red/blue/green/gold via nth-child), increased size to 4rem, dark text labels, dark dividers.

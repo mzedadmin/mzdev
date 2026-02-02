@@ -6,7 +6,8 @@ description: MZed is the leading online education platform for filmmakers and ph
 hero:
   headline: 800+ Lessons from the World's Top Filmmakers.
   headline2: One Subscription.
-  subtext: 60+ courses from Oscar & Emmy Award winners, Hollywood DPs, and top content
+  subtext:
+    60+ courses from Oscar & Emmy Award winners, Hollywood DPs, and top content
     creators.
   subtext2: Stream anywhere. Cancel anytime.
   cta_text: Get MZed Pro
@@ -15,12 +16,14 @@ hero:
 catalog:
   topper: Course Library
   title: All the courses you need to become a master filmmaker
-  text: Over 800 lessons featuring trusted, high-quality course videos. Average course
+  text:
+    Over 800 lessons featuring trusted, high-quality course videos. Average course
     rating 4.6/5 from thousands of member reviews.
 educators_section:
   topper: World-Class Educators
-  title: Learn from the best educators in the business
-  text: Our educators include some of the best-known and most highly-regarded filmmakers
+  title: Learn from the best filmmakers in the business
+  text:
+    Our educators include some of the best-known and most highly-regarded filmmakers
     from around the world, including Hollywood DPs and Pulitzer-Prize winners as well
     as respected institutions like AbelCine and ARRI Academy.
 cta_banner:
@@ -31,7 +34,7 @@ cta_banner:
 ---
 
 <!-- Load Fancybox -->
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css"/>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css" />
 <script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
 <script src="{{ site.baseurl }}/assets/js/fancybox.js"></script>
 
@@ -40,85 +43,133 @@ cta_banner:
 <!-- ============================================ -->
 
 <section id="hero-229">
-    <div class="cs-container">
-        <div class="cs-flex-group">
-            <h1 class="cs-title">{{ page.hero.headline }}<br><span class="cs-title-accent">{{ page.hero.headline2 }}</span></h1>
-            <p class="cs-text">{{ page.hero.subtext }}<br><span class="cs-text-tagline">{{ page.hero.subtext2 }}</span></p>
-            <a href="{{ page.hero.cta_link }}" class="cs-button-solid">{{ page.hero.cta_text }}</a>
-            <div class="cs-trust-signal">
-                <div class="cs-avatars">
-                    {% assign top_educators = site.educators | sort: "position" %}
-                    {% for educator in top_educators limit: 5 %}
-                    <img src="{{ educator.Image | relative_url }}" alt="{{ educator.name }}" loading="eager" width="36" height="36">
-                    {% endfor %}
-                </div>
-                <div class="cs-trust-info">
-                    <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-                    <p class="cs-trust-text">{{ page.hero.social_proof }}</p>
-                </div>
-            </div>
+  <div class="cs-container">
+    <div class="cs-flex-group">
+      <h1 class="cs-title">
+        {{ page.hero.headline }}<br /><span class="cs-title-accent"
+          >{{ page.hero.headline2 }}</span
+        >
+      </h1>
+      <p class="cs-text">
+        {{ page.hero.subtext }}<br /><span class="cs-text-tagline"
+          >{{ page.hero.subtext2 }}</span
+        >
+      </p>
+      <a href="{{ page.hero.cta_link }}" class="cs-button-solid"
+        >{{ page.hero.cta_text }}</a
+      >
+      <div class="cs-trust-signal">
+        <div class="cs-avatars">
+          {% assign top_educators = site.educators | sort: "position" %} {% for
+          educator in top_educators limit: 5 %}
+          <img
+            src="{{ educator.Image | relative_url }}"
+            alt="{{ educator.name }}"
+            loading="eager"
+            width="36"
+            height="36"
+          />
+          {% endfor %}
         </div>
+        <div class="cs-trust-info">
+          <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="cs-trust-text">{{ page.hero.social_proof }}</p>
+        </div>
+      </div>
     </div>
+  </div>
 
-    <!-- Dark Overlay -->
-    <div class="cs-overlay"></div>
+  <!-- Dark Overlay -->
+  <div class="cs-overlay"></div>
 
-    <!-- Background Video -->
-    {% assign active_id = site.data.hero_videos.active %}
-    {% for video in site.data.hero_videos.videos %}
-        {% if video.id == active_id %}
-    <video class="cs-video" autoplay muted loop playsinline>
-        {% if video.webm != "" %}<source src="{{ video.webm }}" type="video/webm">{% endif %}
-        <source src="{{ video.mp4 }}" type="video/mp4">
-    </video>
-        {% endif %}
-    {% endfor %}
+  <!-- Background Video -->
+  {% assign active_id = site.data.hero_videos.active %} {% for video in
+  site.data.hero_videos.videos %} {% if video.id == active_id %}
+  <video class="cs-video" autoplay muted loop playsinline>
+    {% if video.webm != "" %}
+    <source src="{{ video.webm }}" type="video/webm" />
+    {% endif %}
+    <source src="{{ video.mp4 }}" type="video/mp4" />
+  </video>
+  {% endif %} {% endfor %}
 
-    <!-- Background Image (fallback) -->
-    <picture class="cs-picture">
-        <source media="(max-width: 600px)" srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg">
-        <source media="(min-width: 601px)" srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg">
-        <img decoding="async" src="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg" alt="mountains" width="2250" height="1500" aria-hidden="true">
-    </picture>
+  <!-- Background Image (fallback) -->
+  <picture class="cs-picture">
+    <source
+      media="(max-width: 600px)"
+      srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg"
+    />
+    <source
+      media="(min-width: 601px)"
+      srcset="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg"
+    />
+    <img
+      decoding="async"
+      src="{{ site.baseurl }}/assets/images/homepage/course-tiles-rotated.jpg"
+      alt="mountains"
+      width="2250"
+      height="1500"
+      aria-hidden="true"
+    />
+  </picture>
 </section>
 
-{% include trusted_by.html %}
-
-{% include stats_strip.html %}
-
-{% include course_catalog.html %}
-
-{% include educator_showcase.html %}
+{% include trusted_by.html %} {% include stats_strip.html %} {% include
+course_catalog.html %} {% include educator_showcase.html %}
 
 <!-- ============================================ -->
 <!--                   Video                      -->
 <!-- ============================================ -->
 
 <section id="video-1683">
-    <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">MZed Pros</span>
-            <h2 class="cs-title">Our community, in their own words</h2>
-        </div>
-        <a href="https://vimeo.com/499835399" data-fancybox data-type="iframe" class="cs-big-link">
-            <!--Background Image-->
-            <picture class="cs-background">
-                <source media="(min-width: 1024px)"
-                        srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg">
-                <source media="(min-width: 601px)"
-                        srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg">
-                <source media="(max-width: 600px)"
-                        srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg">
-                <img aria-hidden="true" loading="lazy" decoding="async"
-                        src="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg"
-                        alt="MZed Pro community testimonial" width="1280" height="580">
-            </picture>
-            <!--Play Icon-->
-            <img class="cs-link-icon" aria-hidden="true" loading="lazy" decoding="async"
-                    src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Icons/enterprise-play-icon.svg"
-                    alt="play icon" width="110" height="110">
-        </a>
+  <div class="cs-container">
+    <div class="cs-content">
+      <span class="cs-topper">Member Reviews</span>
+      <h2 class="cs-title">See why 100,000+ filmmakers choose MZed Pro</h2>
     </div>
+    <a
+      href="https://vimeo.com/499835399"
+      data-fancybox
+      data-type="iframe"
+      class="cs-big-link"
+    >
+      <!--Background Image-->
+      <picture class="cs-background">
+        <source
+          media="(min-width: 1024px)"
+          srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg"
+        />
+        <source
+          media="(min-width: 601px)"
+          srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg"
+        />
+        <source
+          media="(max-width: 600px)"
+          srcset="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg"
+        />
+        <img
+          aria-hidden="true"
+          loading="lazy"
+          decoding="async"
+          src="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg"
+          alt="MZed Pro community testimonial"
+          width="1280"
+          height="580"
+        />
+      </picture>
+      <!--Play Icon-->
+      <img
+        class="cs-link-icon"
+        aria-hidden="true"
+        loading="lazy"
+        decoding="async"
+        src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Icons/enterprise-play-icon.svg"
+        alt="play icon"
+        width="110"
+        height="110"
+      />
+    </a>
+  </div>
 </section>
 
 <!-- ============================================ -->
@@ -126,59 +177,140 @@ cta_banner:
 <!-- ============================================ -->
 
 <section id="reviews-399">
-    <div class="cs-container">
-
-        <ul class="cs-card-group">
-            <li class="cs-item">
-                <img class="cs-quote" aria-hidden="true" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg" decoding="async" alt="quote icon" width="40" height="33">
-                <img class="cs-quote-white" aria-hidden="true" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg" decoding="async" alt="quote icon" width="60" height="55">
-                <p class="cs-review">
-                    The videos are so in depth. I am an avid YouTuber and found I was reaching a ceiling of in-depth industry knowledge. I found MZed and it was what I was looking for!
-                </p>
-                <div class="cs-flex-group">
-                    <picture class="cs-picture">
-                        <img class="cs-profile" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/89ec8f63a2809ca929c8ae71fd9c139f.jpg" decoding="async" alt="profile" width="50" height="50" aria-hidden="true">
-                    </picture>
-                    <span class="cs-name">
-                        	Cooper DeMar
-                        <span class="cs-job">Cinematographer</span>
-                    </span>
-                </div>
-            </li>
-            <li class="cs-item">
-                <img class="cs-quote" aria-hidden="true" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg" decoding="async" alt="quote icon" width="40" height="33">
-                <img class="cs-quote-white" aria-hidden="true" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg" decoding="async" alt="quote icon" width="60" height="55">
-                <p class="cs-review">
-                    I have learned so much watching these professionals go into detail in all the areas of lighting, lensing, cameras, tools, and audio production and then ending the process with editing workflows, sound, and color grading.
-                </p>
-                <div class="cs-flex-group">
-                    <picture class="cs-picture">
-                        <img class="cs-profile" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/4f2b29d45ff865d49953ff3bb3ae1e57.jpg" decoding="async" alt="profile" width="50" height="50" aria-hidden="true">
-                    </picture>
-                    <span class="cs-name">
-                        	Addison Rhoda
-                        <span class="cs-job">Filmmaker</span>
-                    </span>
-                </div>
-            </li>
-            <li class="cs-item">
-                <img class="cs-quote" aria-hidden="true" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg" decoding="async" alt="quote icon" width="40" height="33">
-                <img class="cs-quote-white" aria-hidden="true" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg" decoding="async" alt="quote icon" width="60" height="55">
-                <p class="cs-review">
-                    MZed is for me the only place where you can really learn about the craft and technology of filmmaking, the quality of its courses and its instructors far surpass any other offerings on the web.
-                </p>
-                <div class="cs-flex-group">
-                    <picture class="cs-picture">
-                        <img class="cs-profile" src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/c015d31d9e84138db864ae81c99bdc82.jpg" decoding="async" alt="profile" width="50" height="50" aria-hidden="true">
-                    </picture>
-                    <span class="cs-name">
-                        	Fabio Paul Bedoya Huerta
-                        <span class="cs-job">Colorist & DIT</span>
-                    </span>
-                </div>
-            </li>
-        </ul>
-    </div>
+  <div class="cs-container">
+    <ul class="cs-card-group">
+      <li class="cs-item">
+        <img
+          class="cs-quote"
+          aria-hidden="true"
+          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg"
+          decoding="async"
+          alt="quote icon"
+          width="40"
+          height="33"
+        />
+        <img
+          class="cs-quote-white"
+          aria-hidden="true"
+          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg"
+          decoding="async"
+          alt="quote icon"
+          width="60"
+          height="55"
+        />
+        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="cs-review">
+          The videos are so in depth. I am an avid YouTuber and found I was
+          reaching a ceiling of in-depth industry knowledge. I found MZed and it
+          was what I was looking for!
+        </p>
+        <div class="cs-flex-group">
+          <picture class="cs-picture">
+            <img
+              class="cs-profile"
+              src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/89ec8f63a2809ca929c8ae71fd9c139f.jpg"
+              decoding="async"
+              alt="profile"
+              width="50"
+              height="50"
+              aria-hidden="true"
+            />
+          </picture>
+          <span class="cs-name">
+            Cooper DeMar
+            <span class="cs-job">Cinematographer</span>
+          </span>
+        </div>
+      </li>
+      <li class="cs-item">
+        <img
+          class="cs-quote"
+          aria-hidden="true"
+          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg"
+          decoding="async"
+          alt="quote icon"
+          width="40"
+          height="33"
+        />
+        <img
+          class="cs-quote-white"
+          aria-hidden="true"
+          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg"
+          decoding="async"
+          alt="quote icon"
+          width="60"
+          height="55"
+        />
+        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="cs-review">
+          I have learned so much watching these professionals go into detail in
+          all the areas of lighting, lensing, cameras, tools, and audio
+          production and then ending the process with editing workflows, sound,
+          and color grading.
+        </p>
+        <div class="cs-flex-group">
+          <picture class="cs-picture">
+            <img
+              class="cs-profile"
+              src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/4f2b29d45ff865d49953ff3bb3ae1e57.jpg"
+              decoding="async"
+              alt="profile"
+              width="50"
+              height="50"
+              aria-hidden="true"
+            />
+          </picture>
+          <span class="cs-name">
+            Addison Rhoda
+            <span class="cs-job">Filmmaker</span>
+          </span>
+        </div>
+      </li>
+      <li class="cs-item">
+        <img
+          class="cs-quote"
+          aria-hidden="true"
+          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg"
+          decoding="async"
+          alt="quote icon"
+          width="40"
+          height="33"
+        />
+        <img
+          class="cs-quote-white"
+          aria-hidden="true"
+          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg"
+          decoding="async"
+          alt="quote icon"
+          width="60"
+          height="55"
+        />
+        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="cs-review">
+          MZed is for me the only place where you can really learn about the
+          craft and technology of filmmaking, the quality of its courses and its
+          instructors far surpass any other offerings on the web.
+        </p>
+        <div class="cs-flex-group">
+          <picture class="cs-picture">
+            <img
+              class="cs-profile"
+              src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/c015d31d9e84138db864ae81c99bdc82.jpg"
+              decoding="async"
+              alt="profile"
+              width="50"
+              height="50"
+              aria-hidden="true"
+            />
+          </picture>
+          <span class="cs-name">
+            Fabio Paul Bedoya Huerta
+            <span class="cs-job">Colorist & DIT</span>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
 </section>
 
 {% include cta_banner.html %}
@@ -188,21 +320,23 @@ cta_banner:
 <!-- ============================================ -->
 
 <section id="recent-articles">
-    <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">MZed Blog</span>
-            <h2 class="cs-title">Recent Articles</h2>
-            <p class="cs-text">
-                Stay up to date with the latest filmmaking tips, industry insights, and educational content.
-            </p>
-        </div>
-        <ul class="news-card-group">
-            {% for post in site.posts limit: 4 %}
-                {% include news_card.html post=post %}
-            {% endfor %}
-        </ul>
-        <a href="{{ site.baseurl }}/news/" class="cs-button-solid">View All Articles</a>
+  <div class="cs-container">
+    <div class="cs-content">
+      <span class="cs-topper">MZed Blog</span>
+      <h2 class="cs-title">Recent Articles</h2>
+      <p class="cs-text">
+        Stay up to date with the latest filmmaking tips, industry insights, and
+        educational content.
+      </p>
     </div>
+    <ul class="news-card-group">
+      {% for post in site.posts limit: 4 %} {% include news_card.html post=post
+      %} {% endfor %}
+    </ul>
+    <a href="{{ site.baseurl }}/news/" class="cs-button-solid"
+      >View All Articles</a
+    >
+  </div>
 </section>
 
 <!-- ============================================ -->
@@ -210,134 +344,158 @@ cta_banner:
 <!-- ============================================ -->
 
 <section id="faq-1261">
-    <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">Asked questions</span>
-            <h2 class="cs-title">Frequently Asked Questions</h2>
-        </div>
-        <!--We made two lists so when you open an FAQ item, they behave properly and separate from each other, wrapped in a wrapper div for better flexboxxing -->
-        <div class="cs-wrapper">
-            <ul class="cs-faq-group">
-                <!-- Active class added as default -->
-                <li class="cs-faq-item active">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            What is MZed Pro?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        MZed Pro is a monthly or yearly subscription service from MZed, which gives you unlimited streaming access to our large library of filmmaking and education courses, as well as all new content that we add to our library.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            Which courses and content are included in MZed Pro?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        MZed Pro includes all courses in the MZed library. View a complete list of included courses here.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            Does MZed Pro give me access to all new MZed content during membership?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        Yes, as of January 1, 2021, all new content added to MZed will be immediately available to MZed Pro members.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            Can more than one person use a single MZed Pro account?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        No. An MZed Pro account is for one individual, and account sharing is in violation of the terms & conditions. Members found to be sharing logins are subject to have their accounts terminated.
-
-MZed does offer special education and institution pricing which is designed to accomodate larger group licenses. For more information please contact us.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            Can I download the videos?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        MZed Pro members can download lessons and courses using our iOS app for iPhone and iPad but are unable to download via a browser.
-
-If you have purchased the content outright, you can download individual course modules in a browser by clicking on the download icon next to the module name on the course page.
-                    </p>
-                </li>
-            </ul>
-            <ul class="cs-faq-group">
-                <!-- Active class added as default -->
-                <li class="cs-faq-item active">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            How much does MZed Pro cost as opposed to buying the courses individually?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        An MZed Pro subscription is only $349 for 12 months of unlimited streaming, plus offline viewing with our iOS app. To purchase the courses and own them for life, it would cost over $9,000.
-
-To break it down, an MZed Pro membership is about $30/month for over 255 hours of high-level courses. 
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            What is your plan cancellation policy?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        Monthly plans can be cancelled at any time. Annual plans come with a 7-day money-back guarantee from the date of purchase. After 7 days, annual plans are non-refundable but will not auto-renew unless you choose to renew.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            What industry discounts can I access as an MZed Pro member?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        We've partnered with some leading industry brands to bring MZed members an outstanding range of discounts that could easily save you more than the cost of your annual membership, including AbelCine, Vimeo (20% off paid memberships), FIlmConvert (30% off), Movidiam (50% off individual membership), Musicbed (20% off), Filmsupply (20% off), BlueCat Audio (20% off), New Audio Technology (40% off), Waves (35% off Gold membership), Kitsplit (10% off gear rentals) and Hurlbut Academy (up to $100 off annual membership).
-
-MZed Pro members can access these membership discounts in their account page.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            Can I gift an MZed Pro membership to someone?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        Yes! While you could certainly gift an individual course, an MZed Pro membership is our most popular gift choice as it gives a year’s access to the majority of our education library. You choose when you want your gift to be emailed to your giftee, and we’ll also provide you with a printable certificate that you can give in person if you wish. Learn more here.
-                    </p>
-                </li>
-                <li class="cs-faq-item">
-                    <button class="cs-button">
-                        <span class="cs-button-text">
-                            Does MZed offer a student/education discount?
-                        </span>
-                    </button>
-                    <p class="cs-item-p">
-                        Yes! We have recently introduced a student/education discount of 20%. To qualify for this discount you need to be currently enrolled in a relevant education program, and provide a scan or photo of a student ID that shows a valid date.
-
-We also provide discounts for staff and academics in relevant programs.
-
-Please contact us with the above details and we can arrange the custom discount for you.
-                    </p>
-                </li>
-            </ul>
-        </div>
+  <div class="cs-container">
+    <div class="cs-content">
+      <span class="cs-topper">Asked questions</span>
+      <h2 class="cs-title">Frequently Asked Questions</h2>
     </div>
+    <!--We made two lists so when you open an FAQ item, they behave properly and separate from each other, wrapped in a wrapper div for better flexboxxing -->
+    <div class="cs-wrapper">
+      <ul class="cs-faq-group">
+        <!-- Active class added as default -->
+        <li class="cs-faq-item active">
+          <button class="cs-button">
+            <span class="cs-button-text"> What is MZed Pro? </span>
+          </button>
+          <p class="cs-item-p">
+            MZed Pro is a monthly or yearly subscription service from MZed,
+            which gives you unlimited streaming access to our large library of
+            filmmaking and education courses, as well as all new content that we
+            add to our library.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              Which courses and content are included in MZed Pro?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            MZed Pro includes all courses in the MZed library. View a complete
+            list of included courses here.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              Does MZed Pro give me access to all new MZed content during
+              membership?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            Yes, as of January 1, 2021, all new content added to MZed will be
+            immediately available to MZed Pro members.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              Can more than one person use a single MZed Pro account?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            No. An MZed Pro account is for one individual, and account sharing
+            is in violation of the terms & conditions. Members found to be
+            sharing logins are subject to have their accounts terminated. MZed
+            does offer special education and institution pricing which is
+            designed to accomodate larger group licenses. For more information
+            please contact us.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text"> Can I download the videos? </span>
+          </button>
+          <p class="cs-item-p">
+            MZed Pro members can download lessons and courses using our iOS app
+            for iPhone and iPad but are unable to download via a browser. If you
+            have purchased the content outright, you can download individual
+            course modules in a browser by clicking on the download icon next to
+            the module name on the course page.
+          </p>
+        </li>
+      </ul>
+      <ul class="cs-faq-group">
+        <!-- Active class added as default -->
+        <li class="cs-faq-item active">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              How much does MZed Pro cost as opposed to buying the courses
+              individually?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            An MZed Pro subscription is only $349 for 12 months of unlimited
+            streaming, plus offline viewing with our iOS app. To purchase the
+            courses and own them for life, it would cost over $9,000. To break
+            it down, an MZed Pro membership is about $30/month for over 255
+            hours of high-level courses.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              What is your plan cancellation policy?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            Monthly plans can be cancelled at any time. Annual plans come with a
+            7-day money-back guarantee from the date of purchase. After 7 days,
+            annual plans are non-refundable but will not auto-renew unless you
+            choose to renew.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              What industry discounts can I access as an MZed Pro member?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            We've partnered with some leading industry brands to bring MZed
+            members an outstanding range of discounts that could easily save you
+            more than the cost of your annual membership, including AbelCine,
+            Vimeo (20% off paid memberships), FIlmConvert (30% off), Movidiam
+            (50% off individual membership), Musicbed (20% off), Filmsupply (20%
+            off), BlueCat Audio (20% off), New Audio Technology (40% off), Waves
+            (35% off Gold membership), Kitsplit (10% off gear rentals) and
+            Hurlbut Academy (up to $100 off annual membership). MZed Pro members
+            can access these membership discounts in their account page.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              Can I gift an MZed Pro membership to someone?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            Yes! While you could certainly gift an individual course, an MZed
+            Pro membership is our most popular gift choice as it gives a year’s
+            access to the majority of our education library. You choose when you
+            want your gift to be emailed to your giftee, and we’ll also provide
+            you with a printable certificate that you can give in person if you
+            wish. Learn more here.
+          </p>
+        </li>
+        <li class="cs-faq-item">
+          <button class="cs-button">
+            <span class="cs-button-text">
+              Does MZed offer a student/education discount?
+            </span>
+          </button>
+          <p class="cs-item-p">
+            Yes! We have recently introduced a student/education discount of
+            20%. To qualify for this discount you need to be currently enrolled
+            in a relevant education program, and provide a scan or photo of a
+            student ID that shows a valid date. We also provide discounts for
+            staff and academics in relevant programs. Please contact us with the
+            above details and we can arrange the custom discount for you.
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
 </section>
-                                
-{% include mzed_pricing.html %}
 
+{% include mzed_pricing.html %}
