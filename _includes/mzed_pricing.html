@@ -87,10 +87,11 @@
     <!-- Social proof -->
     <div class="cs-trust-signal">
       <div class="cs-avatars">
-        {% assign top_educators = site.educators | sort: "position" %}
-        {% for educator in top_educators limit: 5 %}
-        <img src="{{ educator.Image | relative_url }}" alt="{{ educator.name }}" loading="lazy" width="36" height="36">
-        {% endfor %}
+        <img src="{{ site.baseurl }}/assets/images/testimonials/rodrigo-rattazzi.jpg" alt="avatar" loading="lazy" width="36" height="36">
+        <img src="{{ site.baseurl }}/assets/images/testimonials/simon-degasperis.jpg" alt="avatar" loading="lazy" width="36" height="36">
+        <img src="{{ site.baseurl }}/assets/images/testimonials/cooper-demar.jpg" alt="avatar" loading="lazy" width="36" height="36">
+        <img src="{{ site.baseurl }}/assets/images/testimonials/philip-london.jpg" alt="avatar" loading="lazy" width="36" height="36">
+        <img src="{{ site.baseurl }}/assets/images/testimonials/addison-rhoda.jpg" alt="avatar" loading="lazy" width="36" height="36">
       </div>
       <div class="cs-trust-info">
         <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>

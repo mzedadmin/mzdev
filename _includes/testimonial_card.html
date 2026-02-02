@@ -1,0 +1,23 @@
+<li class="cs-item">
+  <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+  <p class="cs-review">
+    {{ include.testimonial.review }}
+  </p>
+  <div class="cs-flex-group">
+    <picture class="cs-picture">
+      <img
+        class="cs-profile"
+        src="{{ include.testimonial.image | relative_url }}"
+        decoding="async"
+        alt="{{ include.testimonial.name }}"
+        width="50"
+        height="50"
+        loading="lazy"
+      />
+    </picture>
+    <span class="cs-name">
+      {{ include.testimonial.name }}
+      <span class="cs-job">{{ include.testimonial.job }}</span>
+    </span>
+  </div>
+</li>

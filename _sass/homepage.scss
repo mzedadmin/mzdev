@@ -923,13 +923,8 @@
             box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
             display: flex;
             flex-direction: column;
-            justify-content: center;
             align-items: flex-start;
             position: relative;
-        }
-
-        .cs-quote {
-            display: none;
         }
 
         .cs-stars {
@@ -940,10 +935,6 @@
             margin-bottom: 1rem;
         }
 
-        .cs-quote-white {
-            display: none;
-        }
-
         .cs-review {
             /* 14px - 20px */
             font-size: clamp(0.875rem, 1.6vw, 1.25rem);
@@ -952,6 +943,10 @@
             /* 20px - 40px */
             margin-bottom: clamp(1.25rem, 3vw, 2.5rem);
             color: var(--bodyTextColor);
+        }
+
+        .cs-flex-group {
+            margin-top: auto;
         }
 
         .cs-flex-group {

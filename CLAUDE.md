@@ -18,6 +18,7 @@ Marketing/landing site for MZed, an online education platform for filmmakers and
 | `_courses` | 64 files (.md) | Yes | `/courses/:name/` |
 | `_educators` | 32 files (.md) | Yes | `/educators/:name/` |
 | `_posts` | 175 files (.md) | Yes | `/posts/:title/` |
+| `_testimonials` | 3 files (.md) | No | N/A |
 | `_trusted_by` | 12 files (.md) | No | N/A |
 | `_settings` | Pricing/globals | No | N/A |
 | `_uploads` | Media files | No | N/A |
@@ -142,6 +143,7 @@ The hero uses a column flex layout with visual hierarchy:
 | `educator_showcase.html` | Top 8 educators from collection (sorted by position) |
 | `educator_card_mini.html` | Circular photo + name + subtitle card |
 | `cta_banner.html` | Full-width red CTA with risk-reduction text |
+| `testimonial_card.html` | Review card: stars + quote + photo + name/job (used by `_testimonials` collection) |
 | `mzed_pricing.html` | Two side-by-side pricing cards (Monthly/Annual) with shared feature list, trust signal, and dynamic savings badge |
 
 ### Course Catalog Categories
@@ -226,4 +228,16 @@ Pricing          → #fff (white)
 - `index.html` - CTA banner: updated copy to value-anchoring ("60+ courses. 800+ lessons. One subscription." with line break, "$10,000+ in course value"). Recent Articles: updated topper ("Filmmaking Insights"), title ("Tips, Techniques & Industry News"), subtext, and button text. FAQ: complete rewrite from 10 questions in two columns to 7 conversion-focused questions in single column with inline toggle JS. Added "What happens after my first year?" FAQ item ($199/year renewal). Fixed "255 hours" → "375 hours" inconsistency.
 - `_includes/stats_strip.html` - Lessons and hours now computed dynamically via Liquid loops over `site.courses` collection. Course value updated to "$10,000+".
 - `_includes/mzed_pricing.html` - Updated feature list: course value to "$10,000+", lesson count to "840+", educator description to match hero copy.
-- `_sass/homepage.scss` - FAQ: removed `.cs-wrapper` styles, removed tablet two-column breakpoint, updated container max-width to 800px for single column, tightened vertical spacing (gap, button padding, answer padding).
+- `_sass/homepage.scss` - FAQ: removed `.cs-wrapper` styles, removed tablet two-column breakpoint, updated container max-width to 800px for single column, tightened vertical spacing (gap, button padding, answer padding). Educator showcase: added title bottom margin for spacing.
+
+### 2025-02-01: Testimonials Collection
+**Created:**
+- `_testimonials/` collection (3 files: ryan-connolly, cooper-demar, drazen-stader) with name, job, position, image, review fields
+- `_includes/testimonial_card.html` — reusable review card component
+- `assets/images/testimonials/` — 11 reviewer photos downloaded from CDN, stored locally with descriptive filenames
+
+**Modified:**
+- `_config.yml` — Added `testimonials` collection (output: false)
+- `index.html` — Reviews section: replaced 3 hardcoded cards with Liquid loop over `_testimonials` sorted by position. Trust signal avatars use 5 hand-picked reviewer photos (local images). Review card alignment fix (`.cs-flex-group` margin-top: auto pushes reviewer info to bottom).
+- `_includes/mzed_pricing.html` — Trust signal avatars use same 5 reviewer photos (local images).
+- `_sass/homepage.scss` — Reviews: removed `justify-content: center` from `.cs-item`, added `margin-top: auto` to `.cs-flex-group` for consistent card alignment.

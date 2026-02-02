@@ -57,16 +57,11 @@ cta_banner:
       >
       <div class="cs-trust-signal">
         <div class="cs-avatars">
-          {% assign top_educators = site.educators | sort: "position" %} {% for
-          educator in top_educators limit: 5 %}
-          <img
-            src="{{ educator.Image | relative_url }}"
-            alt="{{ educator.name }}"
-            loading="eager"
-            width="36"
-            height="36"
-          />
-          {% endfor %}
+          <img src="{{ site.baseurl }}/assets/images/testimonials/rodrigo-rattazzi.jpg" alt="avatar" loading="eager" width="36" height="36" />
+          <img src="{{ site.baseurl }}/assets/images/testimonials/simon-degasperis.jpg" alt="avatar" loading="eager" width="36" height="36" />
+          <img src="{{ site.baseurl }}/assets/images/testimonials/cooper-demar.jpg" alt="avatar" loading="eager" width="36" height="36" />
+          <img src="{{ site.baseurl }}/assets/images/testimonials/philip-london.jpg" alt="avatar" loading="eager" width="36" height="36" />
+          <img src="{{ site.baseurl }}/assets/images/testimonials/addison-rhoda.jpg" alt="avatar" loading="eager" width="36" height="36" />
         </div>
         <div class="cs-trust-info">
           <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
@@ -176,136 +171,10 @@ course_catalog.html %} {% include educator_showcase.html %}
 <section id="reviews-399">
   <div class="cs-container">
     <ul class="cs-card-group">
-      <li class="cs-item">
-        <img
-          class="cs-quote"
-          aria-hidden="true"
-          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg"
-          decoding="async"
-          alt="quote icon"
-          width="40"
-          height="33"
-        />
-        <img
-          class="cs-quote-white"
-          aria-hidden="true"
-          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg"
-          decoding="async"
-          alt="quote icon"
-          width="60"
-          height="55"
-        />
-        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <p class="cs-review">
-          The videos are so in depth. I am an avid YouTuber and found I was
-          reaching a ceiling of in-depth industry knowledge. I found MZed and it
-          was what I was looking for!
-        </p>
-        <div class="cs-flex-group">
-          <picture class="cs-picture">
-            <img
-              class="cs-profile"
-              src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/89ec8f63a2809ca929c8ae71fd9c139f.jpg"
-              decoding="async"
-              alt="profile"
-              width="50"
-              height="50"
-              aria-hidden="true"
-            />
-          </picture>
-          <span class="cs-name">
-            Cooper DeMar
-            <span class="cs-job">Cinematographer</span>
-          </span>
-        </div>
-      </li>
-      <li class="cs-item">
-        <img
-          class="cs-quote"
-          aria-hidden="true"
-          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg"
-          decoding="async"
-          alt="quote icon"
-          width="40"
-          height="33"
-        />
-        <img
-          class="cs-quote-white"
-          aria-hidden="true"
-          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg"
-          decoding="async"
-          alt="quote icon"
-          width="60"
-          height="55"
-        />
-        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <p class="cs-review">
-          I have learned so much watching these professionals go into detail in
-          all the areas of lighting, lensing, cameras, tools, and audio
-          production and then ending the process with editing workflows, sound,
-          and color grading.
-        </p>
-        <div class="cs-flex-group">
-          <picture class="cs-picture">
-            <img
-              class="cs-profile"
-              src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/4f2b29d45ff865d49953ff3bb3ae1e57.jpg"
-              decoding="async"
-              alt="profile"
-              width="50"
-              height="50"
-              aria-hidden="true"
-            />
-          </picture>
-          <span class="cs-name">
-            Addison Rhoda
-            <span class="cs-job">Filmmaker</span>
-          </span>
-        </div>
-      </li>
-      <li class="cs-item">
-        <img
-          class="cs-quote"
-          aria-hidden="true"
-          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quote-blue.svg"
-          decoding="async"
-          alt="quote icon"
-          width="40"
-          height="33"
-        />
-        <img
-          class="cs-quote-white"
-          aria-hidden="true"
-          src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/quotes-white.svg"
-          decoding="async"
-          alt="quote icon"
-          width="60"
-          height="55"
-        />
-        <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <p class="cs-review">
-          MZed is for me the only place where you can really learn about the
-          craft and technology of filmmaking, the quality of its courses and its
-          instructors far surpass any other offerings on the web.
-        </p>
-        <div class="cs-flex-group">
-          <picture class="cs-picture">
-            <img
-              class="cs-profile"
-              src="https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/mzed-pro-testimonials/thumbs/c015d31d9e84138db864ae81c99bdc82.jpg"
-              decoding="async"
-              alt="profile"
-              width="50"
-              height="50"
-              aria-hidden="true"
-            />
-          </picture>
-          <span class="cs-name">
-            Fabio Paul Bedoya Huerta
-            <span class="cs-job">Colorist & DIT</span>
-          </span>
-        </div>
-      </li>
+      {% assign testimonials = site.testimonials | sort: "position" %}
+      {% for testimonial in testimonials limit: 3 %}
+        {% include testimonial_card.html testimonial=testimonial %}
+      {% endfor %}
     </ul>
   </div>
 </section>

@@ -19,6 +19,9 @@ collections:
   settings:
     title: Pricing and Global Settings
     output: false
+  testimonials:
+    title: Testimonials
+    output: false
   trusted_by:
     title: Trusted By
     output: false
