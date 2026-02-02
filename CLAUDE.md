@@ -276,3 +276,7 @@ Pricing          → #fff (white)
 **Modified:**
 - `_sass/course.scss` — Added scroll-reveal animation styles to `#sbs-1015`: text elements (`.cs-topper`, `.cs-title`, `.cs-text`, `.cs-button-12`) start hidden (`opacity: 0`, `translateY(1.5rem)`) with 0.6s ease-out transitions and staggered delays (0s/0.15s/0.3s/0.45s). `.is-visible` class reveals them. Includes `prefers-reduced-motion: reduce` media query to skip animation.
 - `_layouts/course.html` — Added inline Intersection Observer script after `#sbs-1015` section. Observes `.cs-topper` element with `rootMargin: '0px 0px -10% 0px'` so animation triggers when text is clearly in viewport, not just peeking in. Falls back to immediate visibility if IntersectionObserver is unsupported.
+
+### 2025-02-01: What You'll Learn Icon Hover Fix
+**Modified:**
+- `_sass/course.scss` — Added `filter: brightness(0) invert(1)` on `.cs-icon` inside `#services-1304 .cs-item:hover` so SVG icons turn white on dark hover background. Added `transition: filter 0.3s` on `.cs-icon` for smooth change.
