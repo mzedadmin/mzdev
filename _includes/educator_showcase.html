@@ -4,7 +4,7 @@
 
 <section id="educator-showcase">
   <div class="cs-container">
-    <div class="cs-content">
+    <div class="cs-content" data-reveal>
       <span class="cs-topper"
         >{{ page.educators_section.topper | default: "World-Class Educators"
         }}</span
@@ -20,7 +20,7 @@
         respected institutions like AbelCine and ARRI Academy." }}
       </p>
     </div>
-    <ul class="educator-grid">
+    <ul class="educator-grid" data-reveal-children>
       {% assign sorted_educators = site.educators | sort: "position" %} {% for
       educator in sorted_educators limit: 8 %} {% include
       educator_card_mini.html educator=educator %} {% endfor %}

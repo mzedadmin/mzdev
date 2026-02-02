@@ -280,3 +280,31 @@ Pricing          → #fff (white)
 ### 2025-02-01: What You'll Learn Icon Hover Fix
 **Modified:**
 - `_sass/course.scss` — Added `filter: brightness(0) invert(1)` on `.cs-icon` inside `#services-1304 .cs-item:hover` so SVG icons turn white on dark hover background. Added `transition: filter 0.3s` on `.cs-icon` for smooth change.
+
+### 2025-02-01: Site-Wide Scroll-Reveal Animation System
+Standalone, opt-in scroll-reveal system using `data-reveal` attributes. Two new files (SCSS + JS) that can each be disabled by removing a single line. Elements fade up with staggered timing as they enter the viewport. Respects `prefers-reduced-motion`, has `<noscript>` fallback, and a scroll-to-bottom fallback for elements near the page end.
+
+**Usage:** `data-reveal` on an element → fades up on scroll. `data-reveal-children` on a container → direct children stagger in. `data-reveal-delay="100"` sets stagger interval (default 100ms). Max stagger capped at 600ms for large grids.
+
+**Disabling:** Remove `@use 'scroll-reveal'` from `main.scss` and/or `<script>` tag from `default.html`.
+
+**Created:**
+- `_sass/scroll-reveal.scss` — Hidden/revealed states via `[data-reveal]` attribute selectors, child stagger via `--reveal-delay` CSS custom property, `prefers-reduced-motion` override.
+- `assets/js/scroll-reveal.js` — Single IntersectionObserver (`rootMargin: 0px 0px -10% 0px`), stagger delay injection on children, 600ms max-delay cap, reduced-motion/no-JS fallbacks, scroll-to-bottom fallback.
+
+**Modified:**
+- `assets/css/main.scss` — Added `@use 'scroll-reveal'`.
+- `_layouts/default.html` — Added `<script>` for `scroll-reveal.js` and `<noscript>` fallback.
+- `_layouts/course.html` — Removed inline `#sbs-1015` scroll-reveal script (migrated to new system). Added `data-reveal-children` to `#sbs-1015 .cs-content`. Added `data-reveal`/`data-reveal-children` to `#services-1304`, `#reviews-567`, `#recommended-courses`.
+- `_sass/course.scss` — Removed 34 lines of `#sbs-1015`-specific reveal CSS (now handled by `scroll-reveal.scss`).
+- `index.html` — Added reveal attributes to `#video-1683 .cs-content`, `#reviews-399 .cs-card-group`, `#recent-articles` content + news cards, `#faq-1261` content + FAQ items.
+- `_includes/stats_strip.html` — `data-reveal-children` on `.stats-list`.
+- `_includes/course_catalog.html` — `data-reveal` on `.cs-content` and each `.catalog-row`.
+- `_includes/educator_showcase.html` — `data-reveal` on `.cs-content`, `data-reveal-children` on `.educator-grid`.
+- `_includes/cta_banner.html` — `data-reveal` on `.cs-container`.
+- `_includes/mzed_pricing.html` — `data-reveal` on `.cs-content`, `data-reveal-children` on `.cs-card-group`.
+- `_layouts/educator.html` — `data-reveal` on `#educator-courses .cs-content`, `data-reveal-children` on `.cs-card-group`.
+- `courses/index.html` — `data-reveal` on header `.cs-content`.
+- `educators/index.html` — `data-reveal` on `.cs-content`, `data-reveal-children` on `.cs-card-group`.
+- `news/index.html` — `data-reveal` on `.cs-content`, `data-reveal-children` on `.news-card-group`.
+- `_layouts/post.html` — `data-reveal` on `.post-container`.

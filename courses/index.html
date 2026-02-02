@@ -23,7 +23,7 @@ Header:
       {% for course in site.courses %}
         {% assign total_lessons = total_lessons | plus: course['Course Card']['Lessons'] %}
       {% endfor %}
-      <div class="cs-content">
+      <div class="cs-content" data-reveal>
         <span class="cs-topper">{{ page.Header.Topper }}</span>
         <div class="cs-title">{{ site.courses.size }}+ Courses. {{ total_lessons }}+ Lessons. All Yours.</div>
         <p class="cs-text">From cinematography and lighting to editing, color grading, and directing<br>— stream our entire library with MZed Pro.</p>

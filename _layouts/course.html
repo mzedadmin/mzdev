@@ -105,7 +105,7 @@ layout: default
           src="{{ page['Course Page']['Main Image'] | relative_url }}"
           alt="{{ page.title }} course image" width="950" height="480" />
       </picture>
-      <div class="cs-content">
+      <div class="cs-content" data-reveal-children data-reveal-delay="150">
         <span class="cs-topper">About the Course</span>
         <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
         <p class="cs-text">
@@ -138,36 +138,19 @@ layout: default
     {% endif %}
   </section>
 
-  <script>
-  (function() {
-    var section = document.getElementById('sbs-1015');
-    if (!section || !('IntersectionObserver' in window)) {
-      if (section) section.classList.add('is-visible');
-      return;
-    }
-    var target = section.querySelector('.cs-topper');
-    new IntersectionObserver(function(entries, observer) {
-      if (entries[0].isIntersecting) {
-        section.classList.add('is-visible');
-        observer.disconnect();
-      }
-    }, { rootMargin: '0px 0px -10% 0px' }).observe(target);
-  })();
-  </script>
-
   <!-- ============================================ -->
   <!--               What You'll Learn              -->
   <!-- ============================================ -->
   {% if page['Course Page']['Learning Topics'] %}
   <section id="services-1304">
     <div class="cs-container">
-      <div class="cs-content">
+      <div class="cs-content" data-reveal>
         <div class="cs-flex-group">
           <span class="cs-topper">Course Overview</span>
           <div class="cs-title">What You'll Learn</div>
         </div>
       </div>
-      <ul class="cs-card-group">
+      <ul class="cs-card-group" data-reveal-children>
         {% for topic in page['Course Page']['Learning Topics'] %}
         <li class="cs-item">
           <div class="cs-link">
@@ -219,11 +202,11 @@ layout: default
   {% if page['Course Page'].Reviews %}
   <section id="reviews-567">
     <div class="cs-container">
-      <div class="cs-content">
+      <div class="cs-content" data-reveal>
         <span class="cs-topper">Course Reviews</span>
         <div class="cs-title">What Students Are Saying</div>
       </div>
-      <ul class="cs-card-group">
+      <ul class="cs-card-group" data-reveal-children>
         {% for review in page['Course Page'].Reviews %} {% include
         course_review.html review=review %} {% endfor %}
       </ul>
@@ -238,7 +221,7 @@ layout: default
   {% if page['Course Page']['Courses'] %}
   <section id="recommended-courses">
     <div class="cs-container">
-      <div class="cs-content">
+      <div class="cs-content" data-reveal>
         <span class="cs-topper">Included with MZed Pro</span>
         <div class="cs-title">More Courses You'll Love</div>
         <p class="cs-text">
@@ -246,7 +229,7 @@ layout: default
           included with your MZed Pro subscription.
         </p>
       </div>
-      <ul class="course-card-group">
+      <ul class="course-card-group" data-reveal-children>
         {% for course_slug in page['Course Page']['Courses'] %} {% assign
         recommended_course = site.courses | where: "slug", course_slug | first
         %} {% if recommended_course %} {% include course_card.html

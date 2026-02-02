@@ -18,12 +18,12 @@ Header:
 <main id="main">
   <section id="educators">
     <div class="cs-container">
-      <div class="cs-content">
+      <div class="cs-content" data-reveal>
         <span class="cs-topper">{{ page.Header.Topper }}</span>
         <div class="cs-title">{{ page.Header.Title }}</div>
         <p class="cs-text">{{ page.Header.Text }}</p>
       </div>
-      <ul class="cs-card-group">
+      <ul class="cs-card-group" data-reveal-children data-reveal-delay="50">
         {% assign sorted_educators = site.educators | sort: "position", "last" %}
         {% for educator in sorted_educators %}
           {% include educator_card.html educator=educator %}

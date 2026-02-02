@@ -80,11 +80,11 @@ layout: default
 {% if educator_courses.size > 0 %}
 <section id="educator-courses">
   <div class="cs-container">
-    <div class="cs-content">
+    <div class="cs-content" data-reveal>
       <span class="cs-topper">Courses</span>
       <div class="cs-title">Learn from {{ page.name | split: " " | first }}</div>
     </div>
-    <ul class="cs-card-group">
+    <ul class="cs-card-group" data-reveal-children>
       {% for course in educator_courses %}
         {% include course_card_mini.html course=course %}
       {% endfor %}

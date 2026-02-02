@@ -115,7 +115,7 @@ course_catalog.html %} {% include educator_showcase.html %}
 
 <section id="video-1683">
   <div class="cs-container">
-    <div class="cs-content">
+    <div class="cs-content" data-reveal>
       <span class="cs-topper">Member Reviews</span>
       <h2 class="cs-title">See why 100,000+ filmmakers choose MZed Pro</h2>
     </div>
@@ -170,7 +170,7 @@ course_catalog.html %} {% include educator_showcase.html %}
 
 <section id="reviews-399">
   <div class="cs-container">
-    <ul class="cs-card-group">
+    <ul class="cs-card-group" data-reveal-children>
       {% assign testimonials = site.testimonials | sort: "position" %}
       {% for testimonial in testimonials limit: 3 %}
         {% include testimonial_card.html testimonial=testimonial %}
@@ -187,14 +187,14 @@ course_catalog.html %} {% include educator_showcase.html %}
 
 <section id="recent-articles">
   <div class="cs-container">
-    <div class="cs-content">
+    <div class="cs-content" data-reveal>
       <span class="cs-topper">Filmmaking Insights</span>
       <h2 class="cs-title">Tips, Techniques & Industry News</h2>
       <p class="cs-text">
         Free resources from our educators and the MZed community to help you grow as a filmmaker.
       </p>
     </div>
-    <ul class="news-card-group">
+    <ul class="news-card-group" data-reveal-children>
       {% for post in site.posts limit: 4 %} {% include news_card.html post=post
       %} {% endfor %}
     </ul>
@@ -210,11 +210,11 @@ course_catalog.html %} {% include educator_showcase.html %}
 
 <section id="faq-1261">
   <div class="cs-container">
-    <div class="cs-content">
+    <div class="cs-content" data-reveal>
       <span class="cs-topper">Common Questions</span>
       <h2 class="cs-title">Frequently Asked Questions</h2>
     </div>
-    <ul class="cs-faq-group">
+    <ul class="cs-faq-group" data-reveal-children data-reveal-delay="80">
       <li class="cs-faq-item active">
         <button class="cs-button">
           <span class="cs-button-text">What is MZed Pro?</span>

@@ -13,12 +13,12 @@ custom_css:
 <main id="main">
   <section id="news">
     <div class="cs-container">
-      <div class="cs-content">
+      <div class="cs-content" data-reveal>
         <span class="cs-topper">MZed Blog</span>
         <div class="cs-title">News & Articles</div>
         <p class="cs-text">Stay up to date with the latest filmmaking tips, industry insights, and educational content from MZed.</p>
       </div>
-      <ul class="news-card-group">
+      <ul class="news-card-group" data-reveal-children data-reveal-delay="50">
         {% for post in site.posts %}
           {% include news_card.html post=post %}
         {% endfor %}

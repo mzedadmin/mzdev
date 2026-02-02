@@ -4,7 +4,7 @@
 
 <section id="course-catalog">
     <div class="cs-container">
-        <div class="cs-content">
+        <div class="cs-content" data-reveal>
             <span class="cs-topper">{{ page.catalog.topper | default: "Course Library" }}</span>
             <h2 class="cs-title">{{ page.catalog.title | default: "All the courses you need to become a master filmmaker" }}</h2>
             <p class="cs-text">{{ page.catalog.text | default: "Stream any course, anytime. New courses added regularly." }}</p>
@@ -14,7 +14,7 @@
         {% for cat in categories %}
             {% assign cat_courses = site.courses | where_exp: "course", "course['Course Card'].Topics contains cat.topic" | sort: "position" | reverse %}
             {% if cat_courses.size > 0 %}
-            <div class="catalog-row">
+            <div class="catalog-row" data-reveal>
                 <h3 class="catalog-row-title">{{ cat.name }} <span class="catalog-row-count">({{ cat_courses.size }})</span></h3>
                 <div class="catalog-row-scroll">
                     {% for course in cat_courses %}

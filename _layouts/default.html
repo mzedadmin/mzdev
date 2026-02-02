@@ -19,7 +19,8 @@
     />
 
     <!-- Include default stylesheets -->
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}"> {% if page.custom_css
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <noscript><style>[data-reveal],[data-reveal-children]>*{opacity:1!important;transform:none!important;}</style></noscript> {% if page.custom_css
     %} {% for css_file in page.custom_css %}
     <link rel="stylesheet" href="{{ css_file | relative_url }}" />
     {% endfor %} {% endif %}
@@ -48,6 +49,9 @@
     
     <!-- GitHub Pages URL fix -->
     <script src="{{ '/assets/js/url-fix.js' | relative_url }}"></script>
+
+    <!-- Scroll Reveal Animations (remove to disable) -->
+    <script src="{{ '/assets/js/scroll-reveal.js' | relative_url }}"></script>
 
   </body>
 </html>
