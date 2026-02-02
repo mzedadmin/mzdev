@@ -249,3 +249,13 @@ Pricing          → #fff (white)
 - `_sass/courses.scss` — Removed ~135 lines of `#mzed-summary-stats` styles. Tighter grid gap (`clamp(0.75rem, 1.5vw, 1.25rem)`). 4-col desktop breakpoint moved from 1300px to 1024px. Filter redesigned: pill buttons replaced with underline tabs (no backgrounds/borders, red underline on active, lighter inactive text #aaa, 0.875rem). 90% width on desktop to fit all topics in one row. Mobile gap increased for wrapped line readability.
 - `_includes/course_card.html` — Overlay now includes course description text and arrow on "Go to Course →".
 - `_includes/mzed_stats.html` — Updated "$9000+" to "$10,000+" (still used on course detail pages).
+
+### 2025-02-01: Educators Page Overhaul
+**Modified:**
+- `educators/index.html` — New frontmatter header copy ("Our Educators" / "Learn from the Best Filmmakers in the Business" / credential-stacking subtext). Added `stats_strip.html` and `mzed_pricing.html` below grid. Removed Siteleaf `{% assign page %}` line.
+- `_includes/educator_card.html` — Stripped down: removed course thumbnails grid and inline bio. Added course count badge ("8 Courses"). Hover overlay redesigned: dark background with short_bio (6-line clamp) and "View Educator →" link.
+- `_sass/educators.scss` — Complete rewrite: removed border-radius (matches course cards), square photos (`aspect-ratio: 1/1`), compact info (1.15rem name, 0.875rem subtitle), dark hover overlay with bio, tighter grid gap, 4-col at 1024px. Removed all course thumbnail styles (~80 lines).
+- `_layouts/educator.html` — Swapped `mzed_stats.html` → `stats_strip.html`.
+- `_includes/course_card_mini.html` — Overlay updated: description + "Go to Course →" arrow.
+- `_sass/educator.scss` — Show full course descriptions on educator detail page (`display: block`, no clamp). Hide overlay description since it's already visible inline.
+- `_educators/*.md` (8 files) — Removed escaped quotes (`\"` → `"`) in bios. Converted Rubidium Wu bio from flow scalar to `|-` block scalar.

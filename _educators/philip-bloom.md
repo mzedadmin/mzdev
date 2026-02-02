@@ -12,7 +12,7 @@ bio: |-
 
   As one of the biggest evangelists for the use of smaller DSLR cameras in productions his website is the go-to resource for both emerging filmmakers and established professionals looking to embrace new technologies.
 
-  His credits include the Lucasfilm feature film \"Red Tails\" as well as CNN series \"The Wonder List\" in addition to shooting for broadcasters all over the globe including the BBC, ITV, C4, Sky, CNN, CBS, Discovery, FOX and NBC.
+  His credits include the Lucasfilm feature film "Red Tails" as well as CNN series "The Wonder List" in addition to shooting for broadcasters all over the globe including the BBC, ITV, C4, Sky, CNN, CBS, Discovery, FOX and NBC.
 Image: "/assets/images/educators/philip-bloom.jpg"
 Website: http://www.philipbloom.net
 Twitter: https://www.twitter.com/philipbloom

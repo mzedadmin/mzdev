@@ -178,40 +178,18 @@
     list-style: none;
   }
 
-  /* Use existing course-card styles for mini cards */
-  #educator-courses .course-card-item {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
+  /* Show full descriptions on educator detail page */
+  #educator-courses .course-card-description {
+    display: block;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--bodyTextColor);
+    margin: 0;
   }
-  
-  #educator-courses .course-card-link {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
-  
-  #educator-courses .course-card-info {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-  
-  #educator-courses .course-card-picture {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    height: auto;
-    overflow: hidden;
-    position: relative;
-  }
-  
-  #educator-courses .course-card-picture img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
+
+  /* Hide description from hover overlay since it's already visible */
+  #educator-courses .course-card-overlay-description {
+    display: none;
   }
 }
 

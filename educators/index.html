@@ -4,9 +4,12 @@ permalink: "/educators/"
 layout: default
 custom_css:
 - "/assets/css/main.css"
+Header:
+  Topper: Our Educators
+  Title: Learn from the Best Filmmakers in the Business
+  Text: "Oscar & Emmy Award winners, Hollywood cinematographers, and industry leaders
+    at ARRI Academy and AbelCine — all teaching on MZed."
 ---
-
-{% assign page = site.pages | where: "slug", "educators" | first %}
 
 <!-- ============================================ -->
 <!--                Educators                     -->
@@ -16,9 +19,9 @@ custom_css:
   <section id="educators">
     <div class="cs-container">
       <div class="cs-content">
-        <span class="cs-topper">Our Instructors</span>
-        <div class="cs-title">World-Class Educators</div>
-        <p class="cs-text">Learn from industry-leading professionals who have decades of experience in filmmaking, photography, and content creation.</p>
+        <span class="cs-topper">{{ page.Header.Topper }}</span>
+        <div class="cs-title">{{ page.Header.Title }}</div>
+        <p class="cs-text">{{ page.Header.Text }}</p>
       </div>
       <ul class="cs-card-group">
         {% assign sorted_educators = site.educators | sort: "position", "last" %}
@@ -28,4 +31,10 @@ custom_css:
       </ul>
     </div>
   </section>
+
+  <!-- Stats Strip -->
+  {% include stats_strip.html %}
+
+  <!-- Pricing Section -->
+  {% include mzed_pricing.html %}
 </main>
