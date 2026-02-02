@@ -25,14 +25,7 @@
                                 {{ lesson_number }}. {{ lesson['Lesson Title'] }}{% if lesson.free %} (Free Lesson){% endif %}
                             </span>
                         </button>
-                        {% assign description = lesson['Lesson Description'] | strip %}
-                        {% assign paragraphs = description | newline_to_br | split: '<br />' %}
-                        {% for paragraph in paragraphs %}
-                            {% assign stripped_paragraph = paragraph | strip %}
-                            {% if stripped_paragraph != '' %}
-                                <p class="cs-item-p">{{ stripped_paragraph }}</p>
-                            {% endif %}
-                        {% endfor %}
+                        <p class="cs-item-p">{{ lesson['Lesson Description'] | strip | newline_to_br | replace: '<br />', ' ' }}</p>
                     </li>
                 {% endfor %}
             </ul>
@@ -47,15 +40,7 @@
                                 {{ lesson_number }}. {{ lesson['Lesson Title'] }}{% if lesson.free %} (Free Lesson){% endif %}
                             </span>
                         </button>
-
-                        {% assign description = lesson['Lesson Description'] | strip %}
-                        {% assign paragraphs = description | newline_to_br | split: '<br />' %}
-                        {% for paragraph in paragraphs %}
-                            {% assign stripped_paragraph = paragraph | strip %}
-                            {% if stripped_paragraph != '' %}
-                                <p class="cs-item-p">{{ stripped_paragraph }}</p>
-                            {% endif %}
-                        {% endfor %}
+                        <p class="cs-item-p">{{ lesson['Lesson Description'] | strip | newline_to_br | replace: '<br />', ' ' }}</p>
                     </li>
                 {% endfor %}
             </ul>

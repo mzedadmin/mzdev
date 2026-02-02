@@ -1089,13 +1089,13 @@ $sectionPadding: var(--sectionPadding);
 @media only screen and (min-width: 0rem) {
   #reviews-567 {
     padding: var(--sectionPadding);
-    background-color: var(--primary);
+    background-color: #f7f7f7;
   }
   #reviews-567 .cs-topper {
-    color: var(--secondaryLight);
+    color: var(--primary);
   }
   #reviews-567 .cs-title {
-    color: #fff;
+    color: var(--headerColor);
   }
   #reviews-567 .cs-container {
     width: 100%;
@@ -1136,14 +1136,14 @@ $sectionPadding: var(--sectionPadding);
     /* 32px - 60px top & bottom */
     /* 16px - 48px left & right */
     padding: clamp(2rem, 6.15vw, 3.75rem) clamp(1rem, 4.15vw, 3rem);
-    background-color: #f1f1f4;
+    background-color: #fff;
     /* prevents padding from adding to height and width */
     box-sizing: border-box;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
     position: relative;
-    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   }
   #reviews-567 .cs-stars {
     /* 169px - 189px */
@@ -1321,6 +1321,11 @@ $sectionPadding: var(--sectionPadding);
       border: 2px solid transparent;
     }
 
+    .cs-card-course {
+      order: -2;
+      border: 2px solid transparent;
+    }
+
     /* --- Badge --- */
     .cs-badge {
       position: absolute;
@@ -1411,6 +1416,17 @@ $sectionPadding: var(--sectionPadding);
       &:hover {
         background-color: var(--primary);
         color: #fff;
+      }
+    }
+
+    .cs-button-course {
+      background-color: var(--headerColor);
+      color: #fff;
+      border: 2px solid var(--headerColor);
+
+      &:hover {
+        background-color: #1a1a1a;
+        border-color: #1a1a1a;
       }
     }
 
@@ -1513,9 +1529,18 @@ $sectionPadding: var(--sectionPadding);
       order: 0;
     }
 
+    .cs-card-course {
+      order: 0;
+    }
+
     .cs-card {
       width: 50%;
       max-width: 20rem;
+    }
+
+    .cs-card-group-three .cs-card {
+      width: 33.33%;
+      max-width: 18rem;
     }
 
     .cs-card-annual {
@@ -1539,6 +1564,10 @@ $sectionPadding: var(--sectionPadding);
 
     .cs-card {
       max-width: 22rem;
+    }
+
+    .cs-card-group-three .cs-card {
+      max-width: 19rem;
     }
   }
 }

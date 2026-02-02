@@ -259,3 +259,15 @@ Pricing          → #fff (white)
 - `_includes/course_card_mini.html` — Overlay updated: description + "Go to Course →" arrow.
 - `_sass/educator.scss` — Show full course descriptions on educator detail page (`display: block`, no clamp). Hide overlay description since it's already visible inline.
 - `_educators/*.md` (8 files) — Removed escaped quotes (`\"` → `"`) in bios. Converted Rubidium Wu bio from flow scalar to `|-` block scalar.
+
+### 2025-02-01: Course Detail Page Overhaul
+**Modified:**
+- `_layouts/course.html` — Swapped `mzed_stats.html` → `stats_strip.html` for consistent branding. Updated recommended courses subtext to match site voice ("Explore more from the MZed library — 60+ courses...").
+- `_includes/course_pricing.html` — Complete rewrite from toggle/table layout to 3-card design. Cards: Course Purchase (one-time price, dark CTA, "Lifetime access"), Monthly ($49/month, outline CTA, "Cancel anytime"), Annual ($29/month billed annually, gold border, "Best Value" badge, "7-day money-back guarantee"). Shared 6-item feature list with updated copy ($10,000+, Oscar & Emmy). Trust signal with 5 reviewer avatars + stars. Price lookup from `_settings` collection with sale support, fallback $100.
+- `_sass/course.scss` — Added `.cs-card-course` (order: -2 on mobile, dark button style) and `.cs-card-group-three` modifier (33.33% width at tablet, 19rem max at desktop). Course purchase card appears first on mobile, all three side-by-side at 768px+. Reviews section: red background → #f7f7f7, green topper → red, white cards with box-shadow, removed border-radius.
+- `_includes/course_lessons.html` — Fixed lesson descriptions rendering as multiple `<p>` tags per paragraph. YAML `|-` block scalars preserve line wraps; `newline_to_br | split` was creating separate paragraphs for each line. Now outputs single `<p>` per description using `replace: '<br />', ' '`.
+- `_includes/course_review.html` — No changes (styling handled in course.scss).
+
+### 2025-02-01: Course Detail Page Polish
+**Modified:**
+- `_layouts/course.html` — Recommended courses: reframed as "Included with MZed Pro" / "More Courses You'll Love" with dynamic course count (`site.courses.size - 1`). Reviews: "Course Reviews" → "Reviews", "What Viewers are Saying" → "What Students Are Saying". What You'll Learn: replaced dead `<a href="#">` wrappers with `<div>` elements.

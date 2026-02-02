@@ -2,243 +2,283 @@
 layout: default
 ---
 
-   <!-- Load Fancybox -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css"/>
-    <script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/fancybox.js"></script>
+<!-- Load Fancybox -->
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css" />
+<script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
+<script src="{{ site.baseurl }}/assets/js/fancybox.js"></script>
 
 <main id="main">
-<!-- ============================================ -->
-<!--              Conditional Hero                -->
-<!-- ============================================ -->
+  <!-- ============================================ -->
+  <!--              Conditional Hero                -->
+  <!-- ============================================ -->
 
-<section id="mz-hero">
-  {% if page['Course Page']['Video'] %}
+  <section id="mz-hero">
+    {% if page['Course Page']['Video'] %}
     <!-- Video Hero Version -->
-    <a href="{{ page['Course Page']['Video'] }}?autoplay=1" class="cs-big-link video-link" data-fancybox data-type="iframe">
+    <a
+      href="{{ page['Course Page']['Video'] }}?autoplay=1"
+      class="cs-big-link video-link"
+      data-fancybox
+      data-type="iframe"
+    >
       <!--Background Image-->
       <picture class="cs-background">
-        <source media="(min-width: 1024px)" srcset="{{ page.hero_image }}">
-        <source media="(min-width: 601px)" srcset="{{ page.hero_image }}">
-        <source media="(max-width: 600px)" srcset="{{ page.hero_image }}">
-        <img aria-hidden="true" loading="lazy" decoding="async"
-            src="{{ page['Course Card']['Image'] }}" alt="{{ page.title }} video trailer" width="1920" height="750">
+        <source media="(min-width: 1024px)" srcset="{{ page.hero_image }}" />
+        <source media="(min-width: 601px)" srcset="{{ page.hero_image }}" />
+        <source media="(max-width: 600px)" srcset="{{ page.hero_image }}" />
+        <img
+          aria-hidden="true"
+          loading="lazy"
+          decoding="async"
+          src="{{ page['Course Card']['Image'] }}"
+          alt="{{ page.title }} video trailer"
+          width="1920"
+          height="750"
+        />
       </picture>
       <!--Play Icon-->
       <picture class="cs-picture">
-        <img class="cs-link-icon" aria-hidden="true" loading="lazy" decoding="async"
-            src="{{ site.baseurl }}/assets/icons/tax-play.svg" alt="play icon" width="48" height="48">
+        <img
+          class="cs-link-icon"
+          aria-hidden="true"
+          loading="lazy"
+          decoding="async"
+          src="{{ site.baseurl }}/assets/icons/tax-play.svg"
+          alt="play icon"
+          width="48"
+          height="48"
+        />
       </picture>
     </a>
 
-
-
-  {% else %}
+    {% else %}
     <!-- Image-only Hero Version -->
     <div class="cs-big-link image-only">
       <!--Background Image-->
       <picture class="cs-background">
-        <source media="(min-width: 1024px)" srcset="{{ page['Course Card']['Image'] }}">
-        <source media="(min-width: 601px)" srcset="{{ page['Course Card']['Image'] }}">
-        <source media="(max-width: 600px)" srcset="{{ page['Course Card']['Image'] }}">
-        <img aria-hidden="true" loading="lazy" decoding="async"
-            src="{{ page['Course Card']['Image'] }}" alt="{{ page.title }} cover" width="1920" height="750">
+        <source
+          media="(min-width: 1024px)"
+          srcset="{{ page['Course Card']['Image'] }}"
+        />
+        <source
+          media="(min-width: 601px)"
+          srcset="{{ page['Course Card']['Image'] }}"
+        />
+        <source
+          media="(max-width: 600px)"
+          srcset="{{ page['Course Card']['Image'] }}"
+        />
+        <img
+          aria-hidden="true"
+          loading="lazy"
+          decoding="async"
+          src="{{ page['Course Card']['Image'] }}"
+          alt="{{ page.title }} cover"
+          width="1920"
+          height="750"
+        />
       </picture>
     </div>
-  {% endif %}
-</section>
+    {% endif %}
+  </section>
 
-<!-- Course Content
+  <!-- Course Content
 <section id="course-content">
   <div class="cs-container">{{ content }}</div>
 </section> -->
 
-<!-- ============================================ -->
-<!--                Course Stats                  -->
-<!-- ============================================ -->
-{% include course_stats.html course=page %}
+  <!-- ============================================ -->
+  <!--                Course Stats                  -->
+  <!-- ============================================ -->
+  {% include course_stats.html course=page %}
 
+  <!-- ============================================ -->
+  <!--                Course Summary                -->
+  <!-- ============================================ -->
 
-<!-- ============================================ -->
-<!--                Course Summary                -->
-<!-- ============================================ -->
+  <section id="sbs-1015">
+    <div class="cs-container">
+      <div class="cs-content">
+        <span class="cs-topper">About the Course</span>
+        <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
+        <p class="cs-text">
+          {% assign paragraphs = page['Course Page']['Main Text'] |
+          newline_to_br %} {% for paragraph in paragraphs %} {% if paragraph !=
+          '' %}
+          <br />{{ paragraph }} {% endif %} {% endfor %}
+        </p>
+        <a href="#plan" class="cs-button-12">
+          Start watching with MZed Pro
+          <picture class="cs-button-wrapper">
+            <img
+              class="cs-button-icon"
+              src="{{ site.baseurl }}/assets/icons/angle-arrow.svg"
+              alt="icon"
+              loading="lazy"
+              decoding="async"
+              width="28"
+              height="28"
+            />
+          </picture>
+        </a>
+      </div>
+      <picture class="cs-picture">
+        <!--Mobile Image-->
+        <source
+          media="(max-width: 600px)"
+          srcset="{{ page['Course Page']['Main Image']  | relative_url }}"
+        />
+        <!--Tablet and above Image-->
+        <source
+          media=" (min-width: 601px)"
+          srcset="{{ page['Course Page']['Main Image'] | relative_url }}"
+        />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="{{ page['Course Page']['Main Image'] | relative_url }}"
+          alt="{{ page.title }} course image"
+          width="950"
+          height="480"
+        />
+      </picture>
+    </div>
+    <div class="cs-image-group">
+      {% for image in page['Course Page']['Additional Images'] %}
+      <picture class="cs-image">
+        <!--Mobile Image-->
+        <source
+          media="(max-width: 600px)"
+          srcset="{{ image | relative_url }}"
+        />
+        <!--Tablet and above Image-->
+        <source
+          media="(min-width: 601px)"
+          srcset="{{ image | relative_url }}"
+        />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="{{ image | relative_url }}"
+          alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
+          width="368"
+          height="284"
+        />
+      </picture>
+      {% endfor %}
+    </div>
+  </section>
 
-<section id="sbs-1015">
-  <div class="cs-container">
-    <div class="cs-content">
-      <span class="cs-topper">About the Course</span>
-      <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
-      <p class="cs-text">
-        {% assign paragraphs = page['Course Page']['Main Text'] | newline_to_br %}
-        {% for paragraph in paragraphs %}
-          {% if paragraph != '' %}
-            <br/>{{ paragraph }}
-          {% endif %}
+  <!-- ============================================ -->
+  <!--               What You'll Learn              -->
+  <!-- ============================================ -->
+  {% if page['Course Page']['Learning Topics'] %}
+  <section id="services-1304">
+    <div class="cs-container">
+      <div class="cs-content">
+        <div class="cs-flex-group">
+          <span class="cs-topper">Course Overview</span>
+          <div class="cs-title">What You'll Learn</div>
+        </div>
+      </div>
+      <ul class="cs-card-group">
+        {% for topic in page['Course Page']['Learning Topics'] %}
+        <li class="cs-item">
+          <div class="cs-link">
+            {% assign icon = site.icons | where: "title", topic.Icon | first %}
+            {% if icon %}
+            <img
+              class="cs-icon"
+              src="{{ site.baseurl }}/assets/topic-icons/{{ icon.icon_file }}"
+              loading="lazy"
+              decoding="async"
+              alt="icon"
+              width="40"
+              height="40"
+              aria-hidden="true"
+            />
+            {% endif %}
+            <h3 class="cs-h3">{{ topic.Title }}</h3>
+            <p class="cs-item-text">{{ topic.Text }}</p>
+          </div>
+        </li>
         {% endfor %}
-      </p>
-      <a href="#plan" class="cs-button-12">
-        Start watching with MZed Pro
-        <picture class="cs-button-wrapper">
-          <img
-            class="cs-button-icon"
-            src="{{ site.baseurl }}/assets/icons/angle-arrow.svg"
-            alt="icon"
-            loading="lazy"
-            decoding="async"
-            width="28"
-            height="28"
-          />
-        </picture>
-      </a>
+      </ul>
     </div>
-    <picture class="cs-picture">
-      <!--Mobile Image-->
-      <source media="(max-width: 600px)" srcset="{{ page['Course Page']['Main Image']  | relative_url }}" />
-      <!--Tablet and above Image-->
-      <source media=" (min-width: 601px)" srcset="{{ page['Course Page']['Main Image'] | relative_url }}" />
-      <img
-        loading="lazy"
-        decoding="async"
-        src="{{ page['Course Page']['Main Image'] | relative_url }}"
-        alt="{{ page.title }} course image"
-        width="950"
-        height="480"
-      />
-    </picture>
-  </div>
-  <div class="cs-image-group">
-    {% for image in page['Course Page']['Additional Images'] %}
-    <picture class="cs-image">
-      <!--Mobile Image-->
-      <source media="(max-width: 600px)" srcset="{{ image | relative_url }}" />
-      <!--Tablet and above Image-->
-      <source media="(min-width: 601px)" srcset="{{ image | relative_url }}" />
-      <img
-        loading="lazy"
-        decoding="async"
-        src="{{ image | relative_url }}"
-        alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
-        width="368"
-        height="284"
-      />
-    </picture>
-    {% endfor %}
-  </div>
-</section>
-
-
-<!-- ============================================ -->
-<!--               What You'll Learn              -->
-<!-- ============================================ -->
-{% if page['Course Page']['Learning Topics'] %}
-<section id="services-1304">
-    <div class="cs-container">
-        <div class="cs-content">
-            <div class="cs-flex-group">
-                <span class="cs-topper">Course Overview</span>
-                <div class="cs-title">What You'll Learn</div>
-            </div>
-        </div>
-        <ul class="cs-card-group">
-            {% for topic in page['Course Page']['Learning Topics'] %}
-            <li class="cs-item">
-                <a href="#" class="cs-link">
-                    {% assign icon = site.icons | where: "title", topic.Icon | first %}
-                    {% if icon %}
-                    <img class="cs-icon" src="{{ site.baseurl }}/assets/topic-icons/{{ icon.icon_file }}"
-                        loading="lazy" decoding="async" alt="icon" width="40" height="40" aria-hidden="true">
-                    {% endif %}
-                    <h3 class="cs-h3">{{ topic.Title }}</h3>
-                    <p class="cs-item-text">{{ topic.Text }}</p>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-</section>
-{% endif %}
-
-<!-- ============================================ -->
-<!--                 Educator                     -->
-<!-- ============================================ -->
-{% assign educator_name = page.educator | default: page['Course Card']['Educator'] %}
-{% if educator_name %}
-  {% assign educator_slug = educator_name | slugify %}
-  {% assign current_educator = site.educators | where: "slug", educator_slug | first %}
-  {% if current_educator %}
-    <div class="educator-section">
-      {% assign original_page = page %}
-      {% assign page = current_educator %}
-      {% include about_educator.html %}
-      {% assign page = original_page %}
-    </div>
+  </section>
   {% endif %}
-{% endif %}
 
+  <!-- ============================================ -->
+  <!--                 Educator                     -->
+  <!-- ============================================ -->
+  {% assign educator_name = page.educator | default: page['Course
+  Card']['Educator'] %} {% if educator_name %} {% assign educator_slug =
+  educator_name | slugify %} {% assign current_educator = site.educators |
+  where: "slug", educator_slug | first %} {% if current_educator %}
+  <div class="educator-section">
+    {% assign original_page = page %} {% assign page = current_educator %} {%
+    include about_educator.html %} {% assign page = original_page %}
+  </div>
+  {% endif %} {% endif %}
 
+  <!-- ============================================ -->
+  <!--                  Lessons                     -->
+  <!-- ============================================ -->
+  {% include course_lessons.html course=page %}
 
-<!-- ============================================ -->
-<!--                  Lessons                     -->
-<!-- ============================================ -->
-{% include course_lessons.html course=page %}
+  <!-- ============================================ -->
+  <!--                  Reviews                     -->
+  <!-- ============================================ -->
 
-<!-- ============================================ -->
-<!--                  Reviews                     -->
-<!-- ============================================ -->
-
-{% if page['Course Page'].Reviews %}
-<section id="reviews-567">
+  {% if page['Course Page'].Reviews %}
+  <section id="reviews-567">
     <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">Course Reviews</span>
-            <div class="cs-title">What Viewers are Saying</div>
-        </div>
-        <ul class="cs-card-group">
-            {% for review in page['Course Page'].Reviews %}
-                {% include course_review.html review=review %}
-            {% endfor %}
-        </ul>
+      <div class="cs-content">
+        <span class="cs-topper">Course Reviews</span>
+        <div class="cs-title">What Students Are Saying</div>
+      </div>
+      <ul class="cs-card-group">
+        {% for review in page['Course Page'].Reviews %} {% include
+        course_review.html review=review %} {% endfor %}
+      </ul>
     </div>
-</section>
-{% endif %}
+  </section>
+  {% endif %}
 
-<!-- ============================================ -->
-<!--                Other Courses                 -->
-<!-- ============================================ -->
+  <!-- ============================================ -->
+  <!--                Other Courses                 -->
+  <!-- ============================================ -->
 
-{% if page['Course Page']['Courses'] %}
-<section id="recommended-courses">
+  {% if page['Course Page']['Courses'] %}
+  <section id="recommended-courses">
     <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">MZed Library</span>
-            <div class="cs-title">Other Recommended Courses</div>
-            <p class="cs-text">
-                MZed course topics include all areas of filmmaking including cinematography, directing, editing,
-                screenwriting, lighting, color grading, and more.
-            </p>
-        </div>
-        <ul class="course-card-group">
-            {% for course_slug in page['Course Page']['Courses'] %}
-                {% assign recommended_course = site.courses | where: "slug", course_slug | first %}
-                {% if recommended_course %}
-                    {% include course_card.html course=recommended_course %}
-                {% endif %}
-            {% endfor %}
-        </ul>
+      <div class="cs-content">
+        <span class="cs-topper">Included with MZed Pro</span>
+        <div class="cs-title">More Courses You'll Love</div>
+        <p class="cs-text">
+          This course and {{ site.courses.size | minus: 1 }}+ more — all
+          included with your MZed Pro subscription.
+        </p>
+      </div>
+      <ul class="course-card-group">
+        {% for course_slug in page['Course Page']['Courses'] %} {% assign
+        recommended_course = site.courses | where: "slug", course_slug | first
+        %} {% if recommended_course %} {% include course_card.html
+        course=recommended_course %} {% endif %} {% endfor %}
+      </ul>
     </div>
-</section>
-{% endif %}
+  </section>
+  {% endif %}
 
-<!-- ============================================ -->
-<!--               MZed Pro Stats                 -->
-<!-- ============================================ -->
-{% include mzed_stats.html section=page.mzed_pro_section %}
+  <!-- ============================================ -->
+  <!--                Stats Strip                   -->
+  <!-- ============================================ -->
+  {% include stats_strip.html %}
 
-<!-- ============================================ -->
-<!--                  Pricing                     -->
-<!-- ============================================ -->
-{% if page.course_purchase %} {% include course_pricing.html course=page pricing=site.data.prices
-%} {% else %} {% include mzed_pricing.html pricing=site.data.prices %} {% endif %}
+  <!-- ============================================ -->
+  <!--                  Pricing                     -->
+  <!-- ============================================ -->
+  {% if page.course_purchase %} {% include course_pricing.html course=page
+  pricing=site.data.prices %} {% else %} {% include mzed_pricing.html
+  pricing=site.data.prices %} {% endif %}
 </main>
-
-
