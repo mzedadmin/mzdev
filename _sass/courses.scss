@@ -87,8 +87,7 @@
 /*--           Topics            --*/
 
 .filter-container {
-  padding: 2rem;
-  margin-bottom: 2rem;
+  padding: 1rem 0 2rem;
   grid-area: 1 / span 12;
   width: 70%;
   margin: auto;
@@ -97,46 +96,49 @@
 .filter-title {
   display: flex;
   justify-content: center;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   margin-bottom: 1rem;
   color: #999;
-  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .filter-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.25rem 1.5rem;
   justify-content: center;
 }
 
 .filter-btn {
-  padding: 0.5rem 1rem;
-  border: 1px solid #ddd;
-  border-radius: 20px;
-  background: white;
+  padding: 0.4rem 0;
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  background: none;
   cursor: pointer;
+  font-size: 0.875rem;
+  color: #aaa;
   transition: all 0.2s ease;
 }
 
-.filter-btn.active {
-  background: #e31d1c;
-  color: white;
-  border-color: #e31d1c;
+.filter-btn:hover:not(.active) {
+  color: var(--headerColor);
+  border-bottom-color: #ddd;
 }
 
-.filter-btn:hover:not(.active) {
-  background: #f1f1f1;
+.filter-btn.active {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+  font-weight: 600;
 }
 
 .reset-btn {
-  background: #999;
-  color: white;
-  border: none;
+  color: #999;
 }
 
 .reset-btn:hover {
-  background: #555 !important;
+  color: var(--headerColor) !important;
 }
 
 /* Modified display properties */
@@ -160,11 +162,14 @@
     .filter-container {
       width: 100%;
     }
+    .filter-buttons {
+      gap: 0.75rem 1.25rem;
+    }
   }
 
   @media screen and (min-width: 70rem) {
     .filter-container {
-      width: 60%;
+      width: 90%;
     }
   }
 }

@@ -244,8 +244,8 @@ Pricing          → #fff (white)
 
 ### 2025-02-01: Courses Listing Page Overhaul
 **Modified:**
-- `courses/index.html` — New frontmatter header copy ("Course Library" / dynamic course+lesson counts / subtext with line break). Replaced `mzed_stats.html` with `stats_strip.html` for consistent branding. Filter labels: "Browse by Topic" / "Show All".
+- `courses/index.html` — New frontmatter header copy ("Course Library" / dynamic course+lesson counts / subtext with line break). Replaced `mzed_stats.html` with `stats_strip.html` for consistent branding. Filter labels: "Browse by Topic" / "Show All". Topics reordered by popularity (Cinematography first, Podcasting last).
 - `_sass/course-card.scss` — Compact cards: hidden inline description (`display: none`), smaller title (1.15rem), educator (0.875rem), tighter padding/gap. Stats bar changed from dark (`var(--headerColor)`) to light (`#f7f7f7`) with dark text. Hover overlay redesigned: dark background with course description (1.2rem, 5-line clamp) and "Go to Course →" link.
-- `_sass/courses.scss` — Removed ~135 lines of `#mzed-summary-stats` styles. Tighter grid gap (`clamp(0.75rem, 1.5vw, 1.25rem)`). 4-col desktop breakpoint moved from 1300px to 1024px.
+- `_sass/courses.scss` — Removed ~135 lines of `#mzed-summary-stats` styles. Tighter grid gap (`clamp(0.75rem, 1.5vw, 1.25rem)`). 4-col desktop breakpoint moved from 1300px to 1024px. Filter redesigned: pill buttons replaced with underline tabs (no backgrounds/borders, red underline on active, lighter inactive text #aaa, 0.875rem). 90% width on desktop to fit all topics in one row. Mobile gap increased for wrapped line readability.
 - `_includes/course_card.html` — Overlay now includes course description text and arrow on "Go to Course →".
 - `_includes/mzed_stats.html` — Updated "$9000+" to "$10,000+" (still used on course detail pages).
