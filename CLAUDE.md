@@ -166,10 +166,11 @@ Courses appear in multiple categories if they have multiple topics. Categories w
 - **Credential stacking in subtext** - "Oscar & Emmy Award winners, Hollywood DPs, and top content creators" is specific and aspirational vs generic "best in the industry"
 - **Single CTA per section** - Research shows 371% more clicks vs multiple CTAs. "Get MZed Pro" uses a power verb ("Get") that implies receiving value.
 - **Risk-reduction text** at CTA banner and pricing points. Hero uses "Stream anywhere. Cancel anytime." as a bold tagline instead.
-- **Stats strip** with light gray background and multicolor numbers (red/blue/green/gold) at 4rem — dense number presentation is impactful and flows smoothly from the trusted-by section into the course catalog.
+- **Stats strip** with light gray background and multicolor numbers (red/blue/green/gold) at 4rem — courses, lessons, and hours are computed dynamically from course frontmatter; course value is hardcoded. Dense number presentation is impactful and flows smoothly from the trusted-by section into the course catalog.
 - **Streaming-platform catalog** - Netflix-style horizontal scroll shows breadth of library without overwhelming. Pure CSS scroll-snap, no JS carousel.
 - **Real educator cards** instead of static background image - Actual faces and names build more trust than a generic photo.
-- **CTA banner after trust section** - Placed after video testimonial + written reviews for maximum trust-to-action conversion.
+- **CTA banner after trust section** - Placed after video testimonial + written reviews for maximum trust-to-action conversion. Copy uses value anchoring ("$10,000+ in course value — less than $1/day") with "One subscription." on its own line for emphasis.
+- **FAQ section** - 7 conversion-focused questions in single column, ordered by decision funnel (What is it → What's included → Educators → Value comparison → Mobile/offline → Renewal pricing → Cancellation). First item auto-expanded. Inline JS toggle scoped to `#faq-1261`.
 - **Testimonial section** - Video + written reviews share gray background, creating one unified trust zone. White review cards with box-shadow pop off the background. Gold 5-star ratings on each card add quantitative credibility. Section header uses social proof number ("See why 100,000+ filmmakers choose MZed Pro").
 - **Pricing cards** - Two side-by-side cards replace comparison table (both plans have identical features, so table was redundant). Monthly anchors left, annual right with gold border + "Best Value — Save X%" dynamic badge. Shared feature list (6 items in 2-col grid) below cards. Trust signal with educator avatars at bottom.
 
@@ -219,3 +220,10 @@ Pricing          → #fff (white)
 **Modified:**
 - `index.html` - Reviews: added 5-star gold ratings to all 3 review cards. Video section: updated topper to "Member Reviews" and headline to "See why 100,000+ filmmakers choose MZed Pro".
 - `_sass/homepage.scss` - Reviews: gray background (#f7f7f7), white cards with box-shadow, hidden quote icons, larger star ratings (1.5rem), gray profile borders. Stats strip: light gray bg (#f7f7f7), multicolor numbers (red/blue/green/gold via nth-child), increased size to 4rem, dark text labels, dark dividers.
+
+### 2025-02-01: CTA, Articles, FAQ & Dynamic Stats
+**Modified:**
+- `index.html` - CTA banner: updated copy to value-anchoring ("60+ courses. 800+ lessons. One subscription." with line break, "$10,000+ in course value"). Recent Articles: updated topper ("Filmmaking Insights"), title ("Tips, Techniques & Industry News"), subtext, and button text. FAQ: complete rewrite from 10 questions in two columns to 7 conversion-focused questions in single column with inline toggle JS. Added "What happens after my first year?" FAQ item ($199/year renewal). Fixed "255 hours" → "375 hours" inconsistency.
+- `_includes/stats_strip.html` - Lessons and hours now computed dynamically via Liquid loops over `site.courses` collection. Course value updated to "$10,000+".
+- `_includes/mzed_pricing.html` - Updated feature list: course value to "$10,000+", lesson count to "840+", educator description to match hero copy.
+- `_sass/homepage.scss` - FAQ: removed `.cs-wrapper` styles, removed tablet two-column breakpoint, updated container max-width to 800px for single column, tightened vertical spacing (gap, button padding, answer padding).

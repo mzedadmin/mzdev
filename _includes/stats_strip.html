@@ -2,6 +2,15 @@
 <!--                Stats Strip                  -->
 <!-- ============================================ -->
 
+{% assign total_lessons = 0 %}
+{% assign total_minutes = 0 %}
+{% for course in site.courses %}
+  {% assign total_lessons = total_lessons | plus: course['Course Card']['Lessons'] %}
+  {% assign course_hours = course['Course Card']['Runtime Hours'] | times: 60 %}
+  {% assign total_minutes = total_minutes | plus: course_hours | plus: course['Course Card']['Runtime Minutes'] %}
+{% endfor %}
+{% assign total_hours = total_minutes | divided_by: 60 %}
+
 <section id="stats-strip">
     <div class="cs-container">
         <ul class="stats-list">
@@ -10,15 +19,15 @@
                 <span class="stat-label">Courses</span>
             </li>
             <li class="stat-item">
-                <span class="stat-number">800+</span>
+                <span class="stat-number">{{ total_lessons }}+</span>
                 <span class="stat-label">Lessons</span>
             </li>
             <li class="stat-item">
-                <span class="stat-number">370+</span>
+                <span class="stat-number">{{ total_hours }}+</span>
                 <span class="stat-label">Hours of Content</span>
             </li>
             <li class="stat-item">
-                <span class="stat-number">$9,450</span>
+                <span class="stat-number">$10,000+</span>
                 <span class="stat-label">in Course Value</span>
             </li>
         </ul>
