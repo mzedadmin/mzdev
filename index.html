@@ -30,6 +30,15 @@ cta_banner:
   risk_text: 7-day money-back guarantee on annual plans. Cancel monthly anytime.
 ---
 
+{% assign total_lessons = 0 %}
+{% assign total_minutes = 0 %}
+{% for course in site.courses %}
+  {% assign total_lessons = total_lessons | plus: course['Course Card']['Lessons'] %}
+  {% assign course_hours = course['Course Card']['Runtime Hours'] | times: 60 %}
+  {% assign total_minutes = total_minutes | plus: course_hours | plus: course['Course Card']['Runtime Minutes'] %}
+{% endfor %}
+{% assign total_hours = total_minutes | divided_by: 60 %}
+
 <!-- Load Fancybox -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css" />
 <script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
@@ -43,12 +52,12 @@ cta_banner:
   <div class="cs-container">
     <div class="cs-flex-group">
       <h1 class="cs-title">
-        {{ page.hero.headline }}<br /><span class="cs-title-accent"
+        {{ total_lessons }}+ Lessons from the World's Top Filmmakers.<br /><span class="cs-title-accent"
           >{{ page.hero.headline2 }}</span
         >
       </h1>
       <p class="cs-text">
-        {{ page.hero.subtext }}<br /><span class="cs-text-tagline"
+        {{ site.courses.size }}+ courses from Oscar &amp; Emmy Award winners, Hollywood DPs, and top content creators.<br /><span class="cs-text-tagline"
           >{{ page.hero.subtext2 }}</span
         >
       </p>
@@ -106,8 +115,10 @@ cta_banner:
   </picture>
 </section>
 
-{% include trusted_by.html %} {% include stats_strip.html %} {% include
-course_catalog.html %} {% include educator_showcase.html %}
+{% include trusted_by.html %} {% include stats_strip.html %}
+{% capture catalog_dynamic_text %}Over {{ total_lessons }} lessons featuring trusted, high-quality course videos. Average course rating 4.6/5 from thousands of member reviews.{% endcapture %}
+{% include course_catalog.html text=catalog_dynamic_text %}
+{% include educator_showcase.html %}
 
 <!-- ============================================ -->
 <!--                   Video                      -->
@@ -179,7 +190,8 @@ course_catalog.html %} {% include educator_showcase.html %}
   </div>
 </section>
 
-{% include cta_banner.html %}
+{% capture cta_dynamic_title %}{{ site.courses.size }}+ courses. {{ total_lessons }}+ lessons.<br>One subscription.{% endcapture %}
+{% include cta_banner.html title=cta_dynamic_title %}
 
 <!-- ============================================ -->
 <!--              Recent Articles                 -->

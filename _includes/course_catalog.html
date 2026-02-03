@@ -5,9 +5,9 @@
 <section id="course-catalog">
     <div class="cs-container">
         <div class="cs-content" data-reveal>
-            <span class="cs-topper">{{ page.catalog.topper | default: "Course Library" }}</span>
-            <h2 class="cs-title">{{ page.catalog.title | default: "All the courses you need to become a master filmmaker" }}</h2>
-            <p class="cs-text">{{ page.catalog.text | default: "Stream any course, anytime. New courses added regularly." }}</p>
+            <span class="cs-topper">{{ include.topper | default: page.catalog.topper | default: "Course Library" }}</span>
+            <h2 class="cs-title">{{ include.title | default: page.catalog.title | default: "All the courses you need to become a master filmmaker" }}</h2>
+            <p class="cs-text">{{ include.text | default: page.catalog.text | default: "Stream any course, anytime. New courses added regularly." }}</p>
         </div>
 
         {% assign categories = site.data.course_categories | sort: "position" %}

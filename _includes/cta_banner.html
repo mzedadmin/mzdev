@@ -4,9 +4,9 @@
 
 <section id="cta-banner">
     <div class="cs-container" data-reveal>
-        <h2 class="cs-title">{{ page.cta_banner.title | default: "Start learning from the best today" }}</h2>
-        <p class="cs-text">{{ page.cta_banner.text | default: "Join thousands of filmmakers already learning with MZed Pro." }}</p>
-        <a href="{{ page.cta_banner.cta_link | default: '#plan' }}" class="cs-button-solid">{{ page.cta_banner.cta_text | default: "Join MZed Pro" }}</a>
-        <p class="cs-risk-text">{{ page.cta_banner.risk_text | default: "7-day money-back guarantee on annual plans. Cancel monthly anytime." }}</p>
+        <h2 class="cs-title">{{ include.title | default: page.cta_banner.title | default: "Start learning from the best today" }}</h2>
+        <p class="cs-text">{{ include.text | default: page.cta_banner.text | default: "Join thousands of filmmakers already learning with MZed Pro." }}</p>
+        <a href="{{ include.cta_link | default: page.cta_banner.cta_link | default: '#plan' }}" class="cs-button-solid">{{ include.cta_text | default: page.cta_banner.cta_text | default: "Join MZed Pro" }}</a>
+        <p class="cs-risk-text">{{ include.risk_text | default: page.cta_banner.risk_text | default: "7-day money-back guarantee on annual plans. Cancel monthly anytime." }}</p>
     </div>
 </section>
