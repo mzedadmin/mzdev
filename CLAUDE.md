@@ -44,6 +44,7 @@ Marketing/landing site for MZed, an online education platform for filmmakers and
 - `_sass/educators.scss` - Educators listing page
 - `_sass/nav.scss` - MZed nav (transparent homepage, solid inner pages, mobile hamburger)
 - `_sass/footer.scss` - MZed footer (newsletter, link grid, legal bar)
+- `_sass/creators.scss` - Creators/Teach page (hero, topic board, why-teach grid)
 - `_sass/news-card.scss` - News/blog card component
 - `_sass/post.scss` - Blog post page
 
@@ -330,3 +331,21 @@ Replaced `#tempnav` with a production-quality nav and footer matching mzed.com's
 - `assets/css/main.scss` — Added `@use 'nav'` and `@use 'footer'`.
 - `_sass/core-styles.scss` — Removed `#tempnav` styles (~33 lines).
 - `news/index.html` — Added `mzed_pricing.html` include above footer.
+
+### 2025-02-02: Creators "Teach on MZed" Page
+New page at `/creators/` pitching content creators to license their educational filmmaking content to MZed. Features a Supabase-powered community topic suggestion board where anyone can suggest and upvote course topics. Seeded with 23 topics from a 77-respondent MZed community survey.
+
+**Page structure:** Hero with dark overlay background image → Topic Board (suggest + upvote) → Why MZed (6 value prop cards) → CTA Banner (mailto:creators@mzed.com).
+
+**Topic Board:** Anonymous read/write via Supabase REST API + RLS policies. No auth required. localStorage tracks votes and submission counts. Anti-abuse: max 30 displayed topics, max 5 submissions per person, 15-second cooldown with visible countdown timer, content validation (min 5 chars, no URLs). Sort by most voted or newest.
+
+**Supabase:** Table `topics` (id uuid, title text, votes int, created_at timestamptz) with RLS policies for anonymous read/insert/update. Anon key embedded in client-side JS.
+
+**Created:**
+- `creators/index.html` — Page with hero, topic board (form + vote list + sort toggle), why-teach section, CTA banner include. Inline JS (~180 lines) for Supabase CRUD, voting, submission limits, cooldown timer.
+- `_sass/creators.scss` — `#creator-hero` (dark overlay + background image, gold trust signal), `#topic-board` (700px centered, form, sort tabs, vote buttons, status messages), `#why-teach` (card grid 1→2→3 col).
+
+**Modified:**
+- `assets/css/main.scss` — Added `@use 'creators'`.
+- `_includes/cta_banner.html` — Made `href` configurable via `page.cta_banner.cta_link` frontmatter with `#plan` default fallback.
+- `_includes/mzed_nav.html` — Added "Teach" link (`/creators/`) to both desktop nav links and mobile menu.

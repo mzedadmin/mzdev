@@ -1,0 +1,368 @@
+---
+title: Teach on MZed
+permalink: "/creators/"
+layout: default
+description: License your filmmaking content to MZed and earn from a global audience of 100,000+ filmmakers. See what topics are in demand.
+cta_banner:
+  title: Ready to create a course?
+  text: Tell us what you'd teach. We'll take care of the rest.
+  cta_text: Get in Touch
+  cta_link: "mailto:creators@mzed.com"
+  risk_text: We handle hosting, distribution, and marketing — you keep creating.
+---
+
+<!-- ============================================ -->
+<!--              Creator Hero                    -->
+<!-- ============================================ -->
+
+<section id="creator-hero">
+  <div class="cs-container">
+    <div class="cs-flex-group">
+      <span class="cs-topper">Teach on MZed</span>
+      <h1 class="cs-title">
+        Your Content.<br><span class="cs-title-accent">A Bigger Audience.</span>
+      </h1>
+      <p class="cs-text">
+        MZed licenses educational filmmaking content from creators like you.
+        Reach 100,000+ filmmakers, earn ongoing revenue, and join a trusted brand — alongside Oscar and Emmy winners.
+      </p>
+      <a href="#topic-board" class="cs-button-solid">See What's In Demand</a>
+      <div class="cs-trust-signal">
+        <p class="cs-trust-text">Over $1M paid to MZed educators</p>
+      </div>
+    </div>
+  </div>
+  <div class="cs-overlay"></div>
+  <picture class="cs-picture">
+    <img
+      decoding="async"
+      src="{{ site.baseurl }}/assets/images/homepage/mzed-educator-grid.jpg"
+      alt="MZed educators"
+      width="1920"
+      height="1080"
+    />
+  </picture>
+</section>
+
+<!-- ============================================ -->
+<!--              Topic Board                     -->
+<!-- ============================================ -->
+
+<section id="topic-board">
+  <div class="cs-container">
+    <div class="cs-content" data-reveal>
+      <span class="cs-topper">What Do You Want to Learn?</span>
+      <h2 class="cs-title">Vote on the Next MZed Courses</h2>
+      <p class="cs-text">
+        Suggest a topic you want to learn — or see what the community is asking for and upvote the ideas you care about most.
+      </p>
+    </div>
+
+    <!-- Submit Form -->
+    <form id="topic-form" class="topic-form">
+      <input
+        type="text"
+        id="topic-input"
+        class="topic-input"
+        placeholder="Suggest a topic…"
+        maxlength="120"
+        required
+      />
+      <button type="submit" class="topic-submit cs-button-solid">Submit</button>
+    </form>
+
+    <p id="topic-status" class="topic-status"></p>
+
+    <!-- Sort Toggle -->
+    <div class="topic-sort">
+      <button class="topic-sort-btn active" data-sort="votes">Most Voted</button>
+      <button class="topic-sort-btn" data-sort="newest">Newest</button>
+    </div>
+
+    <!-- Topic List -->
+    <ul id="topic-list" class="topic-list"></ul>
+
+    <p id="topic-empty" class="topic-empty" style="display:none;">No topics yet — be the first to suggest one!</p>
+  </div>
+</section>
+
+<!-- ============================================ -->
+<!--              Why Teach on MZed               -->
+<!-- ============================================ -->
+
+<section id="why-teach">
+  <div class="cs-container">
+    <div class="cs-content" data-reveal>
+      <span class="cs-topper">Why MZed</span>
+      <h2 class="cs-title">We Make It Easy to Create Great Courses</h2>
+    </div>
+    <ul class="why-grid" data-reveal-children>
+      <li class="why-item">
+        <h3 class="why-title">License Your Content</h3>
+        <p class="why-text">Already have great educational videos? We license ready-made content — no need to create something new from scratch.</p>
+      </li>
+      <li class="why-item">
+        <h3 class="why-title">Start Small</h3>
+        <p class="why-text">A course can be as short as 30 minutes on a niche topic you know deeply. No need to build a 20-hour masterclass.</p>
+      </li>
+      <li class="why-item">
+        <h3 class="why-title">Built-In Audience</h3>
+        <p class="why-text">100,000+ filmmakers already on the platform. Skip the algorithm — your course gets seen from day one.</p>
+      </li>
+      <li class="why-item">
+        <h3 class="why-title">Reach Beyond YouTube</h3>
+        <p class="why-text">Great tutorials get buried by algorithms. Put your best content in front of a dedicated, paying audience that's actively looking to learn.</p>
+      </li>
+      <li class="why-item">
+        <h3 class="why-title">Trusted Brand</h3>
+        <p class="why-text">Teach alongside Oscar and Emmy winners, Hollywood DPs, and instructors from ARRI and AbelCine.</p>
+      </li>
+      <li class="why-item">
+        <h3 class="why-title">Earn Revenue</h3>
+        <p class="why-text">Get paid through revenue sharing on course sales and MZed Pro subscriptions. Your content earns as long as people watch.</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+{% include cta_banner.html %}
+
+<!-- ============================================ -->
+<!--              Supabase + Voting JS            -->
+<!-- ============================================ -->
+
+<script>
+(function() {
+  var SUPABASE_URL = 'https://ssraobgcaiolbciumoag.supabase.co';
+  var SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzcmFvYmdjYWlvbGJjaXVtb2FnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAwODQ2MTQsImV4cCI6MjA4NTY2MDYxNH0.cGmmflsxHy9mNWhsssH_jKAd6wYhqnxW66qCY6XsG9Q';
+  var HEADERS = {
+    'apikey': SUPABASE_KEY,
+    'Authorization': 'Bearer ' + SUPABASE_KEY,
+    'Content-Type': 'application/json',
+    'Prefer': 'return=representation'
+  };
+  var VOTES_KEY = 'mzed_topic_votes';
+  var SUBS_KEY = 'mzed_topic_subs';
+  var MAX_DISPLAY = 30;
+  var MAX_SUBMISSIONS = 5;
+  var COOLDOWN_SEC = 15;
+
+  // localStorage helpers
+  function getVoted() {
+    try { return JSON.parse(localStorage.getItem(VOTES_KEY)) || {}; }
+    catch(e) { return {}; }
+  }
+  function saveVoted(v) { localStorage.setItem(VOTES_KEY, JSON.stringify(v)); }
+
+  function getSubmissions() {
+    try { return JSON.parse(localStorage.getItem(SUBS_KEY)) || { count: 0, lastAt: 0 }; }
+    catch(e) { return { count: 0, lastAt: 0 }; }
+  }
+  function saveSubmissions(s) { localStorage.setItem(SUBS_KEY, JSON.stringify(s)); }
+
+  // Content validation
+  function validateTitle(title) {
+    if (title.length < 5) return 'Topic must be at least 5 characters.';
+    if (/https?:\/\/|www\./i.test(title)) return 'Links are not allowed.';
+    return null;
+  }
+
+  var currentSort = 'votes';
+  var topics = [];
+  var formEl = document.getElementById('topic-form');
+  var inputEl = document.getElementById('topic-input');
+  var submitBtn = formEl.querySelector('.topic-submit');
+  var statusEl = document.getElementById('topic-status');
+
+  function updateStatus() {
+    var subs = getSubmissions();
+    var remaining = MAX_SUBMISSIONS - subs.count;
+    if (remaining <= 0) {
+      statusEl.textContent = "You've used all " + MAX_SUBMISSIONS + " suggestions.";
+      inputEl.disabled = true;
+      submitBtn.disabled = true;
+    } else if (remaining <= 2) {
+      statusEl.textContent = remaining + ' suggestion' + (remaining === 1 ? '' : 's') + ' remaining.';
+    } else {
+      statusEl.textContent = '';
+    }
+  }
+
+  // Cooldown countdown on submit button
+  function startCooldown() {
+    var remaining = COOLDOWN_SEC;
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Wait ' + remaining + 's';
+    var interval = setInterval(function() {
+      remaining--;
+      if (remaining <= 0) {
+        clearInterval(interval);
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Submit';
+        updateStatus();
+      } else {
+        submitBtn.textContent = 'Wait ' + remaining + 's';
+      }
+    }, 1000);
+  }
+
+  // Fetch topics (capped at MAX_DISPLAY)
+  function fetchTopics() {
+    var order = currentSort === 'votes'
+      ? 'votes.desc,created_at.desc'
+      : 'created_at.desc';
+    fetch(SUPABASE_URL + '/rest/v1/topics?select=*&order=' + order + '&limit=' + MAX_DISPLAY, {
+      headers: { 'apikey': SUPABASE_KEY, 'Authorization': 'Bearer ' + SUPABASE_KEY }
+    })
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      topics = data;
+      render();
+    })
+    .catch(function(err) { console.error('Failed to load topics:', err); });
+  }
+
+  // Render topic list
+  function render() {
+    var list = document.getElementById('topic-list');
+    var empty = document.getElementById('topic-empty');
+    var voted = getVoted();
+
+    if (!topics.length) {
+      list.innerHTML = '';
+      empty.style.display = 'block';
+      return;
+    }
+
+    empty.style.display = 'none';
+    list.innerHTML = topics.map(function(t) {
+      var hasVoted = voted[t.id] === 1;
+      return '<li class="topic-item">' +
+        '<button class="topic-vote-btn' + (hasVoted ? ' voted' : '') + '" data-id="' + t.id + '" data-votes="' + t.votes + '"' + (hasVoted ? ' disabled' : '') + '>' +
+          '<svg width="14" height="8" viewBox="0 0 14 8" fill="none"><path d="M1 7L7 1L13 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
+          '<span class="topic-vote-count">' + t.votes + '</span>' +
+        '</button>' +
+        '<span class="topic-title">' + escapeHtml(t.title) + '</span>' +
+      '</li>';
+    }).join('');
+
+    var btns = list.querySelectorAll('.topic-vote-btn:not([disabled])');
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener('click', handleVote);
+    }
+  }
+
+  function escapeHtml(str) {
+    var div = document.createElement('div');
+    div.appendChild(document.createTextNode(str));
+    return div.innerHTML;
+  }
+
+  // Handle vote
+  function handleVote(e) {
+    var btn = e.currentTarget;
+    var id = btn.getAttribute('data-id');
+    var currentVotes = parseInt(btn.getAttribute('data-votes'), 10);
+    var voted = getVoted();
+
+    if (voted[id]) return;
+
+    btn.classList.add('voted');
+    btn.disabled = true;
+    btn.querySelector('.topic-vote-count').textContent = currentVotes + 1;
+    voted[id] = 1;
+    saveVoted(voted);
+
+    fetch(SUPABASE_URL + '/rest/v1/topics?id=eq.' + id, {
+      method: 'PATCH',
+      headers: HEADERS,
+      body: JSON.stringify({ votes: currentVotes + 1 })
+    })
+    .catch(function(err) {
+      console.error('Vote failed:', err);
+      btn.classList.remove('voted');
+      btn.disabled = false;
+      btn.querySelector('.topic-vote-count').textContent = currentVotes;
+      delete voted[id];
+      saveVoted(voted);
+    });
+  }
+
+  // Handle submit
+  formEl.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var title = inputEl.value.trim();
+    if (!title) return;
+
+    // Validate content
+    var error = validateTitle(title);
+    if (error) {
+      statusEl.textContent = error;
+      return;
+    }
+
+    // Check submission limit
+    var subs = getSubmissions();
+    if (subs.count >= MAX_SUBMISSIONS) {
+      statusEl.textContent = "You've used all " + MAX_SUBMISSIONS + " suggestions.";
+      return;
+    }
+
+    // Check cooldown
+    var now = Date.now();
+    var elapsed = (now - subs.lastAt) / 1000;
+    if (subs.lastAt && elapsed < COOLDOWN_SEC) {
+      var wait = Math.ceil(COOLDOWN_SEC - elapsed);
+      statusEl.textContent = 'Please wait ' + wait + ' seconds before submitting again.';
+      return;
+    }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting…';
+    statusEl.textContent = '';
+
+    fetch(SUPABASE_URL + '/rest/v1/topics', {
+      method: 'POST',
+      headers: HEADERS,
+      body: JSON.stringify({ title: title, votes: 1 })
+    })
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      if (data && data.length) {
+        var voted = getVoted();
+        voted[data[0].id] = 1;
+        saveVoted(voted);
+      }
+      // Track submission
+      subs.count++;
+      subs.lastAt = Date.now();
+      saveSubmissions(subs);
+
+      inputEl.value = '';
+      fetchTopics();
+      startCooldown();
+      updateStatus();
+    })
+    .catch(function(err) {
+      console.error('Submit failed:', err);
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Submit';
+    });
+  });
+
+  // Sort buttons
+  var sortBtns = document.querySelectorAll('.topic-sort-btn');
+  for (var i = 0; i < sortBtns.length; i++) {
+    sortBtns[i].addEventListener('click', function() {
+      for (var j = 0; j < sortBtns.length; j++) sortBtns[j].classList.remove('active');
+      this.classList.add('active');
+      currentSort = this.getAttribute('data-sort');
+      fetchTopics();
+    });
+  }
+
+  // Initial load
+  fetchTopics();
+  updateStatus();
+})();
+</script>
