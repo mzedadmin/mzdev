@@ -349,3 +349,20 @@ New page at `/creators/` pitching content creators to license their educational 
 - `assets/css/main.scss` — Added `@use 'creators'`.
 - `_includes/cta_banner.html` — Made `href` configurable via `page.cta_banner.cta_link` frontmatter with `#plan` default fallback.
 - `_includes/mzed_nav.html` — Added "Teach" link (`/creators/`) to both desktop nav links and mobile menu.
+
+### 2025-02-02: Safari CSS Fixes (aspect-ratio + height: 100%)
+Fixed Safari rendering bugs where card images collapsed to thin strips or zero height across multiple pages.
+
+**Root cause 1:** `aspect-ratio` on non-replaced elements (`<picture>`, `<div>`) inside flex column containers doesn't compute height correctly in Safari. **Fix:** Moved `aspect-ratio` onto the `<img>` element (a replaced element where Safari handles it correctly). Removed `aspect-ratio` from all container elements.
+
+**Root cause 2:** `height: 100%` on grid items with flex column children causes Safari to constrain and compress flex children. **Fix:** Removed `height: 100%` from card items — grid's default `align-items: stretch` handles equal-height cards without it.
+
+**Root cause 3:** Course detail hero `.cs-big-link` used `aspect-ratio` with flex centering for the play button. **Fix:** Changed to `padding-top: 56.25%` with absolutely positioned `.cs-background` and explicit `top/left/transform` centering on `.cs-picture` play button.
+
+**Modified:**
+- `_sass/course-card.scss` — Removed `height: 100%` from `.course-card-item`. Changed `.course-card-picture` from `aspect-ratio: 16/9` container to simple wrapper; moved `aspect-ratio: 16/9` onto `img` with `height: auto; display: block`.
+- `_sass/educators.scss` — Same pattern: removed `aspect-ratio: 1/1` from `.educator-card-picture` container, added `aspect-ratio: 1/1` to `img`.
+- `_sass/homepage.scss` — Same pattern for `.course-thumb-picture` in course catalog.
+- `_sass/courses.scss` — Removed redundant `aspect-ratio` overrides at tablet/desktop breakpoints.
+- `_sass/news-card.scss` — Removed `height: 100%` from `.news-card-item`.
+- `_sass/course.scss` — Changed `.cs-big-link` from `aspect-ratio: 16/9` to `padding-top: 56.25%`. Changed `.cs-background` from `position: relative` to `position: absolute`. Added explicit centering (`top: 50%; left: 50%; transform: translate(-50%, -50%)`) to `.cs-picture` play button, updated hover to preserve centering.

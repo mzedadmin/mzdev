@@ -60,11 +60,6 @@
     max-width: initial;
   }
 
-  #courses .course-card-picture {
-    aspect-ratio: 16 / 9;
-    height: auto;
-    width: 100%;
-  }
 }
 
 /* Desktop - 1024px */
@@ -75,12 +70,6 @@
 
   #courses .course-card-item {
     grid-column: span 3;
-  }
-
-  #courses .course-card-picture {
-    aspect-ratio: 16 / 9;
-    height: auto;
-    width: 100%;
   }
 }
 
