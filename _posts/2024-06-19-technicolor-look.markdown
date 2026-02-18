@@ -3,6 +3,7 @@ title: The Technicolor Look and Its Journey
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/technicolor-look-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: In this article, we explain what the Technicolor look means, and
   how it worked. We also explore modern films inspired by these aesthetics.
 subtitle: In this article, we explain what the Technicolor look means, and how it

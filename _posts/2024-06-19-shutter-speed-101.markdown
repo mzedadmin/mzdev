@@ -3,6 +3,7 @@ title: Shutter Speed 101
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/shutter-speed-101-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Shutter speed is not only a camera setting you set and forget. Here
   we talk all about the rules and how to break them for the story.
 subtitle: Shutter speed is not only a camera setting you set and forget. Here we talk

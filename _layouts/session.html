@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+<main id="main">
+  <!-- ============================================ -->
+  <!--              Session Hero                    -->
+  <!-- ============================================ -->
+
+  <section id="session-hero">
+    <div class="cs-big-link image-only">
+      <picture class="cs-background">
+        <source media="(min-width: 1024px)" srcset="{{ page.image | relative_url }}" />
+        <source media="(min-width: 601px)" srcset="{{ page.image | relative_url }}" />
+        <source media="(max-width: 600px)" srcset="{{ page.image | relative_url }}" />
+        <img
+          loading="lazy"
+          decoding="async"
+          src="{{ page.image | relative_url }}"
+          alt="{{ page.title }}"
+          width="1920"
+          height="1080"
+        />
+      </picture>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!--              Session Summary                 -->
+  <!-- ============================================ -->
+
+  <section id="session-summary">
+    <div class="cs-container">
+      <picture class="cs-picture">
+        <source media="(max-width: 600px)" srcset="{{ page['Session Page']['Main Image'] | default: page.image | relative_url }}" />
+        <source media="(min-width: 601px)" srcset="{{ page['Session Page']['Main Image'] | default: page.image | relative_url }}" />
+        <img loading="lazy" decoding="async"
+          src="{{ page['Session Page']['Main Image'] | default: page.image | relative_url }}"
+          alt="{{ page.title }}" width="950" height="480" />
+      </picture>
+      <div class="cs-content" data-reveal-children data-reveal-delay="150">
+        <span class="cs-topper">Session</span>
+        <div class="cs-title">{{ page['Session Page']['Main Title'] | default: page.title }}</div>
+        <p class="cs-text">{{ page['Session Page']['Main Text'] | default: page.description }}</p>
+        <div class="session-meta-bar">
+          <div class="session-meta-item">
+            <span class="session-meta-label">Educator</span>
+            <span class="session-meta-value">{{ page.educator }}</span>
+          </div>
+          <div class="session-meta-item">
+            <span class="session-meta-label">Duration</span>
+            <span class="session-meta-value">{{ page.duration }}</span>
+          </div>
+          <div class="session-meta-item">
+            <span class="session-meta-label">Date</span>
+            <span class="session-meta-value">{{ page.session_date | date: "%B %d, %Y" }}</span>
+          </div>
+          <div class="session-meta-item">
+            <span class="session-meta-label">Status</span>
+            <span class="session-meta-value">
+              {% if page.status == "upcoming" %}Upcoming
+              {% elsif page.status == "live" %}Live Now
+              {% else %}Available to Watch{% endif %}
+            </span>
+          </div>
+        </div>
+        <a href="#plan" class="cs-button-solid">Watch with MZed Pro</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!--                 Educator                     -->
+  <!-- ============================================ -->
+  {% assign educator_name = page.educator %}
+  {% if educator_name %}
+    {% assign educator_slug = educator_name | slugify %}
+    {% assign current_educator = site.educators | where: "slug", educator_slug | first %}
+    {% if current_educator %}
+    <div class="educator-section" id="session-educator">
+      {% assign original_page = page %}
+      {% assign page = current_educator %}
+      {% include about_educator.html %}
+      {% assign page = original_page %}
+    </div>
+    {% endif %}
+  {% endif %}
+
+  <!-- ============================================ -->
+  <!--                Stats Strip                   -->
+  <!-- ============================================ -->
+  {% include stats_strip.html %}
+
+  <!-- ============================================ -->
+  <!--                  Pricing                     -->
+  <!-- ============================================ -->
+  {% include mzed_pricing.html pricing=site.data.prices %}
+</main>

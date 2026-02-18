@@ -1,6 +1,7 @@
 ---
 title: Anamorphic Cookbook
-position: 4
+position: 14
+release_date: 2022-02-18
 Course Card:
   Title: Anamorphic Cookbook
   Educator: Tito Ferradans

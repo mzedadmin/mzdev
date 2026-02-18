@@ -3,6 +3,7 @@ title: The Timeless Craft of Dolly Zoom in Film – How to Execute It
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/using-dolly-zoom-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Explore the timeless craft of dolly zoom technique - from Hitchcock's
   invention to modern execution methods and dramatic applications.
 subtitle: How to Execute It

@@ -28,3 +28,18 @@
         <a href="{{ site.baseurl }}/courses/" class="cs-button-solid">View All {{ site.courses.size }} Courses</a>
     </div>
 </section>
+
+<script>
+(function() {
+  var rows = document.querySelectorAll('.catalog-row-scroll');
+  for (var i = 0; i < rows.length; i++) {
+    var row = rows[i];
+    var items = Array.from(row.children);
+    for (var j = items.length - 1; j > 0; j--) {
+      var k = Math.floor(Math.random() * (j + 1));
+      row.appendChild(items[k]);
+      items.splice(k, 1, items[j]);
+    }
+  }
+})();
+</script>

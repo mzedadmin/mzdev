@@ -3,6 +3,7 @@ title: Behind the Cinematic Look of Anamorphic Lenses – A Short Guide for Begi
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/behind-the-cinematic-look-of-anamorphic-lenses-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Tito Ferradans explains anamorphic vs spherical lenses, the technology
   behind the cinematic look, and why shooting scope creates magic.
 subtitle: A Short Guide for Beginners

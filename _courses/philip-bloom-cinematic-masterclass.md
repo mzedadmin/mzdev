@@ -1,6 +1,7 @@
 ---
 title: Cinematic Masterclass
 position: 23
+release_date: 2017-09-28
 Course Card:
   Title: Cinematic Masterclass
   Educator: Philip Bloom

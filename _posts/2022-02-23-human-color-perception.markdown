@@ -3,6 +3,7 @@ title: Learning the biological nature of human color perception
 date: 2022-02-23 00:00:00 Z
 image: "/assets/images/posts/human-color-perception-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: The reasons we prefer greens and reds over blue can help inform
   us as visual storytellers.
 subtitle: The reasons we prefer greens and reds over blue can help inform us as visual

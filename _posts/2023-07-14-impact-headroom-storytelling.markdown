@@ -3,6 +3,7 @@ title: The Impact of Headroom in Visual Storytelling
 date: 2023-07-14 00:00:00 Z
 image: "/assets/images/posts/impact-headroom-storytelling-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Imbalance is a strong tool when composing a shot
 subtitle: Imbalance is a strong tool when composing a shot
 ---

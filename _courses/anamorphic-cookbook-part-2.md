@@ -1,6 +1,7 @@
 ---
 title: Anamorphic Cookbook Part 2
-position: 6
+position: 16
+release_date: 2024-01-01
 Course Card:
   Title: Anamorphic Cookbook Part 2
   Educator: Tito Ferradans

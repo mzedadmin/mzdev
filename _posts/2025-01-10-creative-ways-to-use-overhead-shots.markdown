@@ -3,6 +3,7 @@ title: Creative Ways to Use Overhead Shots
 date: 2025-01-10 00:00:00 Z
 image: "/assets/images/posts/creative-ways-to-use-overhead-shots-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: They're more than just gear flatlays
 subtitle: They're more than just gear flatlays
 ---

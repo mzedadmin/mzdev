@@ -4,6 +4,7 @@ title: Manipulating Time Perception – the Storytelling Potential of Frame Rate
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/manipulating-time-perception-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Frame rate manipulation for storytelling - from 24fps conventions
   to slow motion and high frame rates. With examples from cinema history.
 subtitle: The Storytelling Potential of Frame Rate (with Film Examples)

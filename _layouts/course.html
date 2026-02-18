@@ -7,104 +7,86 @@ layout: default
 <script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
 <script src="{{ site.baseurl }}/assets/js/fancybox.js"></script>
 
+{% comment %}Split Additional Images into batches for visual breakers{% endcomment %}
+{% assign all_images = page['Course Page']['Additional Images'] %}
+{% assign img_count = all_images | size %}
+{% if img_count > 0 %}
+  {% assign half = img_count | divided_by: 2 %}
+  {% if half == 0 %}{% assign half = 1 %}{% endif %}
+{% endif %}
+
 <main id="main">
-  <!-- ============================================ -->
-  <!--              Conditional Hero                -->
-  <!-- ============================================ -->
-
-  <section id="mz-hero">
-    {% if page['Course Page']['Video'] %}
-    <!-- Video Hero Version -->
-    <a
-      href="{{ page['Course Page']['Video'] }}?autoplay=1"
-      class="cs-big-link video-link"
-      data-fancybox
-      data-type="iframe"
-    >
-      <!--Background Image-->
-      <picture class="cs-background">
-        <source media="(min-width: 1024px)" srcset="{{ page.hero_image }}" />
-        <source media="(min-width: 601px)" srcset="{{ page.hero_image }}" />
-        <source media="(max-width: 600px)" srcset="{{ page.hero_image }}" />
-        <img
-          aria-hidden="true"
-          loading="lazy"
-          decoding="async"
-          src="{{ page['Course Card']['Image'] }}"
-          alt="{{ page.title }} video trailer"
-          width="1920"
-          height="750"
-        />
-      </picture>
-      <!--Play Icon-->
-      <picture class="cs-picture">
-        <img
-          class="cs-link-icon"
-          aria-hidden="true"
-          loading="lazy"
-          decoding="async"
-          src="{{ site.baseurl }}/assets/icons/tax-play.svg"
-          alt="play icon"
-          width="48"
-          height="48"
-        />
-      </picture>
-    </a>
-
-    {% else %}
-    <!-- Image-only Hero Version -->
-    <div class="cs-big-link image-only">
-      <!--Background Image-->
-      <picture class="cs-background">
-        <source
-          media="(min-width: 1024px)"
-          srcset="{{ page['Course Card']['Image'] }}"
-        />
-        <source
-          media="(min-width: 601px)"
-          srcset="{{ page['Course Card']['Image'] }}"
-        />
-        <source
-          media="(max-width: 600px)"
-          srcset="{{ page['Course Card']['Image'] }}"
-        />
-        <img
-          aria-hidden="true"
-          loading="lazy"
-          decoding="async"
-          src="{{ page['Course Card']['Image'] }}"
-          alt="{{ page.title }} cover"
-          width="1920"
-          height="750"
-        />
-      </picture>
-    </div>
-    {% endif %}
-  </section>
-
-  <!-- Course Content
-<section id="course-content">
-  <div class="cs-container">{{ content }}</div>
-</section> -->
+  {% assign educator_name = page.educator | default: page['Course Card']['Educator'] %}
 
   <!-- ============================================ -->
-  <!--                Course Stats                  -->
-  <!-- ============================================ -->
-  {% include course_stats.html course=page %}
-
-  <!-- ============================================ -->
-  <!--                Course Summary                -->
+  <!--              Course Hero                     -->
   <!-- ============================================ -->
 
   <section id="sbs-1015">
+    <picture class="cs-picture">
+      <img loading="eager" decoding="async"
+        src="{{ page['Course Card']['Image'] | relative_url }}"
+        alt="{{ page.title }}" width="1920" height="1080" />
+    </picture>
+    <div class="cs-content" data-reveal-children data-reveal-delay="150">
+      <h1 class="cs-title">{{ page.title }}</h1>
+      {% if educator_name %}
+      <p class="cs-educator">{{ educator_name }}</p>
+      {% endif %}
+      {% if page['Course Card']['Description'] %}
+      <p class="cs-text">{{ page['Course Card']['Description'] }}</p>
+      {% endif %}
+      {% if page['Course Card']['Lessons'] or page['Course Card']['Runtime Hours'] %}
+      <p class="cs-meta">
+        {% if page['Course Card']['Lessons'] %}{{ page['Course Card']['Lessons'] }} Lessons{% endif %}
+        {% if page['Course Card']['Lessons'] and page['Course Card']['Runtime Hours'] %} · {% endif %}
+        {% if page['Course Card']['Runtime Hours'] %}{{ page['Course Card']['Runtime Hours'] }}h {{ page['Course Card']['Runtime Minutes'] }}m{% endif %}
+        {% if page['Course Page']['Video'] %}
+         · <a href="{{ page['Course Page']['Video'] }}?autoplay=1" class="cs-trailer-link" data-fancybox data-type="iframe">Watch Trailer</a>
+        {% endif %}
+      </p>
+      {% endif %}
+      <div class="cs-button-group">
+        <a href="#plan" class="cs-button-12">
+          Get Full Access
+          <picture class="cs-button-wrapper">
+            <img class="cs-button-icon"
+              src="{{ site.baseurl }}/assets/icons/angle-arrow.svg"
+              alt="icon" loading="lazy" decoding="async" width="28" height="28" />
+          </picture>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!--          Photo Breaker (all images)          -->
+  <!-- ============================================ -->
+  {% if img_count > 0 %}
+  <div class="cs-photo-breaker">
+    {% for image in all_images %}
+    <picture class="cs-image">
+      <img loading="lazy" decoding="async"
+        src="{{ image | relative_url }}"
+        alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
+        width="368" height="284" />
+    </picture>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- ============================================ -->
+  <!--             About the Course                 -->
+  <!-- ============================================ -->
+  <section id="about-course">
     <div class="cs-container">
+      {% if page['Course Page']['Main Image'] %}
       <picture class="cs-picture">
-        <source media="(max-width: 600px)" srcset="{{ page['Course Page']['Main Image'] | relative_url }}" />
-        <source media="(min-width: 601px)" srcset="{{ page['Course Page']['Main Image'] | relative_url }}" />
         <img loading="lazy" decoding="async"
           src="{{ page['Course Page']['Main Image'] | relative_url }}"
-          alt="{{ page.title }} course image" width="950" height="480" />
+          alt="{{ page.title }}" width="950" height="600" />
       </picture>
+      {% endif %}
       <div class="cs-content" data-reveal-children data-reveal-delay="150">
         <span class="cs-topper">About the Course</span>
         <div class="cs-title">{{ page['Course Page']['Main Title'] }}</div>
@@ -114,29 +96,14 @@ layout: default
           '' %}
           <br />{{ paragraph }} {% endif %} {% endfor %}
         </p>
-        <a href="#plan" class="cs-button-12">
-          Start watching with MZed Pro
-          <picture class="cs-button-wrapper">
-            <img class="cs-button-icon"
-              src="{{ site.baseurl }}/assets/icons/angle-arrow.svg"
-              alt="icon" loading="lazy" decoding="async" width="28" height="28" />
-          </picture>
-        </a>
       </div>
     </div>
-    {% if page['Course Page']['Additional Images'] %}
-    <div class="cs-image-group">
-      {% for image in page['Course Page']['Additional Images'] %}
-      <picture class="cs-image">
-        <img loading="lazy" decoding="async"
-          src="{{ image | relative_url }}"
-          alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
-          width="368" height="284" />
-      </picture>
-      {% endfor %}
-    </div>
-    {% endif %}
   </section>
+
+  <!-- ============================================ -->
+  <!--                Course Stats                  -->
+  <!-- ============================================ -->
+  {% include course_stats.html course=page %}
 
   <!-- ============================================ -->
   <!--               What You'll Learn              -->
@@ -178,22 +145,41 @@ layout: default
   {% endif %}
 
   <!-- ============================================ -->
-  <!--                 Educator                     -->
+  <!--         Photo Breaker (second half)          -->
   <!-- ============================================ -->
-  {% assign educator_name = page.educator | default: page['Course
-  Card']['Educator'] %} {% if educator_name %} {% assign educator_slug =
-  educator_name | slugify %} {% assign current_educator = site.educators |
-  where: "slug", educator_slug | first %} {% if current_educator %}
-  <div class="educator-section">
-    {% assign original_page = page %} {% assign page = current_educator %} {%
-    include about_educator.html %} {% assign page = original_page %}
+  {% if img_count > 0 %}
+  <div class="cs-photo-breaker">
+    {% for image in all_images offset: half %}
+    <picture class="cs-image">
+      <img loading="lazy" decoding="async"
+        src="{{ image | relative_url }}"
+        alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
+        width="368" height="284" />
+    </picture>
+    {% endfor %}
   </div>
-  {% endif %} {% endif %}
+  {% endif %}
 
   <!-- ============================================ -->
   <!--                  Lessons                     -->
   <!-- ============================================ -->
   {% include course_lessons.html course=page %}
+
+  <!-- ============================================ -->
+  <!--           Photo Breaker (full set)           -->
+  <!-- ============================================ -->
+  {% if img_count > 0 %}
+  <div class="cs-photo-breaker">
+    {% for image in all_images %}
+    <picture class="cs-image">
+      <img loading="lazy" decoding="async"
+        src="{{ image | relative_url }}"
+        alt="{{ image | split: '/' | last | split: '.' | first | replace: '-', ' ' }}"
+        width="368" height="284" />
+    </picture>
+    {% endfor %}
+  </div>
+  {% endif %}
 
   <!-- ============================================ -->
   <!--                  Reviews                     -->
@@ -213,6 +199,18 @@ layout: default
     </div>
   </section>
   {% endif %}
+
+  <!-- ============================================ -->
+  <!--                 Educator                     -->
+  <!-- ============================================ -->
+  {% if educator_name %} {% assign educator_slug =
+  educator_name | slugify %} {% assign current_educator = site.educators |
+  where: "slug", educator_slug | first %} {% if current_educator %}
+  <div class="educator-section">
+    {% assign original_page = page %} {% assign page = current_educator %} {%
+    include about_educator.html %} {% assign page = original_page %}
+  </div>
+  {% endif %} {% endif %}
 
   <!-- ============================================ -->
   <!--                Other Courses                 -->

@@ -4,6 +4,7 @@ title: The Filmmaker's Voice – Mastering Narrative Perspective and Related Cam
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/mastering-narrative-perspective-camera-techniques-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: The filmmaker's voice through narrative perspective. How to use
   it as your wizard's wand - with exciting film examples from Tal Lazar's course.
 subtitle: Mastering Narrative Perspective and Related Camera Techniques

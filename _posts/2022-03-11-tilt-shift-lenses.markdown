@@ -3,6 +3,7 @@ title: Learning about Tilt Shift Lenses
 date: 2022-03-11 00:00:00 Z
 image: "/assets/images/posts/tilt-shift-lenses-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: There's a few reasons to use a tilt shift lens, from timelapse,
   to architecture, to portraits
 subtitle: There's a few reasons to use a tilt shift lens, from timelapse, to architecture,

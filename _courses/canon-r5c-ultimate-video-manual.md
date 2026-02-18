@@ -1,6 +1,7 @@
 ---
 title: Canon R5C Ultimate Video Manual
-position: 27
+position: 10
+release_date: 2023-01-01
 Course Card:
   Title: Canon R5C Ultimate Video Manual
   Educator: Ollie Kenchington

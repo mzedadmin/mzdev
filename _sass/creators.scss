@@ -132,208 +132,78 @@
             }
         }
 
-        .cs-trust-signal {
-            margin-top: clamp(1.25rem, 2.5vw, 2rem);
-        }
-
-        .cs-trust-text {
-            font-size: clamp(0.875rem, 1.5vw, 1rem);
-            font-weight: 600;
-            color: var(--primaryLight);
-            margin: 0;
-            letter-spacing: 0.02em;
-        }
     }
 }
 
 
 /*-- -------------------------- -->
-<---        Topic Board         -->
+<---      Creator Stats Strip   -->
 <--- -------------------------- -*/
 
-@media only screen and (min-width: 0rem) {
-    #topic-board {
-        padding: var(--sectionPadding);
-        background-color: #fff;
+#creator-stats {
+    background-color: #14142b;
+    padding: clamp(2rem, 4vw, 3rem) 1rem;
 
-        .cs-container {
-            width: 100%;
-            max-width: calc(700/16 * 1rem);
-            margin: auto;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: clamp(1.5rem, 3vw, 2rem);
-        }
-
-        .cs-content {
-            text-align: center;
-            width: 100%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-
-        .cs-title {
-            margin: 0;
-        }
-    }
-
-    .topic-form {
+    .cs-container {
         width: 100%;
-        display: flex;
-        gap: calc(8/16 * 1rem);
+        max-width: calc(1280/16 * 1rem);
+        margin: auto;
     }
 
-    .topic-input {
-        flex: 1;
-        font-size: 1rem;
-        line-height: 1.5em;
-        padding: calc(12/16 * 1rem) calc(16/16 * 1rem);
-        border: 1px solid #ddd;
-        border-radius: calc(4/16 * 1rem);
-        background: #f7f7f7;
-        color: var(--headerColor);
-        outline: none;
-        transition: border-color 0.3s;
-
-        &:focus {
-            border-color: var(--primary);
-        }
-
-        &::placeholder {
-            color: #999;
-        }
-    }
-
-    .topic-submit {
-        font-size: 0.9375rem;
-        font-weight: 700;
-        padding: 0 calc(24/16 * 1rem);
-        line-height: 3em;
-        cursor: pointer;
-        white-space: nowrap;
-        border: none;
-
-        &:disabled {
-            opacity: 0.6;
-            cursor: not-allowed;
-        }
-    }
-
-    .topic-status {
-        font-size: 0.875rem;
-        line-height: 1.4em;
-        color: var(--primary);
-        margin: 0;
-        align-self: flex-start;
-        min-height: 1.25em;
-
-        &:empty {
-            display: none;
-        }
-    }
-
-    .topic-sort {
-        display: flex;
-        gap: calc(4/16 * 1rem);
-        align-self: flex-start;
-    }
-
-    .topic-sort-btn {
-        font-size: 0.875rem;
-        font-weight: 600;
-        padding: calc(6/16 * 1rem) calc(12/16 * 1rem);
-        background: none;
-        border: none;
-        color: #999;
-        cursor: pointer;
-        border-radius: calc(4/16 * 1rem);
-        transition: color 0.2s, background-color 0.2s;
-
-        &:hover {
-            color: var(--headerColor);
-        }
-
-        &.active {
-            color: var(--headerColor);
-            background-color: #f7f7f7;
-        }
-    }
-
-    .topic-list {
-        width: 100%;
+    .creator-stats-list {
+        list-style: none;
         margin: 0;
         padding: 0;
-        list-style: none;
-        display: flex;
-        flex-direction: column;
-        gap: calc(6/16 * 1rem);
-    }
-
-    .topic-item {
-        display: flex;
-        align-items: center;
-        gap: calc(12/16 * 1rem);
-        padding: calc(12/16 * 1rem) calc(16/16 * 1rem);
-        background: #f7f7f7;
-        border-radius: calc(4/16 * 1rem);
-        transition: background-color 0.2s;
-
-        &:hover {
-            background: #f0f0f0;
-        }
-    }
-
-    .topic-vote-btn {
         display: flex;
         flex-direction: column;
         align-items: center;
-        gap: calc(2/16 * 1rem);
-        padding: calc(8/16 * 1rem) calc(12/16 * 1rem);
-        background: #fff;
-        border: 1px solid #ddd;
-        border-radius: calc(4/16 * 1rem);
-        cursor: pointer;
-        color: #999;
-        transition: color 0.2s, border-color 0.2s, background-color 0.2s;
-        flex-shrink: 0;
-        min-width: calc(48/16 * 1rem);
+        gap: clamp(1.5rem, 3vw, 2rem);
 
-        &:hover:not([disabled]) {
-            color: var(--primary);
-            border-color: var(--primary);
-        }
-
-        &.voted {
-            color: var(--primary);
-            border-color: var(--primary);
-            background-color: rgba(234, 62, 51, 0.05);
-        }
-
-        &:disabled {
-            cursor: default;
+        @media (min-width: 48rem) {
+            flex-direction: row;
+            justify-content: center;
+            gap: 0;
         }
     }
 
-    .topic-vote-count {
-        font-size: 0.9375rem;
-        font-weight: 700;
-        line-height: 1em;
-    }
-
-    .topic-title {
-        font-size: clamp(0.9375rem, 1.8vw, 1.0625rem);
-        line-height: 1.4em;
-        color: var(--headerColor);
-        font-weight: 700;
-    }
-
-    .topic-empty {
-        font-size: 1rem;
-        color: #999;
+    .creator-stat-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.25rem;
         text-align: center;
-        padding: 2rem 0;
+
+        @media (min-width: 48rem) {
+            flex: 1;
+            position: relative;
+
+            &:not(:last-child)::after {
+                content: "";
+                position: absolute;
+                right: 0;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 1px;
+                height: 60%;
+                background-color: rgba(255, 255, 255, 0.15);
+            }
+        }
+    }
+
+    .creator-stat-number {
+        font-size: clamp(2rem, 4vw, 3rem);
+        font-weight: 700;
+        line-height: 1.2;
+        color: var(--primaryLight);
+        font-family: 'CalibreWeb-Bold', 'Roboto', Arial, Helvetica, sans-serif;
+    }
+
+    .creator-stat-label {
+        font-size: clamp(0.8rem, 1.5vw, 0.95rem);
+        color: rgba(255, 255, 255, 0.7);
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
     }
 }
 

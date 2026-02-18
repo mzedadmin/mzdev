@@ -3,6 +3,7 @@ title: CineD and MZed at NAB 2023 - Visit Our Booth in Central Hall
 date: 2023-04-14 00:00:00 Z
 image: "/assets/images/posts/nab-2023-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: This year at NAB we have our very own booth - stop by for prizes
   and free access to MZed Pro
 subtitle: This year at NAB we have our very own booth - stop by for prizes and free

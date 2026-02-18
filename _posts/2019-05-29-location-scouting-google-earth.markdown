@@ -3,6 +3,7 @@ title: Location Scouting with Google Earth
 date: 2019-05-29 00:00:00 Z
 image: "/assets/images/posts/location-scouting-google-earth-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Can't get to the actual location before the shoot? Take a tip from
   Alex Buono and use these great online tools.
 subtitle: Can't get to the actual location before the shoot? Take a tip from Alex

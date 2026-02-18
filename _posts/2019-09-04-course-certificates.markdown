@@ -3,6 +3,7 @@ title: 'Now Available: Certificates of Completion'
 date: 2019-09-04 00:00:00 Z
 image: "/assets/images/posts/course-certificates-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: When you finish an MZed online course, shouldn’t you deserve a little
   recognition? Now you can download and print a certificate of completion.
 subtitle: When you finish an MZed online course, shouldn’t you deserve a little recognition?

@@ -1,6 +1,7 @@
 ---
 title: Selling the Punch
 position: 22
+release_date: 2023-07-15
 Course Card:
   Title: Selling the Punch
   Educator: America Young

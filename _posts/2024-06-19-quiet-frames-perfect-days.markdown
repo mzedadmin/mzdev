@@ -3,6 +3,7 @@ title: The Quiet Frames of "Perfect Days" – Depicting Beauty in the Mundane
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/quiet-frames-perfect-days-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding
   bliss in simple things. We explore the poetry of the film "Perfect Days".
 subtitle: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding bliss

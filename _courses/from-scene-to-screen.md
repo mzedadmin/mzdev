@@ -1,6 +1,7 @@
 ---
 title: From Scene to Screen
 position: 40
+release_date: 2024-03-01
 Course Card:
   Title: From Scene to Screen Workshop
   Educator: Tal Lazar

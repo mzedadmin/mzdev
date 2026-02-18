@@ -3,6 +3,7 @@ title: Blurring the Lines Between Music and Sound Design
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/blurring-the-lines-music-sound-design-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Film examples that push the boundaries
 subtitle: Film examples that push the boundaries
 ---

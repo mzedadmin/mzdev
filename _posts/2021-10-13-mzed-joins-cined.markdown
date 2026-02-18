@@ -3,6 +3,7 @@ title: MZed Joins CineD
 date: 2021-10-13 00:00:00 Z
 image: "/assets/images/posts/mzed-joins-cined-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: Together, we can provide you even more tools to help you on your
   filmmaking journey.
 subtitle: Together, we can provide you even more tools to help you on your filmmaking

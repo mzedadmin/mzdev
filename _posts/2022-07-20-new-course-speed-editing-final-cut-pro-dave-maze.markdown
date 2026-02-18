@@ -3,6 +3,7 @@ title: 'New Course: Speed Editing in Final Cut Pro with Dave Maze'
 date: 2022-07-20 00:00:00 Z
 image: "/assets/images/posts/new-course-speed-editing-final-cut-pro-dave-maze-hero.jpg"
 layout: post
+blog_category: "New Course"
 meta_description: Learn how to edit like a speed demon from YouTuber Dave Maze
 subtitle: Learn how to edit like a speed demon from YouTuber Dave Maze
 ---

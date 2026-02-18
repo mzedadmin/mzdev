@@ -3,6 +3,7 @@ title: May Giveaway - Blackmagic Design ATEM Mini Pro
 date: 2021-05-08 00:00:00 Z
 image: "/assets/images/posts/blackmagic-atem-mini-pro-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: MZed Pro members can win this live production, switching, and streaming
   workhorse.
 subtitle: MZed Pro members can win this live production, switching, and streaming

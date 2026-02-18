@@ -3,6 +3,7 @@ title: Angelbird Customers Get 10 Days to Try MZed Pro
 date: 2022-12-21 00:00:00 Z
 image: "/assets/images/posts/10-day-access-for-angelbird-customers-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: We're excited to announce our new partnership with Angelbird
 subtitle: We're excited to announce our new partnership with Angelbird
 ---

@@ -22,22 +22,7 @@
     <!-- Pricing cards -->
     <div class="cs-card-group" data-reveal-children data-reveal-delay="150">
 
-      <!-- Monthly Card -->
-      <div class="cs-card cs-card-monthly">
-        <div class="cs-card-header">
-          <h3 class="cs-plan-name">Monthly</h3>
-        </div>
-        <div class="cs-card-price">
-          <span class="cs-price">${{ monthly }}</span>
-          <span class="cs-price-period">/month</span>
-        </div>
-        <a href="https://www.mzed.com/checkout/?sku=MZEDPRO1" class="cs-button cs-button-monthly">
-          Join Monthly
-        </a>
-        <p class="cs-risk-text">Cancel anytime</p>
-      </div>
-
-      <!-- Annual Card (recommended) -->
+      <!-- Annual Card (recommended) — shown first (left) -->
       <div class="cs-card cs-card-annual">
         <div class="cs-badge">Best Value — Save {{ savings }}%</div>
         <div class="cs-card-header">
@@ -54,7 +39,25 @@
         <p class="cs-risk-text">7-day money-back guarantee</p>
       </div>
 
+      <!-- Monthly Card -->
+      <div class="cs-card cs-card-monthly">
+        <div class="cs-card-header">
+          <h3 class="cs-plan-name">Monthly</h3>
+        </div>
+        <div class="cs-card-price">
+          <span class="cs-price">${{ monthly }}</span>
+          <span class="cs-price-period">/month</span>
+        </div>
+        <a href="https://www.mzed.com/checkout/?sku=MZEDPRO1" class="cs-button cs-button-monthly">
+          Join Monthly
+        </a>
+        <p class="cs-risk-text">Cancel anytime</p>
+      </div>
+
     </div>
+
+    <!-- Feature list heading -->
+    <h3 class="cs-features-heading">MZed Pro membership includes:</h3>
 
     <!-- Shared feature list -->
     <ul class="cs-features">
@@ -97,6 +100,14 @@
         <div class="cs-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
         <p class="cs-trust-text">Join 100,000+ filmmakers</p>
       </div>
+    </div>
+
+    <!-- Gift section -->
+    <div class="cs-gift-section">
+      <div class="cs-gift-icon">&#127873;</div>
+      <h3 class="cs-gift-title">Gift MZed Pro</h3>
+      <p class="cs-gift-text">Give the gift of world-class filmmaking education. Perfect for birthdays, holidays, or any occasion.</p>
+      <a href="#" class="cs-gift-link">Learn about gifting &rarr;</a>
     </div>
 
   </div>

@@ -19,6 +19,10 @@ collections:
   settings:
     title: Pricing and Global Settings
     output: false
+  sessions:
+    title: Sessions
+    output: true
+    permalink: "/sessions/:name/"
   testimonials:
     title: Testimonials
     output: false
@@ -47,6 +51,12 @@ defaults:
   values:
     layout: educator
     permalink: "/educators/:title/"
+- scope:
+    path: ''
+    type: sessions
+  values:
+    layout: session
+    permalink: "/sessions/:title/"
 - scope:
     path: ''
     type: pages

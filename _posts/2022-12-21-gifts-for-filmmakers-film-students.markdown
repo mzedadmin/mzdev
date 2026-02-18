@@ -3,6 +3,7 @@ title: Gifts for Filmmakers and Film Students
 date: 2022-12-21 00:00:00 Z
 image: "/assets/images/posts/gifts-for-filmmakers-film-students-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: It's never too late to give the gift of education to a filmmaker
   or film student in your life.
 subtitle: It's never too late to give the gift of education to a filmmaker or film

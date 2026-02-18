@@ -1,6 +1,7 @@
 ---
 title: Color Correction with DaVinci Resolve
-position: 42
+position: 5
+release_date: 2020-05-28
 Course Card:
   Title: Color Correction with DaVinci Resolve
   Educator: Ollie Kenchington

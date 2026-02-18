@@ -1,6 +1,7 @@
 ---
 title: Cinematic Timelapse
 position: 34
+release_date: 2022-11-20
 Course Card:
   Title: Cinematic Timelapse with Drew Geraci
   Educator: Drew Geraci

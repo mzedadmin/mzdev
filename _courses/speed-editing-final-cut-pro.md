@@ -1,6 +1,7 @@
 ---
 title: Speed Editing in Final Cut Pro
 position: 35
+release_date: 2022-06-25
 Course Card:
   Title: Speed Editing in Final Cut Pro
   Educator: Dave Maze

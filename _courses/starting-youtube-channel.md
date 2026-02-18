@@ -1,6 +1,7 @@
 ---
 title: Starting a Youtube Channel
 position: 41
+release_date: 2021-08-15
 Course Card:
   Title: Starting a Youtube Channel
   Educator: Kitty Peters

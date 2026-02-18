@@ -3,6 +3,7 @@ title: Learning the basics of ARRI sensors
 date: 2022-02-09 00:00:00 Z
 image: "/assets/images/posts/arri-sensor-explained-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: From photo sites to ARRIRAW recording, here's how the tech creates
   the ARRI look.
 subtitle: From photo sites to ARRIRAW recording, here's how the tech creates the ARRI

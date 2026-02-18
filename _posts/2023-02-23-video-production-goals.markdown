@@ -3,6 +3,7 @@ title: How to Get Out of Your Comfort Zone
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/video-production-goals-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: This year, try something completely different. It'll open you up
   to entirely new opportunities.
 subtitle: This year, try something completely different. It'll open you up to entirely

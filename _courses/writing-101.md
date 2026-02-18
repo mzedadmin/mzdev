@@ -1,6 +1,7 @@
 ---
 title: Writing 101
 position: 52
+release_date: 2018-10-06
 Course Card:
   Title: Writing 101
   Educator: Seth Worley

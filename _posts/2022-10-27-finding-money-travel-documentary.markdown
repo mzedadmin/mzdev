@@ -3,6 +3,7 @@ title: How to fund your travel documentary
 date: 2022-10-27 00:00:00 Z
 image: "/assets/images/posts/finding-money-travel-documentary-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Finding the money is not easy, but it's essential to making a career
   from adventure filmmaking
 subtitle: Finding the money is not easy, but it's essential to making a career from

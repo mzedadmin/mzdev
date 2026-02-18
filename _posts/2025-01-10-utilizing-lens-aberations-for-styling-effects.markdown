@@ -3,6 +3,7 @@ title: Utilizing Lens Aberations for Styling Effects
 date: 2025-01-10 00:00:00 Z
 image: "/assets/images/posts/utilizing-lens-aberations-for-styling-effects-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: It's a feature, not a bug
 subtitle: It's a feature, not a bug
 ---

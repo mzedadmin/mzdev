@@ -3,6 +3,7 @@ title: When Mother Nature Changes Your Production Plans
 date: 2022-10-07 00:00:00 Z
 image: "/assets/images/posts/mother-nature-vs-production-plans-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Philip Bloom shows you how to adapt a story to unpredictable shooting
   conditions.
 subtitle: Philip Bloom shows you how to adapt a story to unpredictable shooting conditions.

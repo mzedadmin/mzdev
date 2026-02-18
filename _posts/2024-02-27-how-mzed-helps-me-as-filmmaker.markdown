@@ -3,6 +3,7 @@ title: How MZed Pro Makes Me a Better Filmmaker
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/how-mzed-helps-me-as-filmmaker-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: Personal highlights from MZed Pro subscription covering visual storytelling,
   editing techniques, and professional filmmaking education.
 subtitle: Black Friday Special

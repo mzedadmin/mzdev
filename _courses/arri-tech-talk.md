@@ -1,6 +1,7 @@
 ---
 title: ARRI Tech Talk
-position: 10
+position: 20
+release_date: 2022-07-24
 Course Card:
   Title: ARRI Tech Talk
   Educator: ARRI Academy

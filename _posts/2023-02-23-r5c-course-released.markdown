@@ -3,6 +3,7 @@ title: 'New Course: The Ultimate Canon R5 C Video Manual'
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/r5c-course-released-hero.jpg"
 layout: post
+blog_category: "New Course"
 meta_description: Ollie Kenchington is back with an epic course, all about the Canon
   EOS R5 C
 subtitle: Ollie Kenchington is back with an epic course, all about the Canon EOS R5

@@ -3,6 +3,7 @@ title: An Introduction to Soviet Lenses
 date: 2023-03-31 00:00:00 Z
 image: "/assets/images/posts/ussr-lens-guide-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Lens guru Tito Ferradans has created a USSR Lens Buyer's Guide
 subtitle: Lens guru Tito Ferradans has created a USSR Lens Buyer's Guide
 ---

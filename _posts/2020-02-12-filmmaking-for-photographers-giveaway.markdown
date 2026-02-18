@@ -3,6 +3,7 @@ title: Filmmaking for Photographers Giveaway
 date: 2020-02-12 00:00:00 Z
 image: 
 layout: post
+blog_category: "MZed News"
 meta_description: Watch a free lesson and enter to win $3,000 worth of filmmaking
   prizes!
 subtitle: Watch a free lesson and enter to win $3,000 worth of filmmaking prizes!

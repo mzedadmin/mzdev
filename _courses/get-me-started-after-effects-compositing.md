@@ -1,6 +1,7 @@
 ---
 title: Get Me Started with Adobe After Effects Compositing
 position: 61
+release_date: 2025-06-29
 Course Card:
   Title: Get Me Started with Adobe After Effects Compositing
   Educator: Digby Hogan

@@ -3,6 +3,7 @@ title: How to Become a Youtuber
 date: 2021-09-13 00:00:00 Z
 image: "/assets/images/posts/how-to-become-youtuber-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: To be a filmmaker used to mean film school, studios, and lots of
   bagels. Now it's becoming a Youtuber.
 subtitle: To be a filmmaker used to mean film school, studios, and lots of bagels.

@@ -3,6 +3,7 @@ title: Wide-angle Close-ups and Emotional Impact
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/wide-angle-close-ups-and-emotional-impact-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Portraying character emotions through wide angle close ups
 subtitle: Portraying character emotions through wide angle close ups
 ---

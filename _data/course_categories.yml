@@ -25,6 +25,9 @@
 - name: "Audio & Podcasting"
   topic: "audio"
   position: 9
+- name: "AI"
+  topic: "ai"
+  position: 10
 - name: "Producing"
   topic: "producing"
-  position: 10
+  position: 11

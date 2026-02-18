@@ -15,21 +15,67 @@
     <div class="cs-container">
         <ul class="stats-list" data-reveal-children>
             <li class="stat-item">
-                <span class="stat-number">{{ site.courses.size }}+</span>
+                <span class="stat-number" data-count="{{ site.courses.size }}" data-suffix="+">0+</span>
                 <span class="stat-label">Courses</span>
             </li>
             <li class="stat-item">
-                <span class="stat-number">{{ total_lessons }}+</span>
+                <span class="stat-number" data-count="{{ total_lessons }}" data-suffix="+">0+</span>
                 <span class="stat-label">Lessons</span>
             </li>
             <li class="stat-item">
-                <span class="stat-number">{{ total_hours }}+</span>
+                <span class="stat-number" data-count="{{ total_hours }}" data-suffix="+">0+</span>
                 <span class="stat-label">Hours of Content</span>
             </li>
             <li class="stat-item">
-                <span class="stat-number">$10,000+</span>
+                <span class="stat-number" data-count="10000" data-prefix="$" data-suffix="+">$0+</span>
                 <span class="stat-label">in Course Value</span>
             </li>
         </ul>
     </div>
 </section>
+
+<script>
+(function() {
+  function animateCount(el) {
+    var target = parseInt(el.getAttribute('data-count'), 10);
+    var prefix = el.getAttribute('data-prefix') || '';
+    var suffix = el.getAttribute('data-suffix') || '';
+    var duration = 1200;
+    var start = null;
+
+    function format(n) {
+      return n.toLocaleString('en-US');
+    }
+
+    function step(ts) {
+      if (!start) start = ts;
+      var progress = Math.min((ts - start) / duration, 1);
+      // ease-out cubic
+      var eased = 1 - Math.pow(1 - progress, 3);
+      var current = Math.round(eased * target);
+      el.textContent = prefix + format(current) + suffix;
+      if (progress < 1) requestAnimationFrame(step);
+    }
+
+    requestAnimationFrame(step);
+  }
+
+  var counters = document.querySelectorAll('[data-count]');
+  if (!counters.length) return;
+
+  if ('IntersectionObserver' in window) {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          animateCount(entry.target);
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.5 });
+
+    counters.forEach(function(el) { observer.observe(el); });
+  } else {
+    counters.forEach(animateCount);
+  }
+})();
+</script>

@@ -3,6 +3,7 @@ title: How to plan for a film production
 date: 2020-09-11 00:00:00 Z
 image: "/assets/images/posts/cinematography-film-production-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: From development, pre-production, and principal photography to post-production
   and distribution, here is the entire process.
 subtitle: From development, pre-production, and principal photography to post-production

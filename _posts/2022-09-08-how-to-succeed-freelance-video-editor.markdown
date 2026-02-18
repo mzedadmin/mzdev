@@ -3,6 +3,7 @@ title: How To Succeed as a Freelance Video Editor
 date: 2022-09-08 00:00:00 Z
 image: "/assets/images/posts/how-to-succeed-freelance-video-editor-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Learning to work with clients is essential to building a video editing
   business
 subtitle: Learning to work with clients is essential to building a video editing business

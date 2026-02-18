@@ -15,11 +15,12 @@
 
     <!-- Desktop Links -->
     <ul class="mzed-nav__links">
-      <li><a href="{{ site.baseurl }}/courses/">Our Courses</a></li>
-      <li><a href="{{ site.baseurl }}/educators/">Our Educators</a></li>
-      <li><a href="#">Gift</a></li>
-      <li><a href="{{ site.baseurl }}/news/">News</a></li>
+      <li><a href="{{ site.baseurl }}/courses/">Courses</a></li>
+      <li><a href="{{ site.baseurl }}/educators/">Educators</a></li>
+      <li><a href="{{ site.baseurl }}/sessions/">Sessions</a></li>
+      <li><a href="{{ site.baseurl }}/news/">Blog</a></li>
       <li><a href="{{ site.baseurl }}/creators/">Teach</a></li>
+      <li><a href="#">Gift</a></li>
     </ul>
 
     <!-- Desktop Actions -->
@@ -39,11 +40,12 @@
   <!-- Mobile Menu -->
   <div class="mzed-nav__mobile-menu" id="mzed-mobile-menu">
     <ul>
-      <li><a href="{{ site.baseurl }}/courses/">Our Courses</a></li>
-      <li><a href="{{ site.baseurl }}/educators/">Our Educators</a></li>
-      <li><a href="#">Gift</a></li>
-      <li><a href="{{ site.baseurl }}/news/">News</a></li>
+      <li><a href="{{ site.baseurl }}/courses/">Courses</a></li>
+      <li><a href="{{ site.baseurl }}/educators/">Educators</a></li>
+      <li><a href="{{ site.baseurl }}/sessions/">Sessions</a></li>
+      <li><a href="{{ site.baseurl }}/news/">Blog</a></li>
       <li><a href="{{ site.baseurl }}/creators/">Teach</a></li>
+      <li><a href="#">Gift</a></li>
     </ul>
     <div class="mzed-nav__mobile-actions">
       <a href="#plan" class="mzed-nav__cta">Join MZed Pro</a>
@@ -69,5 +71,17 @@
       btn.setAttribute('aria-expanded', 'false');
     });
   });
+
+  // Scroll: transparent → solid on homepage
+  if (nav.classList.contains('mzed-nav--transparent')) {
+    var scrolled = false;
+    window.addEventListener('scroll', function() {
+      var shouldBeScrolled = window.scrollY > 50;
+      if (shouldBeScrolled !== scrolled) {
+        scrolled = shouldBeScrolled;
+        nav.classList.toggle('mzed-nav--scrolled', scrolled);
+      }
+    }, { passive: true });
+  }
 })();
 </script>

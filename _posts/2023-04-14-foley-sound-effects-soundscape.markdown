@@ -3,6 +3,7 @@ title: How to Improve Your Video with Foley and Sound Effects
 date: 2023-04-14 00:00:00 Z
 image: "/assets/images/posts/foley-sound-effects-soundscape-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Creating a full soundscape is essential for the viewing experience
 subtitle: Creating a full soundscape is essential for the viewing experience
 ---

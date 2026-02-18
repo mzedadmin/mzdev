@@ -3,6 +3,7 @@ title: The Art of the Interview
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/the-art-of-the-interview-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Diving into a Meaningful Conversation in Your Podcast or Video
 subtitle: Diving into a Meaningful Conversation in Your Podcast or Video
 ---

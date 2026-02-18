@@ -3,6 +3,7 @@ title: Orthographic Projection in Films and Animations
 date: 2024-06-25 00:00:00 Z
 image: "/assets/images/posts/orthographic-projection-in-films-and-animations-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Do you remember the epic "Severance" intro? There is one tool, that
   makes it stand out even more - orthographic projection!
 subtitle: Do you remember the epic "Severance" intro? There is one tool, that makes

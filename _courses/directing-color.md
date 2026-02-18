@@ -1,6 +1,7 @@
 ---
 title: Directing Color
-position: 55
+position: 6
+release_date: 2018-04-12
 Course Card:
   Title: Directing Color
   Educator: Ollie Kenchington

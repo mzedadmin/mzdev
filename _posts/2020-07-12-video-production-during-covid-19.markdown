@@ -3,6 +3,7 @@ title: Video Production in the time of COVID-19
 date: 2020-07-12 00:00:00 Z
 image: "/assets/images/posts/video-production-during-covid-19-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: While you wait for filmmaking production work to resume, here are
   four types of videos that clients are hiring for right now.
 subtitle: While you wait for filmmaking production work to resume, here are four types

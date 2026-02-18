@@ -1,6 +1,7 @@
 ---
 title: Adventure Filmmaking with Russ Malkin
-position: 1
+position: 11
+release_date: 2022-08-28
 Course Card:
   Title: Adventure Filmmaking with Russ Malkin
   Educator: Russ Malkin

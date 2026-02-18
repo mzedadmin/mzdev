@@ -3,6 +3,7 @@ title: Mastering Motion Control in Timelapse
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/guide-to-motion-control-timelapse-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: A beginner's guide to motorized timelapse
 subtitle: A beginner's guide to motorized timelapse
 ---

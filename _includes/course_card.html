@@ -1,5 +1,5 @@
 {% assign course = include.course %}
-<li class="course-card-item" data-topics="{{ course['Course Card'].Topics | join: ',' }}">
+<li class="course-card-item" data-topics="{{ course['Course Card'].Topics | join: ',' }}" data-position="{{ course.position }}" data-title="{{ course['Course Card'].Title }}" data-release="{{ course.release_date }}">
     <a href="{{ course.url }}" class="course-card-link" aria-label="go to {{ course['Course Card'].Title }} course">
         <picture class="course-card-picture">
             <!--Mobile Image-->

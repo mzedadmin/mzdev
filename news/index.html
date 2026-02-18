@@ -18,6 +18,14 @@ custom_css:
         <div class="cs-title">News & Articles</div>
         <p class="cs-text">Stay up to date with the latest filmmaking tips, industry insights, and educational content from MZed.</p>
       </div>
+      <div class="blog-filter">
+        <div class="blog-filter-buttons">
+          <button class="blog-filter-btn active" data-category="all">All</button>
+          <button class="blog-filter-btn blog-filter-btn--mzed-news" data-category="mzed-news">MZed News</button>
+          <button class="blog-filter-btn blog-filter-btn--educational" data-category="educational">Educational</button>
+          <button class="blog-filter-btn blog-filter-btn--new-course" data-category="new-course">New Course</button>
+        </div>
+      </div>
       <ul class="news-card-group" data-reveal-children data-reveal-delay="50">
         {% for post in site.posts %}
           {% include news_card.html post=post %}
@@ -28,3 +36,27 @@ custom_css:
 
   {% include mzed_pricing.html %}
 </main>
+
+<script>
+(function() {
+  var buttons = document.querySelectorAll('.blog-filter-btn');
+  var cards = document.querySelectorAll('.news-card-item');
+  if (!buttons.length || !cards.length) return;
+
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var cat = this.dataset.category;
+      buttons.forEach(function(b) { b.classList.remove('active'); });
+      this.classList.add('active');
+
+      cards.forEach(function(card) {
+        if (cat === 'all' || card.dataset.category === cat) {
+          card.classList.remove('hidden');
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+    });
+  });
+})();
+</script>

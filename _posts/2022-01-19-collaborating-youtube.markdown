@@ -3,6 +3,7 @@ title: Collaborating on YouTube
 date: 2022-01-19 00:00:00 Z
 image: "/assets/images/posts/collaborating-youtube-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: You can't go it alone on YouTube - finding other Youtubers to work
   with is the key to growth.
 subtitle: You can't go it alone on YouTube - finding other Youtubers to work with

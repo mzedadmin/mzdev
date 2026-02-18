@@ -3,6 +3,7 @@ title: YouTuber Dave Maze on How to Improve Your Videos
 date: 2022-11-17 00:00:00 Z
 image: "/assets/images/posts/dave-maze-tips-for-youtube-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Dave walks us through his entire editing workflow, which he’s refined
   over the course of his YouTube journey.
 subtitle: Dave walks us through his entire editing workflow, which he’s refined over

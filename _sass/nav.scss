@@ -172,7 +172,7 @@
   //  Transparent variant (homepage)
   // ========================================
   &--transparent {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     background: transparent;
@@ -209,11 +209,30 @@
     }
   }
 
+  // Scrolled state (homepage: transparent → solid)
+  &--transparent.mzed-nav--scrolled {
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+
+    .mzed-nav__links a { color: var(--headerColor); }
+    .mzed-nav__login { color: var(--headerColor); border-color: #ccc; }
+    .mzed-nav__hamburger span { background-color: var(--headerColor); }
+    .mzed-nav__mobile-menu {
+      background: #fff;
+      border-top: 1px solid #eee;
+      a { color: var(--headerColor); border-bottom-color: #eee; }
+      .mzed-nav__login { color: var(--headerColor); border-color: #ccc; }
+    }
+  }
+
   // ========================================
   //  Solid variant (inner pages)
   // ========================================
   &--solid {
-    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
     background: #fff;
     border-bottom: 1px solid #eee;
 
@@ -250,6 +269,11 @@
       }
     }
   }
+}
+
+// Spacer to offset fixed nav on inner pages
+.mzed-nav-spacer {
+  height: 70px;
 }
 
 // ========================================

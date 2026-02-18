@@ -1,6 +1,7 @@
 ---
 title: How to Wow
 position: 50
+release_date: 2014-08-01
 Course Card:
   Title: How to Wow
   Educator: Jerry Ghionis

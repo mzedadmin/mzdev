@@ -1,0 +1,36 @@
+{% assign session = include.session %}
+<li class="session-card-item">
+    <a href="{{ session.url }}" class="session-card-link" aria-label="go to {{ session.title }} session">
+        <picture class="session-card-picture">
+            <source media="(max-width: 600px)" srcset="{{ session.image | relative_url }}">
+            <source media="(min-width: 601px)" srcset="{{ session.image | relative_url }}">
+            <img loading="lazy"
+                 decoding="async"
+                 src="{{ session.image | relative_url }}"
+                 alt="{{ session.title }}"
+                 width="413"
+                 height="240">
+        </picture>
+        <div class="session-card-info">
+            <div class="session-card-meta">
+                {% if session.status == "upcoming" %}
+                <span class="session-card-badge session-card-badge--upcoming">Upcoming</span>
+                {% elsif session.status == "live" %}
+                <span class="session-card-badge session-card-badge--live">Live Now</span>
+                {% else %}
+                <span class="session-card-badge session-card-badge--past">Watch Replay</span>
+                {% endif %}
+                <time class="session-card-date" datetime="{{ session.session_date | date_to_xmlschema }}">
+                    {{ session.session_date | date: "%B %d, %Y" }}
+                </time>
+            </div>
+            <h3 class="session-card-title">{{ session.title }}</h3>
+            <p class="session-card-educator">{{ session.educator }}</p>
+            <p class="session-card-description">{{ session.description }}</p>
+        </div>
+        <div class="session-card-stats">
+            <div class="session-card-stat">{{ session.duration }}</div>
+            <div class="session-card-stat">{{ session.educator }}</div>
+        </div>
+    </a>
+</li>

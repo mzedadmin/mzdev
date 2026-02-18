@@ -1,6 +1,7 @@
 ---
 title: The Language of Lighting
 position: 25
+release_date: 2023-12-01
 Course Card:
   Title: The Language of Lighting
   Educator: Tal Lazar

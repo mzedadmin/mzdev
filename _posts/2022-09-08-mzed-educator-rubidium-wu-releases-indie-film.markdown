@@ -3,6 +3,7 @@ title: MZed Educator Rubidium Wu Releases New Indie Film
 date: 2022-09-08 00:00:00 Z
 image: "/assets/images/posts/mzed-educator-rubidium-wu-releases-indie-film-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: Read an interview with Wu about the challenges of producing "The
   Devil's Fortune"
 subtitle: Read an interview with Wu about the challenges of producing "The Devil's

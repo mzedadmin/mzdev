@@ -3,6 +3,7 @@ title: Join MZed and CineD at IBC 2022
 date: 2022-09-08 00:00:00 Z
 image: "/assets/images/posts/mzed-cined-ibc-2022-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: Booth visitors will receive free 30-day access to MZed Pro and other
   prizes!
 subtitle: Booth visitors will receive free 30-day access to MZed Pro and other prizes!

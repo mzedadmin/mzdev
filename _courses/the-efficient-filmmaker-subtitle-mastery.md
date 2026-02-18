@@ -1,6 +1,7 @@
 ---
 title: The Efficient Filmmaker - Subtitle Mastery
 position: 62
+release_date: 2025-06-13
 Course Card:
   Title: The Efficient Filmmaker - Subtitle Mastery
   Educator: Mascha Deikova
@@ -12,6 +13,7 @@ Course Card:
   Runtime Minutes: 55
   Topics:
   - editing
+  - ai
 Course Page:
   Video: https://vimeo.com/1093798497
   Main Title: The Efficient Filmmaker - Subtitle Mastery

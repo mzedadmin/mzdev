@@ -3,6 +3,7 @@ title: How to Level Up with Portrait Photography
 date: 2022-01-21 00:00:00 Z
 image: "/assets/images/posts/portrait-photography-tip-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Master photographer Jerry Ghionis teaches you one essential tip
   for posing female subjects
 subtitle: Master photographer Jerry Ghionis teaches you one essential tip for posing

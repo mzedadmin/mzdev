@@ -3,6 +3,7 @@ title: Lighting a Holiday Themed Scene
 date: 2025-01-10 00:00:00 Z
 image: "/assets/images/posts/lighting-a-holiday-themed-scene-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Learn the tricks from the DP of Home Alone
 subtitle: Learn the tricks from the DP of Home Alone
 ---

@@ -1,6 +1,7 @@
 ---
 title: Filmmaking for Photographers
 position: 44
+release_date: 2019-10-03
 Course Card:
   Title: Filmmaking for Photographers
   Educator: Philip Bloom

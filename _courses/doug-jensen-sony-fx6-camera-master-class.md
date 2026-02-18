@@ -1,6 +1,7 @@
 ---
 title: Doug Jensen's Sony FX6 Camera Master Class
 position: 28
+release_date: 2024-07-01
 Course Card:
   Title: Doug Jensen's Sony FX6 Camera Master Class
   Educator: Doug Jensen

@@ -3,6 +3,7 @@ title: ARRI Academy comes to MZed
 date: 2019-07-31 00:00:00 Z
 image: "/assets/images/posts/arri-academy-comes-to-mzed-hero.jpg"
 layout: post
+blog_category: "New Course"
 meta_description: ARRI’s official online training courses will now be available exclusively
   on MZed.
 subtitle: ARRI’s official online training courses will now be available exclusively

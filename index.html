@@ -77,6 +77,7 @@ cta_banner:
           <p class="cs-trust-text">{{ page.hero.social_proof }}</p>
         </div>
       </div>
+      <a href="#just-added" class="cs-whats-new">What's New? &#8595;</a>
     </div>
   </div>
 
@@ -113,6 +114,45 @@ cta_banner:
       aria-hidden="true"
     />
   </picture>
+</section>
+
+<!-- ============================================ -->
+<!--                 Just Added                  -->
+<!-- ============================================ -->
+
+{% assign latest_courses = site.courses | sort: "position" | limit: 2 %}
+<section id="just-added">
+  <div class="cs-container">
+    <div class="cs-content" data-reveal>
+      <span class="cs-topper">Just Added</span>
+      <h2 class="cs-title">What's New on MZed</h2>
+    </div>
+    <div class="just-added-grid" data-reveal-children data-reveal-delay="150">
+      {% assign sorted_courses = site.courses | sort: "position" %}
+      {% for course in sorted_courses limit: 1 %}
+      <a href="{{ course.url | relative_url }}" class="just-added-card">
+        <div class="just-added-image">
+          <img src="{{ course['Course Card'].Image }}" alt="{{ course['Course Card'].Title }}" loading="lazy" width="640" height="360" />
+          <span class="just-added-badge">New Course</span>
+        </div>
+        <div class="just-added-info">
+          <h3 class="just-added-title">{{ course['Course Card'].Title }}</h3>
+          <p class="just-added-educator">{{ course['Course Card'].Educator }}</p>
+        </div>
+      </a>
+      {% endfor %}
+      <a href="{{ site.baseurl }}/sessions/" class="just-added-card">
+        <div class="just-added-image">
+          <img src="{{ site.baseurl }}/assets/images/homepage/im-an-mzed-pro.jpg" alt="MZed Sessions" loading="lazy" width="640" height="360" />
+          <span class="just-added-badge">New Session</span>
+        </div>
+        <div class="just-added-info">
+          <h3 class="just-added-title">Live Sessions — Coming Soon</h3>
+          <p class="just-added-educator">Webinars & workshops with top filmmakers</p>
+        </div>
+      </a>
+    </div>
+  </div>
 </section>
 
 {% include trusted_by.html %} {% include stats_strip.html %}

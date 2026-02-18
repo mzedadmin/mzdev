@@ -3,6 +3,7 @@ title: December Giveaway and Winner Announcement
 date: 2020-12-03 00:00:00 Z
 image: "/assets/images/posts/december-2020-giveaway-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: MZed Pro members are automatically entered to win each month!
 subtitle: MZed Pro members are automatically entered to win each month!
 ---

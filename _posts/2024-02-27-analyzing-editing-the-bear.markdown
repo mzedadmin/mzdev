@@ -3,6 +3,7 @@ title: Analyzing the Editing of "The Bear"
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/analyzing-editing-the-bear-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Breaking down a couple scenes that are particularly emotional
 subtitle: Breaking down a couple scenes that are particularly emotional
 ---

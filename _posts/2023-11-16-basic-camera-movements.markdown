@@ -3,6 +3,7 @@ title: Camera Movement Essentials
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/basic-camera-movements-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Learn how even simple camera moves like pans and tilts are used
   by the masters
 subtitle: Learn how even simple camera moves like pans and tilts are used by the masters

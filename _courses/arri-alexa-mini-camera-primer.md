@@ -1,6 +1,7 @@
 ---
 title: ARRI Alexa Mini Camera Primer
-position: 5
+position: 15
+release_date: 2018-06-13
 Course Card:
   Title: ARRI Alexa Mini Camera Primer
   Educator: AbelCine Education Team

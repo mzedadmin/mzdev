@@ -3,6 +3,7 @@ title: Laying out a Film Edit on a Wall
 date: 2022-02-09 00:00:00 Z
 image: "/assets/images/posts/film-edit-wall-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Using wall cards, along with other methods of organization, are
   essential to film editors.
 subtitle: Using wall cards, along with other methods of organization, are essential

@@ -3,6 +3,7 @@ title: When to Choose Vintage Lenses
 date: 2022-06-02 00:00:00 Z
 image: "/assets/images/posts/vintage-lenses-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: For some looks, nothing beats the flaws and imperfections of vintage
   lenses
 subtitle: For some looks, nothing beats the flaws and imperfections of vintage lenses

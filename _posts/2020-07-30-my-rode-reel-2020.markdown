@@ -3,6 +3,7 @@ title: My RØDE Reel is Back with Prizes including $1 Million Cash
 date: 2020-07-30 00:00:00 Z
 image: "/assets/images/posts/my-rode-reel-2020-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: The world's largest short film competition is now open for entries.
 subtitle: The world's largest short film competition is now open for entries.
 ---

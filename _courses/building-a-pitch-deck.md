@@ -1,6 +1,7 @@
 ---
 title: Building a Pitch Deck
 position: 14
+release_date: 2022-11-01
 Course Card:
   Title: Building a Pitch Deck
   Educator: Lesley Powers

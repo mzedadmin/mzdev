@@ -3,6 +3,7 @@ title: Preparing for a Travel Documentary
 date: 2023-11-17 00:00:00 Z
 image: "/assets/images/posts/preparing-for-travel-documentary-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Tips to ensure your  trip and production go smoothly
 subtitle: Tips to ensure your  trip and production go smoothly
 ---

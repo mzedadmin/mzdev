@@ -1,6 +1,7 @@
 ---
 title: Lighting People - On Location
 position: 31
+release_date: 2024-02-01
 Course Card:
   Title: Lighting People - On Location
   Educator: Paul Atkins, ASC & Stephen Lighthill, ASC

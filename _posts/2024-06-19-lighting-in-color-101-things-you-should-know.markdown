@@ -3,6 +3,7 @@ title: Lighting in Color 101
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/lighting-in-color-101-things-you-should-know-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Things That You Should Know
 subtitle: Things That You Should Know
 ---

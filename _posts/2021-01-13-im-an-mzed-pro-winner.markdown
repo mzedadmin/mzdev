@@ -3,6 +3,7 @@ title: Winner of the I’m an MZed Pro Contest
 date: 2021-01-13 00:00:00 Z
 image: "/assets/images/posts/im-an-mzed-pro-winner-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: We're floored by all of the video submissions from MZed Pro members.
 subtitle: We're floored by all of the video submissions from MZed Pro members.
 ---

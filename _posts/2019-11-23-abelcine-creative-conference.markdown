@@ -3,6 +3,7 @@ title: AbelCine Hosts Director of Photography Creative Conference
 date: 2019-11-23 00:00:00 Z
 image: "/assets/images/posts/abelcine-creative-conference-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: The 3-day workshop is coming to Brooklyn, NY on December 6-8
 subtitle: The 3-day workshop is coming to Brooklyn, NY on December 6-8
 ---

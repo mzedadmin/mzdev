@@ -7,6 +7,7 @@ date: 2022-01-19 00:00:00 Z
 date: '2022-01-19'
 image: /assets/images/posts/learning-produce-shoot-documentaries-hero.jpg
 layout: post
+blog_category: "Educational"
 meta_description: There's an art to being both a producer and shooter on docs - here's
   how.
 subtitle: There's an art to being both a producer and shooter on docs - here's how.

@@ -1,6 +1,7 @@
 ---
 title: The Beginner's Guide to DaVinci Resolve 18.5
-position: 13
+position: 4
+release_date: 2023-09-01
 Course Card:
   Title: The Beginner's Guide to DaVinci Resolve 18.5
   Educator: Ollie Kenchington

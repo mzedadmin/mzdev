@@ -1,6 +1,7 @@
 ---
 title: Learn Everything in Premiere Pro
 position: 36
+release_date: 2022-05-05
 Course Card:
   Title: Learn Everything in Premiere Pro
   Educator: Digby Hogan

@@ -30,6 +30,7 @@
   </head>
   <body>
     {% if site.mzed_chrome %}{% include mzed_nav.html %}{% endif %}
+    {% unless page.url == '/' %}<div class="mzed-nav-spacer"></div>{% endunless %}
 
     <!-- Content from page or layout -->
     {{ content }}

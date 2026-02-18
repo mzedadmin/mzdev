@@ -1,14 +1,15 @@
-<li class="news-card-item">
+{% assign cat_slug = post.blog_category | default: "Educational" | slugify %}
+<li class="news-card-item news-card--{{ cat_slug }}" data-category="{{ cat_slug }}">
   <a href="{{ post.url | relative_url }}" class="news-card-link" aria-label="Read {{ post.title }}">
     {% if post.image %}
     <picture class="news-card-picture">
       <source media="(max-width: 600px)" srcset="{{ post.image }}">
       <source media="(min-width: 601px)" srcset="{{ post.image }}">
-      <img loading="lazy" 
-           decoding="async" 
+      <img loading="lazy"
+           decoding="async"
            src="{{ post.image }}"
-           alt="{{ post.title }}" 
-           width="413" 
+           alt="{{ post.title }}"
+           width="413"
            height="240">
     </picture>
     {% else %}
@@ -17,6 +18,7 @@
     {% endif %}
     <div class="news-card-info">
       <div class="news-card-meta">
+        <span class="news-card-category">{{ post.blog_category | default: "Educational" }}</span>
         <time class="news-card-date" datetime="{{ post.date | date_to_xmlschema }}">
           {{ post.date | date: "%B %d, %Y" }}
         </time>

@@ -1,0 +1,36 @@
+---
+title: Sessions
+permalink: "/sessions/"
+layout: default
+custom_css:
+- "/assets/css/main.css"
+Header:
+  Topper: Live & On-Demand
+  Title: Sessions
+  Text: Live webinars, workshops, and interactive Q&As with top filmmakers and educators. Watch live or catch the replay.
+---
+
+<!-- ============================================ -->
+<!--                   Sessions                   -->
+<!-- ============================================ -->
+
+<main id="main">
+  <section id="sessions">
+    <div class="cs-container">
+      <div class="cs-content" data-reveal>
+        <span class="cs-topper">{{ page.Header.Topper }}</span>
+        <div class="cs-title">{{ page.Header.Title }}</div>
+        <p class="cs-text">{{ page.Header.Text }}</p>
+      </div>
+      <ul class="cs-card-group" data-reveal-children data-reveal-delay="50">
+        {% assign sorted_sessions = site.sessions | sort: "position", "last" %}
+        {% for session in sorted_sessions %}
+          {% include session_card.html session=session %}
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  {% include stats_strip.html %}
+  {% include mzed_pricing.html %}
+</main>

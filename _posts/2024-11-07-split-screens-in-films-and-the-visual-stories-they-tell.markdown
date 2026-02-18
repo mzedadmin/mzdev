@@ -3,6 +3,7 @@ title: Split Screens in Films and the Visual Stories They Tell
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/split-screens-in-films-and-the-visual-stories-they-tell-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Let's look at split screens in film history and what we can learn
   from them
 subtitle: Let's look at split screens in film history and what we can learn from them

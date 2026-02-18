@@ -3,6 +3,7 @@ title: Using Lens Filters for Interviews
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/lens-filters-interviews-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: A little bit goes a long way with applying camera filters to spice
   up an interview
 subtitle: A little bit goes a long way with applying camera filters to spice up an

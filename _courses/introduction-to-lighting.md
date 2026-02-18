@@ -1,6 +1,7 @@
 ---
 title: Introduction to Lighting
-position: 26
+position: 7
+release_date: 2025-01-13
 Course Card:
   Title: Introduction to Lighting
   Educator: Ollie Kenchington

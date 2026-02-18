@@ -3,6 +3,7 @@ title: Moving Up into Luxury Weddings
 date: 2022-04-20 00:00:00 Z
 image: "/assets/images/posts/moving-up-luxury-weddings-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: The key to charging more and filming less weddings is to move up
   into higher end weddings
 subtitle: The key to charging more and filming less weddings is to move up into higher

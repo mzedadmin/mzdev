@@ -1,6 +1,7 @@
 ---
 title: Panasonic EVA1 Camera Primer
 position: 48
+release_date: 2019-01-02
 Course Card:
   Title: Panasonic EVA1 Camera Primer
   Educator: AbelCine Team

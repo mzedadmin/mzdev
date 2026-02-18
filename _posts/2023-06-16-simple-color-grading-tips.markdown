@@ -3,6 +3,7 @@ title: Simple Yet Powerful Color Grading Tips
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/simpe-color-grading-tips-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Used correctly, color grading can draw their eyes to where you want
   them to look
 subtitle: Used correctly, color grading can draw their eyes to where you want them

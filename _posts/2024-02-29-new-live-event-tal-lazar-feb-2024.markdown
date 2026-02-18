@@ -3,6 +3,7 @@ title: New Live Event with Tal Lazar
 date: 2024-02-29 00:00:00 Z
 image: "/assets/images/posts/new-live-event-tal-lazar-feb-2024-hero.jpg"
 layout: post
+blog_category: "New Course"
 meta_description: MZed Pro members are invited to learn how to find the hidden truth
   in a scene
 subtitle: MZed Pro members are invited to learn how to find the hidden truth in a

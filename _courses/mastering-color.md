@@ -1,6 +1,7 @@
 ---
 title: Mastering Color
-position: 51
+position: 3
+release_date: 2018-10-31
 Course Card:
   Title: Mastering Color
   Educator: Ollie Kenchington

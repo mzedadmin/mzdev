@@ -3,6 +3,7 @@ title: Networking Tips for Filmmakers – How to Find Your Swarm
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/networking-tips-for-filmmakers-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: We want to make films, not small talk. However, creating movies
   is a collaborative process - so here are a few networking tips.
 subtitle: How to Find Your Swarm

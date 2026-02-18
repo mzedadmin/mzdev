@@ -3,6 +3,7 @@ title: How to utilize patterns when making films
 date: 2022-01-19 00:00:00 Z
 image: "/assets/images/posts/patterns-film-video-production-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Watching classic films can help you learn how to make your own stories
   better
 subtitle: Watching classic films can help you learn how to make your own stories better

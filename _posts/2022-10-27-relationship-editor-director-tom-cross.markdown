@@ -3,6 +3,7 @@ title: How an Editor works with a Director
 date: 2022-10-27 00:00:00 Z
 image: "/assets/images/posts/relationship-editor-director-tom-cross-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: Tom Cross ACE discusses the complexity of editor director relationships
 subtitle: Tom Cross ACE discusses the complexity of editor director relationships
 ---

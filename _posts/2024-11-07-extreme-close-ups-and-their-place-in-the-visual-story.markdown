@@ -3,6 +3,7 @@ title: Extreme Close-Ups and Their Place in the Visual Story
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/extreme-close-ups-and-their-place-in-the-visual-story-hero.jpg"
 layout: post
+blog_category: "Educational"
 meta_description: What if we portray a character through a wide lens? Why do wide-angle
   close-ups feel so expressive? Let's figure it out together!
 subtitle: What if we portray a character through a wide lens? Why do wide-angle close-ups

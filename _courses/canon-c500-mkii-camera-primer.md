@@ -1,6 +1,7 @@
 ---
 title: Canon C500 MkII Camera Primer
 position: 17
+release_date: 2020-04-21
 Course Card:
   Title: Canon C500 MkII Camera Primer
   Educator: Jem Schofield

@@ -3,6 +3,7 @@ title: FUJIFILM x CineD Contest – 10 X-H2S Cameras Plus 10x $1000 Giveaway
 date: 2022-06-10 00:00:00 Z
 image: "/assets/images/posts/fujifilm-cined-xh2s-giveaway-hero.jpg"
 layout: post
+blog_category: "MZed News"
 meta_description: Tell us why you deserve the camera with a 1 minute video, enter
   by June 30, 2022
 subtitle: Tell us why you deserve the camera with a 1 minute video, enter by June
