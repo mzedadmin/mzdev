@@ -3,7 +3,7 @@ title: Working with different film budgets
 date: 2022-03-30 00:00:00 Z
 image: "/assets/images/posts/working-with-film-budgets-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Every indie film is different, but here are some guidelines to help
   you get started
 subtitle: Every indie film is different, but here are some guidelines to help you

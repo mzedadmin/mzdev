@@ -3,7 +3,7 @@ title: 20 Percent of All Sales to be Donated to Coronavirus Fallout
 date: 2020-03-16 00:00:00 Z
 image: "/assets/images/posts/coronavirus-donations-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: MZed is donating a portion of all memberships and purchases to Los
   Angeles Food Bank
 subtitle: MZed is donating a portion of all memberships and purchases to Los Angeles

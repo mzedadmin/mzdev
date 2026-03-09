@@ -3,7 +3,7 @@ title: Indie Film Distribution
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/indie-films-distribution-tips-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Here's how to get your indie film seen
 subtitle: Here's how to get your indie film seen
 ---

@@ -3,7 +3,7 @@ title: Wildlife Cinematography Course – New and Exclusive to MZed
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/wildlife-filmmaking-course-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: A wildlife filmmaking workshop was recently held at Jackson Wild
   Summit
 subtitle: A wildlife filmmaking workshop was recently held at Jackson Wild Summit

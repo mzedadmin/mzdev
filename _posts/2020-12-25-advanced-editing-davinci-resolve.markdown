@@ -3,7 +3,7 @@ title: 'New Course: Advanced Editing with DaVinci Resolve'
 date: 2020-12-25 00:00:00 Z
 image: "/assets/images/posts/advanced-editing-davinci-resolve-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Ollie Kenchington guides you through editing a documentary, commercial
   promo, multicam music video, and more.
 subtitle: Ollie Kenchington guides you through editing a documentary, commercial promo,

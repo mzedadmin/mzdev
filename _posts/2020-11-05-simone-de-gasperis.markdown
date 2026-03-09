@@ -3,7 +3,7 @@ title: Motion Graphics is Finding Beauty in CGI and in Nature
 date: 2020-11-05 00:00:00 Z
 image: "/assets/images/posts/simone-de-gasperis-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Italian filmmaker Simone de Gasperis first mastered visual effects
   before moving to shooting in the field.
 subtitle: Italian filmmaker Simone de Gasperis first mastered visual effects before

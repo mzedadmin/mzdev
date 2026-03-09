@@ -3,7 +3,7 @@ title: Mastering Lines in Shot Composition
 date: 2023-07-14 00:00:00 Z
 image: "/assets/images/posts/lines-in-shot-composition-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Lines are an essential element for masterful shot composition
 subtitle: Lines are an essential element for masterful shot composition
 ---

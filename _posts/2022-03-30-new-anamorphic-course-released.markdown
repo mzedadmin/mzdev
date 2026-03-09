@@ -3,7 +3,7 @@ title: Anamorphic Cookbook Course Launches with SIRUI Lens Giveaway
 date: 2022-03-30 00:00:00 Z
 image: "/assets/images/posts/new-anamorphic-course-released-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: All MZed Pro members are entered to win a $1499 SIRUI T2.9 Full
   Frame Anamorphic Lens
 subtitle: All MZed Pro members are entered to win a $1499 SIRUI T2.9 Full Frame Anamorphic

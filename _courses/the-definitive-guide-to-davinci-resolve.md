@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to DaVinci Resolve
 position: 2
-release_date: 2019-04-04
+release_date: 2019-04-04 00:00:00 Z
 Course Card:
   Title: The Definitive Guide to DaVinci Resolve
   Educator: Ollie Kenchington

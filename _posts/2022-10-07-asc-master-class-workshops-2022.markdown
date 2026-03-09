@@ -3,7 +3,7 @@ title: Looking ahead to ASC Master Classes
 date: 2022-10-07 00:00:00 Z
 image: "/assets/images/posts/asc-master-class-workshops-2022-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: The American Society of Cinematographers is back with their world-renown
   in-person workshops
 subtitle: The American Society of Cinematographers is back with their world-renown

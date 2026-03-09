@@ -3,7 +3,7 @@ title: Everyone is a TV Station
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/everyone-is-live-streaming-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Live streaming is found at every corner of the video production
   world now
 subtitle: Live streaming is found at every corner of the video production world now

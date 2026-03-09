@@ -1,7 +1,7 @@
 ---
 title: 'Understanding LUTs: Theory and Application'
 position: 54
-release_date: 2018-06-22
+release_date: 2018-06-22 00:00:00 Z
 Course Card:
   Title: 'Understanding LUTs: Theory and Application'
   Educator: AbelCine Team

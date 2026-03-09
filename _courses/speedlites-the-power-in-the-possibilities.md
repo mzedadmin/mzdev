@@ -1,7 +1,7 @@
 ---
 title: 'Speedlites: The Power in the Possibilities'
 position: 47
-release_date: 2013-01-20
+release_date: 2013-01-20 00:00:00 Z
 Course Card:
   Title: 'Speedlites: The Power in the Possibilities'
   Educator: Stephen Eastwood

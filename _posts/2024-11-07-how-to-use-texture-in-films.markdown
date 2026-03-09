@@ -3,7 +3,7 @@ title: How to Use Texture in Films
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/how-to-use-texture-in-films-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: How do we convey the sense of touch in images? By using textures,
   an often underestimated tool. Let's talk about texture in films!
 subtitle: How do we convey the sense of touch in images? By using textures, an often

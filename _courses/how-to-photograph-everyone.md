@@ -1,7 +1,7 @@
 ---
 title: How to Photograph Everyone
 position: 56
-release_date: 2010-09-20
+release_date: 2010-09-20 00:00:00 Z
 Course Card:
   Title: How to Photograph Everyone
   Educator: Clay Blackmore

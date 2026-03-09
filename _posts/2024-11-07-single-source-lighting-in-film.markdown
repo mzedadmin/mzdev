@@ -3,7 +3,7 @@ title: Single-Source Lighting in Film
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/single-source-lighting-in-film-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Can you light a scene with just one source? Sure! But what dramatic
   impact will the image have? Let's look at some iconic examples.
 subtitle: Can you light a scene with just one source? Sure! But what dramatic impact

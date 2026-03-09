@@ -3,7 +3,7 @@ title: Monthly Giveaways and Other Member Benefits Coming to MZed
 date: 2020-10-25 00:00:00 Z
 image: "/assets/images/posts/monthly-giveaways-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: MZed Pro members will automatically be entered to win filmmaking
   gear prizes.
 subtitle: MZed Pro members will automatically be entered to win filmmaking gear prizes.

@@ -3,7 +3,7 @@ title: New Course on ARRI Lighting Systems
 date: 2021-01-20 00:00:00 Z
 image: "/assets/images/posts/new-course-arri-lighting-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Learn to control digital lighting using DMX, RDM, Wireless controls,
   and ethernet networks.
 subtitle: Learn to control digital lighting using DMX, RDM, Wireless controls, and

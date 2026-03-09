@@ -3,7 +3,7 @@ title: The Narrative Powers of a Fisheye Lens
 date: 2024-11-06 00:00:00 Z
 image: "/assets/images/posts/the-narrative-powers-of-a-fisheye-lens-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Every lens tells a different story, even the wildest ultra-wides.
   Here, we take a look at a fisheye lens and its distinct look in films.
 subtitle: Every lens tells a different story, even the wildest ultra-wides. Here,

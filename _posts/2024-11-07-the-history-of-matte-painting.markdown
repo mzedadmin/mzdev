@@ -3,7 +3,7 @@ title: The History of Matte Painting
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/the-history-of-matte-painting-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Explore the evolution of matte painting in film
 subtitle: Explore the evolution of matte painting in film
 ---

@@ -3,7 +3,7 @@ title: How to Create an Infinite Zoom Video Using AI
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/how-to-infinite-zoom-ai-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Zoom-Out videos are trending right now, so here's a tutorial on
   how to create infinite zoom with AI
 subtitle: Zoom-Out videos are trending right now, so here's a tutorial on how to create

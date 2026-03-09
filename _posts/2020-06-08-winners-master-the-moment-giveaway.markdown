@@ -3,7 +3,7 @@ title: Winners of the Master the Moment Giveaway
 date: 2020-06-08 00:00:00 Z
 image: "/assets/images/posts/winners-master-the-moment-giveaway-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: We're pleased to announce nine winners from around the world
 subtitle: We're pleased to announce nine winners from around the world
 ---

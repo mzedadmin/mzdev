@@ -1,9 +1,9 @@
 ---
 title: The Efficient Filmmaker - Scan and Plan
 position: 66
-release_date: 2025-10-26
+release_date: 2025-10-26 00:00:00 Z
 Course Card:
-  Title: "The Efficient Filmmaker: Scan and Plan"
+  Title: 'The Efficient Filmmaker: Scan and Plan'
   Educator: Mascha Deikova
   Image: "/assets/images/courses/the-efficient-filmmaker-scan-and-plan/the-efficient-filmmaker-scan-and-plan.jpg"
   Description: Turn smartphone footage into navigable 3D environments for location
@@ -15,8 +15,8 @@ Course Card:
   - filmmaking
   - ai
 Course Page:
-  Video:
-  Main Title: "The Efficient Filmmaker: Scan and Plan"
+  Video: 
+  Main Title: 'The Efficient Filmmaker: Scan and Plan'
   Main Text: |-
     What if you could walk through a film location from your desk? In this course, Mascha Deikova shows you how to transform simple smartphone footage into navigable 3D environments for location scouting, scene planning, and shot previsualization.
 
@@ -25,7 +25,7 @@ Course Page:
     "Scan and Plan" is part of MZed's "The Efficient Filmmaker" series, exploring modern tools that streamline production workflows and help you plan smarter.
   Main Image: "/assets/images/courses/the-efficient-filmmaker-scan-and-plan/the-efficient-filmmaker-scan-and-plan.jpg"
   Additional Images: []
-  Review Average:
+  Review Average: 
   Courses:
   - the-efficient-filmmaker-subtitle-mastery
   - the-efficient-filmmaker-video-masking
@@ -33,8 +33,8 @@ Course Page:
   Learning Topics:
   - Icon: World Building
     Title: 3D Scanning Technology
-    Text: Understand 3D Gaussian Splatting, NeRFs, and LiDAR technology explained in
-      accessible, filmmaker-friendly language.
+    Text: Understand 3D Gaussian Splatting, NeRFs, and LiDAR technology explained
+      in accessible, filmmaker-friendly language.
   - Icon: Theme
     Title: Location Scanning
     Text: Capture real spaces using just your smartphone with tools like Luma AI and
@@ -74,6 +74,7 @@ Course Page:
     Lesson Description: Apply cinematic looks and styles to your previsualizations
       using AI-enhanced tools, creating polished presentations for clients or crew.
 course_purchase: false
-sku:
+sku: 
 layout: course
 ---
+

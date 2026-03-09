@@ -1,7 +1,7 @@
 ---
 title: Get Me Started with Adobe Premiere Pro
 position: 60
-release_date: 2025-04-11
+release_date: 2025-04-11 00:00:00 Z
 Course Card:
   Title: Get Me Started with Adobe Premiere Pro
   Educator: Digby Hogan

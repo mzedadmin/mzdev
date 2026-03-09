@@ -3,7 +3,7 @@ title: Tips on How to Start a Youtube Channel
 date: 2023-03-31 00:00:00 Z
 image: "/assets/images/posts/tips-how-to-start-youtube-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Everyday is a good day to start YouTubing. Here's the smart way
   to begin.
 subtitle: Everyday is a good day to start YouTubing. Here's the smart way to begin.

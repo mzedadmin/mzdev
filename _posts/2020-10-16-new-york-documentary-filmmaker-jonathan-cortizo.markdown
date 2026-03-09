@@ -3,7 +3,7 @@ title: 'Stage Time Above Perfection: Filmmaking like a Stand-Up Comedian'
 date: 2020-10-16 00:00:00 Z
 image: "/assets/images/posts/new-york-documentary-filmmaker-jonathan-cortizo-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: New York based filmmaker Jonathan Cortizo shares his approach to
   improving his documentary skills.
 subtitle: New York based filmmaker Jonathan Cortizo shares his approach to improving

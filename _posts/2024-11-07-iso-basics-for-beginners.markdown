@@ -3,7 +3,7 @@ title: ISO Basics for Beginners
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/iso-basics-for-beginners-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Most of you are aware of common ISO numbers and what happens when
   you crank it up. Let's get a deeper understanding of ISO and how to use it.
 subtitle: Most of you are aware of common ISO numbers and what happens when you crank

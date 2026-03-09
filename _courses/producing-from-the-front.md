@@ -1,7 +1,7 @@
 ---
 title: Producing from the Front
 position: 38
-release_date: 2021-10-12
+release_date: 2021-10-12 00:00:00 Z
 Course Card:
   Title: Producing from the Front
   Educator: Graham Sheldon

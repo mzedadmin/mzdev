@@ -3,7 +3,7 @@ title: Watch MZed Courses in Over 130 Languages
 date: 2022-09-08 00:00:00 Z
 image: "/assets/images/posts/watch-courses-130-languages-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: Using Google Chrome, you can follow along with a live transcript
   in any language
 subtitle: Using Google Chrome, you can follow along with a live transcript in any

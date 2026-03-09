@@ -3,7 +3,7 @@ title: MZed Pro Monthly Giveaway – Duken T60 Telescopic Tube Light
 date: 2022-03-11 00:00:00 Z
 image: "/assets/images/posts/march-2022-giveaway-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: For our March giveaway we have the world's first telescopic tube
   light to give away
 subtitle: For our March giveaway we have the world's first telescopic tube light to

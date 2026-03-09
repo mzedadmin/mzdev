@@ -1,7 +1,7 @@
 ---
 title: Short Films 101
 position: 43
-release_date: 2020-01-19
+release_date: 2020-01-19 00:00:00 Z
 Course Card:
   Title: Short Films 101
   Educator: Seth Worley

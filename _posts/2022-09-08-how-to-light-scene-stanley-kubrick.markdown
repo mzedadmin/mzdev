@@ -3,7 +3,7 @@ title: How to Light a Scene like Stanley Kubrick
 date: 2022-09-08 00:00:00 Z
 image: "/assets/images/posts/how-to-light-scene-stanley-kubrick-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Using a simple candlelight trick can transform your cinematography
 subtitle: Using a simple candlelight trick can transform your cinematography
 ---

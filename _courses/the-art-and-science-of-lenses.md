@@ -1,7 +1,7 @@
 ---
 title: The Art & Science of Lenses
 position: 12
-release_date: 2024-04-01
+release_date: 2024-04-01 00:00:00 Z
 Course Card:
   Title: The Art & Science of Lenses
   Educator: Tal Lazar

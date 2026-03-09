@@ -1,7 +1,7 @@
 ---
 title: Cinematography for Directors
 position: 30
-release_date: 2024-03-01
+release_date: 2024-03-01 00:00:00 Z
 Course Card:
   Title: Cinematography for Directors
   Educator: Tal Lazar

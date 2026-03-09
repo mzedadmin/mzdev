@@ -3,7 +3,7 @@ title: Mastering Cinematography for Directors – A New Comprehensive Course on 
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/mastering-cinematography-for-directors-new-course-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Tal Lazar's comprehensive cinematography course takes directors
   to the heart of their story and explains how to express it in images.
 subtitle: A New Comprehensive Course on MZed.com

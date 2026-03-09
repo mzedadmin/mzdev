@@ -1,7 +1,7 @@
 ---
 title: Canon C300 MkII Camera Primer
 position: 16
-release_date: 2018-09-10
+release_date: 2018-09-10 00:00:00 Z
 Course Card:
   Title: Canon C300 MkII Camera Primer
   Educator: AbelCine Education Team

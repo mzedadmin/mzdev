@@ -1,7 +1,7 @@
 ---
 title: Writing 201
 position: 49
-release_date: 2018-11-25
+release_date: 2018-11-25 00:00:00 Z
 Course Card:
   Title: Writing 201
   Educator: Seth Worley

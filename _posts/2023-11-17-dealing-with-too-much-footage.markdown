@@ -3,7 +3,7 @@ title: How to Deal with Too Much Footage
 date: 2023-11-17 00:00:00 Z
 image: "/assets/images/posts/dealing-with-too-much-footage-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Tips from an Oscar-winning Film Editor
 subtitle: Tips from an Oscar-winning Film Editor
 ---

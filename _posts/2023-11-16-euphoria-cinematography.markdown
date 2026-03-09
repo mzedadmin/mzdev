@@ -3,7 +3,7 @@ title: Behind the Scenes of "Euphoria" Cinematography
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/euphoria-cinematography-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: DP Marcell Rév breaks down scenes from Season 1 and 2 of Euphoria
 subtitle: DP Marcell Rév breaks down scenes from Season 1 and 2 of Euphoria
 ---

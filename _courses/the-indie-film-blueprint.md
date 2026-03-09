@@ -1,7 +1,7 @@
 ---
 title: The Indie Film Blueprint
 position: 24
-release_date: 2021-05-25
+release_date: 2021-05-25 00:00:00 Z
 Course Card:
   Title: The Indie Film Blueprint
   Educator: Rubidium Wu

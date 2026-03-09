@@ -3,7 +3,7 @@ title: How to Use Focus in Storytelling
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/focus-in-storytelling-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Focus may be a simple tool in the filmmaker's tool belt, but it
   has incredible power when used for storytelling
 subtitle: Focus may be a simple tool in the filmmaker's tool belt, but it has incredible

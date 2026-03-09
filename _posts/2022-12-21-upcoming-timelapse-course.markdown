@@ -3,7 +3,7 @@ title: Upcoming Timelapse Course from Drew Geraci
 date: 2022-12-21 00:00:00 Z
 image: "/assets/images/posts/upcoming-timelapse-course-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Learn how to shoot timelapses from a legendary timelapse filmmaker
 subtitle: Learn how to shoot timelapses from a legendary timelapse filmmaker
 ---

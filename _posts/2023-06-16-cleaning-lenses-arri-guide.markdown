@@ -3,7 +3,7 @@ title: Step by Step Instructions for Cleaning Lenses
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/cleaning-lenses-arri-guide-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: ARRI experts show you to clean your lenses properly
 subtitle: ARRI experts show you to clean your lenses properly
 ---

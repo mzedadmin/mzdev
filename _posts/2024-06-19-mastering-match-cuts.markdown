@@ -3,7 +3,7 @@ title: Mastering Match Cuts – A Deep-Dive Into Seamless Storytelling
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/mastering-match-cuts-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Match cuts are more than eye candy - they're powerful editing tools.
   Deep dive into film theory with examples from cinema history.
 subtitle: A Deep-Dive Into Seamless Storytelling

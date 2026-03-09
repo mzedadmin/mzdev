@@ -1,7 +1,7 @@
 ---
 title: Certified Online Training for Large-Format Camera Systems
 position: 19
-release_date: 2019-10-07
+release_date: 2019-10-07 00:00:00 Z
 Course Card:
   Title: Certified Online Training for Large-Format Camera Systems
   Educator: ARRI Academy

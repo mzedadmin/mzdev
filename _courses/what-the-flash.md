@@ -1,7 +1,7 @@
 ---
 title: What the Flash?
 position: 53
-release_date: 2013-01-10
+release_date: 2013-01-10 00:00:00 Z
 Course Card:
   Title: What the Flash?
   Educator: Bob Davis

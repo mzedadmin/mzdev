@@ -3,7 +3,7 @@ title: Old Photo Cameras are Perfect for Video Time Lapse
 date: 2019-06-04 00:00:00 Z
 image: "/assets/images/posts/old-cameras-time-lapse-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Are your old cameras gathering dust? Use them as time lapse workhorses.
 subtitle: Are your old cameras gathering dust? Use them as time lapse workhorses.
 ---

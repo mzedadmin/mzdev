@@ -1,7 +1,7 @@
 ---
 title: How to Start a Podcast
 position: 32
-release_date: 2023-10-01
+release_date: 2023-10-01 00:00:00 Z
 Course Card:
   Title: How to Start a Podcast
   Educator: Latasha James

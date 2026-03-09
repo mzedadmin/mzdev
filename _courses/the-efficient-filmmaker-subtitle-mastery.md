@@ -1,7 +1,7 @@
 ---
 title: The Efficient Filmmaker - Subtitle Mastery
 position: 62
-release_date: 2025-06-13
+release_date: 2025-06-13 00:00:00 Z
 Course Card:
   Title: The Efficient Filmmaker - Subtitle Mastery
   Educator: Mascha Deikova

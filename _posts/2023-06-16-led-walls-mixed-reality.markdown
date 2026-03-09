@@ -3,7 +3,7 @@ title: LED Walls and Mixed Reality
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/led-walls-mixed-reality-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Virtual production is not just for Hollywood anymore
 subtitle: Virtual production is not just for Hollywood anymore
 ---

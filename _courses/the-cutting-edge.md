@@ -1,7 +1,7 @@
 ---
 title: The Cutting Edge
 position: 59
-release_date: 2014-06-04
+release_date: 2014-06-04 00:00:00 Z
 Course Card:
   Title: The Cutting Edge
   Educator: Adam Epstein

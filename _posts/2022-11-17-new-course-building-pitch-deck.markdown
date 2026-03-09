@@ -3,7 +3,7 @@ title: 'New Course: Building a Pitch Deck'
 date: 2022-11-17 00:00:00 Z
 image: "/assets/images/posts/new-course-building-pitch-deck-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: If you want to grab a producer or funder's attention, you need a
   memorable pitch deck.
 subtitle: If you want to grab a producer or funder's attention, you need a memorable

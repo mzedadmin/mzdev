@@ -1,13 +1,14 @@
 ---
 title: The Efficient Filmmaker - AI Video Masking for the Rest of Us
 position: 64
-release_date: 2025-09-01
+release_date: 2025-09-01 00:00:00 Z
 Course Card:
-  Title: "The Efficient Filmmaker: AI Video Masking for the Rest of Us"
+  Title: 'The Efficient Filmmaker: AI Video Masking for the Rest of Us'
   Educator: Mascha Deikova
   Image: "/assets/images/courses/the-efficient-filmmaker-video-masking/the-efficient-filmmaker-video-masking.jpg"
   Description: Master AI-powered masking in DaVinci Resolve, Final Cut Pro, and After
-    Effects. Selective grading, face blurring, relighting, and creative effects — fast.
+    Effects. Selective grading, face blurring, relighting, and creative effects —
+    fast.
   Lessons: 7
   Runtime Hours: 1
   Runtime Minutes: 4
@@ -16,8 +17,8 @@ Course Card:
   - color-grading
   - ai
 Course Page:
-  Video:
-  Main Title: "The Efficient Filmmaker: AI Video Masking for the Rest of Us"
+  Video: 
+  Main Title: 'The Efficient Filmmaker: AI Video Masking for the Rest of Us'
   Main Text: |-
     AI-powered masking tools have made it possible for editors, colorists, and independent filmmakers to handle tasks that used to require dedicated VFX artists — and do it fast.
 
@@ -26,7 +27,7 @@ Course Page:
     "AI Video Masking" is part of MZed's "The Efficient Filmmaker" series, exploring modern tools that boost productivity and streamline post-production workflows.
   Main Image: "/assets/images/courses/the-efficient-filmmaker-video-masking/the-efficient-filmmaker-video-masking.jpg"
   Additional Images: []
-  Review Average:
+  Review Average: 
   Courses:
   - the-efficient-filmmaker-subtitle-mastery
   - the-efficient-filmmaker-scan-and-plan
@@ -54,8 +55,8 @@ Course Page:
       Roto Brush.
   - Icon: Performance
     Title: Creative Masking Techniques
-    Text: Go beyond fixes — explore creative effects and advanced workflows using Fusion's
-      Magic Mask.
+    Text: Go beyond fixes — explore creative effects and advanced workflows using
+      Fusion's Magic Mask.
   Lessons:
   - Lesson Title: How AI Masking Works - The Basics
     Lesson Description: Learn the fundamentals of AI masking using DaVinci Resolve's
@@ -70,15 +71,16 @@ Course Page:
     Lesson Description: Practical, real-world applications including blurring faces
       for privacy, removing distracting objects, and other common production fixes.
   - Lesson Title: Magnetic Mask in Final Cut Pro
-    Lesson Description: Explore Final Cut Pro's AI masking features and learn how Magnetic
-      Mask compares to other NLE masking tools.
+    Lesson Description: Explore Final Cut Pro's AI masking features and learn how
+      Magnetic Mask compares to other NLE masking tools.
   - Lesson Title: Roto Brush in Adobe After Effects
     Lesson Description: Master Adobe's AI masking option with edge refinement techniques
       for clean, professional rotoscoping results.
-  - Lesson Title: "Getting Creative: Other Ways to Use Masking"
+  - Lesson Title: 'Getting Creative: Other Ways to Use Masking'
     Lesson Description: Push beyond practical fixes into creative territory — advanced
       techniques and workflows using Fusion's Magic Mask.
 course_purchase: false
-sku:
+sku: 
 layout: course
 ---
+

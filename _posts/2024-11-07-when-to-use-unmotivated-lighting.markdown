@@ -3,7 +3,7 @@ title: When to Use Unmotivated Lighting
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/when-to-use-unmotivated-lighting-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Sometimes in cinematography you have to break the rules
 subtitle: Sometimes in cinematography you have to break the rules
 ---

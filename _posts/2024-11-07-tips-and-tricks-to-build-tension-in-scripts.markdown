@@ -3,7 +3,7 @@ title: Tips and Tricks to Build Tension in Scripts
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/tips-and-tricks-to-build-tension-in-scripts-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Tension is mastered by the horror genre, but you can use it in any
   story
 subtitle: Tension is mastered by the horror genre, but you can use it in any story

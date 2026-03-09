@@ -3,7 +3,7 @@ title: Adding Depth to Space
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/adding-depth-to-space-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Perspective, size, tone, and other cues add cinematic depth
 subtitle: Perspective, size, tone, and other cues add cinematic depth
 ---

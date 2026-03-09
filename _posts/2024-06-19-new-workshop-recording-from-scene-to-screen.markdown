@@ -3,7 +3,7 @@ title: From Scene to Screen – Where the Journey to a Great Visual Story Begins
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/scene-to-screen-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Professional cinematographer and educator Tal Lazar dives deep into
   the prime components of a great visual story and shares some tips.
 subtitle: Professional cinematographer and educator Tal Lazar dives deep into the

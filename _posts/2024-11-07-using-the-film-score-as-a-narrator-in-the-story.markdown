@@ -3,7 +3,7 @@ title: Using the Film Score as a Narrator in the Story
 date: 2024-11-07 00:00:00 Z
 image: "/assets/images/posts/using-the-film-score-as-a-narrator-in-the-story-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: How music can add another dimension to your film
 subtitle: How music can add another dimension to your film
 ---

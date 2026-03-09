@@ -1,7 +1,7 @@
 ---
 title: The Art of Visual Storytelling
 position: 12
-release_date: 2013-06-04
+release_date: 2013-06-04 00:00:00 Z
 Course Card:
   Title: The Art of Visual Storytelling
   Educator: Alex Buono

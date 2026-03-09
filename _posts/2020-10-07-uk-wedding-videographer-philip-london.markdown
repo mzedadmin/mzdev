@@ -3,7 +3,7 @@ title: How to be the Best Wedding Videographer in the UK
 date: 2020-10-07 00:00:00 Z
 image: "/assets/images/posts/uk-wedding-videographer-philip-london-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: MZed Pro member Philip London shares how he stays passionate about
   wedding filmmaking.
 subtitle: MZed Pro member Philip London shares how he stays passionate about wedding

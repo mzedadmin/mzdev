@@ -1,7 +1,7 @@
 ---
 title: Alex Buono's Visual Storytelling 2
 position: 58
-release_date: 2015-06-20
+release_date: 2015-06-20 00:00:00 Z
 Course Card:
   Title: Alex Buono's Visual Storytelling 2
   Educator: Alex Buono

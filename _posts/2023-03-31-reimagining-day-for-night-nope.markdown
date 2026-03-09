@@ -3,7 +3,7 @@ title: Reimagining Day-for-Night Scenes in 'Nope'
 date: 2023-03-31 00:00:00 Z
 image: "/assets/images/posts/nope-night-scene-feature.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Cinematographer Hoyte van Hoytema comes up with an original approach
   to night shoots
 subtitle: Cinematographer Hoyte van Hoytema comes up with an original approach to

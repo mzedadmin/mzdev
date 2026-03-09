@@ -1,7 +1,7 @@
 ---
 title: Cinema Sound
 position: 57
-release_date: 2017-06-01
+release_date: 2017-06-01 00:00:00 Z
 Course Card:
   Title: Cinema Sound
   Educator: Mark Edward Lewis

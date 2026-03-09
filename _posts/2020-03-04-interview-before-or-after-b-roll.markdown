@@ -3,7 +3,7 @@ title: When is a good time for the interview?
 date: 2020-03-04 00:00:00 Z
 image: "/assets/images/posts/interview-before-or-after-b-roll-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: In a documentary production, do you interview first, and then decide
   what to film? Or do you plan the visuals first and wrap with the interview?
 subtitle: In a documentary production, do you interview first, and then decide what

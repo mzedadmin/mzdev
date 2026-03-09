@@ -3,7 +3,7 @@ title: How to begin a video edit with proper media management
 date: 2019-10-20 00:00:00 Z
 image: "/assets/images/posts/video-editing-workflow-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Media management and organizing footage are essential to video editing.
   Here are a few styles of workflows that you can use in any NLE.
 subtitle: Media management and organizing footage are essential to video editing.

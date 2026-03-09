@@ -3,7 +3,7 @@ title: How to Use Long Takes or Oners in Your Film
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/long-takes-oners-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Uninterrupted sequences add incredible suspense and tension, but
   they require careful planning
 subtitle: Uninterrupted sequences add incredible suspense and tension, but they require

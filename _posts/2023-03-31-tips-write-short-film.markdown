@@ -3,7 +3,7 @@ title: Writing a Short Film in Your Own Voice
 date: 2023-03-31 00:00:00 Z
 image: "/assets/images/posts/tips-write-short-film-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Seth Worley provides tips on how to write a unique short film
 subtitle: Seth Worley provides tips on how to write a unique short film
 ---

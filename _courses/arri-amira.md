@@ -1,7 +1,7 @@
 ---
 title: ARRI Amira Camera Primer
 position: 17
-release_date: 2019-01-25
+release_date: 2019-01-25 00:00:00 Z
 Course Card:
   Title: ARRI Amira Camera Primer
   Educator: AbelCine Education Team

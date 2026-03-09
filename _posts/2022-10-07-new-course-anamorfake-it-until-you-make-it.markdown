@@ -3,7 +3,7 @@ title: 'New Course: Anamorfake It Until You Make It'
 date: 2022-10-07 00:00:00 Z
 image: 
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Learn how to simulate the anamorphic look using affordable lens
   mods and editing techniques.
 subtitle: Learn how to simulate the anamorphic look using affordable lens mods and

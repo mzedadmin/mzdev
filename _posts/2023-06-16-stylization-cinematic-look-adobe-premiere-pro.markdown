@@ -3,7 +3,7 @@ title: Stylization in Adobe Premiere Pro
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/stylization-cinematic-look-adobe-premiere-pro-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Quick tips on creating cinematic looks
 subtitle: Quick tips on creating cinematic looks
 ---

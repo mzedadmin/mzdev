@@ -3,7 +3,7 @@ title: Filmmaking for Photographers joins MZed Pro
 date: 2020-10-13 00:00:00 Z
 image: "/assets/images/posts/filmmaking-for-photographers-mzed-pro-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Philip Bloom's exceptional course is now available to all MZed Pro
   members.
 subtitle: Philip Bloom's exceptional course is now available to all MZed Pro members.

@@ -3,7 +3,7 @@ title: The Black and White World of El Conde
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/the-black-and-white-world-of-el-conde-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinematography.
   What's so special about the black-and-white world of El Conde?
 subtitle: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinematography.

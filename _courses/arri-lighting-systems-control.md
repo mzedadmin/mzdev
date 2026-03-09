@@ -1,7 +1,7 @@
 ---
 title: ARRI Lighting Systems Control
 position: 19
-release_date: 2021-01-15
+release_date: 2021-01-15 00:00:00 Z
 Course Card:
   Title: ARRI Lighting Systems Control
   Educator: ARRI Academy

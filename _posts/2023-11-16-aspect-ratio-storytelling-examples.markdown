@@ -3,7 +3,7 @@ title: Storytelling with Aspect Ratios
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/aspect-ratio-storytelling-examples-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Let's explore some film examples that use aspect ratio to drive
   the story
 subtitle: Let's explore some film examples that use aspect ratio to drive the story

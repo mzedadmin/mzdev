@@ -3,7 +3,7 @@ title: How to Become a Production Assistant
 date: 2023-02-23 00:00:00 Z
 image: "/assets/images/posts/gofers-production-assistant-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: A new book entitled "Gofers" provides insight into this crucial
   film industry role
 subtitle: A new book entitled "Gofers" provides insight into this crucial film industry

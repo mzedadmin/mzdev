@@ -3,7 +3,7 @@ title: More MZed Pro member giveaways from FilmConvert and RØDE
 date: 2021-02-24 00:00:00 Z
 image: "/assets/images/posts/filmconvert-nitrate-cinematch-rode-wireless-go-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: Grading multiple cameras and recording wireless audio will be a
   breeze with these giveaway prizes.
 subtitle: Grading multiple cameras and recording wireless audio will be a breeze with

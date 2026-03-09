@@ -3,7 +3,7 @@ title: Moving Car Shots on a Budget
 date: 2022-03-30 00:00:00 Z
 image: "/assets/images/posts/moving-car-shots-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: How do you simulate a moving car shot, without resorting to expensive
   trailers or special fx?
 subtitle: How do you simulate a moving car shot, without resorting to expensive trailers

@@ -3,7 +3,7 @@ title: How to Record Foley in Your Closet
 date: 2023-11-17 00:00:00 Z
 image: "/assets/images/posts/foley-closet-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Foley can enhance any video or film project, and you don't need
   a studio to do it
 subtitle: Foley can enhance any video or film project, and you don't need a studio

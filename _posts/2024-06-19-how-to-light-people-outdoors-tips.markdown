@@ -3,7 +3,7 @@ title: How to Light People Outdoors – Tips on Handling the Sun from Paul Atkin
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/how-to-light-people-outdoors-tips-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Paul Atkins, ASC shares practical tips for lighting people outdoors
   using the sun to your advantage. Quick setups with limited gear.
 subtitle: Tips on Handling the Sun from Paul Atkins, ASC

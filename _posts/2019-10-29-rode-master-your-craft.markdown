@@ -3,7 +3,7 @@ title: MZed is Partnering with RØDE to help you Master Your Craft
 date: 2019-10-29 00:00:00 Z
 image: "/assets/images/posts/rode-master-your-craft-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: RØDE is awarding a 12-month dream internship in Sydney, Australia,
   and we're proud to offer our education and mentorship to the lucky winners.
 subtitle: RØDE is awarding a 12-month dream internship in Sydney, Australia, and we're

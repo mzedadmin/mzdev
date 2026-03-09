@@ -3,7 +3,7 @@ title: Watch MZed on your Apple TV
 date: 2019-07-09 00:00:00 Z
 image: "/assets/images/posts/watch-mzed-on-your-apple-tv-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: You can watch our courses on your computer, phone or tablet, but
   did you know there’s an easy way to do it on your Apple TV?
 subtitle: You can watch our courses on your computer, phone or tablet, but did you

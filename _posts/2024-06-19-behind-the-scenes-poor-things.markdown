@@ -3,7 +3,7 @@ title: Behind the Scenes of 'Poor Things'
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/behind-the-scenes-poor-things-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: A playground for beauty and bizarreness
 subtitle: A playground for beauty and bizarreness
 ---

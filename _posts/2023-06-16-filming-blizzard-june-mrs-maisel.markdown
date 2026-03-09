@@ -3,7 +3,7 @@ title: Filming a Blizzard in June
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/mrs-maisel-cinematography-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Behind the scenes of The Marvelous Mrs. Maisel cinematography
 subtitle: Behind the scenes of The Marvelous Mrs. Maisel cinematography
 ---

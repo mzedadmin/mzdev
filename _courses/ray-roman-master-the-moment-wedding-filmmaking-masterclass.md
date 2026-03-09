@@ -1,7 +1,7 @@
 ---
 title: Master the Moment
 position: 21
-release_date: 2020-03-25
+release_date: 2020-03-25 00:00:00 Z
 Course Card:
   Title: Master the Moment
   Educator: Ray Roman

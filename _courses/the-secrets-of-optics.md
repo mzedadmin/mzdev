@@ -1,7 +1,7 @@
 ---
 title: The Secrets of Optics
 position: 20
-release_date: 2019-07-20
+release_date: 2019-07-20 00:00:00 Z
 Course Card:
   Title: The Secrets of Optics
   Educator: Mitch Gross

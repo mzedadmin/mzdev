@@ -3,7 +3,7 @@ title: Podcaster Survival Guide now part of Cinema Sound
 date: 2020-10-26 00:00:00 Z
 image: 
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Learn everything you need to know as a podcast producer with these
   new lessons.
 subtitle: Learn everything you need to know as a podcast producer with these new lessons.

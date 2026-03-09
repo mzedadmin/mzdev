@@ -1,7 +1,7 @@
 ---
 title: Anamorfake It Until You Make It
 position: 13
-release_date: 2022-09-04
+release_date: 2022-09-04 00:00:00 Z
 Course Card:
   Title: Anamorfake It Until You Make It
   Educator: Tito Ferradans

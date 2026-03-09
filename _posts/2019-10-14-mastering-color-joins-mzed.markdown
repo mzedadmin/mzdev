@@ -3,7 +3,7 @@ title: Mastering Color Joins MZed Pro
 date: 2019-10-14 00:00:00 Z
 image: "/assets/images/posts/mastering-color-joins-mzed-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: The most comprehensive color grading tutorial is now available to
   all MZed Pro members.
 subtitle: The most comprehensive color grading tutorial is now available to all MZed

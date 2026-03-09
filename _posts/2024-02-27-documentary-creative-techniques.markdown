@@ -3,7 +3,7 @@ title: Creative Techniques to Enhance Your Documentary – Ideas and Showcases
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/documentary-creative-techniques-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Creative techniques to enhance documentary filmmaking, including
   interview stylization, reenactments, and emotional capture methods.
 subtitle: Ideas and Showcases

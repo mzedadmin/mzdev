@@ -3,7 +3,7 @@ title: 'A New Combat and Safety Course for Filmmakers: Selling The Punch'
 date: 2023-08-07 00:00:00 Z
 image: "/assets/images/posts/new-course-selling-the-punch-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Writer/Director Rin Ehlers Sheldon talks about why this course was
   made
 subtitle: Writer/Director Rin Ehlers Sheldon talks about why this course was made

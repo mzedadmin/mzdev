@@ -3,7 +3,7 @@ title: Learn EVERYTHING in Premiere Pro - New 25-Hour Long Course
 date: 2022-05-12 00:00:00 Z
 image: "/assets/images/posts/new-learn-everything-in-premiere-pro-course-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: You won't find a better Adobe Premiere Pro course anywhere else
 subtitle: You won't find a better Adobe Premiere Pro course anywhere else
 ---

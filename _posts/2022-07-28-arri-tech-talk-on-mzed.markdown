@@ -3,7 +3,7 @@ title: ARRI Tech Talk Live – Now on MZed
 date: 2022-07-28 00:00:00 Z
 image: "/assets/images/posts/arri-tech-talk-on-mzed-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Stream the ARRI Tech Talk Live videos or download and watch them
   offline with the iOS app.
 subtitle: Stream the ARRI Tech Talk Live videos or download and watch them offline

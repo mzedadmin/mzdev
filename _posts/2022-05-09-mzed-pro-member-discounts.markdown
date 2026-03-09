@@ -3,7 +3,7 @@ title: Free 30 GB Lifetime Storage with pCloud
 date: 2022-05-09 00:00:00 Z
 image: "/assets/images/posts/mzed-pro-member-discounts-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: MZed Pro members get additional perks during their annual subscription
 subtitle: MZed Pro members get additional perks during their annual subscription
 ---

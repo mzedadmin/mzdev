@@ -3,7 +3,7 @@ title: 'Andor: Behind the Scenes'
 date: 2023-08-07 00:00:00 Z
 image: "/assets/images/posts/andor-bts-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Interview with cinematographer Damián García
 subtitle: Interview with cinematographer Damián García
 ---

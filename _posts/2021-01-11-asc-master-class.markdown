@@ -3,7 +3,7 @@ title: ASC Master Class is Highly Recommended
 date: 2021-01-11 00:00:00 Z
 image: 
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: Currently taught remotely via Zoom, now anyone in the world can
   take the ASC's cinematography workshop
 subtitle: Currently taught remotely via Zoom, now anyone in the world can take the

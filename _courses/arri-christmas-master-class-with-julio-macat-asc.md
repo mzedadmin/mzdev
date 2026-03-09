@@ -1,7 +1,7 @@
 ---
 title: ARRI Christmas Master Class
 position: 18
-release_date: 2019-12-18
+release_date: 2019-12-18 00:00:00 Z
 Course Card:
   Title: ARRI Christmas Master Class
   Educator: ARRI Academy

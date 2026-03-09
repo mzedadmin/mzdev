@@ -4,7 +4,7 @@ title: Lighting People On Location New Course with Paul Atkins & Stephen Lighthi
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/new-course-lighting-people-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: In Lighting People, ASC members Paul Atkins and Stephen Lighthill
   teach practical tips for lighting people on location, indoors & outdoors.
 subtitle: In Lighting People, ASC members Paul Atkins and Stephen Lighthill teach

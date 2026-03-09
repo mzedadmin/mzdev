@@ -3,7 +3,7 @@ title: Keep Shooting, Keep Improving, and Try to Learn Something New Every Day.
 date: 2020-12-04 00:00:00 Z
 image: "/assets/images/posts/tom-alner-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Scotland filmmaker Tom Alner sees every film as a chance to get
   better at his craft.
 subtitle: Scotland filmmaker Tom Alner sees every film as a chance to get better at

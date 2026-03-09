@@ -3,7 +3,7 @@ title: Freelensing 101
 date: 2021-01-28 00:00:00 Z
 image: "/assets/images/posts/freelensing-101-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Freelensing or Lens Whacking is a cheap and delightful way to add
   a unique, creative effect to your visuals.
 subtitle: Freelensing or Lens Whacking is a cheap and delightful way to add a unique,

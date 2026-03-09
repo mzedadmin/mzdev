@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of Directing
 position: 8
-release_date: 2022-11-01
+release_date: 2022-11-01 00:00:00 Z
 Course Card:
   Title: Fundamentals of Directing
   Educator: International Film Institute of NY

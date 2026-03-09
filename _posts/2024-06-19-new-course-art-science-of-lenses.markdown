@@ -3,7 +3,7 @@ title: The Art & Science of Lenses A New Course Available on MZed Now
 date: 2024-06-19 00:00:00 Z
 image: "/assets/images/posts/art-science-lenses-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Coatings, types of glass, diffraction. The more we learn, the deeper
   our storytelling becomes. A peek at "The Art & Science of Lenses" course.
 subtitle: Coatings, types of glass, diffraction. The more we learn, the deeper our

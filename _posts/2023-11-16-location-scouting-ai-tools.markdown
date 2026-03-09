@@ -3,7 +3,7 @@ title: AI Tools for Location Scouting
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/location-scouting-ai-tools-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Setting the stage for your film is essential, and there's some new
   AI tools to help
 subtitle: Setting the stage for your film is essential, and there's some new AI tools

@@ -3,7 +3,7 @@ title: Learn for Free with MZed
 date: 2020-03-25 00:00:00 Z
 image: "/assets/images/posts/free-lessons-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: Watch a variety of filmmaking lessons for free - just create a login
   to get started.
 subtitle: Watch a variety of filmmaking lessons for free - just create a login to

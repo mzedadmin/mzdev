@@ -3,7 +3,7 @@ title: MZed and American Society of Cinematographers (ASC) Announce Educational 
 date: 2022-11-17 00:00:00 Z
 image: "/assets/images/posts/mzed-asc-cooperation-announcement-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: 'NULL'
 subtitle: 'NULL'
 ---

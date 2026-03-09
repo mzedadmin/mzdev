@@ -3,7 +3,7 @@ title: MZed Members Donate Over 90,000 Meals to Food Bank for COVID-19 Relief
 date: 2020-05-05 00:00:00 Z
 image: "/assets/images/posts/food-bank-donations-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: We are humbled by your generosity - thank you!
 subtitle: We are humbled by your generosity - thank you!
 ---

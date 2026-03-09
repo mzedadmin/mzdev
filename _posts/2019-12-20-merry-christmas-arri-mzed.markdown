@@ -3,7 +3,7 @@ title: Merry Christmas from ARRI and MZed
 date: 2019-12-20 00:00:00 Z
 image: "/assets/images/posts/merry-christmas-arri-mzed-hero.jpg"
 layout: post
-blog_category: "MZed News"
+blog_category: MZed News
 meta_description: Celebrate the end of the decade with this ARRI Academy masterclass
   with Julio Macat.
 subtitle: Celebrate the end of the decade with this ARRI Academy masterclass with

@@ -4,7 +4,7 @@ title: The Language of Lighting – Learn How to Design Light Like a Pro in New 
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/new-mzed-course-design-light-like-a-pro-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Tal Lazar's new MZed course 'The Language of Lighting' teaches cinematographers
   how to see and design light to tell stories.
 subtitle: Learn How to Design Light Like a Pro in New MZed Course

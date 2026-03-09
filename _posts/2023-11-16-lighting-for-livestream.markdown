@@ -3,7 +3,7 @@ title: How to Light for Livestream
 date: 2023-11-16 00:00:00 Z
 image: "/assets/images/posts/lighting-for-livestream-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Zoom, Teams, Google Meet - ARRI shows you how to look your best
   for video calls
 subtitle: Zoom, Teams, Google Meet - ARRI shows you how to look your best for video

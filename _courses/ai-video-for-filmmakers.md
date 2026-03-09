@@ -1,14 +1,14 @@
 ---
 title: Directing the Future - Ethical AI Video for Filmmakers
 position: 65
-release_date: 2025-09-21
+release_date: 2025-09-21 00:00:00 Z
 Course Card:
-  Title: "Directing the Future: Ethical AI Video for Filmmakers"
+  Title: 'Directing the Future: Ethical AI Video for Filmmakers'
   Educator: Drew Geraci
   Image: "/assets/images/courses/ai-video-for-filmmakers/ai-video-for-filmmakers.jpg"
   Description: Learn to use generative AI video as a creative tool — ethically. From
-    pre-production to post, explore AI workflows that amplify your vision without replacing
-    the craft.
+    pre-production to post, explore AI workflows that amplify your vision without
+    replacing the craft.
   Lessons: 11
   Runtime Hours: 2
   Runtime Minutes: 35
@@ -16,8 +16,8 @@ Course Card:
   - filmmaking
   - ai
 Course Page:
-  Video:
-  Main Title: "Directing the Future: Ethical AI Video for Filmmakers"
+  Video: 
+  Main Title: 'Directing the Future: Ethical AI Video for Filmmakers'
   Main Text: |-
     Generative AI video is a creative tool — not a camera replacement. In this course, Drew Geraci guides you through using AI to amplify your filmmaking vision while maintaining authenticity and ethical standards.
 
@@ -42,8 +42,8 @@ Course Page:
       limitations, and costs.
   - Icon: Timeline
     Title: AI Pre-Production Workflows
-    Text: Use AI to visualize concepts, create storyboards, and plan shots before you
-      ever pick up a camera.
+    Text: Use AI to visualize concepts, create storyboards, and plan shots before
+      you ever pick up a camera.
   - Icon: Palette
     Title: AI Post-Production Techniques
     Text: Integrate AI-generated elements into your post-production pipeline for enhanced
@@ -54,8 +54,8 @@ Course Page:
       tools.
   - Icon: Performance
     Title: Hands-On Tool Demos
-    Text: Follow along with live demonstrations of Sora 2, Google Flow, and other leading
-      AI platforms.
+    Text: Follow along with live demonstrations of Sora 2, Google Flow, and other
+      leading AI platforms.
   Lessons:
   - Lesson Title: What is Ethical AI?
     Lesson Description: Define the ethical framework for using AI in filmmaking. Understand
@@ -73,13 +73,13 @@ Course Page:
   - Lesson Title: What's the Future of AI?
     Lesson Description: Explore where AI video technology is heading and what it means
       for the future of filmmaking and content creation.
-  - Lesson Title: "Live Demo: Pre-Production"
+  - Lesson Title: 'Live Demo: Pre-Production'
     Lesson Description: Watch a hands-on demonstration of using AI tools during the
       pre-production phase — from concept visualization to shot planning.
-  - Lesson Title: "Live Demo: Post-Production"
+  - Lesson Title: 'Live Demo: Post-Production'
     Lesson Description: Follow along as Drew integrates AI-generated elements into
       a real post-production workflow.
-  - Lesson Title: "Live Demo: Post-Production II"
+  - Lesson Title: 'Live Demo: Post-Production II'
     Lesson Description: Continue the post-production deep dive with advanced AI integration
       techniques and refinement workflows.
   - Lesson Title: How to Use Google Flow
@@ -92,6 +92,7 @@ Course Page:
     Lesson Description: An in-depth look at OpenAI's Sora 2, its capabilities for
       filmmakers, and practical creative applications.
 course_purchase: false
-sku:
+sku: 
 layout: course
 ---
+

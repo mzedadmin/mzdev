@@ -3,7 +3,7 @@ title: New Additions to The Secrets of Optics Course
 date: 2020-12-15 00:00:00 Z
 image: "/assets/images/posts/secrets-of-optics-additions-hero.jpg"
 layout: post
-blog_category: "New Course"
+blog_category: New Course
 meta_description: Recently shot lens examples and demonstrations make this course
   even better.
 subtitle: Recently shot lens examples and demonstrations make this course even better.

@@ -3,7 +3,7 @@ title: The Craft of Precision Editing
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/craft-precision-editing-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Understanding when to cut and why can enhance your superpowers in
   filmmaking
 subtitle: Understanding when to cut and why can enhance your superpowers in filmmaking

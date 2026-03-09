@@ -1,7 +1,7 @@
 ---
 title: Introduction to Lighting
 position: 7
-release_date: 2025-01-13
+release_date: 2025-01-13 00:00:00 Z
 Course Card:
   Title: Introduction to Lighting
   Educator: Ollie Kenchington

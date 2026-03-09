@@ -3,7 +3,7 @@ title: Behind the Scenes of Dune
 date: 2023-06-16 00:00:00 Z
 image: "/assets/images/posts/dune-cinematography-greig-fraser-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: A conversation with Director of Photography Greig Fraser, ASC, ACS
 subtitle: A conversation with Director of Photography Greig Fraser, ASC, ACS
 ---

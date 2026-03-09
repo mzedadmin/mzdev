@@ -3,7 +3,7 @@ title: Learn Filmmaking Step by Step
 date: 2019-10-03 00:00:00 Z
 image: "/assets/images/posts/learn-filmmaking-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: If you're new to MZed courses, start here.
 subtitle: If you're new to MZed courses, start here.
 ---

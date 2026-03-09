@@ -3,7 +3,7 @@ title: Rehearsing with Actors - Tips and Exercises That Smart Directors Use
 date: 2024-02-27 00:00:00 Z
 image: "/assets/images/posts/rehearsing-with-actors-hero.jpg"
 layout: post
-blog_category: "Educational"
+blog_category: Educational
 meta_description: Essential directing tips and exercises for rehearsing with actors
   - creating safe environments, working with subtext, and troubleshooting techniques.
 subtitle: Tips and Exercises That Smart Directors Use
