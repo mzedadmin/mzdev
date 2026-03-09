@@ -2,12 +2,21 @@
 
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
-  #sessions {
-    background-color: #fff;
+  #sessions-upcoming,
+  #sessions-ondemand {
     padding: var(--sectionPadding);
   }
 
-  #sessions .cs-container {
+  #sessions-upcoming {
+    background-color: #fff;
+  }
+
+  #sessions-ondemand {
+    background-color: #f7f7f7;
+  }
+
+  #sessions-upcoming .cs-container,
+  #sessions-ondemand .cs-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,7 +26,8 @@
     gap: 2rem;
   }
 
-  #sessions .cs-content {
+  #sessions-upcoming .cs-content,
+  #sessions-ondemand .cs-content {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,11 +35,20 @@
     text-align: center;
   }
 
-  #sessions .cs-title {
+  #sessions-upcoming .cs-title,
+  #sessions-ondemand .cs-title {
     max-width: 20ch;
   }
 
-  #sessions .cs-card-group {
+  .sessions-empty {
+    font-size: 1rem;
+    color: #999;
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  #sessions-upcoming .cs-card-group,
+  #sessions-ondemand .cs-card-group {
     display: grid;
     align-items: stretch;
     grid-template-columns: repeat(12, 1fr);
@@ -43,14 +62,16 @@
 
 /* Tablet - 640px */
 @media only screen and (min-width: 40rem) {
-  #sessions .cs-container {
+  #sessions-upcoming .cs-container,
+  #sessions-ondemand .cs-container {
     max-width: 90rem;
   }
 }
 
 /* Desktop - 1024px */
 @media only screen and (min-width: 64rem) {
-  #sessions .cs-container {
+  #sessions-upcoming .cs-container,
+  #sessions-ondemand .cs-container {
     max-width: 100rem;
   }
 }
@@ -151,7 +172,7 @@
 
 .session-card-title {
   font-size: 1.15rem;
-  font-weight: 600;
+  font-weight: 400;
   color: #1a1a1a;
   margin: 0;
 }
@@ -254,7 +275,7 @@
 
   .cs-container {
     width: 100%;
-    max-width: calc(1280/16 * 1rem);
+    max-width: calc(1280 / 16 * 1rem);
     margin: auto;
     display: flex;
     flex-direction: column;

@@ -2,14 +2,14 @@
 title: Documentary Storytelling Q&A
 date: 2026-02-18 00:00:00 Z
 position: 3
-session_date: 2026-04-05 18:00:00 Z
+session_date: 2026-02-01 18:00:00 Z
 image: "/assets/images/courses/philip-bloom-cinematic-masterclass/philip-bloom-cinematic-masterclass.jpg"
 educator: Philip Bloom
 description: Philip Bloom discusses the art of documentary filmmaking — from finding
   stories to building narrative structure. An interactive session with live audience
   Q&A.
 duration: 75 min
-status: upcoming
+status: past
 Session Page:
   Video: ''
   Main Title: Documentary Storytelling with Philip Bloom

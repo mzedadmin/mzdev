@@ -15,7 +15,13 @@
             {% assign cat_courses = site.courses | where_exp: "course", "course['Course Card'].Topics contains cat.topic" | sort: "position" | reverse %}
             {% if cat_courses.size > 0 %}
             <div class="catalog-row" data-reveal>
-                <h3 class="catalog-row-title">{{ cat.name }} <span class="catalog-row-count">({{ cat_courses.size }})</span></h3>
+                <div class="catalog-row-header">
+                    <h3 class="catalog-row-title">{{ cat.name }} <span class="catalog-row-count">({{ cat_courses.size }})</span></h3>
+                    <div class="catalog-row-arrows">
+                        <button class="catalog-arrow catalog-arrow--prev" aria-label="Scroll left">&#8249;</button>
+                        <button class="catalog-arrow catalog-arrow--next" aria-label="Scroll right">&#8250;</button>
+                    </div>
+                </div>
                 <div class="catalog-row-scroll">
                     {% for course in cat_courses %}
                         {% include course_thumb.html course=course %}
@@ -31,6 +37,7 @@
 
 <script>
 (function() {
+  // Shuffle thumbnails
   var rows = document.querySelectorAll('.catalog-row-scroll');
   for (var i = 0; i < rows.length; i++) {
     var row = rows[i];
@@ -41,5 +48,27 @@
       items.splice(k, 1, items[j]);
     }
   }
+
+  // Arrow navigation
+  document.querySelectorAll('.catalog-row').forEach(function(row) {
+    var scroll = row.querySelector('.catalog-row-scroll');
+    var prev = row.querySelector('.catalog-arrow--prev');
+    var next = row.querySelector('.catalog-arrow--next');
+    if (!scroll || !prev || !next) return;
+
+    var getStep = function() {
+      var thumb = scroll.querySelector('.course-thumb');
+      if (!thumb) return 300;
+      var gap = parseFloat(getComputedStyle(scroll).columnGap) || 12;
+      return (thumb.offsetWidth + gap) * 3;
+    };
+
+    prev.addEventListener('click', function() {
+      scroll.scrollBy({ left: -getStep(), behavior: 'smooth' });
+    });
+    next.addEventListener('click', function() {
+      scroll.scrollBy({ left: getStep(), behavior: 'smooth' });
+    });
+  });
 })();
 </script>

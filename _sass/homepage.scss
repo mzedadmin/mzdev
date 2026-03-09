@@ -548,7 +548,6 @@
 
         .cs-container {
             width: 100%;
-            max-width: calc(1280/16 * 1rem);
             margin: auto;
             display: flex;
             flex-direction: column;
@@ -559,6 +558,9 @@
         .cs-content {
             text-align: center;
             width: 100%;
+            max-width: calc(1280/16 * 1rem);
+            padding: 0 1rem;
+            box-sizing: border-box;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -581,12 +583,23 @@
             width: 100%;
         }
 
+        .catalog-row-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: calc(1280/16 * 1rem);
+            margin: 0 auto clamp(0.5rem, 1.5vw, 0.75rem);
+            padding: 0 clamp(1rem, 3vw, 2rem);
+            box-sizing: border-box;
+            width: 100%;
+        }
+
         .catalog-row-title {
             font-size: clamp(1.25rem, 2.5vw, 1.5rem);
             font-weight: 700;
             line-height: 1.2em;
             color: var(--bodyTextColorWhite);
-            margin: 0 0 clamp(0.5rem, 1.5vw, 0.75rem);
+            margin: 0;
         }
 
         .catalog-row-count {
@@ -595,13 +608,40 @@
             opacity: 0.6;
         }
 
+        .catalog-row-arrows {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .catalog-arrow {
+            width: 2.25rem;
+            height: 2.25rem;
+            border-radius: 50%;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            background: rgba(255, 255, 255, 0.08);
+            color: #fff;
+            font-size: 1.25rem;
+            line-height: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: background-color 0.2s, border-color 0.2s;
+            padding: 0;
+
+            &:hover {
+                background: rgba(255, 255, 255, 0.2);
+                border-color: rgba(255, 255, 255, 0.5);
+            }
+        }
+
         .catalog-row-scroll {
             display: flex;
             gap: clamp(0.75rem, 2vw, 1rem);
             overflow-x: auto;
             scroll-snap-type: x mandatory;
             -webkit-overflow-scrolling: touch;
-            padding-bottom: calc(10/16 * 1rem);
+            padding: 0 clamp(1rem, 3vw, 2rem) calc(10/16 * 1rem);
             /* thin scrollbar */
             scrollbar-width: thin;
             scrollbar-color: rgba(255,255,255,0.2) transparent;
