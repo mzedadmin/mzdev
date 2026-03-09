@@ -3,6 +3,7 @@ title: Russ Malkin
 position: 32
 subtitle: Producer, Director
 name: Russ Malkin
+last_name: Malkin
 short_bio: Producer/director and all-round entrepreneur Russ Malkin is the founder
   and owner of Big Earth Productions and Big Earth Digital. He has created content
   for many broadcasters globally including BBC, ITV, Sky, National Geographic, Apple,

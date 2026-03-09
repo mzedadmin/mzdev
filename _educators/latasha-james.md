@@ -3,6 +3,7 @@ title: Latasha James
 position: 25
 subtitle: Filmmaker, Podcaster
 name: Latasha James
+last_name: James
 short_bio: Latasha James is an entrepreneur, marketing wizard, and host of the 'Freelance
   Friday Podcast.'
 bio: Latasha James is the Founder and Creative Director of James + Park, a social-first

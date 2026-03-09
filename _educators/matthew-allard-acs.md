@@ -3,6 +3,7 @@ title: Matthew Allard ACS
 position: 14
 subtitle: Cinematographer
 name: Matthew Allard ACS
+last_name: Allard
 short_bio: Matthew Allard is a multi award-winning, ACS accredited freelance Director
   of Photography with more than 25 years' experience working in almost 50 different
   countries around the world. Matthew has covered natural disasters, wars and major

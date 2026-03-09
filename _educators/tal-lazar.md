@@ -3,6 +3,7 @@ title: Tal Lazar
 position: 34
 subtitle: Cinematographer, Producer, Educator
 name: Tal Lazar
+last_name: Lazar
 short_bio: Tal Lazar is a cinematographer and educator whose courses are taught at
   leading film schools such as Columbia University, the American Film Institute and
   Sundance Institute.

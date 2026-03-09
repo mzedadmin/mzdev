@@ -3,6 +3,7 @@ title: Graham Ehlers Sheldon
 position: 50
 subtitle: Producer
 name: Graham Ehlers Sheldon
+last_name: Sheldon
 short_bio: Emmy® award winner Graham Sheldon resides in southern California USA where
   he works as a producer, director of photography, and sales agent for indie films.
 bio: |-

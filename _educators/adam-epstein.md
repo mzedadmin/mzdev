@@ -3,6 +3,7 @@ title: Adam Epstein
 position: 9
 subtitle: Editor, Filmmaker
 name: Adam Epstein
+last_name: Epstein
 short_bio: Adam Epstein is the Emmy-nominated Senior Film Editor for the Saturday
   Night Live Film Unit where he just completed his 8th season. Additionally he has
   worked on numerous feature films and commercials.

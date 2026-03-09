@@ -3,6 +3,7 @@ title: Tito Ferradans
 position: 2
 subtitle: Filmmaker
 name: Tito Ferradans
+last_name: Ferradans
 short_bio: Hailing from Brazil, Tito Ferradans spent the last ten years pursuing the
   dream of making films. Tito is a tech guy, passionate for sci-fi narratives and
   with a sharp eye for the visual aspects of a story, from cinematography to post-production

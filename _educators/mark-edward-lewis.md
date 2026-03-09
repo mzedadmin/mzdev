@@ -3,6 +3,7 @@ title: Mark Edward Lewis
 position: 6
 subtitle: Sound Designer, Composer, Filmmaker
 name: Mark Edward Lewis
+last_name: Lewis
 short_bio: There are few titles that sum up Mark's vast knowledge of the audio discipline,
   short of 'genius'. A veteran Sound Designer, Composer and Mixer, Mark draws on his
   own experiences as a Writer, Producer and Director to help other Filmmakers understand

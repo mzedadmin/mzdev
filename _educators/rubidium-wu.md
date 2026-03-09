@@ -3,6 +3,7 @@ title: Rubidium Wu
 position: 31
 subtitle: Writer, Director, Producer, DP
 name: Rubidium Wu
+last_name: Wu
 short_bio: Rubidium is a writer, director, producer and cinematographer. He has a
   been working as a professional filmmaker for the last 20 years, including directing
   commercials for Nintendo and Sony Playstation, the documentary 'Portraits of Silence'

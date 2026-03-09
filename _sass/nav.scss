@@ -40,10 +40,17 @@
       font-family: 'CalibreWeb', 'Roboto', Arial, sans-serif;
       font-size: 0.938rem;
       text-decoration: none;
-      transition: opacity 0.2s;
+      padding-bottom: 0.25rem;
+      border-bottom: 2px solid transparent;
+      transition: opacity 0.2s, border-color 0.2s;
 
       &:hover {
         opacity: 0.7;
+      }
+
+      &.active {
+        border-bottom-color: var(--primary);
+        font-family: 'CalibreWeb-Bold', 'Roboto', Arial, sans-serif;
       }
     }
   }
@@ -64,7 +71,7 @@
     color: #fff;
     background-color: var(--primary);
     padding: 0.5rem 1.25rem;
-    border-radius: 4px;
+    border-radius: 1.5rem;
     transition: background-color 0.2s;
     white-space: nowrap;
 
@@ -79,7 +86,7 @@
     font-size: 0.875rem;
     text-decoration: none;
     padding: 0.5rem 1.25rem;
-    border-radius: 4px;
+    border-radius: 1.5rem;
     border: 1px solid;
     transition: opacity 0.2s;
     white-space: nowrap;
@@ -133,6 +140,11 @@
       text-decoration: none;
       padding: 0.75rem 0;
       border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+      &.active {
+        color: var(--primary);
+        font-family: 'CalibreWeb-Bold', 'Roboto', Arial, sans-serif;
+      }
     }
   }
 

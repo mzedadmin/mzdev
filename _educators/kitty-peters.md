@@ -3,6 +3,7 @@ title: Kitty Peters
 position: 24
 subtitle: Filmmaker, YouTube Guru
 name: Kitty Peters
+last_name: Peters
 short_bio: Kitty Peters runs a filmmaking empire, Atola Visuals, which includes a
   leading YouTube channel, a boutique video production business, active communities
   on Twitch and Discord, and popular social media accounts.

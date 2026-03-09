@@ -41,9 +41,6 @@ layout: default
         {% if page['Course Card']['Lessons'] %}{{ page['Course Card']['Lessons'] }} Lessons{% endif %}
         {% if page['Course Card']['Lessons'] and page['Course Card']['Runtime Hours'] %} · {% endif %}
         {% if page['Course Card']['Runtime Hours'] %}{{ page['Course Card']['Runtime Hours'] }}h {{ page['Course Card']['Runtime Minutes'] }}m{% endif %}
-        {% if page['Course Page']['Video'] %}
-         · <a href="{{ page['Course Page']['Video'] }}?autoplay=1" class="cs-trailer-link" data-fancybox data-type="iframe">Watch Trailer</a>
-        {% endif %}
       </p>
       {% endif %}
       <div class="cs-button-group">
@@ -55,6 +52,9 @@ layout: default
               alt="icon" loading="lazy" decoding="async" width="28" height="28" />
           </picture>
         </a>
+        {% if page['Course Page']['Video'] %}
+        <a href="{{ page['Course Page']['Video'] }}?autoplay=1" class="cs-button-trailer" data-fancybox data-type="iframe">&#9654; Watch Trailer</a>
+        {% endif %}
       </div>
     </div>
   </section>

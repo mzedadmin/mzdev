@@ -3,6 +3,7 @@ title: Jem Schofield
 position: 23
 subtitle: Producer, DP, Educator
 name: Jem Schofield
+last_name: Schofield
 short_bio: Jem Schofield is a producer, DP and educator and the founder of theC47,
   a full-service production company that focuses on video production, filmmaking,
   consulting & education. He spends most of his time producing content, educating

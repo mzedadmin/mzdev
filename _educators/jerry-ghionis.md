@@ -3,6 +3,7 @@ title: Jerry Ghionis
 position: 13
 subtitle: Photographer
 name: Jerry Ghionis
+last_name: Ghionis
 short_bio: Jerry Ghionis is widely celebrated as being among the top five best wedding
   photographers in the world. He has emerged as one of the most influential wedding
   photographers of the 21st century.

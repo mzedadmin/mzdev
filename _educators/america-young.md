@@ -3,6 +3,7 @@ title: America Young
 position: 15
 subtitle: Stunt Coordinator, Director
 name: America Young
+last_name: Young
 short_bio: America Young works as a Director, Stunt Coordinator, and Stunt Woman in
   Film, Animation, TV, and Video Games.
 bio: |-

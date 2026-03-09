@@ -3,6 +3,7 @@ title: Digby Hogan
 position: 19
 subtitle: Senior Editor, Co-founder of The Empire Post
 name: Digby Hogan
+last_name: Hogan
 short_bio: Meet your instructor Digby Hogan, Co-Founder and Senior Editor of The Empire
   Post. With an incredibly strong work ethic and a love for all things film making,
   Digby has been working in Film & TV since his late teens.

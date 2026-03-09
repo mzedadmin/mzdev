@@ -3,6 +3,7 @@ title: Vincent Laforet
 position: 7
 subtitle: Director, Filmmaker, Photographer
 name: Vincent Laforet
+last_name: Laforet
 short_bio: Vincent Laforet is among the most influential pioneers working in film
   and contemporary photography today. His work includes iconic and inventive commercials
   for brands including Apple and Nike, as well as photography for magazines such as

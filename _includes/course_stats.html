@@ -6,16 +6,21 @@
   <div class="cs-container">
     <ul class="cs-card-group">
       <li class="cs-item">
-        {% if include.course['Course Card']['Runtime Hours'] == 0 and include.course['Course Card']['Runtime Minutes'] > 0 %}
-          <span class="cs-number">{{ include.course['Course Card']['Runtime Minutes'] }}</span>
-          <span class="cs-stat-text">Minutes Long</span>
+        {% assign _hrs = include.course['Course Card']['Runtime Hours'] | default: 0 %}
+        {% assign _min = include.course['Course Card']['Runtime Minutes'] | default: 0 %}
+        {% assign _total_min = _hrs | times: 60 | plus: _min %}
+        {% assign _total_tenths = _total_min | times: 10 | divided_by: 60 %}
+        {% assign _whole = _total_tenths | divided_by: 10 %}
+        {% assign _frac = _total_tenths | modulo: 10 %}
+        {% if _frac == 0 %}
+          <span class="cs-number">{{ _whole }}</span>
         {% else %}
-          <span class="cs-number">{{ include.course['Course Card']['Runtime Hours'] }}</span>
-          {% if include.course['Course Card']['Runtime Hours'] == 1 %}
-            <span class="cs-stat-text">Hour Long</span>
-          {% else %}
-            <span class="cs-stat-text">Hours Long</span>
-          {% endif %}
+          <span class="cs-number">{{ _whole }}.{{ _frac }}</span>
+        {% endif %}
+        {% if _whole == 1 and _frac == 0 %}
+          <span class="cs-stat-text">Hour Long</span>
+        {% else %}
+          <span class="cs-stat-text">Hours Long</span>
         {% endif %}
       </li>
       <li class="cs-item">

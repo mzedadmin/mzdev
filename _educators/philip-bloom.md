@@ -3,6 +3,7 @@ title: Philip Bloom
 position: 5
 subtitle: Filmmaker
 name: Philip Bloom
+last_name: Bloom
 short_bio: Philip Bloom is a world-renowned filmmaker who has shot feature film, factual
   news and documentary. With a career spanning more than three decades, the past 10
   years have seen him specialize in creating incredible cinematic images with a myriad

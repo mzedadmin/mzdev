@@ -3,6 +3,7 @@ title: Drew Geraci
 position: 20
 subtitle: Photographer, Filmmaker
 name: Drew Geraci
+last_name: Geraci
 short_bio: Drew has an affinity for creating brilliantly colored and high impact HDR
   motion time-lapse productions. His notoriety rose when he landed a job working with
   David Fincher to create the now iconic House of Cards opening credits. His work

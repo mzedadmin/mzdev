@@ -3,6 +3,7 @@ title: Alex Buono
 position: 8
 subtitle: Cinematographer, Producer, Director
 name: Alex Buono
+last_name: Buono
 short_bio: Drawing on his experience as the Director of Photography for the Saturday
   Night Live film unit for 17 years, Alex is able to instantly deconstruct and replicate
   almost any genre or visual style. His work as a Cinematographer and Producer have
