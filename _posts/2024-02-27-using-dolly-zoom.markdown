@@ -10,7 +10,6 @@ subtitle: How to Execute It
 ---
 
 ![The Timeless Craft of Dolly Zoom in Film – How to Execute It](/assets/images/posts/using-dolly-zoom-hero.jpg)
-*Image source: CineD*
 
 **Dolly Zoom, Zolly, Vertigo shot… This unusual technique, invented by Alfred Hitchcock in 1958, has what feels like a thousand names. Call it what you want, even 65 years later, it still creates a distinct dramatic impact on the viewers. Undoubtedly, you've witnessed the Vertigo effect in action on numerous occasions. However, we won't just limit ourselves to analyzing movie examples here. We're going to talk about how to correctly execute the dolly zoom in film, and we will take a look at new ways modern films acquire and develop this cinematic tool.**
 

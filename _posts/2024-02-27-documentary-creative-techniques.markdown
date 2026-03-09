@@ -10,7 +10,6 @@ subtitle: Ideas and Showcases
 ---
 
 ![Creative Techniques to Enhance Your Documentary – Ideas and Showcases](/assets/images/posts/documentary-creative-techniques-hero.jpg)
-*Image source: CineD*
 
 **We talk a lot about visual storytelling and narrative tools in fictional films. [Leading lines](https://www.cined.com/using-lines-in-shot-composition-a-journey-of-visual-mastery-with-film-examples/), creating [depth](https://www.cined.com/types-of-space-in-film-explained-crafting-depth-in-your-cinematic-story/), playing with [aspect ratio](https://www.cined.com/aspect-ratio-as-a-storytelling-tool-a-how-to-with-film-examples/), specific types of [editing](https://www.cined.com/when-to-cut-and-why-unlocking-the-craft-of-precise-editing/)… Some of them apply to documentaries as well. Yet, of course, when we capture the events unfolding before our eyes, it's not always possible to think about framing, let alone stylistic choices. Still, there are plenty of creative techniques that can help to enhance your documentary and add something special to the story you want to tell. Let's take a look at several examples below!**
 

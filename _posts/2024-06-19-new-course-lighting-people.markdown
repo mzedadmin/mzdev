@@ -16,7 +16,6 @@ subtitle: In Lighting People, ASC members Paul Atkins and Stephen Lighthill teac
 **We're proud to launch another course on MZed: [Lighting People – On Location](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4651138-cf5c72). Read on to learn more about this unique online course entirely focused on practical lighting solutions both indoors and outdoors.**
 
 ![Lighting People – On Location: New Course with Paul Atkins & Stephen Lighthill, ASC, only on MZed](/assets/images/posts/new-course-lighting-people-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education Subscription**
 

@@ -13,7 +13,6 @@ subtitle: Every lens tells a different story, even the wildest ultra-wides. Here
 As filmmakers, we know that lenses are not merely pieces of glass. They are our go-to devices to catch light and turn it into pure magic. Each lens has its own characteristics, special effects, and visual style, but not only that. Every one tells a different story – even the wildest ultra-wides. Today, we're talking about a fisheye lens, its distinct look, and narrative use in films.
 
 ![Narrative Powers of a Fisheye Lens – With Film Examples](/assets/images/posts/the-narrative-powers-of-a-fisheye-lens-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

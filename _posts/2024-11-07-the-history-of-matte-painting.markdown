@@ -11,7 +11,6 @@ subtitle: Explore the evolution of matte painting in film
 Do you know the feeling of when you stand on a partially dressed set, look at the monitor, and witness how film magic transforms the space around you? Amazing, right? However, I believe the effect is even more impressive when a painted glass with breathtaking or impossible scenery is placed in front of the camera. Are you familiar with the technique I'm referring to? Yes, as the title suggests, today we'll delve into the world of matte painting, exploring its history and evolution in filmmaking.
 
 ![The Magic of Matte Painting – Its Long History and Film Examples](/assets/images/posts/the-history-of-matte-painting-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

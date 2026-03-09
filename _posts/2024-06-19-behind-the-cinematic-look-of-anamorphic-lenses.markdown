@@ -10,7 +10,6 @@ subtitle: A Short Guide for Beginners
 ---
 
 ![Behind the Cinematic Look of Anamorphic Lenses – A Short Guide for Beginners](/assets/images/posts/behind-the-cinematic-look-of-anamorphic-lenses-hero.jpg)
-*Image source: CineD*
 
 **If you had followed our [NAB 2024 coverage](https://www.cined.com/labels/nab-2024/), you would have definitely noticed the word "anamorphic" popping up in every other video interview. [The first look](https://www.cined.com/atlas-orion-18mm-135mm-and-200mm-first-look/) additions to the Atlas Orion series, [BLAZAR's news](https://www.cined.com/blazar-remus-33mm-t1-6-full-frame-1-5x-anamorphic-lens-announced/), on the upcoming wide angle, and a [live demonstration](https://www.cined.com/blazar-cato-full-frame-2x-anamorphic-lens-set-first-look/) of their new affordable Cato full-frame set are just a few examples. It's remarkable how these lenses have become more accessible over time! No wonder independent shooters also consider buying a set. If you are also intrigued by this concept but have no idea what the "cinematic look of anamorphic lenses"** **means, then this article is for you. Here, we unwrap the difference between spherical vs. anamorphic lenses, explain the technology in simple words, take a glance at anamorphic adapters, and dive deep into why you would want to shoot scope in the first place.**
 

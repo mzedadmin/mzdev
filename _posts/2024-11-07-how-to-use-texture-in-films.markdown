@@ -13,7 +13,6 @@ subtitle: How do we convey the sense of touch in images? By using textures, an o
 When we talk about visual storytelling or deconstructing film scenes, we often discuss composition, lighting, color, sound design, and music. But is there another sensory dimension? One that we human beings experience all the time in real life? Namely: The sense of touch? Well, we obviously can't let the audience touch any of the elements in the shot. However, we can indeed evoke this sensation. How? Through textures, which are a significant visual tool and, sadly, often overlooked. Let's take a look at some inspiring examples of using texture in films!
 
 ![Using Texture in Films – How to Create a Sensorial Cinema Experience](/assets/images/posts/how-to-use-texture-in-films-hero.jpg)
-*Image source: CineD*
 
 Texture is an important part of our lives. Not only does it let us learn about the world through a different sensation than sonic or visual, but it also evokes an emotional response: when we stroke our child's hair, put on fluffy fleece pajamas on Sunday, or walk barefoot through the dew-touched grass.
 

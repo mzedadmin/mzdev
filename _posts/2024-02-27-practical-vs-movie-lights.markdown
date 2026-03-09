@@ -10,7 +10,6 @@ subtitle: How and Why to Use Them
 ---
 
 ![Practical Lights or Movie Lights? – How and Why to Use Them](/assets/images/posts/practical-vs-movie-lights-hero.jpg)
-*Image source: CineD*
 
 **In the beginning, there was light. Without light – no shot, no scene, no film. Of course, we can also tell our stories in complete darkness, but that has little to do with movies. The visual medium needs visibility. Another question is: why don't we just use practical lights instead of heavy lamps and bulky film fixtures? It would be so much easier production-wise! Cinematographer and educator [Tal Lazar](https://latentimages.com/) has not one, but a bunch of answers to this question in his [latest](https://www.cined.com/the-language-of-lighting-learn-how-to-design-light-like-a-pro-in-new-mzed-course/) [MZed course "The Language of Lighting"](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=4468321-f817ef). Let's dive into his lesson, and establish when it's okay to abandon movie lights and go solely for practicals.**
 

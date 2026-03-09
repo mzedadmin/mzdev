@@ -13,7 +13,6 @@ subtitle: Most of you are aware of common ISO numbers and what happens when you 
 Anyone who has held a camera in their hands has seen these three letters – ISO. Nowadays, we might even find them in some smartphone apps, like the [Blackmagic Camera for iPhone](https://www.cined.com/blackmagic-camera-app-1-4-update-now-available/) used in the featured image. Most of you are surely aware of common ISO numbers or what happens when you crank this setting up. However, if we dig deeper and touch on "native ISO", "dual ISO", and the common misconceptions of "how to set it correctly", the discussion often becomes vague. No wonder. It's a complicated topic. So, why don't we revisit the basics and try to really understand ISO on technical and creative levels.
 
 ![Understanding ISO and How to Approach It – Basics for Beginners](/assets/images/posts/iso-basics-for-beginners-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

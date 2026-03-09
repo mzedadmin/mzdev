@@ -13,7 +13,6 @@ subtitle: Coatings, types of glass, diffraction. The more we learn, the deeper o
 Most filmmakers are familiar with basic lens specifications: focal length, aperture, zoom/prime… On the other hand, when we talk about coatings, types of glass, diffraction, breathing, and other advanced terms, even experienced cinematographers may become confused. Lens manufacturers make it easy for us to use their tools without much theory required. But the more we learn, the deeper our understanding of optical phenomena is, and the wider our storytelling kit becomes. Ultimately, we can communicate our creative choices much more easily. That's what Tal Lazar's new course, "The Art & Science of Lenses" [on MZed.com](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876) is all about. In this article, we offer you a sneak peek into the first module, which helps to understand light, how it behaves, and why it is an important foundation for using lenses to their full potential.
 
 ![The Art & Science of Lenses – A New Course Available on MZed Now](/assets/images/posts/art-science-lenses-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

@@ -11,7 +11,6 @@ subtitle: The Storytelling Potential of Frame Rate (with Film Examples)
 ---
 
 ![Manipulating Time Perception – the Storytelling Potential of Frame Rate (with Film Examples)](/assets/images/posts/manipulating-time-perception-hero.jpg)
-*Image source: CineD*
 
 **Time is relative. In films, even more so. As filmmakers, we have developed a huge bundle of tricks for speeding it up, slowing it down, freezing it, or disrupting it. We can even glimpse into the past or future if we need to. Film time is a huge topic on its own. Here, though, we'll narrow it down and take a renewed look at one of the most basic settings every DP or videographer encounters daily: frame rate. Where do conventions like 24fps come from, when can we ignore them, and how to use frame rate as a storytelling tool? Let's explore it together by breaking down some exciting film examples.** 
 

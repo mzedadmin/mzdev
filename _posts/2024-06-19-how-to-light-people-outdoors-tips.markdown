@@ -10,7 +10,6 @@ subtitle: Tips on Handling the Sun from Paul Atkins, ASC
 ---
 
 ![How to Light People Outdoors – Tips on Handling the Sun from Paul Atkins, ASC](/assets/images/posts/how-to-light-people-outdoors-tips-hero.jpg)
-*Image source: CineD*
 
 **Lighting can be tricky. Especially, lighting the faces of various human beings. More so, when you don't have the time or means for a thorough set-up, and above all, are filming outside in ever-changing conditions. Luckily, a situation like this doesn't mean you have to settle for potentially unpleasing visuals. Seasoned wildlife cinematographer [Paul Atkins, ASC](https://paulatkins.com/), offers us a variety of tips on how to light people outdoors and do it quickly, with limited gear, and by using the sun to your advantage.**
 

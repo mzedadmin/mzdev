@@ -12,7 +12,6 @@ subtitle: A Deep-Dive Into Seamless Storytelling
 **Everyone knows what a match cut looks like. Even TikTok kids are masters of seamless transitions nowadays. Yet, carefully constructed match cuts are much more than just eye candy for a wow effect. Throughout the history of cinema, filmmakers have used it as a powerful editing tool to push time forward, to plant new ideas into viewer's heads, or to smoothly glue two scenes together. Not to mention that there are so many kinds of match cuts to explore! Are you ready for a deep dive into the film theory realm? Prepare to emerge!**
 
 ![Mastering Match Cuts – A Deep-Dive Into Seamless Storytelling](/assets/images/posts/mastering-match-cuts-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

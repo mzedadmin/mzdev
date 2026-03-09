@@ -12,7 +12,6 @@ subtitle: How to Find Your Swarm
 "Networking". For some of you, this word alone will evoke unpleasant sensations. I totally get it. We're filmmakers and want to make films, not small talk. However, creating movies, music videos, and other kinds of visual stories is a collaborative process. You need people. Preferably, people you like. Even better – the ones who know their game. And yet, it can be very difficult at times to find your swarm. But don't worry! Here we have gathered some networking tips for filmmakers and video creators that you can try out.
 
 ![Networking Tips for Filmmakers – How to Find Your Swarm](/assets/images/posts/networking-tips-for-filmmakers-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

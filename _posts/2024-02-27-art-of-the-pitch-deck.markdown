@@ -10,7 +10,6 @@ subtitle: Tips from the Industry Experts
 ---
 
 ![How to Create a Convincing Pitch for Your Film? - Tips from the Industry Experts](/assets/images/posts/art-of-the-pitch-deck-hero.jpg)
-*Image source: CineD*
 
 **The end of the year is swiftly approaching, and we can't help but wonder what comes next. Some filmmakers already have big projects and productions planned. Others prepare to face a traditional winter low. Either way, quiet holidays are the perfect time to be creative and think of all those film ideas you carry around in your head. The only question is: how to bring them to life? This is where you might need a convincing pitch for your project to show around. What should it look like, which elements are crucial, and how can it be organized most compellingly? Let's gather some tips from industry experts.**
 

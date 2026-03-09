@@ -13,7 +13,6 @@ subtitle: What if we portray a character through a wide lens? Why do wide-angle 
 When we show our characters up close, most likely we're interested in the emotions they express or are going through at that particular moment. But what if we portray them through a wide lens? How will it affect the overall impact of the shot? What emotions can it convey? And why do wide-angle close-ups always feel so expressive? Let's figure it out together!
 
 ![Wide-angle Close-ups – Expressive Frames and Their Emotional Impact](/assets/images/posts/extreme-close-ups-and-their-place-in-the-visual-story-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

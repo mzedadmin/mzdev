@@ -10,7 +10,6 @@ subtitle: Black Friday Special
 ---
 
 ![How MZed Pro Makes Me a Better Filmmaker](/assets/images/posts/how-mzed-helps-me-as-filmmaker-hero.jpg)
-*Image source: CineD*
 
 **Film school is great, but the truth is, what you learn there is often not practical enough. That's where MZed comes in, arguably the best filmmaking education platform on the internet. In this article, I want to share some of my personal highlights from the MZed Pro subscription. MZed Pro contains 50+ filmmaking courses, over 450 hours of distilled knowledge from industry experts, over 800 lessons, and countless insights. To give you an idea of what you will get with [MZed Pro](https://www.mzed.com/?tap_a=17272-420962&tap_s=4293130-5cfffb), I gathered my personal MZed Pro lessons and highlights from different courses.**
 

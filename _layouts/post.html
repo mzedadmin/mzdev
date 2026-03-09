@@ -4,25 +4,17 @@ layout: default
 
 <main id="main">
   <!-- ============================================ -->
-  <!--                 Hero Image                   -->
-  <!-- ============================================ -->
-  {% if page.image %}
-  <section id="post-hero">
-    <picture class="cs-background">
-      <source media="(min-width: 1024px)" srcset="{{ page.image }}">
-      <source media="(min-width: 601px)" srcset="{{ page.image }}">
-      <source media="(max-width: 600px)" srcset="{{ page.image }}">
-      <img aria-hidden="true" loading="eager" decoding="async"
-          src="{{ page.image }}" alt="{{ page.title }} hero image" width="1920" height="600">
-    </picture>
-    <div class="cs-overlay"></div>
-  </section>
-  {% endif %}
-
-  <!-- ============================================ -->
   <!--               Post Content                   -->
   <!-- ============================================ -->
   <article class="post-container" data-reveal>
+    <nav class="post-breadcrumbs" aria-label="Breadcrumb">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <span class="post-breadcrumbs__sep">/</span>
+      <a href="{{ site.baseurl }}/news/">Blog</a>
+      <span class="post-breadcrumbs__sep">/</span>
+      <span class="post-breadcrumbs__current">{{ page.title }}</span>
+    </nav>
+
     <header class="post-header">
       <div class="post-meta">
         <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
@@ -54,7 +46,7 @@ layout: default
       {% else %}
       <div></div>
       {% endif %}
-      
+
       {% if page.next.url %}
       <a href="{{ page.next.url | relative_url }}" class="nav-link nav-next">
         <span class="nav-label">Next Post</span>
@@ -65,4 +57,27 @@ layout: default
       {% endif %}
     </nav>
   </article>
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fancybox.css" />
+  <script src="{{ site.baseurl }}/assets/js/fancybox.umd.js"></script>
+  <script>
+  (function() {
+    var base = '{{ site.baseurl }}';
+    var imgs = document.querySelectorAll('.post-content img');
+    imgs.forEach(function(img) {
+      if (img.closest('a')) return;
+      var raw = img.getAttribute('src') || '';
+      var href = (raw.startsWith('/') && !raw.startsWith(base)) ? base + raw : raw;
+      var a = document.createElement('a');
+      a.href = href;
+      a.setAttribute('data-fancybox', 'post-gallery');
+      a.setAttribute('data-caption', img.alt || '');
+      img.parentNode.insertBefore(a, img);
+      a.appendChild(img);
+    });
+    if (typeof Fancybox !== 'undefined') {
+      Fancybox.bind('[data-fancybox="post-gallery"]');
+    }
+  })();
+  </script>
 </main>

@@ -13,7 +13,6 @@ subtitle: Mastering Narrative Perspective and Related Camera Techniques
 **The annual [Festival de Cannes](https://www.festival-cannes.com/en/) is in full swing. As usual, in the official selection, we can see everything from directorial debuts (for example, the coming-of-age drama "[Wild Diamond](https://www.imdb.com/title/tt28319139/)" by Agathe Riedinger) to loud comebacks (like "[Megalopolis](https://www.imdb.com/title/tt10128846/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Megalopolis)" by Francis Ford Coppola, his longtime passion project). The range and variety of films presented at the festival bring us back to the topic of the filmmaker's voice. We tell stories differently and that's what keeps the motion picture's heart beating. How can you develop your voice and what does the term "narrative perspective" have to do with it? Let's find out!**
 
 ![The Filmmaker's Voice – Mastering Narrative Perspective and Related Camera Techniques](/assets/images/posts/mastering-narrative-perspective-camera-techniques-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

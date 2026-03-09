@@ -13,7 +13,6 @@ subtitle: In this article, we explain what the Technicolor look means, and how i
 Our world is full of color, and so are most contemporary movies. Yet, it hasn't always been this way. If you're interested in film history, then you were probably as curious about the Technicolor era as I was. Even if you're not, this term seems to pop up more and more lately. Believe it or not, two of this year's [Oscar nominees](https://www.cined.com/oscar-nominations-2024-announced-not-without-surprises/) emulated lush, bright, and vibrant visuals from the past. But why? In this article, we explain what the Technicolor look means, and how this groundbreaking technology worked. Also, we explore some modern films inspired by this aesthetic, and why they used it.
 
 ![The Technicolor Look and Its Journey – How this Technology Has Inspired Films to This Day](/assets/images/posts/technicolor-look-hero.jpg)
-*Image source: CineD*
 
 **MZed Pro 1-Year Filmmaking Education**
 

@@ -11,7 +11,6 @@ subtitle: Diving into a Meaningful Conversation in Your Podcast or Video
 Interviews. They have existed for so long and are still a large part of podcasting, documentaries, portrait films, and corporate videos. Even if you just arrange a conversation with an expert while researching for your next script – you need the most meaningful answers you can get, don't you? Let's talk about the art of the interview and how to conduct it as effectively as possible.
 
 ![The Art of the Interview – Diving into a Meaningful Conversation in Your Podcast or Video](/assets/images/posts/the-art-of-the-interview-hero.jpg)
-*Image source: CineD*
 
 Before I became a filmmaker, I used to be a journalist for several radio and media companies. My experience as an interviewer taught me a lot once I started filming documentaries and branded content. The knowledge of guiding a meaningful conversation is widely applicable in different areas, and yes – you can learn and practice how to do it.
 

@@ -11,7 +11,6 @@ subtitle: Made of Plastic, It's Fantastic?
 ---
 
 ![Authentic Artificiality of Barbie's Cinematography – Made of Plastic, It's Fantastic?](/assets/images/posts/barbie-cinematography-hero.jpg)
-*Image source: CineD*
 
 **You can hate it, love it, despise it, or praise it – film is, after all, a subjective matter. Yet it's undeniable that "[Barbie](https://www.imdb.com/title/tt1517268/?ref_=nv_sr_srsg_1_tt_4_nm_3_q_barbie)" achieved incredible box office success and sparked a discussion on feminist topics last summer **with renewed force**. Although the movie [hasn't seemed to perform particularly well](https://www.cined.com/oscar-nominations-2024-announced-not-without-surprises/) during the Award season and holds no Oscar nomination for cinematography, we still decided to peek into its pink plastic world with the help of the movie's DP [Rodrigo Prieto](https://www.imdb.com/name/nm0006509/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_Rodrigo%2520Prieto). Rodrigo shared his insights into Barbie's cinematography and talked about his collaboration with director [Greta Gerwig](https://www.imdb.com/name/nm1950086/?ref_=tt_ov_dr) in [the ASC clubhouse conversation](https://vimeo.com/892106375).**
 

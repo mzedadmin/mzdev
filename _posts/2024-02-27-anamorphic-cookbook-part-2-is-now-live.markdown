@@ -11,7 +11,6 @@ subtitle: Camera Rigging Secrets and More
 ---
 
 ![Anamorphic Cookbook Part 2 Course Launched on MZed – Camera Rigging Secrets and More](/assets/images/posts/anamorphic-cookbook-part-2-is-now-live-hero.jpg)
-*Image source: CineD*
 
 **Great news for all the anamorphic lovers! We just added the [second part of the "Anamorphic Cookbook" course on MZed.co](https://www.mzed.com/courses/anamorphic-cookbook-part-2?tap_a=17272-420962&tap_s=4447088-6dd239)m. This time around, filmmaker Tito Ferradans talks about everything related to rigging. What is the best setup when you use adapters? How to deal with the weight distribution at the front when shooting on a gimbal? Which solution will help against the keystone effect? Let's peek behind the curtain of Anamorphic Cookbook Part 2 together!**
 

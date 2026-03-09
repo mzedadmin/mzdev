@@ -10,7 +10,6 @@ subtitle: Tips and Exercises That Smart Directors Use
 ---
 
 ![Rehearsing with Actors - Tips and Exercises That Smart Directors Use](/assets/images/posts/rehearsing-with-actors-hero.jpg)
-*Image source: CineD*
 
 **Let's get it straight: I'm a huge fan of rehearsals. Whether you make feature films, music videos, or even commercials, as long as you work with real people – you will need them. Rehearsals aren't just fun and games, they are a great place for troubleshooting. If the scene doesn't work on set, you're doomed. If it doesn't work in prep, there are countless ways to fix it. Naturally, no article could ever cover all acting techniques and directing styles. (It takes years of education and experience to acquire them). However, we decided to gather some simple tips and exercises directors use while rehearsing with actors. They can come in handy, especially if you get stuck or need to figure out why a particular performance doesn't feel right.**
 

@@ -12,7 +12,6 @@ subtitle: Let's look at split screens in film history and what we can learn from
 Split screens. Collages made of moving images. We see them so much on TikTok, Instagram, and YouTube nowadays that they seem a useful modern invention. However, this notion is incorrect. Split screens have existed since almost the beginning of cinema and are – above all – a mighty tool in the editor's kit. What are they at the core? A fancy stylistic choice? A magic trick to enhance suspense? A chance to tell a story from different perspectives? Let's take a look at a vast collection of examples, from classic masterpieces to contemporary series, and find out.
 
 ![Sharing the Frame – Split Screens in Films and the Visual Stories They Tell](/assets/images/posts/split-screens-in-films-and-the-visual-stories-they-tell-hero.jpg)
-*Image source: CineD*
 
 The truth is: In knowing hands, split screens in films can follow different goals. They are an editing technique, after all, and as with every technique, they require intention. Why do you decide to put two or more shots on the same screen simultaneously? What effect should it create?
 
