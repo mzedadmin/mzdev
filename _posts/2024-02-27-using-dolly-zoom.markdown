@@ -9,11 +9,7 @@ meta_description: Explore the timeless craft of dolly zoom technique - from Hitc
 subtitle: How to Execute It
 ---
 
-![The Timeless Craft of Dolly Zoom in Film – How to Execute It](/assets/images/posts/using-dolly-zoom-hero.jpg)
-
 **Dolly Zoom, Zolly, Vertigo shot… This unusual technique, invented by Alfred Hitchcock in 1958, has what feels like a thousand names. Call it what you want, even 65 years later, it still creates a distinct dramatic impact on the viewers. Undoubtedly, you've witnessed the Vertigo effect in action on numerous occasions. However, we won't just limit ourselves to analyzing movie examples here. We're going to talk about how to correctly execute the dolly zoom in film, and we will take a look at new ways modern films acquire and develop this cinematic tool.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 Being an experimenter at heart and a widely-known master of suspense, Hitchcock is said to have first thought of a Dolly Zoom shot during the filming of his "[Rebecca](https://www.imdb.com/title/tt0032976/)" in 1940. Yet, at that time, he couldn't quite get the hang of the technical side. So, the marvelous invention came to life only 18 years later, in the hands of Irmin Roberts, a Paramount second-unit cameraman. The tale goes that the Director approached him at a party and asked his help in creating a shot that could transfer a feeling of being drunk. True or not, the brainchild of Hitchcock brought a completely new tool to the cinematographic table and will forever carry his name.
 
@@ -30,14 +26,6 @@ So, as the name suggests, the Dolly Zoom includes a dolly and a zoom. Normally, 
 <iframe loading="lazy" title="Great Movie Scenes: Fargo TV Scene" width="500" height="375" src="https://www.youtube-nocookie.com/embed/QPTGHTowMIM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 In this example from "Fargo", we see two drastically different couples watching TV late at night: reckless thugs, and lovers expecting a baby. Using a TV as an object that connects both shots also sets the needed contrast between the environments and characters.
-
-Related Course
-
-## Vincent Laforet's Directing Motion
-
-[![Vincent Laforet's Directing Motion](/assets/images/posts/using-dolly-zoom-vincent-laforet-course.jpg)](https://www.mzed.com/courses/vincent-laforet-directing-motion?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Commercial Director and Pulitzer-Prize winning Photographer Vincent Laforet teaches filmmakers the precise cinematic language of motion, and how to move the camera and the components in your scene.
 
 ## **Zoom as the second basic movement**
 
@@ -132,13 +120,9 @@ My last example comes from "[Everything Everywhere All at Once](https://www.cine
 
 But Mascha, you may say, it's not a Dolly-Zoom, it's a green screen! – and you won't be wrong. Yet, these shots look inspired by Zolly and the visual distortion of the background it normally creates. "Everything Everywhere All at Once" goes beyond the old technique, letting [Michelle Yeoh's](https://www.imdb.com/name/nm0000706/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_Michelle%2520Yeoh) character literally fly through the space. Isn't it a cool twist on a traditional cinema tool?
 
-**I hope this will inspire you as well to take a fresh look at some traditional camera movements, and maybe find an approach no one has ever thought of before. Or just have fun creating Dolly Zooms for your projects. Have you already executed one? What tips and tricks can you share with beginners? Are there any other examples from films you really adore? Let's talk in the comments below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4586322-fefd15) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
 **Additional sources:** 
 
 -   "The Visual Story" by Bruce Block, second edition, 2008;
 -   "Cinematic Storytelling" by Jennifer Van Sijll, 2005.
 
-_Feature image source:_ _film stills from „Jaws" by Steven Spielberg, 1975, and from "Severance" by Ben Stiller, 2022_
+*Feature image source:_ _film stills from „Jaws" by Steven Spielberg, 1975, and from "Severance" by Ben Stiller, 2022*

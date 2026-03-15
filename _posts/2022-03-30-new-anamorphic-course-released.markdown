@@ -24,7 +24,7 @@ The giveaway is only open for one month (30 March till 30 April, 2022) and every
 
 ## **The Giveaway Prize: SIRUI 50mm T2.9 Full Frame Anamorphic Lens**
 
-**![sirui anamorphic lens giveaway](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/sirui-50mm-t29-lens-giveaway-cined.jpg)**
+**![sirui anamorphic lens giveaway](/assets/images/posts/sirui-50mm-t29-lens-giveaway-cined.jpg)**
 
 We are excited to be partnering up with SIRUI for this New Course Giveaway, as the SIRUI 50mm T2.9 Full Frame Anamorphic Lens has quickly become one of the most popular and affordable anamorphic solutions in the market.
 
@@ -32,33 +32,11 @@ The lens covers a Full-Frame format, and with a maximum aperture of T2.9, good p
 
 Its squeeze factor of 1.6x results in a 2.8:1 aspect ratio when paired with a 16:9 sensor, and 2.4:1 when shooting in 3:2 mode. This squeeze factor maximizes the sensor resolution and provides the classic blue light streaks.
 
-![sirui 50mm t2.9 full frame anamorphic lens](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/sirui-50mm-full-frame-t29-lens-giveaway.jpg)
+![sirui 50mm t2.9 full frame anamorphic lens](/assets/images/posts/sirui-50mm-full-frame-t29-lens-giveaway.jpg)
 
 The lens is available in four mount options: RF-Mount for Canon/RED KOMODO, L-Mount for Leica/Panasonic/SIGMA, E-Mount for Sony and Z-Mount for Nikon.
 
 If you're not familiar with this lens, head on over to our [review](https://www.cined.com/panasonic-lumix-bs1h-and-sirui-50mm-t2-9-1-6x-lens-review/) of this lens, together with the Panasonic LUMIX BS1H. If you are interested to know how this lens performed together with RED KOMODO, [check out our review here](https://www.cined.com/sirui-50mm-t2-9-1-6x-anamorphic-lens-on-red-komodo-real-world-review/).
-
-## **More Benefits of being part of the MZed family**
-
-[Join MZed Pro now](https://www.mzed.com/checkout/?sku=MZEDPRO12) and get instant access to MZed's extensive library of nearly 300 hours of professional filmmaking advice, with many world-renowned filmmakers, directors, and cinematographers as educators.
-
-![MZed all courses](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/mzed-all-courses.jpg)
-
-An MZed Pro Membership Includes:
-
-  * \- 500+ expertly-taught lessons
-  * \- 43 courses, from craft-based to technical, across almost every filmmaking discipline
-  * \- 280+ hours of the world's best education for filmmakers
-  * \- $9500+ Combined course value
-  * \- Industry Certification for many courses upon completion
-  * \- iOS app to watch courses and lessons anywhere with offline viewing
-  * \- Monthly Giveaways (MZed Pro members are automatically entered to win)
-  * \- Discounts to partners such as FilmConvert, Vimeo, and Musicbed
-  * \- LUT package worth $49
-
-
-
- 
 
 **For the full Terms & Conditions of our giveaway, please click [here](https://www.cined.com/terms-conditions-new-mzed-pro-course-giveaway-march-april-2022/).**
 

@@ -20,19 +20,19 @@ Let's get back to basics. Needless to say, we haven't always had a variety of as
 History takes us all way back to 1892 when George Eastman gave Thomas Edison a roll of 35-millimeter wide film, leading to the creation of a frame that was four perforations tall. The interior image measured 18 by 25mm (equivalent to a 1.33 aspect ratio), and this remained the universal film standard for years. With the advent of sound in 1932, the frame suddenly had to accommodate an optical soundtrack as well, which reduced the inside picture size bringing the aspect ratio to 1.37 (commonly known as the "Academy Ratio").
 
 ![Historical development of aspect ratios with sound invention](/assets/images/posts/aspect-ratio-storytelling-sound-invention.jpg)
-*The invention of sound changed film aspect ratios forever. Image source: Alex Buono / MZed*
+*Image source: Alex Buono / MZed*
 
 But the famous "box" (1.33, or as we often refer to it–4:3) didn't die out. When television was invented, it adopted the beloved format and gave it new life. Now, filmmakers were concerned about how to bring people back to movie theatres. So, in 1953, Paramount created a 1.66 widescreen format, starting a new boom in development. The screen got wider and wider, reaching up to absolutely insane aspect ratios, like MGM65 2.76, in which the movie "[Ben-Hur](https://www.imdb.com/title/tt0052618/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Ben%2520Hur)" was shot.
 
 ![Ben-Hur ultra-wide aspect ratio example](/assets/images/posts/aspect-ratio-storytelling-ben-hur.jpg)
-*Ben-Hur showcased extremely wide aspect ratios for epic storytelling. Film still from "Ben-Hur" by William Wyler (1959)*
+*A film still from "Ben-Hur" by William Wyler (1959)*
 
 This unmanageable expansion of the screen stabilized with the increasing reliability of anamorphic lenses. Nowadays, we have two scope standards: an anamorphic with a 2.35 aspect ratio, and a "flat" 1.85 widescreen (used for filming with spherical lenses).
 
 What about 16:9 then? Well, as technology advanced, some engineers opted to create a new format for television. In dealing with the fact that some filmmakers still liked the square frame and others utilized the whole anamorphic scope, the new aspect ratio needed to cater to both choices without distorting the image. So, as you see in the illustration below, they basically drew a frame around the whole thing and called it "high definition".
 
 ![How 16:9 aspect ratio was created](/assets/images/posts/aspect-ratio-storytelling-16-9-invention.jpg)
-*The creation of 16:9 as a compromise format. Image source: Alex Buono / MZed*
+*Image source: Alex Buono / MZed*
 
 If you're ever in doubt or want to choose an aspect ratio based on pure logistics, go for 16:9. It won't let you down as it's compatible with most standard HD televisions and monitors. However, if you're up to trying something different, let's look at several options.
 
@@ -40,150 +40,96 @@ If you're ever in doubt or want to choose an aspect ratio based on pure logistic
 
 First, a specific aspect ratio can become a time machine in your film, paying tribute to a particular period or filmmaking phase. Let's take 4:3. Historically, the box was associated with a television format. Also, some viewers might feel slightly nostalgic looking at this aspect ratio because the earliest movies used it as well. So, if you want to evoke this emotional response, consider 1.33 as your format. You can also play with history as [Wes Anderson](https://www.imdb.com/name/nm0027572/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_Wes%2520Anderson) does in his "[The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_The%2520Grand%2520Budapest%2520Hotel)". For example, take a look at the three film stills below. All of these scenes take place in different periods (1932, 1968, and the 1980s), so the director uses various aspect ratios, which were common at each specific time.
 
-![The Grand Budapest Hotel 4:3 aspect ratio](/assets/images/posts/aspect-ratio-storytelling-grand-budapest-4-3.jpg)
-*Wes Anderson uses different aspect ratios for different time periods. Film stills from "The Grand Budapest Hotel" by Wes Anderson (2014)*
+![The Grand Budapest Hotel aspect ratios](/assets/images/posts/aspect-ratio-storytelling-grand-budapest-4-3.jpg)
+*Film stills from "The Grand Budapest Hotel" by Wes Anderson (2014)*
 
 Another reason why a filmmaker might choose an almost square 1.33 aspect ratio lies in the story they want to tell. If your film follows a personal and deeply emotional story, 4:3 might be a wise choice. Why? Because it's an absolutely gorgeous format to frame faces. When you opt for middle shots or close-ups, the head of your character will fill out a big part of the screen compared to, say, a classic cinemascope with a lot of empty space on the side. It's only logical, right?
 
 As we know from other [film theory lessons](https://www.cined.com/learning-the-camera-language-tips-on-the-fundamentals-of-directing/), close-ups of faces are a great way to connect viewers to your character emotionally, without words. For example, here are some stills from "[American Honey](https://www.imdb.com/title/tt3721936/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_American%2520Honey)", a road drama from 2016 shot in 4:3. This film tells the story of a young girl, Star, from a troubled family, who runs away with a traveling sales crew and goes through different challenges of youth and growing up.
 
 ![American Honey 4:3 intimate framing](/assets/images/posts/aspect-ratio-storytelling-american-honey.jpg)
-*American Honey uses 4:3 for intimate character focus. Film still from "American Honey" by Andrea Arnold (2016)*
+*Film stills from "American Honey" by Andrea Arnold (2016)*
 
-The square-ish format forces the viewer to focus on Star's face and expressions, creating an intimate connection that might be lost in a wider frame. Director Andrea Arnold's choice of 4:3 supports the film's themes of youth, vulnerability, and personal discovery.
+The chosen frame format focuses solely on her face, tapping into her inner world. Everything else here is blended out. We relate to her feelings and concerns. What's interesting is that some people perceive such an aspect ratio as too tight, even claustrophobic, which is not a contradiction to her story at all.
 
-## Scope formats for epic storytelling
+Quite the opposite: it's another visual effect you may achieve when deciding on a 4:3 format. By boxing your characters in a tight frame, you provoke an uncomfortable feeling of distress. For me, the most powerful example of using this aspect ratio as a storytelling tool is "[A Ghost Story](https://www.imdb.com/title/tt6265828/)". This is also one of my favorite films, which brings me to tears and an existential crisis whenever I rewatch it.
 
-On the opposite end of the spectrum, we have ultra-wide formats like 2.35:1 and 2.39:1. These scope formats are ideal for:
+![A Ghost Story claustrophobic 4:3 framing](/assets/images/posts/aspect-ratio-storytelling-ghost-story-1.jpg)
 
-**Epic landscapes:** Wide vistas, sweeping horizons, and grand scale environments.
+![A Ghost Story still](/assets/images/posts/aspect-ratio-storytelling-ghost-story-2.jpg)
 
-**Action sequences:** Car chases, battle scenes, and dynamic movement across the frame.
+![A Ghost Story still](/assets/images/posts/aspect-ratio-storytelling-ghost-story-3.jpg)
+*Film stills from "A Ghost Story" by David Lowery (2017)*
 
-**Ensemble scenes:** Multiple characters sharing the frame in complex blocking.
+## Widescreen for epic landscapes
 
-**Architectural grandeur:** Showcasing impressive buildings, interiors, and designed spaces.
+However, certain stories call for a widescreen presentation, particularly those in which landscapes, nature, and various environments play a significant role in the storyline. They may represent essential symbols, or even be personified as characters within the film. Among such examples are "[The Tree of Life](https://www.imdb.com/title/tt0478304/)", "[Nomadland](https://www.imdb.com/title/tt9770150/)", and "[Apocalypse Now](https://www.imdb.com/title/tt0078788/)", to name a few. All of them were shot in some iteration of widescreen. Trust me, it's not a coincidence.
 
-![The Grand Budapest Hotel scope format](/assets/images/posts/aspect-ratio-storytelling-grand-budapest-scope.jpg)
-*Scope format used for grand, epic moments in The Grand Budapest Hotel. Film still from "The Grand Budapest Hotel" by Wes Anderson (2014)*
+![The Tree of Life widescreen](/assets/images/posts/aspect-ratio-storytelling-tree-of-life.jpg)
+*A film still from "The Tree of Life" by Terrence Malick (2011), aspect ratio: 1.85:1*
 
-The scope format creates a sense of cinematic grandeur and can make even intimate scenes feel more theatrical and important. However, it requires careful composition to avoid leaving too much empty space in the frame.
+![Nomadland cinemascope](/assets/images/posts/aspect-ratio-storytelling-nomadland.jpg)
+*The aspect ratio of 2.39:1 in "Nomadland" by Chloé Zhao (2020)*
 
-## Changing aspect ratios within a single film
+![Apocalypse Now widescreen](/assets/images/posts/aspect-ratio-storytelling-apocalypse-now.jpg)
+*"Apocalypse Now" by Francis Ford Coppola (1979), aspect ratio for DVD version: 2.00:1*
 
-Some filmmakers take the bold step of changing aspect ratios within a single film to enhance storytelling. This technique can:
+Because of the width of the frame size, these aspect ratios are a perfect choice for wide cinematic landscape shots. This is also the reason why Westerns adopted widescreen formats straightaway, capturing sprawling mountain vista panoramas, and desert landscapes in their full grandeur. "[The Good, The Bad, and The Ugly](https://www.imdb.com/title/tt0060196/)" or "[Once Upon a Time in The West](https://www.imdb.com/title/tt0064116/)" are classic examples of how filmmakers also used screen size for the sake of staging epic fights or chase scenes.
 
-**Indicate flashbacks or different time periods:** Like Anderson's approach in The Grand Budapest Hotel.
+## Shifting aspect ratios like Christopher Nolan
 
-**Show character perspective:** Wider ratios for external world, narrower for internal thoughts.
+We already touched on mixed aspect ratio films in the example of "The Grand Hotel Budapest", where various formats aided Wes Anderson in leading the audience through different time periods. Yet, you can also shift aspect ratios to create a visceral viewing experience or to clearly divide different narratives from each other. A renowned director, [Christopher Nolan](https://www.imdb.com/name/nm0634240/), does this in almost all his work.
 
-**Build tension:** Gradually changing from wide to narrow as tension increases.
+To give you an idea, think of his most recent feature, "[Oppenheimer](https://www.imdb.com/title/tt15398776/)". While it was shot entirely on IMAX cameras (Nolan has already become an unofficial ambassador for this format), the biopic constantly jumps between two different aspect ratios: the tall IMAX-friendly 1:43:1, and the wider letterbox 2:20:1.
 
-**Separate reality from fantasy:** Different ratios for different narrative layers.
+![Oppenheimer IMAX aspect ratio](/assets/images/posts/aspect-ratio-storytelling-oppenheimer-imax.jpg)
 
-**Examples of films using multiple aspect ratios:**
+![Oppenheimer widescreen aspect ratio](/assets/images/posts/aspect-ratio-storytelling-oppenheimer-widescreen.jpg)
+*Film stills from "Oppenheimer" by Christopher Nolan (2023)*
 
-- **The Grand Budapest Hotel:** Uses three different ratios for three time periods
-- **Mommy:** Switches from 1:1 to scope to show emotional liberation
-- **The Dark Knight:** IMAX sequences in 1.43:1, regular scenes in 2.39:1
-- **First Man:** Various ratios to show different spacecraft environments
+Setting the different color approaches aside, what effect do these two different stills have on you? To me, the IMAX format feels like it's opening up the world of Oppenheimer and making him a bit more relatable and human. When the widescreen suddenly expands, it's like peeking through the keyhole of his mindset, and we suddenly understand his inner motives, fears, and guilt for the nasty choices he makes. On the contrary, the 2.20:1 aspect ratio feels like a standard and even an objective point of view, as if the frames show glimpses of real history.
 
-## Practical considerations for different aspect ratios
+## Choosing an unconventional aspect ratio as a storytelling tool
 
-When choosing an aspect ratio for your project, consider:
+Nowadays, the three formats mentioned above (4:3, 16:9, and scope) are considered standard for film and video production. Yet, as we well know, rules are there to break them. So, if your story needs another, non-conventional aspect ratio, I encourage you to go for it.
 
-### Technical factors:
+My favorite example here is the film "[The Lighthouse](https://www.imdb.com/title/tt7984734/)", a striking psychodrama by [Robert Eggers](https://www.imdb.com/name/nm3211470/) about two lighthouse keepers slowly going mad in isolation. Eggers chose a very unusual aspect ratio for his work: an almost square 1.19:1. He did it not to be noticeable, but also to stay true to the historical era. The chosen frame format created this weird, boxed-in atmosphere, and supported an extreme sense of claustrophobia and isolation. That's what the characters feel, and that's what viewers also feel very strongly.
 
-**Distribution requirements:** What platforms will show your film?
+![The Lighthouse 1.19:1 aspect ratio](/assets/images/posts/aspect-ratio-storytelling-lighthouse-1.jpg)
 
-**Equipment limitations:** Do your cameras support the desired ratio natively?
+![The Lighthouse still](/assets/images/posts/aspect-ratio-storytelling-lighthouse-2.jpg)
 
-**Post-production workflow:** How will you handle different ratios in editing?
+![The Lighthouse still](/assets/images/posts/aspect-ratio-storytelling-lighthouse-3.jpg)
 
-**Exhibition venues:** Movie theaters, streaming, television, mobile devices?
+![The Lighthouse still](/assets/images/posts/aspect-ratio-storytelling-lighthouse-4.jpg)
 
-### Creative factors:
+![The Lighthouse still](/assets/images/posts/aspect-ratio-storytelling-lighthouse-5.jpg)
 
-**Story themes:** Intimate vs. epic, personal vs. universal
+![The Lighthouse still](/assets/images/posts/aspect-ratio-storytelling-lighthouse-6.jpg)
 
-**Character focus:** Single protagonist vs. ensemble cast
+![The Lighthouse still](/assets/images/posts/aspect-ratio-storytelling-lighthouse-7.jpg)
+*Film stills from "The Lighthouse" by Robert Eggers (2019)*
 
-**Visual style:** Realistic vs. stylized, modern vs. period
+What adds to the intrigue is that this particular aspect ratio decision needed to be made during the very initial stages of conception. Filmmakers constructed each and every building (including the lighthouse, naturally), and piece of set design to perfectly fit into the square format. It was an immense amount of work, but in the end, the result was worth it. In the video below, the film creators explain some of the process behind the scenes:
 
-**Genre conventions:** What do audiences expect from your genre?
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RHKrMMapXEo?feature=oembed" title="The Lighthouse | The World | Official Featurette HD | A24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Aspect ratio in the digital age
+Maybe you can come up with a completely different format, who knows? Alex Buono in his course, for example, asks why we never established 1.61 as a go-to aspect ratio. It is considered a golden ratio in art history, after all, and the most perfect dimension that mankind has come up with. I think it would be an amazing idea to explore if your story revolves around themes of perfection or art.
 
-Modern filmmaking offers unprecedented flexibility in aspect ratios:
+## Breaking the rules
 
-**Variable aspect ratios:** Some cameras can record multiple ratios simultaneously
+You can also break the aspect ratio stereotypes altogether and play with viewers' expectations, as director [Ang Lee](https://www.imdb.com/name/nm0000487/) once did in "[Life of Pi](https://www.imdb.com/title/tt0454876/)". Do you remember the flying fish crossing the black bars on the bottom of the screen? I do. Maybe it was exactly this creative choice that made it feel surprising and engaging.
 
-**Digital mastering:** Easy to create different versions for different platforms
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XDaxDvHkWfw?feature=oembed" title="Life of Pi | Flying Fish | 20th Century FOX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Streaming platforms:** Growing acceptance of non-standard ratios
+## A couple of words on 9:16
 
-**Mobile consumption:** Vertical video becoming more accepted
+I want to wrap up with a few words on a vertical aspect ratio of 9:16. We use it very often in the modern world of video, as people watch a large amount of content on their phones without turning them horizontally (Instagram reels, TikTok, you name it).
 
-**Social media:** Square formats gaining popularity for specific content
+But even in this case, knowing the aspect ratio from the beginning may bring great results to the table. How? Just watch the short film, "The Stunt Double", created by the Oscar-winning director [Damien Chazelle](https://www.imdb.com/name/nm3227090/), an author of such iconic works as "Whiplash", "La La Land", and "Babylon". This is an example of creative thinking, and adapting your story to the vertical screen, taking full advantage of it.
 
-## Working with aspect ratios in post-production
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5f1WymwaOVo?feature=oembed" title="Apple Short Movie | Shot on iPhone by Damien Chazelle – Vertical Cinema" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Planning considerations:
+Cinemascope, 16:9, the box, or something completely different – your choice, as long as it supports your story or helps to create a specific atmosphere and impact. Of course, it's not obligatory to change the aspect ratio every time you make a new movie. Yet, it's indeed a great tool in your filmmaking kit to keep in mind.
 
-**Shoot wider than your final ratio:** This allows for reframing in post
-
-**Consider multiple deliverables:** Plan for different versions early
-
-**Graphics and titles:** Design elements that work across different ratios
-
-**Color grading:** Different ratios may require different approaches
-
-### Technical workflow:
-
-**Timeline settings:** Set up your editing system for multiple ratios
-
-**Export considerations:** Different ratios for different platforms
-
-**Quality control:** Ensure proper framing across all deliverables
-
-**Archive formats:** Plan for future flexibility
-
-## Audience psychology and aspect ratios
-
-Different aspect ratios create different psychological responses in viewers:
-
-**4:3 feels intimate and nostalgic:** Viewers associate it with older films and TV
-
-**16:9 feels neutral and familiar:** The standard that doesn't draw attention to itself
-
-**Scope feels cinematic and grand:** Associated with big-budget, theatrical experiences
-
-**Vertical feels modern and personal:** Associated with mobile-first content
-
-**Square feels artistic and crafted:** Instagram has made this feel curated and intentional
-
-## Learn more about visual storytelling with MZed Pro
-
-As an [MZed Pro member](https://www.mzed.com/), you get access to over 500 hours of filmmaking education, including Alex Buono's comprehensive course on visual storytelling and aspect ratio usage.
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-## Conclusion
-
-Aspect ratio is far more than a technical specification—it's a powerful storytelling tool that can enhance your film's emotional impact, support its themes, and guide audience attention. Whether you choose the intimacy of 4:3, the familiarity of 16:9, or the grandeur of scope, your aspect ratio should serve your story's needs.
-
-The key is to make conscious, deliberate choices about aspect ratio rather than simply accepting defaults. Consider how the shape of your frame affects the way audiences experience your story, and don't be afraid to experiment with unconventional ratios if they serve your creative vision.
-
-As filmmaking technology continues to evolve, aspect ratio remains one of the fundamental creative decisions that can distinguish your work and enhance its storytelling power. Use it wisely, and it becomes another tool in your cinematic toolkit for creating more engaging, emotionally resonant films.
+*Feature image source: film stills from "The Grand Budapest Hotel" and "Nomadland", combined with aspect ratio frames from the MZed course by Alex Buono.*

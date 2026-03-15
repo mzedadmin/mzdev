@@ -87,23 +87,3 @@ We can use this knowledge to pick the right time to cut and the reasoning behind
 ## Other tips for becoming a better editor
 
 If you're interested in making your edit precise and thoughtful, you can take a look at such concepts as "the rule of six" (but remember, rules also exist for you to break them). In the [MZed course "The Cutting Edge"](https://www.mzed.com/courses/the-cutting-edge) by Adam Epstein, he goes through every aspect of the rules, supporting the theory with famous film examples. We will also write educational pieces on different filmmaking topics in the future, so stay tuned.
-
-## What else do you get with MZed Pro?
-
-As an [**MZed Pro member**](https://www.mzed.com/), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,000.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-And how would you personally answer the question of when and why to cut? Which techniques did you find useful, and which important ones may be missing? We would be delighted to hear about your editing experience in the comments section below!

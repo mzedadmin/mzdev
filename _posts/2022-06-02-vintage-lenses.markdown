@@ -59,24 +59,3 @@ But no matter how much you save, the real benefit is the unique look you'll get 
 
 ![Vintage lenses providing unique character and aesthetic to modern filmmaking](/assets/images/posts/vintage-lenses-filmmaking-character.jpg)
 *Image source: Alex Buono / MZed*
-
-## Learn with MZed Pro
-
-As an [MZed Pro member](https://www.mzed.com/), you can get all these member discounts, on top of access to nearly 300 hours of filmmaking education, plus we're constantly adding more courses (a new course coming very soon!!). 
-
-For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 43 courses, over 600 high-quality lessons spanning over 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Exclusive access to ARRI Academy online courses.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- The majority of MZed courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,800.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-- After the first year, the annual renewal rate is $199, a savings of 57% from the new member rate.
-
-**[Join MZed Pro now to get started](https://www.mzed.com/)**!
-
-What are some of your favorite vintage lenses? Share your thoughts in the comment section down below!

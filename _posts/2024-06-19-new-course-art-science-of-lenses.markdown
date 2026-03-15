@@ -12,10 +12,6 @@ subtitle: Coatings, types of glass, diffraction. The more we learn, the deeper o
 
 Most filmmakers are familiar with basic lens specifications: focal length, aperture, zoom/prime… On the other hand, when we talk about coatings, types of glass, diffraction, breathing, and other advanced terms, even experienced cinematographers may become confused. Lens manufacturers make it easy for us to use their tools without much theory required. But the more we learn, the deeper our understanding of optical phenomena is, and the wider our storytelling kit becomes. Ultimately, we can communicate our creative choices much more easily. That's what Tal Lazar's new course, "The Art & Science of Lenses" [on MZed.com](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876) is all about. In this article, we offer you a sneak peek into the first module, which helps to understand light, how it behaves, and why it is an important foundation for using lenses to their full potential.
 
-![The Art & Science of Lenses – A New Course Available on MZed Now](/assets/images/posts/art-science-lenses-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 [Tal Lazar](https://www.latentimages.com/) is a seasoned cinematographer and educator, who combines practical knowledge with his teaching experience at leading film schools (Columbia University, Sundance Institute, and the American Film Institute, to name a few). His new course [on MZed.com](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876) is a very technical one, yet Tal finds ways to make it entertaining and easy to understand. So, don't worry if you skipped physics class in high school. You will gain foundational knowledge in this course in no time and will then be able to apply it to lenses.
 
 [Click here to watch "The Art & Science of Lenses" on MZed](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876).
@@ -23,14 +19,6 @@ Most filmmakers are familiar with basic lens specifications: focal length, apert
 ## The Art & Science of Lenses – starts with light
 
 Lenses are tools that manipulate light. That's why Tal Lazar begins his course with a question: "What is light?" If we can understand how it behaves, we'll be able to explain the different optical effects that lenses sometimes have and why manufacturers make certain decisions. Put very simply:
-
-Related Course
-
-## The Art & Science of Lenses
-
-[![The Art & Science of Lenses](/assets/images/posts/art-science-lenses-course.jpg)](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876)
-
-Lenses are one of the most important creative tools in cinematography. Learn the foundations of optics and gain the ability to design lens tests, collaborate with technicians and understand technical specifications.
 
 > Light is a form of energy that is emitted by a source, like the sun, and received by our eyes.
 > 
@@ -96,22 +84,3 @@ Now, we can't see all these tiny waves or photons. However, by understanding how
 ## The Art & Science of Lenses – pricing
 
 You can buy Tal Lazar's "[The Art & Science of Lenses](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876)" for $49.99 and own it forever. [**Or you can subscribe to MZed Pro**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4952488-33e876) and watch this course, along with over 55 other courses, for only $349 for the first year and $199 for every year after that.
-
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4952488-33e876), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several are in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-**Full disclosure:** [**MZed**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4952488-33e876) is [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)**.**  
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4952488-33e876)
-
-**What about you? Are you interested in understanding lenses? Or do you usually skip the technical specifications? How do you make a choice when buying a new lens? Share your experience with us in the comments below!**

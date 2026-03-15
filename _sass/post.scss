@@ -108,12 +108,35 @@
       line-height: 1.7;
     }
 
+    .post-hero-image {
+      margin-top: 0;
+      margin-bottom: 2.5rem;
+    }
+
     img {
-      max-width: 100%;
+      display: block;
+      width: 100%;
       height: auto;
       margin: 2rem 0 0.5rem;
       border-radius: 0.5rem;
       cursor: zoom-in;
+    }
+
+    // Image captions: *text* on line after image renders as <em> sibling in same <p>
+    // After Fancybox wraps img in <a>, structure is <p><a><img></a>\n<em>caption</em></p>
+    // Use :last-child to only target <em> that ends the <p> (not inline italic in text)
+    p > img + em:last-child,
+    p > a[data-fancybox] + em:last-child {
+      display: block;
+      font-size: 0.85rem;
+      color: #888;
+      margin-top: 0;
+      margin-bottom: 0;
+      line-height: 1.4;
+
+      a {
+        font-size: 0.85rem;
+      }
     }
 
     iframe {

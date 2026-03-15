@@ -82,23 +82,3 @@ In the course "[Cinema Sound](https://www.mzed.com/courses/cinema-sound)", Mark 
 Another example: Imagine a scene in which two people are arguing. Mark took their voices and put them on the above speakers, mixed very low. The uncomfortable notion made the audience feel uneasy, making them want to leave their seats but instead, they got pushed further into the scene. Again: hello immersion!
 
 So, yes, mixing is a great tool, and there are many more tips and secrets to unveil. If you want to learn how to mix like a pro, we recommend our [MZed "Cinema Sound" course](https://www.mzed.com/courses/cinema-sound). The course offers almost 90 hours of professional knowledge regarding every aspect of film audio, that you could possibly need to know. Give it a try!
-
-## What else do you get with MZed Pro?
-
-As an [**MZed Pro member**](https://www.mzed.com/), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several are in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-What do you think about the roles of music and sound design in filmmaking? Are they something, that should be kept separate? Have you ever blurred the lines between them yourself when making a film? We'd be thrilled to read your thoughts in the comments below!

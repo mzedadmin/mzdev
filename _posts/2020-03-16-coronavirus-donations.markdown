@@ -18,7 +18,7 @@ With event cancellations and business closures shutting down a majority of film,
 
 **Right now, 20% of all MZed purchases will be donated to the**[**Los Angeles Regional Food Bank**](https://www.lafoodbank.org/)**.** That means that for every new MZed Pro membership you're donating $60, which equates to providing 240 meals to feed hungry children, seniors, and families. The same goes for membership renewals, and course and lesson purchases. We're planning to do this throughout March and April but possibly longer as the current situation changes day to day.
 
-![LA Food Bank](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/lafoodbank.jpg)
+![LA Food Bank](/assets/images/posts/lafoodbank.jpg)
 
 The Los Angeles Unified School District is the second largest district in the US, with about 600,000 students. Over 400,000 of those students rely on free and reduced-price meals. With LA schools shutting down the sad truth is that many of these kids will go hungry.
 

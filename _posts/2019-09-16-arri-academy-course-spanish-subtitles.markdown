@@ -14,13 +14,13 @@ Good news: Spanish subtitles are now available on the ARRI [Certified Online Tra
 
 We believe that featuring ARRI Academy courses on MZed offers a unique opportunity for filmmakers around the world. You can become trained and certified in ARRI cameras by watching online courses from the comfort of your home, office, commute, or anywhere you have access to an internet connection.
 
-![arri-academy-mzed](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/arri-academy-mzed.jpg)
+![Arri Academy Mzed](/assets/images/posts/arri-academy-mzed.jpg)
 
 The ability to receive this training and certification without having to travel to an in-person ARRI workshop means that many more filmmakers can educate and prepare themselves for using ARRI cameras in the field.
 
 And now with English and Spanish subtitles, we're hoping that ARRI Academy courses can reach a much wider audience out there, such as multilingual filmmakers who learn best with written English or Spanish, as well as our MZed members who are hearing impaired.
 
-![arri-academy-english-spanish-subtitles](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/arri-academy-english-spanish-subtitles.jpg)
+![Arri Academy English Spanish Subtitles](/assets/images/posts/arri-academy-english-spanish-subtitles.jpg)
 
 In addition to the ARRI Certified Camera Systems course, English subtitles are available for most of the courses in the MZed library, and [Philip Bloom's Cinematic Masterclass](https://www.mzed.com/courses/philip-bloom-cinematic-masterclass) also offers subtitles in Spanish and Russian.
 
@@ -28,7 +28,7 @@ In both the ARRI Certified Camera Systems course and in Philip Bloom's Cinamatic
 
 How do you turn on the subtitles? For MZed Pro members who are streaming a course, it's quite simple to enable subtitles on a course. You can click on the CC button - short for Closed Captions - and select either English or Spanish.
 
-![mzed-course-subtitles-captions-download](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-course-subtitles-captions-download.jpg)
+![Mzed Course Subtitles Captions Download](/assets/images/posts/mzed-course-subtitles-captions-download.jpg)
 
 If you've purchased a course, you can download the subtitles for each lesson by clicking on the CC icon next to the download button.
 

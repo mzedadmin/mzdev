@@ -12,10 +12,6 @@ subtitle: Mastering Narrative Perspective and Related Camera Techniques
 
 **The annual [Festival de Cannes](https://www.festival-cannes.com/en/) is in full swing. As usual, in the official selection, we can see everything from directorial debuts (for example, the coming-of-age drama "[Wild Diamond](https://www.imdb.com/title/tt28319139/)" by Agathe Riedinger) to loud comebacks (like "[Megalopolis](https://www.imdb.com/title/tt10128846/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_Megalopolis)" by Francis Ford Coppola, his longtime passion project). The range and variety of films presented at the festival bring us back to the topic of the filmmaker's voice. We tell stories differently and that's what keeps the motion picture's heart beating. How can you develop your voice and what does the term "narrative perspective" have to do with it? Let's find out!**
 
-![The Filmmaker's Voice – Mastering Narrative Perspective and Related Camera Techniques](/assets/images/posts/mastering-narrative-perspective-camera-techniques-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 Every director has a different signature (which can change from one work to another). We see it in lens preferences, defined camera movements, lighting approach, and much more. However, as seasoned filmmaker and educator [Tal Lazar](https://www.latentimages.com/) points out in his [MZed course "Cinematography for Directors"](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=5012243-272a92): most if not all of these visual choices are connected to narrative perspective. What does it mean, though? Below, we peek into some of Tal's lessons that not only define this term but also explain how to use narrative perspective as your own wizard's wand. Some exciting film examples are also waiting ahead!
 
 [Head over here to watch the entire course.](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=5012243-272a92)
@@ -26,14 +22,6 @@ Stories always have someone who tells them – the so-called narrator. From clas
 *A film still from "Dr. Jekyll and Mr. Hyde" by Victor Fleming, 1941*
 
 This is a point-of-view shot from "Dr. Jekyll and Mr. Hyde", where we see everything through the protagonist's eyes. It can't get any closer to the story, written from a first-person perspective, can it? Well, it doesn't necessarily work this way. As Tal Lazar emphasizes, to make a narration feel subjective, the viewers should be able to access the character's thoughts and feelings, which is rather difficult when you don't see the actor's face. There are other tricks to achieve it, and we'll talk about them in a moment.
-
-Related Course
-
-## Cinematography for Directors
-
-[![Cinematography for Directors](/assets/images/posts/mastering-narrative-perspective-course-thumb.jpg)](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Working with a cinematographer is a skill which every Film and TV director or producer needs to master. You'll learn how to find and communicate the core of what your images need to express, and make decisions like where to place your camera and what lens to use.
 
 But first, let's draw the line between objective and subjective narrative perspectives. 
 
@@ -101,23 +89,4 @@ After all, your audience might be smarter than you think.
 
 If you want to gain more insight into the filmmaker's voice, narrative perspective, and visual tools at your disposal, head over to [MZed.com](https://www.mzed.com/?tap_a=17272-420962&tap_s=5012243-272a92) and watch the ["Cinematography for Directors"](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=5012243-272a92) course.
 
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=5012243-272a92), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several are in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,500.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**Full disclosure:** [**MZed**](https://www.mzed.com/?tap_a=17272-420962&tap_s=5012243-272a92) is [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)**.**  
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=5012243-272a92)
-
 _Feature image source:_ film stills from "Road to Perdition" by Sam Mendes (2002).
-
-**Do you think about narrative perspective in your movies? Can you name any films or directors who stand out in terms of using it? Please, share your insights with us in the comments below.**

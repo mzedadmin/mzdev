@@ -11,8 +11,6 @@ subtitle: Let's look at split screens in film history and what we can learn from
 
 Split screens. Collages made of moving images. We see them so much on TikTok, Instagram, and YouTube nowadays that they seem a useful modern invention. However, this notion is incorrect. Split screens have existed since almost the beginning of cinema and are – above all – a mighty tool in the editor's kit. What are they at the core? A fancy stylistic choice? A magic trick to enhance suspense? A chance to tell a story from different perspectives? Let's take a look at a vast collection of examples, from classic masterpieces to contemporary series, and find out.
 
-![Sharing the Frame – Split Screens in Films and the Visual Stories They Tell](/assets/images/posts/split-screens-in-films-and-the-visual-stories-they-tell-hero.jpg)
-
 The truth is: In knowing hands, split screens in films can follow different goals. They are an editing technique, after all, and as with every technique, they require intention. Why do you decide to put two or more shots on the same screen simultaneously? What effect should it create?
 
 ## **How it started**
@@ -22,14 +20,6 @@ If you are interested in visual effects and divine tricks filmmakers have come u
 <iframe loading="lazy" title="Un homme de têtes (or The Four Troublesome Heads) by Georges Melies, 1898" width="500" height="375" src="https://www.youtube-nocookie.com/embed/IKQRV4XKZt4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 Obviously, the audience was stoked and considered this trick nothing short of a wonder. Méliès featured one of the first known uses of the multiple exposure of objects on film. Of course, it's not something that we would strictly call a "split screen" nowadays, but the underlying idea is the same. The filmmaker combines several images within one frame to create an effect or tell a more compelling story.
-
-Related Course
-
-## The Cutting Edge
-
-[![The Cutting Edge](https://www.cined.com/content/uploads/2024/10/4befafe6995fcfbe6b54ddb7c63420d0.jpg)](https://www.mzed.com/courses/the-cutting-edge?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Saturday Night Live film unit Editor Adam Epstein shows you exactly how he takes a project from an empty timeline to a network broadcast in under 24 hours. Adam shares his tips, techniques and theories to maximize your results.
 
 ## **All that falls into the split-screen category**
 
@@ -103,27 +93,3 @@ As you see, there are a thousand-and-one ways to use split screens in films. In 
 
 ![A film still from "Love Actually" by Richard Curtis, 2003](/assets/images/posts/split-screens-in-films-love-actually.jpg)
 *A film still from "Love Actually" by Richard Curtis, 2003*
-
-## Learn more filmmaking as an MZed Pro starting at $29 / month
-
-If you liked these educational insights into split screens in films, you will LOVE being an **[MZed Pro member](https://www.mzed.com/?tap_a=17272-420962&tap_s=6464587-56f4f1#plan)**. As one of them, you have access to many hundreds of hours of filmmaking education. Plus, we're constantly adding more courses (several are in production right now).
-
-[Starting at just $29/month](https://www.mzed.com/?tap_a=17272-420962&tap_s=6464587-56f4f1#plan) (billed at $349 in the first year, $199 from the second year, or billed monthly at $49), here's what you'll get:
-
--   58+ courses, over 750+ high-quality lessons.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,500.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you (on annual billing only).
-
-**So, what do you think about split screens in films? If you use them in your projects frequently, then how and why? Are there any other film examples of the creative application of split screens that you adore? Please, share your thoughts with us in the comments below!**
-
-**_Feature image:_** a film still from the miniseries "The Queen's Gambit".
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=6464587-56f4f1#plan) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**.
-
-**Additional source:** "Cinematic Storytelling" by Jennifer Van Sijll, 2005.

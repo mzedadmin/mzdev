@@ -9,17 +9,7 @@ meta_description: Personal highlights from MZed Pro subscription covering visual
 subtitle: Black Friday Special
 ---
 
-![How MZed Pro Makes Me a Better Filmmaker](/assets/images/posts/how-mzed-helps-me-as-filmmaker-hero.jpg)
-
 **Film school is great, but the truth is, what you learn there is often not practical enough. That's where MZed comes in, arguably the best filmmaking education platform on the internet. In this article, I want to share some of my personal highlights from the MZed Pro subscription. MZed Pro contains 50+ filmmaking courses, over 450 hours of distilled knowledge from industry experts, over 800 lessons, and countless insights. To give you an idea of what you will get with [MZed Pro](https://www.mzed.com/?tap_a=17272-420962&tap_s=4293130-5cfffb), I gathered my personal MZed Pro lessons and highlights from different courses.**
-
-Related Course
-
-## Alex Buono's Visual Storytelling 2
-
-[![Alex Buono's Visual Storytelling 2](/assets/images/posts/how-mzed-helps-filmmaker-visual-storytelling-course.jpg)](https://www.mzed.com/courses/visual-storytelling-2?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Building on the curriculum of "The Art of Visual Storytelling", Alex Buono deconstructs the architecture of visual style, and through live demonstration shows you how to recreate various genres and looks.
 
 For the record: I studied filmmaking for real. Also, I never miss a chance to delve into textbooks about film analysis or watch the latest online tutorials for new tools. Learning is a life-long process, after all, but despite my expertise, participating in MZed courses always provides valuable insights. There are so many diverse areas you can dive into on our educational platform, from [specific foley recording tricks](https://www.cined.com/the-mastery-of-recording-foley-how-to-turn-your-closet-into-a-studio/) to [wedding videography secrets](https://www.mzed.com/courses/how-to-wow?tap_a=17272-420962&tap_s=4293130-5cfffb). There is something new and inspiring for everyone.
 
@@ -63,11 +53,5 @@ Thanks to thoughtful editing that concentrates on the visuals and arranges shots
 This was only a small sneak peek at what you get as an [MZed Pro member](https://www.mzed.com/?tap_a=17272-420962&tap_s=4293130-5cfffb). As a matter of fact, I can go on for hours, dive into interesting technical aspects (like an innovative day-for-night approach that Hoyte van Hoytema explains in the [ASC conversation](https://www.mzed.com/courses/asc-clubhouse-conversations/modules/906?tap_a=17272-420962&tap_s=4293130-5cfffb) on "[Nope](https://www.cined.com/filming-night-scenes-thinking-outside-the-box-on-the-film-nope/)"), and praise the variety of educators (from the big YouTube channel hosts to Award-winning filmmakers). However, I recommend you form your own opinion.
 
 Little inside fact, lots of new courses are about to be added soon. There's another exclusive ASC course on lighting coming soon, and the amazing courses by master educator [Tal Lazar](https://www.imdb.com/name/nm1823574/) will shortly be added too, and much more.
-
-**So, what's your call? Are there any MZed courses you're particularly interested in? Which one would you watch straight away? If you're an MZed Pro already, what are your highlights from our courses? Let us know in the comments below!**
-
-**Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-**[Join MZed Pro now and start watching today!](https://www.mzed.com/?tap_a=17272-420962&tap_s=4293130-5cfffb)**
 
 **_Feature image source:_** MZed

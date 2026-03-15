@@ -9,7 +9,7 @@ meta_description: Writer/Director Rin Ehlers Sheldon talks about why this course
 subtitle: Writer/Director Rin Ehlers Sheldon talks about why this course was made
 ---
 
-## ![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%204.jpg)
+## ![Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-204.jpg)
 
 ### Rin Ehlers Sheldon demonstrating a prop position to her cast on set of MZed's "Selling the Punch" course. Image credit: MZed
 
@@ -23,11 +23,9 @@ I thought about writing an article then, but it didn't feel right to me. I thoug
 
 The words "scandal" and "tragedy" were volleyed about in that eager way people converse when someone dies. Society divides into factions. People start vying for ownership of what they hope will be the prevailing argument. They bandy about high-stakes pontification, while somewhere a family grieves.
 
-![MZed Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%206.jpg)
+![MZed Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-206.jpg)
 
 ### Behind-the-scenes shot from the set of "Selling the Punch" for MZed, directed by Rin Ehlers Sheldon. Image credit: MZed.
-
- 
 
 Amidst the dissonance of insatiable opining, I couldn't stop imagining Halyna on the set of her first really big movie: nervous and excited to rise to the occasion. I thought about her waking up to face down that 12 (or 16) hour day. I didn't know her, but I was proud of her, a fellow "lady cameraman" standing in her power as the Cinematographer--commanding her department, wielding her hard-won expertise of light and shadow, patiently listening to all kinds of people who don't know anything about image making, while she captured that magical intersection of art and science in the crosshairs of her camera. I imagined her smiling as her face pressed into the eyepiece.
 
@@ -39,7 +37,7 @@ I thought about the stress she must have been under--the weight on department he
 
 My husband Graham and I reflected back to the first firearms workshop we took as theatre majors. It was one day, a few hours long.
 
-![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%205.jpg)
+![Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-205.jpg)
 
 ### Presenter America Young and moderator / DP / producer Graham Ehlers Sheldon on set of MZed's Selling the Punch course. Image credit: MZed.
 
@@ -57,15 +55,15 @@ Every single one of our friends present agreed, and that scared me. From that po
 
 When MZed asked Graham what course he would like to produce next on their platform, there was not one doubt in his mind what the most important information he could impart to an audience of filmmakers was. He enlisted me to write and direct the curriculum, and he asked director/stunt coordinator America Young to cohost and teach the course. We named it [Selling the Punch](https://www.mzed.com/courses/selling-the-punch), a phrase that means making a hit look real while the performers are safely nowhere near one another.
 
-![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%202.jpg)
+![Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-202.jpg)
 
-![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%203.jpg)
+![Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-203.jpg)
 
 Right off the bat, we tell students they will not magically have the skills of Michelle Yeoh at the end of a 90 minute course. Selling the Punch does not offer any shortcuts for emboldening viewers to save money on their projects by not hiring the appropriate professionals. However, it does lay a solid foundation for working with stunts and fighting on set. America and Graham walk students through what it takes to bring a 5 page scene from script to screen. They cover pre-pro, rehearsals, camera angles, and even discuss post production a bit. They talk about what happened on the [Rust](https://www.imdb.com/title/tt11001074/) set and also share cautionary tales from their own careers.
 
 At the end of Selling the Punch, we show the scene they made together over one shoot day. There's plenty of BTS, and we've packed as much nutrition into the class as we could, while still keeping it pretty fun (imho).
 
-![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%201.jpg)
+![Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-201.jpg)
 
 ### Graham and America assess the shot of Andi Norris and Cynthia Dallas on the set of MZED's new course Selling the Punch. Image credit: MZed
 
@@ -79,8 +77,6 @@ We've listed the course at what Graham and I believe is a very accessible price 
 
 Lowering the price during strike was important to us, because we know folks in our industry are hurting right now. For the price of an early movie rental or less than 2 tickets to go see a film in person (which…please still go and do!), someone who takes this course should walk away with the knowledge and confidence needed to not only work with a stunt coordinator, but how to hire stunt professionals, and most importantly how to run a safe set when stunts and fighting are involved. Of course, I am biased, but I believe this class can benefit every crew person. Every AC, cinematographer, craft services person, PA, actor, DIT, director, gaffer, producer, cam op, you name it -- if you work on a set, I want you to have this information.
 
-### ![Selling the Punch BTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/selling%20the%20punch%20bts%207.jpg)Graham and Rin Ehlers Sheldon with producer Shewan Edward on the set of MZED's new course Selling the Punch.
-
- 
+### ![Selling the Punch BTS](/assets/images/posts/selling-20the-20punch-20bts-207.jpg)Graham and Rin Ehlers Sheldon with producer Shewan Edward on the set of MZED's new course Selling the Punch.
 
 If nothing else--even if all you do is read this article, I hope everyone knows that a safe work environment is a right, and that everyone can and should speak up or walk away when a set feels dangerous. You deserve to make kickass fights and exciting action. You also deserve to go home to your family at the end of your (criminally long) workday. Fight nice, everybody.

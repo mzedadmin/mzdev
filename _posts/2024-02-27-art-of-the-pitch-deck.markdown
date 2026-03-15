@@ -9,11 +9,7 @@ meta_description: How to create a convincing pitch for your film project - indus
 subtitle: Tips from the Industry Experts
 ---
 
-![How to Create a Convincing Pitch for Your Film? - Tips from the Industry Experts](/assets/images/posts/art-of-the-pitch-deck-hero.jpg)
-
 **The end of the year is swiftly approaching, and we can't help but wonder what comes next. Some filmmakers already have big projects and productions planned. Others prepare to face a traditional winter low. Either way, quiet holidays are the perfect time to be creative and think of all those film ideas you carry around in your head. The only question is: how to bring them to life? This is where you might need a convincing pitch for your project to show around. What should it look like, which elements are crucial, and how can it be organized most compellingly? Let's gather some tips from industry experts.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 A pitch is a short presentation of your project that serves to bring money and further collaborators on board. Additionally, it's a storytelling device and a possibility to present your idea in a short, creative form. Nowadays, thousands of films, series, and concepts compete for the attention of potential audiences and production studios. Those in charge just don't have time to read through every script. That's where a wisely structured, convincing pitch will come in handy. Don't think of it as an easy deal though!
 
@@ -27,14 +23,6 @@ So, where to start? Some experts say the pitch should come before anything else.
 > Once you invest the time into writing a script, you become reluctant to change it.
 > 
 > Rubidium Wu
-
-Related Course
-
-## Building a Pitch Deck
-
-[![Building a Pitch Deck](https://www.cined.com/content/uploads/2023/06/f86f4ed5f6a5b2971e44ecc42839b967.jpg)](https://www.mzed.com/courses/building-a-pitch-deck?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Pitch decks are a niche that Lesley Powers describes as a digital vision board. When pitching your Film/TV project, often you only have seconds to grab someone's attention. Join to learn how to build a memorable pitch deck for your project.
 
 Instead, Rubidium takes his idea and pitches it to people he knows – friends and relatives. The most important thing during this process is to watch their faces. If they start to drift, look away, or interrupt your speech with an "Oh, it reminds me of the film I watched", then something doesn't work. Either you need to alter the story itself or work further on the pitch. Rubidium does multiple runs until someone listens to the final premise of the film and is as captivated as he was when he thought it up.
 
@@ -119,17 +107,3 @@ A good alternative to Midjourney is [Adobe Firefly](https://www.cined.com/adobe-
 
 ![Adobe Firefly interface for creating pitch deck visuals](/assets/images/posts/art-of-the-pitch-deck-adobe-firefly.jpg)
 *Image source: created with Adobe Firefly for CineD*
-
-## **Conclusion**
-
-Creating a convincing pitch is not a simple task. It may take days or even longer until your idea is ripe enough and ready to show the world. Nevertheless, pitching is a significant process, and it's also a lot of fun – especially when you witness your vision taking shape. So, have fun!
-
-**What about you? Do you currently have any ideas in mind that beg for a convincing pitch deck? What is your approach to this process? Share your tips and insights with us in the comments below!**
-
-**_Feature image source:_** Lesley Powers/MZed. 
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4327515-f2fdf8) is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)
-
-**Additional source:**
-
--   "Save the Cat" by Blake Snyder, 2005.

@@ -14,7 +14,7 @@ Filmmakers around the world have been hit hard by coronavirus closures - for man
 
 For freelance documentary and news work, independent shooters and small crew video production agencies are starting to test the waters, although there are still many prerequisites to ensure the safety of staff and subjects. Storyhunter has [a good checklist](https://storyhunter.com/home/covid-19-guidelines/) for factual shooters - although it's primarily made for Storyhunter freelancers, it's a good idea to adopt these guidelines for any production right now.
 
-![video-production-covid-lighting](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/video-production-covid-lighting.jpg)
+![Video Production Covid Lighting](/assets/images/posts/video-production-covid-lighting.jpg)
 
 But if you're not ready to dive into full-fledged productions, there are a few ways to keep busy with video work right now. The following list is a summary of gigs that are currently in demand, from corporate to non-profit to educational clients and beyond.
 
@@ -26,7 +26,7 @@ By now, everyone is craving authentic connection. Business owners, corporate lea
 
 And if the message is important, a Zoom meeting or cell phone recording simply won't cut it. Right now there is an immense need for professionally produced "talking head" videos for just about any business, to deliver an impactful message face-to-face. And it's particularly the talking head video that is in-demand because it goes straight to the point, appears to be budget-conscious without overspending on unnecessary production, and most importantly, clearly reflects safe, social distant practices to the audience.
 
-![video-production-interview-boom-mic](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/video-production-interview-boom-mic.jpg)
+![Video Production Interview Boom Mic](/assets/images/posts/video-production-interview-boom-mic.jpg)
 
 That's the key takeaway here - to pass scrutiny by the audience, the talking head video must not appear to violate social distancing for the sake of production. That means shooting either with a plain backdrop, or in an environment where there aren't people in the background. Your talking head subject needs to comply with local social distancing requirements, so if a mask is required to be worn inside a business, then they should not be filmed inside that location without a mask.
 
@@ -38,7 +38,7 @@ Many clients are still not ready to take on in-person productions, even if they 
 
 Sooner or later, someone will have the brilliant idea to record some of these meetings and distill them into a shorter presentation - possibly intercut with powerpoint/keynote decks and other footage - for a different audience. Or alternatively, they'll want to use Zoom to record important messages from team members, but the messages will need to be edited together into a unified presentation. The point is, everyone has a camera and audio recording device right now, and it happens to be their computer. It's only a matter of time before someone asks if you - a professional video producer - could edit some of the recorded Zoom messages down into a slick presentation.
 
-![video-production-filmmaking-covid-coronavirus-zoom-cell-phone](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/video-production-filmmaking-covid-coronavirus-zoom-cell-phone.jpg)
+![Video Production Filmmaking Covid Coronavirus Zoom Cell Phone](/assets/images/posts/video-production-filmmaking-covid-coronavirus-zoom-cell-phone.jpg)
 
 Does this sound familiar? Or maybe your clients are using their cell phones to record their messages, and they want you to take a bunch of raw cell phone videos and edit them down into a video - either for internal distribution or to share publicly?
 
@@ -50,7 +50,7 @@ Due to social distancing requirements that limit the amount of people who can ga
 
 Except the whole technical barrier, which is where you come in. Whether you use a cell phone or a real camera, or maybe even a live switcher, all the elements of professional video production come into play during a live stream, apart from the editing. You'll need to ensure the audio and visuals are up to your usual standards, but you'll also need to figure out how to ensure a consistent feed either via WiFi or a cell phone signal.
 
-![videography-covid-coronavirus-live-streaming](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/videography-covid-coronavirus-live-streaming.jpg)But once you've figured out the right gear and technical approach, there are infinite events and meetings where a live stream would be appropriate and maybe even essential for your client. We're not just talking about weddings and lectures and concerts - though they are all enjoying big boosts in live stream demand - but any organization's event that has to limit the in-person attendance due to local social distancing mandates.
+![Videography Covid Coronavirus Live Streaming](/assets/images/posts/videography-covid-coronavirus-live-streaming.jpg)But once you've figured out the right gear and technical approach, there are infinite events and meetings where a live stream would be appropriate and maybe even essential for your client. We're not just talking about weddings and lectures and concerts - though they are all enjoying big boosts in live stream demand - but any organization's event that has to limit the in-person attendance due to local social distancing mandates.
 
 ## **Motion Graphics, Stock Footage, and Explainer Videos**
 
@@ -60,7 +60,7 @@ If you can produce a video using only stock or available footage, a voice over o
 
 Here's an example video that illustrates our [MZed Pro subscription](https://www.mzed.com/mzed-pro).
 
- 
+<iframe src="https://player.vimeo.com/video/292051619" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 If you think about it, the one barrier that still gets in the way of clients enlisting a freelance video producer is that it isn't as simple as signing a check. The client has to find subjects, craft a story, supervise an interview, and maybe even put themselves out there. That's in addition to any B-roll that requires the client's assistance.
 

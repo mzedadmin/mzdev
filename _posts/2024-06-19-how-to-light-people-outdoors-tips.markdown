@@ -9,23 +9,11 @@ meta_description: Paul Atkins, ASC shares practical tips for lighting people out
 subtitle: Tips on Handling the Sun from Paul Atkins, ASC
 ---
 
-![How to Light People Outdoors – Tips on Handling the Sun from Paul Atkins, ASC](/assets/images/posts/how-to-light-people-outdoors-tips-hero.jpg)
-
 **Lighting can be tricky. Especially, lighting the faces of various human beings. More so, when you don't have the time or means for a thorough set-up, and above all, are filming outside in ever-changing conditions. Luckily, a situation like this doesn't mean you have to settle for potentially unpleasing visuals. Seasoned wildlife cinematographer [Paul Atkins, ASC](https://paulatkins.com/), offers us a variety of tips on how to light people outdoors and do it quickly, with limited gear, and by using the sun to your advantage.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 To learn from Paul Atkins's experience, we'll be taking a look at one of the lessons from our freshly added MZed course ["Lighting People – On Location"](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4729395-ef5885), which you can also read about [here](https://www.cined.com/lighting-people-on-location-new-course-by-the-asc-only-on-mzed/). It was filmed in cooperation with [the ASC](https://theasc.com/) as part of the Jack Wild Summit and includes four hours of distilled practical knowledge from both Atkins and [Stephen Lighthill](https://www.imdb.com/name/nm0003213/). The Master cinematographers share their on-location lighting workflows both indoors and outdoors, showing various set-ups and how they apply in real-life situations.
 
 [You can watch the whole course on MZed.com.](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4729395-ef5885)
-
-Related Course
-
-## Lighting People – On Location
-
-[![Lighting People – On Location](/assets/images/posts/how-to-light-people-outdoors-course-thumb.jpg)](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-In this practical 4-hour workshop, master cinematographers Paul Atkins, ASC, and Stephen Lighthill, ASC, share tips and tricks on how to achieve naturally looking lighting on location, both outdoors and indoors, in front of a diverse audience of filmmakers from all over the world.
 
 Let's say, you're a documentary filmmaker or video creator, and you suddenly find yourself in a situation where you need to shoot a spontaneous interview outdoors. Assuming your background options are similar in any direction you look, which way would you (or better, should you) point the camera? That's the first question Paul Atkins asks his students and it's the first and most important decision you have to make in these conditions.
 
@@ -96,23 +84,4 @@ As Paul Atkins says, feel free to violate all those principles, depending on you
 
 If you want more hands-on tips from the wildlife cinematography experts, head over to the MZed course "[Lighting People – On Location](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4729395-ef5885)". In the discussed lesson, Paul also covers how to maintain light during interviews on a boat; what to do, when it's completely gloomy outside; and how to position multiple people (and/or multiple cameras) for one interview set-up.
 
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4729395-ef5885), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,500.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**Full disclosure:** [**MZed**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4729395-ef5885) is [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)  
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4729395-ef5885)
-
 _Feature image source:_ MZed
-
-**What about you? Do you often need to light people outdoors? What tips could you add to Paul Atkins's ones? Let's talk all about exterior lighting in the comments below!**

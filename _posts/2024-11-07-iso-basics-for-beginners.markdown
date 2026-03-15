@@ -12,10 +12,6 @@ subtitle: Most of you are aware of common ISO numbers and what happens when you 
 
 Anyone who has held a camera in their hands has seen these three letters – ISO. Nowadays, we might even find them in some smartphone apps, like the [Blackmagic Camera for iPhone](https://www.cined.com/blackmagic-camera-app-1-4-update-now-available/) used in the featured image. Most of you are surely aware of common ISO numbers or what happens when you crank this setting up. However, if we dig deeper and touch on "native ISO", "dual ISO", and the common misconceptions of "how to set it correctly", the discussion often becomes vague. No wonder. It's a complicated topic. So, why don't we revisit the basics and try to really understand ISO on technical and creative levels.
 
-![Understanding ISO and How to Approach It – Basics for Beginners](/assets/images/posts/iso-basics-for-beginners-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 It all starts with the exposure. As filmmakers or photographers, we need to get the correct amount of light in order to produce images that tell our particular story. There is a famous triangle of factors that helps us with that: the lens aperture, the shutter speed, and the ISO. We have already explained shutter speed in detail [here](https://www.cined.com/shutter-speed-and-how-it-affects-the-visuals-and-the-story/). (Exploring the power of aperture is on the list for future texts.) By changing the aperture, you control the amount of light that hits the sensor. By changing the shutter, you control how much time the light will hit the sensor. What about ISO? Well, ISO, on the contrary, doesn't actually have any influence on the light itself. Why, then, do we talk about it when we talk about exposure?
 
 [Tal Lazar](https://www.latentimages.com/), seasoned filmmaker, educator, and author of several MZed courses, including ["The Language of Lighting,"](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=5233874-8512fb) kindly took the time to guide us through this subject.
@@ -24,14 +20,6 @@ It all starts with the exposure. As filmmakers or photographers, we need to get 
 *Image source: Tal Lazar/MZed*
 
 ISO stands simply for the "International Organization of Standardization." It is also often called the camera's sensitivity—something that you cannot actually physically change. Basically, ISO is an amplification of the signal arriving from the sensor. For a better understanding, Tal Lazar offers a clear and on-point comparison. 
-
-Related Course
-
-## The Language of Lighting
-
-[![The Language of Lighting](https://www.mzed.com/content/uploads/2024/10/the_language_of_lighting-feature_image-300x169.jpg)](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Learn to see light like a professional cinematographer and design it to tell a story. What is the purpose of lighting in a scene? What is the difference between lighting on set or on a stage? All these questions and more are answered in this course by master educator Tal Lazar, utilizing demonstrations and many scenes from great films.
 
 Imagine you take a microphone, put it in a room, and record the audio. Later, when you listen to the recording, you can press the + volume button and hear it louder. By doing so, you don't increase the mic's sensitivity. You just amplify the audio signal—the same way ISO does with the image.
 
@@ -109,8 +97,4 @@ As a cinematographer, you have to decide. The ISO is not a mathematical equation
 
 If you read until the end, thank you for joining me on this journey. And a huge thanks to Tal Lazar for all his expert insights! I hope that the ISO topic is now a bit clearer and, most importantly, that you can use this information in your work.
 
-**What do you think? Do you have any other questions to better understand ISO? What else is important to properly understand how to use it? Do you handle ISO as a creative choice, or is it a mere technical setting for you? Let's continue in the comments below!**
-
 _**Feature image credit:**_ Mascha Deikova/CineD
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5233874-8512fb) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**.

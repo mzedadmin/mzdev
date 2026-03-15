@@ -4,9 +4,11 @@ date: 2020-03-25 00:00:00 Z
 image: "/assets/images/posts/free-lessons-hero.jpg"
 layout: post
 blog_category: MZed News
-meta_description: Watch a variety of filmmaking lessons for free - just create a login
+meta_description:
+  Watch a variety of filmmaking lessons for free - just create a login
   to get started.
-subtitle: Watch a variety of filmmaking lessons for free - just create a login to
+subtitle:
+  Watch a variety of filmmaking lessons for free - just create a login to
   get started.
 ---
 
@@ -18,7 +20,7 @@ So if you're hoping to get a free ride for a week, we don't recommend the 7-day 
 
 ## **Master the Moment: Ray Roman 's Wedding Film Masterclass**
 
-![master the moment ray roman wedding masterclass](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/sliders/homepage/a765ce9163594ba7a2fc3f27ddc48b9f.jpg)
+![master the moment ray roman wedding masterclass](/assets/images/posts/a765ce9163594ba7a2fc3f27ddc48b9f.jpg)
 
 [Master the Moment](https://www.mzed.com/courses/ray-roman-master-the-moment-wedding-filmmaking-masterclass) is the wedding filmmaking masterclass that everyone has been waiting for. Join Ray Roman as he takes you on-location throughout an entire wedding and breaks down his blueprint for creating films that have made him the world's most influential and in-demand wedding filmmaker.
 
@@ -30,7 +32,7 @@ Whether you're about to shoot your first wedding or are a seasoned professional 
 
 If you want to dip your toes into the world of audio production, [the first lesson of Cinema Sound](https://www.mzed.com/courses/cinema-sound/modules/1) is free to watch. "Recording: Process, Perfection, and Purpose" is an hour and a half lesson on recording theory and Hollywood secrets in quality audio production.
 
-![cinema sound](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/cinema-sound.jpg)
+![cinema sound](/assets/images/posts/cinema-sound.jpg)
 
 This is a great introduction to the [Cinema Sound course](https://www.mzed.com/courses/cinema-sound), which is one of the best values for MZed Pro subscribers. Audio guru Mark Edward Lewis guides viewers through every aspect of sound that you may need to know as a filmmaker. From recording, dialogue, sound effects, to foley, ADR, mixing and fixing, this is the most comprehensive audio-for-film course ever created.
 
@@ -42,19 +44,19 @@ One of our most popular courses begins with an epic lesson on [freelensing](http
 
 If you haven't already experienced a tutorial by Philip Bloom, give the first lesson a go and you'll see just why he's one of the most popular filmmaking educators today.
 
-![philip bloom cinematic masterclass](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/philip-bloom-cinematic-masterclass.jpg)
+![philip bloom cinematic masterclass](/assets/images/posts/philip-bloom-cinematic-masterclass.jpg)
 
 ## **Directing Color and Mastering Color**
 
 The combination of Directing Color and Mastering Color makes for two of the best courses in color grading out there. And in both courses, the first lessons are completely free to watch for anyone - no subscription required.
 
-![color grading course](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/color-matching.jpg)
+![color grading course](/assets/images/posts/color-matching.jpg)
 
 In [Directing Color](https://www.mzed.com/courses/directing-color), filmmaker, editor and colorist Ollie Kenchington explores how visual language cues, color theory and even color grading techniques can be used throughout the filmmaking process to not just create a "look" but to enhance storytelling. He challenges directors, cinematographers and filmmakers to think of color first, rather than the more common approach of leaving color considerations until post-production.
 
 In [the first module of Directing Color](https://www.mzed.com/courses/directing-color/modules/1), which is free to watch, Ollie begins to produce a commercial and takes us through the process of developing a color palette and creating a compositional balance in a film's images.
 
-![mastering color](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mastering-color-grading-masterclass.jpg)
+![mastering color](/assets/images/posts/mastering-color-grading-masterclass.jpg)
 
 In [Mastering Color](https://www.mzed.com/courses/mastering-color), Ollie deconstructs the art and science of color grading, providing a complete guide to professional color for video producers. From color fundamentals to HDR workflows and RAW media, Mastering Color is a masterclass that's applicable for both beginners and professional colorists alike.
 
@@ -76,7 +78,7 @@ To give you a sense of what the course is like, the first lesson is free to watc
 
 It's no secret that DaVinci Resolve is the fastest growing video editing software today, with many filmmakers choosing to use it for all of their post-production needs. From media organization, to rough cuts, color grading, motion and effects, and final delivery, there is a lot to master for anyone new to Resolve.
 
-![learn davinci resolve](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/davinci-resolve-training-tutorial.jpg)
+![learn davinci resolve](/assets/images/posts/davinci-resolve-training-tutorial.jpg)
 
 To give you a head start, educator Ollie Kenchington provides [a free 40-minute overview on editing a short movie in Resolve](https://www.mzed.com/courses/the-definitive-guide-to-davinci-resolve/modules/1). This lesson alone is enough to get many beginners comfortable with the layout and menus and tools that enable a basic editing job.
 
@@ -84,7 +86,7 @@ To learn more about this course and why we believe it's the perfect introduction
 
 ## **Advanced Editing with DaVinci Resolve**
 
-In [this certified Blackmagic Design course](https://www.mzed.com/courses/advanced-editing-with-davinci-resolve) Ollie Kenchington builds on "The Definitive Guide to Davinci Resolve" to take you deeper into the fully-featured editing functions and workflow of Resolve. Using Davinci Resolve 17 and downloadable example projects, Ollie covers the Cut, Edit, Fusion and Fairlight pages in detailed examples to show you how to create professional videos in the most efficient manner. 
+In [this certified Blackmagic Design course](https://www.mzed.com/courses/advanced-editing-with-davinci-resolve) Ollie Kenchington builds on "The Definitive Guide to Davinci Resolve" to take you deeper into the fully-featured editing functions and workflow of Resolve. Using Davinci Resolve 17 and downloadable example projects, Ollie covers the Cut, Edit, Fusion and Fairlight pages in detailed examples to show you how to create professional videos in the most efficient manner.
 
 The first lesson, [Editing in the Cut Page](https://www.mzed.com/courses/advanced-editing-with-davinci-resolve/modules/1), is a free 50-minute dive into assembling rough cuts with the new streamlined editing interface. The example project in this lesson is a multicam interview, a type of project that many of us have to cut quickly for our clients.
 
@@ -94,7 +96,7 @@ Go behind the curtain of Hollywood filmmaking with Oscar-winning editor Tom Cros
 
 Over eight hours long, this [film editing masterclass](https://www.mzed.com/courses/the-art-technique-of-film-editing) combines thoughtful lectures with in-depth deconstructions of scenes from many of Tom's biggest projects including La La Land, First Man, Whiplash and more, making it a must-see for editors and filmmakers of all levels and genres.
 
-[In the first lesson of the course](https://www.mzed.com/courses/the-art-technique-of-film-editing/modules/1) \- which is free to watch -  Tom takes us back to his early days working in New York City as a commercial, documentary, and TV assistant editor. Wanting to get his hands on the brand new AVID non-linear editing system, Tom worked wherever he could, learning from other masters for years before he transitioned to the editor role. Later in his career, he demonstrates how relationships are the key to the filmmaking business, when he called on his AVID reps to loan him an editing suite for a small budget movie he was working on, "Whiplash", which would ultimately win Tom an Academy Award in Editing.
+[In the first lesson of the course](https://www.mzed.com/courses/the-art-technique-of-film-editing/modules/1) \- which is free to watch - Tom takes us back to his early days working in New York City as a commercial, documentary, and TV assistant editor. Wanting to get his hands on the brand new AVID non-linear editing system, Tom worked wherever he could, learning from other masters for years before he transitioned to the editor role. Later in his career, he demonstrates how relationships are the key to the filmmaking business, when he called on his AVID reps to loan him an editing suite for a small budget movie he was working on, "Whiplash", which would ultimately win Tom an Academy Award in Editing.
 
 ## **ARRI Master Class**
 
@@ -104,19 +106,19 @@ Thanks to our partnership with ARRI Academy, we're proud to offer the exclusive 
 
 Here is not just a free lesson, but an entire course that is completely free to watch - [ARRI Christmas Master Class with Julio Macat ASC](https://www.mzed.com/courses/arri-christmas-master-class-with-julio-macat-asc).
 
-At the beginning of the 3-hour master class, [Julio Macat ASC](https://www.imdb.com/name/nm0531310/) discusses his philosophy on cinematography and how he got his start. Incredibly, his first feature film was _**Home Alone**_ , which went on to top box office sales for 12 weeks.
+At the beginning of the 3-hour master class, [Julio Macat ASC](https://www.imdb.com/name/nm0531310/) discusses his philosophy on cinematography and how he got his start. Incredibly, his first feature film was _**Home Alone**_, which went on to top box office sales for 12 weeks.
 
-![arri julio macat master class](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/arri-masterclass-julio-macat-asc.jpg)
+![arri julio macat master class](/assets/images/posts/arri-masterclass-julio-macat-asc.jpg)
 
 In the interview, Julio recalls he was scared everyday that he was going to get fired when everyone found out he didn't know how the film would come together. He knew he had to depend on music to stitch his first feature film together, so he called up the composer who was hired to score Home Alone - someone Julio didn't know previously - and told the composer to make the music really stand out. That composer turned out to be [_the_ John Williams](https://youtu.be/yHfLyMAHrQE?t=28)!
 
-![Home Alone Julio Macat DP](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/home-alone-dp-julio-macat.jpg)
+![Home Alone Julio Macat DP](/assets/images/posts/home-alone-dp-julio-macat.jpg)
 
 But background stories aside, there are endless bits of advice in this course from a cinematographer who knows the art and science through and through. We follow Julio along as he directs a few different scenes, all set in a home interior during the holiday season.
 
 For beginning filmmakers, this course also features some insightful interviews about crewing on a film production and how to get a foot in the door. During the interview portion of the course, we hear from a First AC, a DIT, and a Steadicam Operator. There's a vast amount of wisdom in this course, and it's completely free to watch for anyone, even if you don't have a subscription.
 
-![arri academy masterclass camerimage](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/arri-masterclass-camerimage.jpg)
+![arri academy masterclass camerimage](/assets/images/posts/arri-masterclass-camerimage.jpg)
 
 ## **The Indie Film Blueprint**
 
@@ -136,7 +138,7 @@ Interested in learning more about the ARRI Alexa Mini? [This short, free lesson]
 
 In [this opening module](https://www.mzed.com/courses/arri-amira/modules/1), AbelCine camera specialist Megan Donnely introduces us to the ARRI AMIRA and gives an overview of the main specifications and features of the camera. The AMIRA is a workhorse professional camera that finds itself on both documentary and commercial sets around the globe, and this primer is a good way to learn how to make the AMIRA shine even if you've never picked one up before.
 
-![arri amira camera primer](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/arri-amira-primer.jpg)
+![arri amira camera primer](/assets/images/posts/arri-amira-primer.jpg)
 
 ### **Canon C300 MkII Camera Primer**
 
@@ -148,7 +150,7 @@ In [this first lesson of the EVA1 camera primer](https://www.mzed.com/courses/pa
 
 ## **Writing 101 and 201**
 
-**![screenwriting master class seth worley](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/screenwriting-course-seth-worley.jpg)**
+**![screenwriting master class seth worley](/assets/images/posts/screenwriting-course-seth-worley.jpg)**
 
 If you're interested in writing for film, Seth Worley's [Writing 101](https://www.mzed.com/courses/writing-101) and [Writing 201](https://www.mzed.com/courses/writing-201) courses at MZed are essential viewing. The first lessons are free and introduce viewers to what they can expect with the courses, and some general advice about approaching a screenplay.
 
@@ -158,11 +160,7 @@ Ever been confused by focal length? Lens breathing? How about crop factors? In t
 
 [In the first free lesson](https://www.mzed.com/courses/the-secrets-of-optics/modules/1), educator Mitch Gross defines what a lens is, and how modern lenses came about. Even if you think you know about photography and cinema lenses, this is a great refresher and you may learn something new.
 
-![filmmaking lenses master class](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/filmmaking-lenses-course-optics.jpg)
-
-##  
-
-##  
+![filmmaking lenses master class](/assets/images/posts/filmmaking-lenses-course-optics.jpg)
 
 ## **Conclusion**
 

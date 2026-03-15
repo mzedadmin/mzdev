@@ -13,19 +13,11 @@ subtitle: A New Comprehensive Course on MZed.com
 
 **There is a popular cliché about two types of directors. Roughly put, the first ones are great at working with actors but have no clue where to point the camera. Conversely, the second kind is gifted in visual storytelling but leaves actors to their own devices. While I strongly believe that crafting the performance and giving your cast correct motivation is the primary job of a good director, neglecting the importance of camera language would be a mistake. Can we have both, please? Sure we can. The new course, "Cinematography for Directors" [on MZed.com](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=4815840-f6388f), held by seasoned filmmaker and educator Tal Lazar, takes you to the very heart of your story and explains how to express it in images. Below, we'll give you a glimpse into this exciting, collaborative journey.**
 
-**MZed Pro 1-Year Filmmaking Education**
-
 As Tal Lazar reminds us, a huge part of filmmaking is communicating to others your requirements or intentions. In his 4,5 hourlong hands-on course "[Cinematography for Directors](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=4815840-f6388f)", you will master both how to talk about important story-driven decisions and how to lead a technical team without being a tech camera expert yourself. In other advanced topics, Tal speaks about visual language, explains how to find the essence of a scene, and demonstrates tools like the narrative perspective, camera position, choosing a suitable lens, and more. All this theoretical material comes in a simple, digestible form combined with examples from great films and practical exercises to try out.
 
 In other words, if you ever thought to yourself: Oh, I'm actually more of a creative person than a tech guru, then this course is definitely for you. Not convinced? Read on to gather the first takeaways from Tal Lazar's lessons, which we share below.
 
 [**Ready to dive in? Head over to MZed and start watching "Cinematography for Directors" now.**](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=4815840-f6388f)
-
-Related Course
-
-[![Cinematography for Directors](/assets/images/posts/mastering-cinematography-for-directors-course-thumb.jpg)](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Working with a cinematographer is a skill which every Film and TV director or producer needs to master. You'll learn how to find and communicate the core of what your images need to express, and make decisions like where to place your camera and what lens to use.
 
 But first, let me briefly introduce you to your instructor. [**Tal Lazar**](https://latentimages.com/authors/tal-lazar) is an experienced filmmaker, who started as a cinematographer, and later became a producer and director. He worked on countless productions from short films to features, documentaries, fiction, and commercials. (You can find his full filmography [here](https://www.imdb.com/name/nm1823574/)).
 
@@ -94,33 +86,3 @@ It was just a tiny sneak peek into "[Cinematography for Directors.](https://www.
 …and that's not all. You can read the description of all the course modules [**here**](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=4815840-f6388f).
 
 [**"Cinematography for Directors"**](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=4815840-f6388f) is available to purchase for $49.00. [**Or you can subscribe to MZed Pro**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4815840-f6388f) and watch this course, along with over 55 other courses for only $349 for the first year, and $199 for every year after that.
-
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4815840-f6388f), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several in production right now).
-
-![A small portion of the MZed Pro courses](/assets/images/posts/mastering-cinematography-for-directors-mzed-overview.jpg)
-*A small portion of the hundreds, and hundreds of educational content part of the MZed Pro subscription.*
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,500.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**Full disclosure:** [**MZed**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4815840-f6388f) is [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)**.**  
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4815840-f6388f)
-
-**Are you a director? Do you often make cinematography choices? What is your approach to developing a visual language for a film? Let's talk in the comments below.**
-
-MZed Pro 1-Year Filmmaking Education
-
-![MZed Pro 1-Year Filmmaking Education](/assets/images/posts/mastering-cinematography-for-directors-mzed-pro.jpg)
-
-#### You may also like ...
-
-#### Most recent CineD Videos

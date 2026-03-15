@@ -9,11 +9,7 @@ meta_description: Creative techniques to enhance documentary filmmaking, includi
 subtitle: Ideas and Showcases
 ---
 
-![Creative Techniques to Enhance Your Documentary – Ideas and Showcases](/assets/images/posts/documentary-creative-techniques-hero.jpg)
-
 **We talk a lot about visual storytelling and narrative tools in fictional films. [Leading lines](https://www.cined.com/using-lines-in-shot-composition-a-journey-of-visual-mastery-with-film-examples/), creating [depth](https://www.cined.com/types-of-space-in-film-explained-crafting-depth-in-your-cinematic-story/), playing with [aspect ratio](https://www.cined.com/aspect-ratio-as-a-storytelling-tool-a-how-to-with-film-examples/), specific types of [editing](https://www.cined.com/when-to-cut-and-why-unlocking-the-craft-of-precise-editing/)… Some of them apply to documentaries as well. Yet, of course, when we capture the events unfolding before our eyes, it's not always possible to think about framing, let alone stylistic choices. Still, there are plenty of creative techniques that can help to enhance your documentary and add something special to the story you want to tell. Let's take a look at several examples below!**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 Over the last decades, documentaries have become much more than plain reportages that document reality with interviews and B-roll footage on top. This one word includes so many parts of the motion picture: educational, observational, portraits and personal stories, wildlife cinema, historical documents – the list can go on and on.
 
@@ -84,9 +80,5 @@ At the moment, it's just a close-up of insects, used as an insert shot. However,
 If you're generally interested in wildlife cinematography, head over [here](https://www.mzed.com/courses/asc-wildlife-filmmaking?tap_a=17272-420962&tap_s=4390139-aad970) and attend our "[**The ASC Wildlife Filmmaking Course" on MZed.com**](https://www.mzed.com/courses/asc-wildlife-filmmaking?tap_a=17272-420962&tap_s=4390139-aad970) for free.
 
 These were just a couple of instances demonstrating how to enrich your documentary by incorporating stylized elements or introducing original approaches to conventional segments. We hope you can use it as a spark of inspiration for your own work. All in all, every creative technique that comes to mind is relevant here, as long as it supports the narrative.
-
-**Do you have other recent showcases from the documentary world that caught your attention? Or any stylization tools that you've never seen in this art of motion picture before? Let's gather some ideas in the comment section below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4390139-aad970) is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)
 
 _Feature image source:_ combined film stills from "Beckham" by Fisher Stevens (2023) and from "Feminism WTF" by Katharina Mückstein (2023)

@@ -8,11 +8,7 @@ meta_description: Perspective, size, tone, and other cues add cinematic depth
 subtitle: Perspective, size, tone, and other cues add cinematic depth
 ---
 
-![Types of Space in Film Explained – Crafting Depth in Your Cinematic Story](/assets/images/posts/adding-depth-to-space-hero.jpg)
-
 **Are you familiar with the phrase, "We need to create more depth in this frame"? I hear it a lot from cinematographers I work with. Most of the time, the reason behind this is to create a visual shot composition that is more interesting. Indeed, conjuring the illusion of three-dimensional space on a flat screen surface is an important filmmaking tool. However, other types of space in film can suit your story even better, if used with intention. Let's talk about flat, limited, and ambiguous space, and how and when to apply them! And I promise to go much further than only looking at amazing Wes Anderson's approach.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 Deep space versus flat space? We touched on this topic slightly when we discussed [the power of focus in film](https://www.cined.com/the-power-of-focus-in-film-tips-for-sharpening-your-storytelling-skills/). If you're unfamiliar with terms like high or shallow depth-of-field, I suggest reading about them first, as we'll be relying on these concepts in the subsequent exploration of theory. Ready? Then let's dive deep!
 
@@ -38,14 +34,6 @@ That's right – the so-called depth cues are different instruments that help to
 *The Shining uses deep space with vanishing points to create tension. Image source: CineD*
 
 An interesting side-effect is that any vanishing point on the screen will automatically draw the viewer's attention. In the example above of ["The Shining"](https://www.imdb.com/title/tt0081505/), it's the mystical twins who suddenly appear in an endless hallway. Everything in this frame leads our eyes to them, making their presence significant. Should we always place our characters or important subjects on the vanishing points in frames? That depends. Sometimes we may want to play with the audience and hide clues from them instead. (See also ["Using Lines in Shot Composition"](https://www.cined.com/using-lines-in-shot-composition-a-journey-of-visual-mastery-with-film-examples/)).
-
-Related Course
-
-## Fundamentals of Directing
-
-[![Fundamentals of Directing](https://www.cined.com/content/uploads/2023/06/5b5ef4d54b1de99c6605b0e721a761ea.jpg)](https://www.mzed.com/courses/fundamentals-of-directing?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-An introduction to the craft of directing for beginners, film enthusiasts, and individuals. You will learn the basics of film directing, what directing really is, and the core elements you will need to know and understand to get started.
 
 Adding a feeling of perspective is important to create deep space within your frame, but that's not the only tool. Here are several other depth cues to consider:
 
@@ -160,10 +148,6 @@ Knowing how space works differently in film and what effect it has on the audien
 We use it to emphasize the story and its development. For instance, we start a scene with a wide shot and get closer and closer to the character during their very personal monologue. Or a camera is locked down on a tripod in the beginning, but gradually it starts to move and is handheld when the situation grows too tense.
 
 The same idea can be applied to the use of space throughout a film. Let's say you tell a story of someone who seems dull and shallow in the beginning, but as we get to know them, we recognize their inner beauty. How about we start with shots using flat space, and slowly introduce depth cues one after the other? I reckon such a visual journey will create an enormous impact.
-
-**What do you think? Have you ever paid attention to which space you use in your cinematic stories? In what other cases would you decide on an ambiguous space, for example? Let's talk a bit more about it in the comments below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4347609-6b25af) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
 
 **Additional source:** "The Visual Story" by Bruce Block, second edition, 2008.
 

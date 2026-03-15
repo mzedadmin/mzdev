@@ -12,7 +12,7 @@ We have some great news to share: MZed is partnering with [Angelbird](https://ww
 
 We're quite proud about what we are building here at MZed. Since CineD took over the platform more than a year ago, we have not only produced and added way over 10 new courses to the library (with many more in production and post-production). In total, the MZed Pro library now contains over 50 courses with the MZed Pro subscription - we have also started lots of cooperations with manufacturers to broaden the education of filmmaking as much as possible, to as many creatives as possible. Many of those other cooperations will be announced over the coming months. 
 
-![Angelbird MZed](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/Angelbird-MZed-30-days-free-2048x1152.jpg)
+![Angelbird MZed](/assets/images/posts/angelbird-mzed-30-days-free-2048x1152.jpg)
 
 ## **Free MZed Pro Trial for 30 days with Angelbird**
 
@@ -30,10 +30,9 @@ With the trial, you have full access to all 50+ courses, over 700 lessons and cl
 
 Think of MZed Pro as a "Netflix for filmmakers", simply the highest-quality and most diverse source of professional filmmaking education on the planet.
 
-**Ready to join the full MZed Pro membership already?[Click here to get started](https://www.mzed.com/checkout/?sku=MZEDPRO12).**
+**Ready to join the full MZed Pro membership already? [Click here to get started](https://www.mzed.com/checkout/?sku=MZEDPRO12).**
 
-![](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/2022-august-mzed-courses-tiles.jpg)
-
+![](/assets/images/posts/2022-august-mzed-courses-tiles.jpg)
 **Here 's a quick summary of the MZed Pro subscription:**
 
 > Over 700 high-quality lessons spanning nearly 400 hours of learning. Plus many more courses are on the way.

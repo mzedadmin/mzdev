@@ -12,10 +12,6 @@ subtitle: Pablo Larraín's dark comedy has an Oscar nomination for Best Cinemato
 
 "Everything has already been done, every story has been told, every scene has been shot. It's our job to do it one better." This quote by the great Stanley Kubrick kept spinning in my head while we were watching [Pablo Larraín's](https://www.imdb.com/name/nm1883257/?ref_=tt_ov_dr) dark comedy, "[El Conde](https://www.imdb.com/title/tt21113540/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_el%2520conde)". It isn't like no one does black-and-white films anymore – in fact, three out of the five films nominated for "Best Cinematography" at the [upcoming Oscars](https://www.cined.com/oscar-nominations-2024-announced-not-without-surprises/) feature monochromatic sequences. Not even the satiric vampire story is a novel invention (a nod towards [Taika Waititi's "What We Do in the Shadows"](https://www.imdb.com/title/tt3416742/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_what%2520we%2520)). Yet, this dry comedic feature gave me a feeling that they managed to do it "one better". What's so special about the black-and-white world of El Conde then? Let's find out together.
 
-![Satire with Fangs – Exploring the Unique Black-and-White World of El Conde](/assets/images/posts/the-black-and-white-world-of-el-conde-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
-
 "El Conde" offers the audience a satirical look at the fascist reign of Chilean dictator Augusto Pinochet. In the film, he is depicted as a 250-year-old vampire who yearns for death when the atrocities he's committed finally begin to haunt him. However, he changes his mind halfway through after falling in love with Carmen, a beautiful nun, whom Augusto's children hired to exorcise and kill their father (under the disguise of auditioning for the family's wealth).
 
 There is also Fyodor, a white Russian servant, who Augusto turned into a vampire, and a sudden appearance of Margaret Thatcher and other plot twists that I don't want to spoil. Instead, let's dive into the remarkable cinematography of "El Conde" as discussed with the DP Ed Lachman in a recent [ASC clubhouse conversation on MZed.com](https://www.mzed.com/courses/asc-clubhouse-conversations/modules/860?tap_a=17272-420962&tap_s=4677954-164a45).
@@ -92,11 +88,5 @@ For example, blood was a very important element in the story. During pre-product
 "El Conde" will compete at the upcoming Oscars for [Best Cinematography](https://www.oscars.org/oscars/ceremonies/2024). It is the only nomination for the film, and to be honest, the picture seems more like an arthouse underdog in its category next to huge productions. Even if it is unlikely for the black comedy to take the prize, its carefully crafted world deserves praise and attention.
 
 [In the ASC clubhouse conversation](https://www.mzed.com/courses/asc-clubhouse-conversations/modules/860?tap_a=17272-420962&tap_s=4677954-164a45), you can also find out more about the groundbreaking EL Zone system, that Lachman liked so much, explore how he shot interior scenes and matched them to the following exterior shots, and dive into his philosophy for developing a visual language. [Just head over here and listen to the full episode on MZed.com.](https://www.mzed.com/courses/asc-clubhouse-conversations/modules/860?tap_a=17272-420962&tap_s=4677954-164a45)
-
-**Have you watched "El Conde"? If so, what feelings and senses did its black-and-white world awaken in you? Did you notice any special scenes you would like to break down? Looking forward to our discussion in the comments below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4677954-164a45) is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4677954-164a45)
 
 **_Feature image source:_** a film still from "El Conde" by Pablo Larraín, 2023.

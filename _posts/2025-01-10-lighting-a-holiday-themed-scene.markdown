@@ -10,8 +10,6 @@ subtitle: Learn the tricks from the DP of Home Alone
 
 The holidays are all around us! And what better way to spend it as a filmmaker than to shoot a festive video? So, here are some of the tricks for lighting a holiday-themed scene from none other than the legendary director of photography, Julio Macat. For those of you who are not good with names, Julio shot "Home Alone," one of the most rewatched Christmas movies of all time. Therefore, he definitely has an insight or two on this topic, alongside some practical tips and tricks for lighting in general.
 
-![Tricks for Lighting a Holiday-Themed Scene with "Home Alone" DP Julio Macat ASC](/assets/images/posts/lighting-a-holiday-themed-scene-hero.jpg)
-
 In this article, we will concentrate on the lighting, as in Julio's words, it is the hardest part to learn as a DP. However, our "ARRI Christmas Master Class" on MZed.com covers a bigger array of topics and invites experts who demonstrate both how to create holiday spirit in scenes and the workflow on a professional film set.
 
 ## Always thinking as a storyteller
@@ -71,5 +69,3 @@ Let's add a little bit of magic now, shall we? Julio Macat admits to using filte
 It's a simple trick, but it is worth knowing, just like all the other tricks mentioned in the course – because technology changes and evolves, yet the basics of storytelling with lighting stay the same.
 
 If you want to learn other tips and tricks (for instance, how to achieve a realistic fire effect without using real flames and how to make flat white walls seem more interesting), head over to the full "ARRI Christmas Master Class with Julio Macat ASC" on MZed.com and keep watching.
-
-**Happy Holidays, everyone! What about you? Any specific plans for festive videos this year? Or maybe you have further insight on lighting a holiday-themed scene? Please share them with us in the comments section below!**

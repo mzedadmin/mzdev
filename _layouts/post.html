@@ -31,6 +31,9 @@ layout: default
     </header>
 
     <div class="post-content">
+      {% if page.image %}
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="post-hero-image">
+      {% endif %}
       {{ content }}
     </div>
 

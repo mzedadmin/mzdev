@@ -8,8 +8,6 @@ meta_description: Interview with cinematographer Damián García
 subtitle: Interview with cinematographer Damián García
 ---
 
-![Behind the Lens of "Andor" – Damián García Breaks Down His Emmy-Nominated Cinematography](/assets/images/posts/andor-bts-hero.jpg)
-
 **The Academy of Television Arts & Sciences has recently [announced](https://www.emmys.com/events/75th-emmy-nominations-announcement) the Emmy nominations in this year's competition, and it's exciting to see some well-loved shows and series among the contestants. As a huge fan of the Star Wars universe in general, and [Disney+ "Andor"](https://www.disneyplus.com/series/star-wars-andor/) in particular, I'm especially pleased to find its title mentioned in different categories. For example, the season's grand finale – episode 12 "Rix Road" – is officially in the race for the "Outstanding Cinematography For a Series (One Hour)". Lucky for us, director of photography [Damián García](https://www.imdb.com/name/nm1449904/) took part in the [ASC Clubhouse Conversations](https://www.mzed.com/courses/asc-clubhouse-conversations?tap_a=17272-420962&tap_s=3992959-976272) and broke down his visual language for the nominated episode. What makes cinematography in Andor so special, and how did they achieve a uniquely raw and realistic look within one of the most famous film universes of all time? – Let's find out together!**
 
 In [the extensive interview with cinematographer Dave Perkal](https://www.mzed.com/courses/asc-clubhouse-conversations/modules/876?tap_a=17272-420962&tap_s=3992959-976272), Damián García admits that he was surprised when he got a call from the series showrunner and writer, [Tony Gilroy.](https://www.imdb.com/name/nm0006904/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_Tony%2520Gilroy.) Then came the excitement as Damián read the first few scripts and realized that the limited-series "Andor" would take a recognizable but totally unique route within the "Star Wars" journey. The story felt very mature and grounded, but also universal, with themes and narratives that could take place anywhere – and cinematography had to support this special approach right from the start.
@@ -20,9 +18,8 @@ The last episode of Andor's season one bears the name "Rix Road" and follows the
 
 Cinematographer Damián García recalls that the script for this episode was extremely long and included many complex scenes (which is no surprise when we know how much happens within one hour). In the beginning, he and the director [Benjamin Caron](https://www.imdb.com/name/nm0139081/?ref_=nv_sr_srsg_1_tt_0_nm_7_q_Benjamin%2520Caron) didn't know where to start and how to approach this story visually.
 
-[![cinematography in Andor - the DP](/assets/images/posts/andor-bts-garcia-interview.jpg)](/assets/images/posts/andor-bts-garcia-interview.jpg)
-
-Damián García in conversation with Dave Perkal. Image source: ASC / MZed
+![cinematography in Andor - the DP](/assets/images/posts/andor-bts-garcia-interview.jpg)
+*Damián García in conversation with Dave Perkal. Image source: ASC / MZed*
 
 After some discussion, they decided to shoot the episode in an almost documentary style, to make it feel very grounded, real, and emotionally relatable. One of their references for the riot scenes was the film "The Battle of Algiers" (1966). This war feature by Gillo Pontecorvo was shot in the style of a newsreel using documentary-type editing and engaged mostly non-professional actors who had lived through the Algerian war themselves. This gave the film a sense of authenticity, which the creators of "Andor" were aiming for.
 
@@ -32,7 +29,7 @@ So, creating a "real" atmosphere was imperative to the entire series and especia
 > 
 > Damián García, a quote from the ASC Clubhouse Conversation
 
-[![cinematography in Andor - works together with the production design](/assets/images/posts/andor-bts-production-design.jpg)](/assets/images/posts/andor-bts-production-design.jpg)
+![cinematography in Andor - works together with the production design](/assets/images/posts/andor-bts-production-design.jpg)
 
 Film stills, featuring the meticulously constructed sets of Ferris in "Andor" with love in every detail. Images source: Disney+
 
@@ -42,15 +39,14 @@ The episode nominated has a very specific rhythm, gradually building suspense an
 
 At first, the camera remains slow and steady. It moves rather quietly and smoothly – on a crane or a dolly – locking in on the characters or following their path. This is something we would often see in spy cinema where suspense reaches its peak and you sense the imminent arrival of an electrifying moment about to unfold.
 
-[![cinematography in Andor - camera movement and its development throughout the story](/assets/images/posts/andor-bts-camera-movement.jpg)](/assets/images/posts/andor-bts-camera-movement.jpg)
-
-Film stills from "Andor". Images source: Disney+
+![cinematography in Andor - camera movement and its development throughout the story](/assets/images/posts/andor-bts-camera-movement.jpg)
+*Film stills from "Andor". Images source: Disney+*
 
 When the danger becomes real – as in the instance with Cassian being discovered – the visuals get a bit more hectic leading up to the moment when the actual riot erupts. And then it is pure battle chaos, with wild hand-held camera movements, naturally shaking frames, fast-paced action, and a haze of smoke. These kinds of cinematography decisions have a tremendous impact on us and how we react to the events on screen. But of course, they need to be deliberate and suitable to the story. As Damián underscores, the battle was probably the most challenging part for VFX artists, as a shaky camera, lots of motion blur and smoke is a killer combination for tracking and compositing. So, it had to make sense and be worth it, and I think it delivers on both points.
 
 Another cinematography tool that truly grounds the chaos of Ferris is quite literal. They were obsessed with the idea of an eye-level perspective almost the entire time, admits the director of photography. As a result, we watch the events either close to the characters, from their point of view, or from ground level when they fall after the explosion or when they crawl. Just look at a couple of the shots below. What feeling do they stir in you?
 
-[![cinematography in Andor - eye-level composition](/assets/images/posts/andor-bts-eye-level.jpg)](/assets/images/posts/andor-bts-eye-level.jpg)
+![cinematography in Andor - eye-level composition](/assets/images/posts/andor-bts-eye-level.jpg)
 
 Battle scenes from an eye-level perspective. Images source: film stills from "Andor", Disney+
 
@@ -58,9 +54,9 @@ Damián García explains that oftentimes such battle scenes would be captured in
 
 A lot of the scenes in the Emmy-nominated episode happen outside. In its melancholic wide shots of the funeral parade, we can witness the beauty along with the massive exterior explosions afterward. Yet the light and the atmosphere remain consistent, no matter what. On top of that, Damián mentions that he loved how harmonic this location looked in the shadow of the overcast. As the creators of the show needed around 2 weeks to shoot the riot scenes, a reasonable question arises: how did they convince the sun to play along?
 
-[![cinematography in Andor - sky](/assets/images/posts/andor-bts-overcast-1.jpg)](/assets/images/posts/andor-bts-overcast-1.jpg)
+![cinematography in Andor - sky](/assets/images/posts/andor-bts-overcast-1.jpg)
 
-[![cinematography in Andor - overcast lighting](/assets/images/posts/andor-bts-overcast-2.jpg)](/assets/images/posts/andor-bts-overcast-2.jpg)
+![cinematography in Andor - overcast lighting](/assets/images/posts/andor-bts-overcast-2.jpg)
 
 Overcast atmosphere & lighting is a huge part of cinematography in Andor. Images source: Disney+
 
@@ -68,9 +64,8 @@ Well, every cinematographer knows that controlling exterior lighting is not an e
 
 Damián García loves preproduction. He feels that if you prepare well enough in advance, you can improvise later. And seeing how they tackled the complicated action in Andor's finale, it's difficult to disagree. They not only relied on tons of astonishing concept art and thorough 3D visualizations of the sets but it was all done in advance. Together with the director, Damián went out in the field and pre-shot almost all the scenes with his iPhone. They did this on location, spending a lot of time there during the construction phase, which also helped in getting to know the place beforehand.
 
-[![cinematography in Andor - concept art](/assets/images/posts/andor-bts-concept-art.jpg)](/assets/images/posts/andor-bts-concept-art.jpg)
-
-Andor's Ferris – outstanding concept art. Image source: Disney+
+![cinematography in Andor - concept art](/assets/images/posts/andor-bts-concept-art.jpg)
+*Andor's Ferris – outstanding concept art. Image source: Disney+*
 
 The "Rix Road" episode – as well as the rest of the show – was shot on [Sony Venice](https://www.bhphotovideo.com/c/product/1672826-REG/sony_mpc_3626_venice_2_6k_digital.html/BI/7953/KBID/8488/SID/mascha) with Panavision C- and G-series Anamorphic Primes with no filtration. For Damián García, it seemed like a perfect combination. When he shoots anamorphic, he doesn't want to feel the lenses too much. And the glass of his choice won't distract the spectators, yet it will create very cinematic visuals.
 
@@ -79,23 +74,5 @@ The 75th Primetime Emmy Awards are scheduled to be broadcast on September 18th. 
 In the meantime, we recommend you check out other [ASC Clubhouse Conversations on MZed.com](https://www.mzed.com/courses/asc-clubhouse-conversations?tap_a=17272-420962&tap_s=3992959-976272), including the [13 new recently-added episodes](https://www.cined.com/13-new-asc-clubhouse-conversations-on-mzed-gain-insights-from-world-renowned-cinematographers/). Some of them also take a peek behind the scenes of the shows mentioned above. And the best thing about it? You can watch the latest ones for free and learn filmmaking insights directly from industry professionals.
 
 As an **[MZed Pro Member](https://www.mzed.com/?tap_a=17272-420962&tap_s=3945987-b261b5)**, you also have access to over 450 hours of filmmaking education, including **The ASC Clubhouse Conversations**, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,000.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**Full disclosure: MZed is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=3992959-976272)
-
-**How did you like the cinematography in Andor? Would you give it an Emmy for the 12<sup>th</sup> episode? Or which contemporary show deserves this award more? Share your opinion with us in the comments below!**
 
 _Feature image source:_ a film still from "Andor", courtesy of Lucasfilm.

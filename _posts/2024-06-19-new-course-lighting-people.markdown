@@ -15,23 +15,11 @@ subtitle: In Lighting People, ASC members Paul Atkins and Stephen Lighthill teac
 
 **We're proud to launch another course on MZed: [Lighting People – On Location](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4651138-cf5c72). Read on to learn more about this unique online course entirely focused on practical lighting solutions both indoors and outdoors.**
 
-![Lighting People – On Location: New Course with Paul Atkins & Stephen Lighthill, ASC, only on MZed](/assets/images/posts/new-course-lighting-people-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
-
 In this [4-hour course](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4651138-cf5c72), master cinematographers Stephen Lighthill, ASC, and Paul Atkins, ASC, share different tips and tricks for on-location lighting, both indoors as well as outdoors. This is, of course, particularly relevant for documentary filmmakers who often have to live with what's available in terms of location. Having worked as DPs in the industry for many decades, Paul and Stephen share a wealth of experience and knowledge with a diverse group of filmmakers, and the MZed audience has an exclusive chance to be part of that workshop. 
 
 The [Lighting People course](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4651138-cf5c72) was filmed in Austria as part of the [Jackson Wild Summit](https://www.jacksonwild.org/2022-summit-austria.html) – you can watch the other course with Stephen and Paul, the [Wildlife Filmmaking Workshop, for free on MZed](https://www.mzed.com/courses/asc-wildlife-filmmaking?tap_a=17272-420962&tap_s=4651138-cf5c72) as well. 
 
 The course is available now for free for all MZed Pro subscribers who also have access to over 500 hours of content in over 55 courses and close to 900 lessons. The course can also be [purchased separately, to be owned forever, for only $39](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=4651138-cf5c72).
-
-Related Course
-
-## Lighting People – On Location
-
-[![Lighting People – On Location](/assets/images/posts/new-course-lighting-people-hero.jpg)](https://www.mzed.com/courses/lighting-people-on-location?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-In this practical 4-hour workshop, master cinematographers Paul Atkins, ASC, and Stephen Lighthill, ASC, share tips and tricks on how to achieve naturally looking lighting on location, both outdoors and indoors, in front of a diverse audience of filmmakers from all over the world.
 
 ## Lighting People – On Location by the ASC: lesson overview
 
@@ -74,32 +62,3 @@ In his outdoor lesson, Stephen starts by advising the students to look at the di
 We're very proud of our partnership with the American Society of Cinematographers, and if you are interested in more ASC content, I can highly recommend that you [watch the ASC Clubhouse Conversations](https://www.mzed.com/courses/asc-clubhouse-conversations?tap_a=17272-420962&tap_s=4651138-cf5c72), which bring to screen some of the most renowned cinematographers and directors in the world to talk about their productions. We have over 150 episodes on MZed, and the list is ever-growing. [Here's a recent article on the latest addition of new episodes](https://www.cined.com/freshly-added-asc-clubhouse-conversations-on-mzed-from-oscar-nominees-to-%D1%81inephile-favorites/) in the run-up to this year's Oscar celebration. The latest episodes are free to watch with a free MZed account, and you can watch all 150+ episodes with an MZed Pro subscription.
 
 Talking about free access, our original [ASC Wildlife Cinematography Workshop](https://www.mzed.com/courses/asc-wildlife-filmmaking?tap_a=17272-420962&tap_s=4651138-cf5c72) is also free to watch for anyone with a free MZed account. As mentioned above, that workshop was recorded together with this Lighting People workshop and also features Paul Atkins, ASC and Stephen Lighthill, ASC. They give tips and tricks regarding filming wildlife.
-
-## What else do you get with MZed Pro?
-
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4651138-cf5c72), you have access to over 500 hours of filmmaking education, including **The ASC Clubhouse Conversations**. Plus, we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-![MZed courses overview](/assets/images/posts/new-course-lighting-people-mzed-overview.jpg)
-
-**Full disclosure:** [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4651138-cf5c72) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)  
-[Join MZed Pro now and start watching today!](https://www.mzed.com/?tap_a=17272-420962&tap_s=4618871-febb2c)
-
-MZed Pro 1-Year Filmmaking Education Subscription
-
-![MZed Pro 1-Year Filmmaking Education Subscription](/assets/images/posts/new-course-lighting-people-mzed-pro.jpg)
-
-#### You may also like ...
-
-#### Most recent CineD Videos

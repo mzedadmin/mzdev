@@ -10,7 +10,6 @@ subtitle: It's a feature, not a bug
 
 Christmas is around the corner, and you might or might not be looking for interesting lenses to give to your favorite cinematographer as a present (including yourself, of course). Maybe even vintage ones because, as we often hear, they have character. What gives a lens personality, though? Seasoned cinematographer and educator Tal Lazar answers: its flaws. In his MZed course "The Art & Science of Lenses," he revisits all common lens aberrations, explains why they appear, and demonstrates how they influence the image. Let's take a glimpse!
 
-![Style Through Lens Aberrations – Exploring Unique Visual Character](/assets/images/posts/utilizing-lens-aberations-for-styling-effects-hero.jpg)
 *Understanding how lens aberrations create unique visual character in cinematography. Image source: CineD*
 
 Technicians define aberrations as a failure of an optical system to focus all of the incident light rays coming from a point on the object to an image point. We – filmmakers and photographers – should see them rather as creative opportunities. After all, as Tal Lazar reminds us, every lens has aberrations. This is what makes them characteristic and special. We look for optical solutions that tell stories rather than perfect ones, right? That's why some cinematographers even degrade lenses so that certain aberrations become more pronounced.
@@ -121,9 +120,3 @@ The key is understanding when and how to use these aberrations intentionally. A 
 Today's lens manufacturers are increasingly creating lenses that balance technical excellence with character. Some modern lenses are designed with controlled aberrations that provide character without compromising overall image quality. This represents a shift in thinking – from pursuing perfect optical correction to embracing the creative potential of controlled imperfection.
 
 For working cinematographers, this means having more tools in the creative toolkit. Understanding aberrations allows for more informed lens choices, whether selecting vintage glass for its unique character or modern lenses for their controlled optical signatures.
-
-## Conclusion
-
-As Tal Lazar reminds us in his course, every lens has aberrations. The question isn't whether to accept them, but how to use them creatively. In a world of increasing technical perfection, the lenses with the most character – and the most intentional use of their aberrations – will continue to create the most memorable images.
-
-Whether you're working with vintage glass full of character or modern lenses with controlled aberrations, the key is making conscious choices about how optical characteristics serve your creative vision. Understanding lens aberrations isn't just about technical knowledge – it's about expanding your visual language as a filmmaker.

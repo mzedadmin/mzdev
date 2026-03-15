@@ -10,8 +10,6 @@ subtitle: Portraying character emotions through wide angle close ups
 
 When we show our characters up close, most likely we're interested in the emotions they express or are going through at that particular moment. But what if we portray them through a wide lens? How will it affect the overall impact of the shot? What emotions can it convey? And why do wide-angle close-ups always feel so expressive? Let's figure it out together!
 
-![Wide-angle Close-ups – Expressive Frames and Their Emotional Impact](/assets/images/posts/wide-angle-close-ups-and-emotional-impact-hero.jpg)
-
 I was watching the latest season of FX's series "The Bear" when I noticed one thing. The creators love detail shots in general, but they often use a wider lens to frame close-ups of the protagonist Carmy, especially in the most stressful situations. I wondered: Is it a subtle tool to enhance his feelings of anxiety and make us relate to him more? Or is it just a coincidence? Or could this type of shot follow a completely different goal here? Questions upon questions.
 
 <iframe loading="lazy" title="The Bear Season 3 Trailer (HD)" width="500" height="281" src="https://www.youtube-nocookie.com/embed/CIhm9psbVkU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
@@ -78,9 +76,3 @@ So, yes, close-ups framed through a wide angle are expressive, sometimes – eve
 ![Wide-angle close-up from The Revenant](/assets/images/posts/the-revenant-wide-angle-closeup-2.jpg)
 
 Another film that always comes to mind when we talk about wide-angle close-ups is "The Tree of Life" by Terrence Malick. Who was the cinematographer of the movie? Emmanuel Lubezki. So, we can say that this visual style is typical for Chivo. It became a sort of an iconic landmark for him.
-
-## Conclusion
-
-What about "The Bear", though? Why do creators use a lot of wide-angle close-ups? To make us laugh, to immerse the audience into Carmy's warped and anxiety-soaked reality, or to enhance his feelings in an effective, stylistic way? I guess a little bit of everything. After all, "The Bear" has a comedy side, and we do relate to the protagonist, and sometimes, watching this series feels genuinely intense.
-
-**Let's turn the tables now! How about you? Do you use wide-angle close-ups in your projects? If so, what goals or emotional impact do you want to achieve with them? Tell us about your favorite scenes and shots in the comments below!**

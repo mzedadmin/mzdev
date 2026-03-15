@@ -10,11 +10,7 @@ subtitle: From photo sites to ARRIRAW recording, here's how the tech creates the
   look.
 ---
 
-![An Introduction to ARRIRAW](/assets/images/posts/arri-sensor-explained-hero.jpg)
-
 **To understand how ARRIRAW works and what makes it different from other raw formats, it helps to go straight to the source.**
-
-**MZed Pro 1-Year Filmmaking Courses Subscription**
 
 In ARRI Academy's official [Certified Online Training for Camera Systems course](https://www.mzed.com/courses/certified-online-training-for-camera-systems?tap_a=17272-420962&tap_s=2527515-4eb418), which is only available online at [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=2527515-4eb418), ARRI's senior trainer Florian Rettich distills the complicated subject of raw recording in a way we can all understand.
 
@@ -26,17 +22,15 @@ To better explain ARRIRAW instructor Florian first gives a basic introduction to
 
 So, all digital cameras have sensors that convert light into an electric charge, which then gets digitized and processed into data. But the way they go about that process differs.
 
-[![](/assets/images/posts/arri-academy-florian-instructor.jpg)](/assets/images/posts/arri-academy-florian-instructor.jpg)
-
-Image source: ARRI
+![](/assets/images/posts/arri-academy-florian-instructor.jpg)
+*Image source: ARRI*
 
 First let's only think about light itself, before we add color to the mix. If you think of photosites on a sensor as buckets of light, then each bucket is white when it is completely full of light, and black when it receives no light. You could also use the analogy of a glass of water if that helps you picture what's happening.
 
 At some point the bucket is full, and the photosite is 100% saturated, or white, disregarding any additional light energy spilling over the bucket. And the same is true when there's no light and the photosite becomes 0% saturated, or black.
 
-[![arriraw-photosites-optical-electric-digital-conversion](/assets/images/posts/arriraw-photosites-conversion.jpg)](/assets/images/posts/arriraw-photosites-conversion.jpg)
-
-Image source: ARRI
+![Arriraw Photosites Optical Electric Digital Conversion](/assets/images/posts/arriraw-photosites-conversion.jpg)
+*Image source: ARRI*
 
 Now if you have a 100% full bucket, and you stop the iris down by one stop, the bucket becomes only 50% full. If you stop down the iris an additional stop, the bucket is now 25% full. 
 
@@ -50,9 +44,8 @@ Florian goes on to show a linear graph where at each stop down of light, the buc
 
 By adding two more bits and using a 12-bit A/D converter, you can now quadruple the code values, from 1024 to 4096, but that still only provides 11 stops of light. (To do the math, just start with the number 2 and multiply it by 2 – you can only do that 11 times before reaching 4096.)
 
-[![arri-raw-12-bit-data-values](/assets/images/posts/arri-raw-12-bit-data-values.jpg)](/assets/images/posts/arri-raw-12-bit-data-values.jpg)
-
-Image source: ARRI
+![Arri Raw 12 Bit Data Values](/assets/images/posts/arri-raw-12-bit-data-values.jpg)
+*Image source: ARRI*
 
 So how do ARRI cameras maintain [14 stops of dynamic range](https://www.cined.com/arri-alexa-classic-mini-lf-lab-test-rolling-shutter-dynamic-range-and-latitude/)? In a nutshell, they need to start with a 16-bit A/D converter, but when the ALEV sensor was first designed that was difficult to acquire.
 
@@ -60,9 +53,8 @@ As a solution, what the engineers did with the original ARRI ALEV sensor was use
 
 This is the foundation of the Dual Gain Architecture (DGA). One of the A/D converters is looking at the highlights of the bucket, and the other at the shadows, with some overlap in the middle. 
 
-[![arri-arriraw-alev-sensor-14-bit-dual-gain](/assets/images/posts/arri-alev-sensor-dual-gain.jpg)](/assets/images/posts/arri-alev-sensor-dual-gain.jpg)
-
-Image source: ARRI
+![Arri Arriraw Alev Sensor 14 Bit Dual Gain](/assets/images/posts/arri-alev-sensor-dual-gain.jpg)
+*Image source: ARRI*
 
 ## How ARRIRAW stays uncompressed
 
@@ -72,9 +64,8 @@ There are a few different ways to compress the data into a raw format, and most 
 
 ARRIRAW, on the other hand, is able to record an uncompressed image, while reducing the amount of data, by using a logarithmic allocation of data rather than linear. Florian explains that ARRI looked at their history with film, which is not linear, to figure out how to translate that photometric approach into a digital output.
 
-[![arriraw-uncompressed-16-bit](/assets/images/posts/arriraw-uncompressed-16-bit.jpg)](/assets/images/posts/arriraw-uncompressed-16-bit.jpg)
-
-Image source: ARRI
+![Arriraw Uncompressed 16 Bit](/assets/images/posts/arriraw-uncompressed-16-bit.jpg)
+*Image source: ARRI*
 
 So with 65,000 code values available in a 16-bit signal, a linear process would allocate one stop of light to half of all the code values – essentially over 32,500 code values for the difference between two shades of white on a white cloud. ARRIRAW, on the other hand, gives each stop of light an equal amount of code values.
 
@@ -90,9 +81,8 @@ With only one sensor, how can you create three colors? While some cameras utiliz
 
 What's interesting to note is that the filter assigns two greens per one red and blue, so on a 4k sensor with 4096 photosites, there are approximately 2,048 greens and 1,024 red and 1,024 blue. That's partly because green is a lot more sensitive than red and blue, so with twice as many green photosites on a sensor, there is more luminance which makes the sensor more light-sensitive.  
 
-[![bayer-pattern-mosaic-sensor-filter](/assets/images/posts/bayer-pattern-mosaic-filter.jpg)](/assets/images/posts/bayer-pattern-mosaic-filter.jpg)
-
-Image source: Wikipedia
+![Bayer Pattern Mosaic Sensor Filter](/assets/images/posts/bayer-pattern-mosaic-filter.jpg)
+*Image source: Wikipedia*
 
 The camera knows which photosite has which color filter assigned to it, and in real-time up to 200 times per second, the camera uses a de-mosaic or de-bayering press to produce a color image that you see on your viewfinder. 
 
@@ -100,9 +90,8 @@ But if you have only 4096 photosites, each with only 1 of the 4 Bayer color filt
 
 At this point you could take that debayered video signal and process and save it to your media, using whatever your camera has available in codec, data rate, color information, and so on. With a raw file, however, you're recording the monochromatic video, and all the color, exposure, and contrast info are simply metadata. You apply the Debayering process in post, rather than in-camera.
 
-[![arriraw-debayer-color-rgb-image](/assets/images/posts/arriraw-debayer-color-rgb.jpg)](/assets/images/posts/arriraw-debayer-color-rgb.jpg)
-
-Image source: ARRI
+![Arriraw Debayer Color Rgb Image](/assets/images/posts/arriraw-debayer-color-rgb.jpg)
+*Image source: ARRI*
 
 Of course, the main benefit to this is that you can make changes to white balance, ISO, and contrast in post without any impact on the image quality. Another benefit to shooting raw in general is being able to archive media and apply a different or more modern DeBayering algorithm down the road.
 
@@ -118,7 +107,7 @@ There's a wealth of knowledge with ARRI Academy training, and they're an amazing
 -   [Large Format Cinematography with James Laxton ASC](https://www.mzed.com/courses/large-format-cinematography-with-james-laxton-asc?tap_a=17272-420962&tap_s=2527515-4eb418)
 -   [ARRI Christmas Master Class with Julio Macat ASC](https://www.mzed.com/courses/arri-christmas-master-class-with-julio-macat-asc?tap_a=17272-420962&tap_s=2527515-4eb418)
 
-[![ARRI-Master-class-MZed](/assets/images/posts/arri-master-class-mzed.jpg)](/assets/images/posts/arri-master-class-mzed.jpg)
+![ARRI-Master-class-MZed](/assets/images/posts/arri-master-class-mzed.jpg)
 
 > "Technology is evolving faster than ever. Such an in depth course is a strong foundation or a big boost to anyone's career in the field of cinematography affecting both technical & creative choices. Not everyone can go for such guided training practically on location especially in covid times, so an online course like this, feels like a blessing. Thanks for making this course ARRI. And thanks MZed."
 > 
@@ -126,20 +115,4 @@ There's a wealth of knowledge with ARRI Academy training, and they're an amazing
 
 As an [MZed Pro](https://www.mzed.com/?tap_a=17272-420962&tap_s=2527515-4eb418) member, you get access to ARRI Academy courses as well as everything else on the platform, plus we're constantly adding more courses. For just $30/month (billed annually at $349), here's everything you'll get:
 
--   42 courses, over 500 high quality lessons spanning over 275 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Exclusive access to ARRI Academy online courses.
--   Unlimited access to stream all the content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   The majority of MZed courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,800.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
--   7-day money back guarantee if you decide it's not for you.
-
 [![MZed courses](/assets/images/posts/mzed-all-courses-arri-sensor.jpg)](https://www.mzed.com/checkout/?sku=MZEDPRO12&tap_a=17272-420962&tap_s=2490653-f2e424)
-
-**[Join MZed Pro now to get started](https://www.mzed.com/checkout/?sku=MZEDPRO12&tap_a=17272-420962&tap_s=2527515-4eb418)**!
-
-Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)
-
-**Do you have any questions about ARRIRAW? Let us know in the comments below and the CineD community will do its best to help!**

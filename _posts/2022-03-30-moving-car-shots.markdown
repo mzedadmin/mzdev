@@ -74,27 +74,3 @@ But Alex insists this isn't only for low budget productions. He says he's worked
 In the lesson which includes a live demonstration, Alex shows exactly how to use cheap but effective ways to simulate car movement, including Christmas lights, hairspray for haze, physically moving reflector boards to look like sunlight bouncing off the windshield, and so on. 
 
 So in conclusion, there are a few different ways to shoot a car scene where you're focused on the actors (and not only exterior shots of a car driving). But the Poor Man's Process continues to remain a solid industry trick to getting the best performance out of actors while using a little bit of movie magic.
-
-## Learn More about Car Cinematography with MZed Pro
-
-There are many pieces of advice in Alex Buono's [The Art of Visual Storytelling](https://www.mzed.com/courses/art-of-visual-storytelling) and [Visual Storytelling 2](https://www.mzed.com/courses/visual-storytelling-2) courses that can give you amazing insight into how to affordably and effectively shoot commercials, narratives, and even documentaries. These courses were filmed during worldwide workshop tours, but now you can watch them from the comfort of your home and at your own pace.
-
-![Alex Buono teaching visual storytelling and car cinematography techniques](/assets/images/posts/moving-car-shots-alex-buono-course.jpg)
-*Image source: Alex Buono / MZed*
-
-As an [MZed Pro member](https://www.mzed.com/checkout/?sku=MZEDPRO12), you get access to nearly 300 hours of filmmaking education, plus we're constantly adding more courses. For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 42 courses, over 500 high quality lessons spanning nearly 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Exclusive access to ARRI Academy online courses.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- The majority of MZed courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,800.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-- After the first year, the annual renewal rate is $199, a savings of 57% from the new member rate.
-
-**[Join MZed Pro now to get started](https://www.mzed.com/checkout/?sku=MZEDPRO12)**!
-
-What's your favorite method of car cinematography? Share your thoughts in the the comment section down below!

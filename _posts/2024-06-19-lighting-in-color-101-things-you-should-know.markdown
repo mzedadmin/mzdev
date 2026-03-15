@@ -85,23 +85,3 @@ One essential reason is brightness. Filmmakers on big sets still need to use som
 Gels are a rather simple tool when handled correctly. You choose one and fix it in front of the light. They have their own classification. For example, the ones marked CT are used to shift color temperature. A Full CTO ("Color Temperature Orange") will shift the light from daylight to tungsten. Tal Lazar suggests exploring the market and taking notes of gels that different manufacturers offer. You will discover so many choices, including gels for very specific color effects (like emulating fire or sodium-vapor street lighting).
 
 If you want to dive even deeper into this topic, understand the term "mired", learn how to decode the vectorscope readings, and see the difference between cheap and good LEDs from the camera perspective, head over to our [MZed course "The Language of Lighting."](https://www.mzed.com/courses/the-language-of-lighting) There, you will also get acquainted with lighting conventions and how to break them, as well as learn how to design light to tell your story.
-
-## What else do you get with MZed Pro?
-
-As an [MZed Pro member](https://www.mzed.com/), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several are in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-Do you often light a shot in color? What are your go-to lights for that? Let's talk about some tips and tricks in the comments below.

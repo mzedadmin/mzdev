@@ -11,14 +11,10 @@ subtitle: Uninterrupted sequences add incredible suspense and tension, but they 
 ---
 
 ![How to Create a Suspenseful Long Take - With Movie/TV Scene Examples](/assets/images/posts/long-takes-suspenseful-shining-hero.jpg)
-
 **Recently, I watched ["The Bear"](https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f), an American TV series that premiered on Hulu last year. The show follows a young award-winning chef who tries to save his late brother's rundown café in Chicago that's **falling apart**. It received a lot of praise for its brilliant directing and performances. But what also caught my attention was a one-take episode towards the end of the season. At 17 minutes long, the cortisol level in my blood had seriously spiked (as intended, I reckon). I can't stop asking myself: what's needed to create a suspenseful long take? Not necessarily in terms of equipment and crew, but blocking & camera-wise. Let's try to find an answer together!**
 
-[![a film still from the long take episode where the main character shouts at everybody](/assets/images/posts/long-takes-the-bear-episode-still.jpg)](/assets/images/posts/long-takes-the-bear-episode-still.jpg)
-
-Image credit: A film still from the Hulu series "The Bear" by Christopher Storer, 2022
-
-**MZed Pro 1-Year Filmmaking Courses Subscription**
+![a film still from the long take episode where the main character shouts at everybody](/assets/images/posts/long-takes-the-bear-episode-still.jpg)
+*Image credit: A film still from the Hulu series "The Bear" by Christopher Storer, 2022*
 
 Please don't say: "This stuff is only relevant for big Hollywood and TV productions. What's the point?". Because it's not true. Even I directed a short movie that consisted of a 2.5-minute long take and a single cut (made on purpose!). My team had six people, no EasyRig, no pre-production time, and a simple Sony A7R II on a [Ronin gimbal](https://www.bhphotovideo.com/c/product/1492980-REG/dji_cp_rn_00000040_01_ronin_sc_gimbal_stabilizer.html/BI/7953/KBID/8488/SID/mascha). That's all we used. Still, the film won first place at a film festival and now I can assure you that everything is possible without much gear or a big budget.
 
@@ -29,14 +25,6 @@ Would you call this a suspenseful long take? Not to brag, but I would. I also ha
 ## **A suspenseful long take and why it is powerful**
 
 You can call them a "long take", "one take", "oner" or "sequence shot"; they all mean the same thing. In the New York's International Film Institute class "[Fundamentals of Directing](https://www.cined.com/learning-the-camera-language-tips-on-the-fundamentals-of-directing/?tap_a=17272-420962&tap_s=3579222-f67cee)", Kyle Wilamowski defines this art of visual storytelling as "an uninterrupted shot in a film which lasts much longer than the conventional editing pace either of the film itself or of films in general, usually lasting several minutes." Of course, you can make an eternal pullback, like in the music video by Stromae below, and call it a day. But in this case, it's pure eye candy without purpose. And second, it doesn't create tension or further the story.
-
-Related Course
-
-## Fundamentals of Directing
-
-[![Fundamentals of Directing](https://www.cined.com/content/uploads/2023/06/5b5ef4d54b1de99c6605b0e721a761ea.jpg)](https://www.mzed.com/courses/fundamentals-of-directing?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-An introduction to the craft of directing for beginners, film enthusiasts, and individuals. You will learn the basics of film directing, what directing really is, and the core elements you will need to know and understand to get started.
 
 <iframe loading="lazy" title="Stromae - L'enfer (Official Video)" width="500" height="281" src="https://www.youtube-nocookie.com/embed/DO8NSL5Wyeg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.youtube-nocookie.com/embed/DO8NSL5Wyeg?feature=oembed" data-ll-status="loaded"></iframe>
 
@@ -113,13 +101,3 @@ What's the purpose of the continuous oner here, apart from letting us get lost? 
 ## **Entire film as a suspenseful long take**
 
 How long can a long take be? Judging by the episode of "The Bear" mentioned in the beginning – there is no upper limit. Entire films could be made in one shot. Extraordinary examples here are "Russian Ark" by [Alexander Sokurov](https://www.imdb.com/name/nm0812546/) (2002) and "Victoria" by [Sebastian Schipper](https://www.imdb.com/name/nm0771923/) (2015). The former is a 96-minute sequence shot, and the latter goes on for 138 (!) minutes without a single cut. What about the brilliant, worldwide-known ["Birdman"](https://www.imdb.com/title/tt2562232/?ref_=nv_sr_srsg_0) or "1917"? These two films have the same visual form but it was created with a particular production trick. Using hidden cuts and invisible transitions, they only appear as if they were filmed in a single shot. The magic works all the same.
-
-## **Conclusion**
-
-So, what have we gathered so far? Long takes are a powerful tool to make a scene very intense, but they should have a clear purpose. Use the right camera style to underline your plot, and have specifically placed beats to keep the viewer's attention high. Not an easy task, I know. But in the right hands, it becomes a blast and makes your mind come back to this moment wondering, "How the heck did they achieve it?"
-
-If you want to explore other tools of suspenseful storytelling, we have a great variety of courses on [MZed.com](https://www.mzed.com/?tap_a=17272-420962&tap_s=3579222-f67cee) that serve this purpose. Like the "[Art of Visual Storytelling 2](https://www.mzed.com/courses/visual-storytelling-2?tap_a=17272-420962&tap_s=3579222-f67cee)" by Alex Buono or Philip Bloom's "[Filmmaking for Photographers](https://www.mzed.com/courses/filmmaking-for-photographers?tap_a=17272-420962&tap_s=3579222-f67cee)".
-
-_Featured image_: a film still from "Shining" by Stanley Kubrick, 1980
-
-**Let's turn the tables now. What are your thoughts on long takes? Have you ever used them in your work? Did I forget an important example or tool for a suspenseful oner? Please write in the comments section below.**

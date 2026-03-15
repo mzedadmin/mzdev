@@ -8,8 +8,6 @@ meta_description: Lines are an essential element for masterful shot composition
 subtitle: Lines are an essential element for masterful shot composition
 ---
 
-![Using Lines in Shot Composition – A Journey of Visual Mastery with Film Examples](/assets/images/posts/lines-in-shot-composition-hero.jpg)
-
 Have you noticed that the word "cinematic" is becoming more and more overused lately? But what does it really mean? To me, personally, it means having the ability to tell your stories visually, revealing the initial purpose of the shot and its unique voice. Some cinematographers do this intuitively without giving it much thought. Others construct each and every detail of the frame with precision. In either case, knowing how to use the elements of composition is a filmmaking superpower that anyone can unleash. So, what are we waiting for? Let's start with the basics – paying attention to lines in the composition of a shot, and what that approach can bring to the table.
 
 World-famous director Lars von Trier said in a recent interview that he doesn't really consider virtual reality as constructive as cinema because it excludes any framing.

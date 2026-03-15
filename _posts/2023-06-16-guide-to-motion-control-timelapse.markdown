@@ -97,24 +97,4 @@ Multipass timelapse. That's next level movie magic! Thanks to the ability of mot
 
 If you want to get a step-by-step guide on how to set up a sequence like this on set and then merge those layers seamlessly in DaVinci Resolve, head over to the ["Cinematic Timelapse: Part II" course on MZed.com](https://www.mzed.com/courses/cinematic-timelapse-drew-geraci?tap_a=17272-420962&tap_s=3880741-f10cef). In the other modules, Drew also explains the difference between shoot-move-shoot vs. continuous modes, elaborates on choosing the right FPS for motion control shots, and gives us the full overview of his postproduction workflow. So, don't miss it!
 
-## What else do you get with MZed Pro?
-
-As an [MZed Pro member](https://www.mzed.com?tap_a=17272-420962&tap_s=3880741-f10cef), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award
-- Unlimited access to stream all content during the 12 months
-- Offline download and viewing with the MZed iOS app
-- Discounts to ARRI Academy online courses, exclusively on MZed
-- Most of our courses provide an industry-recognized certificate upon completion
-- Purchasing the courses outright would cost over $9,000
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more
-- 7-day money-back guarantee if you decide it's not for you
-
-**Have you ever done motion control timelapses? What is your go-to rig? Are there any important rules you always follow when setting up a timelapse with motion? Leave your tips in the comments section below.**
-
 *Feature image source: Drew Geraci / MZed*
-
-Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)

@@ -4,21 +4,21 @@ date: 2021-10-13 00:00:00 Z
 image: "/assets/images/posts/mzed-joins-cined-hero.jpg"
 layout: post
 blog_category: MZed News
-meta_description: Together, we can provide you even more tools to help you on your
+meta_description:
+  Together, we can provide you even more tools to help you on your
   filmmaking journey.
-subtitle: Together, we can provide you even more tools to help you on your filmmaking
+subtitle:
+  Together, we can provide you even more tools to help you on your filmmaking
   journey.
 ---
 
 MZed is incredibly proud to announce that we are joining **[CineD](https://www.cined.com)** , the leader in digital filmmaking technology news and reviews.
 
-* * *
+## **MZed is part of CineD's strategy to become "Swiss Army Knife" for filmmakers**
 
-## **MZed is part of CineD 's strategy to become "Swiss Army Knife" for filmmakers**
+The acquisition of MZed fits into CineD's strategy to offer world-class filmmaking educational content to its global community. It is part of CineD's current transformation into the "Swiss Army Knife" of filmmaking resources and education, most recently also through the addition of the [Gear Guides ](https://www.cined.com/gear-guides/)feature.
 
-The acquisition of MZed fits into CineD's strategy to offer world-class filmmaking educational content to its global community. It is part of CineD's current transformation into the "Swiss Army Knife" of filmmaking resources and education, most recently also through the addition of the [Gear Guides ](https://www.cined.com/gear-guides/)feature. 
-
-_" Education of filmmakers has always been at the heart of what CineD is all about. The addition of MZed will bring CineD a step closer to becoming the prime resource for all filmmakers and moving image creators online_," says Nino Leitner, Co-owner of CineD. 
+_" Education of filmmakers has always been at the heart of what CineD is all about. The addition of MZed will bring CineD a step closer to becoming the prime resource for all filmmakers and moving image creators online_," says Nino Leitner, Co-owner of CineD.
 
 CineD co-owner Johnnie Behiri adds, _" And we have big plans - CineD is committed to greatly enhance the offering of the MZed Pro subscription by adding more content and value on a consistent basis."_
 
@@ -28,9 +28,7 @@ Former MZed owner Scott Emerton says, "_As this new chapter begins in the MZed s
 
 MZed is also launching a new course today, **[_Producing from the Front_](https://www.mzed.com/courses/producing-from-the-front)** by award-winning producer [Graham Ehlers Sheldon](https://stage.mzed.com/educators/graham-sheldon), a Producer, Director of Photography, and Sales Agent.
 
- 
-
-Tackling the elements that must fall into place, Graham addresses everything from pre-production that will pay off in production, post, and beyond, legal knowledge to know what questions to ask, and finally, distribution, a piece of the puzzle that is often overlooked. 
+Tackling the elements that must fall into place, Graham addresses everything from pre-production that will pay off in production, post, and beyond, legal knowledge to know what questions to ask, and finally, distribution, a piece of the puzzle that is often overlooked.
 
 Graham has been a writer at CineD for many years, which makes this course launch a perfect example of the MZed / CineD partnership. This is only the beginning, and we have much more planned for making MZed Pro the most valuable subscription for filmmakers today.
 
@@ -44,4 +42,4 @@ Founded over 50 years ago, MZed has a rich tradition in filmmaking education and
 
 Please feel free to [get in touch](https://www.mzed.com/contact-us) with us if you would like to provide us with feedback and ideas that can benefit the community of [MZed](http://www.mzed.com/) and [CineD](https://www.cined.com).
 
-![MZed by CineD](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/MZed-by-CineD-announcement.jpg)
+![MZed by CineD](/assets/images/posts/mzed-by-cined-announcement.jpg)

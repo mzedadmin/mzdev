@@ -49,7 +49,6 @@ What about acetone? The answer is to avoid it by all means. First, some lenses â
 The shoot is over, you come home, put on your lab gloves, and it's time to take care of your lenses. The first step, even before you remove the lens caps, is the rough cleaning of the barrel and the gearing parts. Sometimes, they may be covered in sand or dirt, so a can with pressurized air or a rocket-air blower will come in handy. Another option is to use the flat paintbrush that we showed above, as it's particularly practical for gear rings. 
 
 ![Using rocket-air blower and correct lens positioning](/assets/images/posts/cleaning-lenses-arri-guide-rocket-air.jpg)
-
 **Important note**: during this process, you should hold your lens vertically with the front glass facing the ceiling. That way, you swipe the dirt and sand down and avoid bringing particles into the moving elements of the lens.
 
 If you notice fat or glue on the outer parts, and the brush or canned air cannot remove it, take a microfiber cloth with some IPA on it. That should help.
@@ -72,22 +71,3 @@ If you clean lenses on a daily basis and want to build a dedicated workplace, yo
 
 Among other tips: breathing on the lens before wiping it is helpful, and getting special protection for the glass (especially on the filters) makes cleaning them much faster. If you want to gain more insight from working with ARRI camera systems, lenses, lights, and accessories, head over [to MZed.com](https://www.mzed.com/courses/arri-tech-talk/) and watch all the episodes of "ARRI Tech Talk".
 
-## What else do you get with MZed Pro?
-
-As an [**MZed Pro member**](https://www.mzed.com), you have access to over 500 hours of filmmaking education (including roughly 17 hours of ARRI Tech Talk sessions). Plus, we're constantly adding more courses (several are in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award
-- Unlimited access to stream all content during the 12 months
-- Offline download and viewing with the MZed iOS app
-- Discounts to ARRI Academy online courses, exclusively on MZed
-- Most of our courses provide an industry-recognized certificate upon completion
-- Purchasing the courses outright would cost over $9,000
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more
-- 7-day money-back guarantee if you decide it's not for you
-
-**Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-**Let's turn the tables! How do you clean your lenses? Any insights we should consider adding to this thorough step-by-step guide from ARRI?**

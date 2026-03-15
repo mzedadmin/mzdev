@@ -12,10 +12,6 @@ subtitle: Shutter speed is not only a camera setting you set and forget. Here we
 
 Welcome to our new episode of the visual storytelling series! But wait – the title suggests that we're going to only talk about the shutter speed – the camera setting you normally calculate using a simple formula and then set up and forget? Oh yes, that's right! We will take a detailed look at shutter speed conventions and how they work, but not only that. Also on the program today: Various film examples that break these rules for the sake of the story.
 
-![Shutter Speed and How It Affects the Visuals and the Story](/assets/images/posts/shutter-speed-101-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 To shoot an image, we need light coming through the aperture. It's not the only requirement, though. There is another imperative element hidden inside the camera – a small barrier called the shutter. Sitting behind the lens, this modest mechanism works hard to block the light from the sensor. It opens for a defined fraction of time and then shuts again. Opens and shuts, opens and shuts, and carries out this important job as fast or as slow as you want it to. As a result, we're able to capture life in motion. Setting the shutter to different speeds allows us to sync the motion blur with our visual and narrative needs. That's what we're going to explore below.
 
 But first, a small tip. In one of our previous texts, we talked about [manipulating time and the frame rate](https://www.cined.com/manipulating-time-perception-the-storytelling-potential-of-frame-rate-with-film-examples/). If you're unfamiliar with this term, I suggest you head over and start [here](https://www.cined.com/manipulating-time-perception-the-storytelling-potential-of-frame-rate-with-film-examples/), as the abbreviation "fps" will frequently pop up in relation to shutter.
@@ -141,8 +137,4 @@ Drugs kick in, and the vision changes, both for Jordan Belfort and for us. The f
 
 So, yes, shutter speed is also a mighty storytelling tool. If you film indoors with domestic lights, though, it can create horrible flickering when set up to a false value. This is a matter of electricity, which varies in NTSC and PAL regions, and requires a specific approach to your fps and shutter. (We explain this issue and the solution in detail [here](https://www.cined.com/manipulating-time-perception-the-storytelling-potential-of-frame-rate-with-film-examples/)).
 
-**Thank you for staying till the end – hopefully, it was an interesting read for you. I wonder, what is your relationship with shutter speed? Do you sometimes break the rules? Have you filmed specific scenes in high or slow shutter speeds to emphasize the story? Please share your experience with us in the comments below!**
-
 **_Feature image:_** film stills from "The Wolf of Wall Street" by Martin Scorsese, 2013; "Sherlock Holmes" by Guy Ritchie, 2009; "WBTE – Decisions" music video by me, 2020.
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5095544-d6414a) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**

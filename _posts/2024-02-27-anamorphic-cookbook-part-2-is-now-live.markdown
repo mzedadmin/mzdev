@@ -10,19 +10,9 @@ meta_description: Tito Ferradans returns with Anamorphic Cookbook Part 2, coveri
 subtitle: Camera Rigging Secrets and More
 ---
 
-![Anamorphic Cookbook Part 2 Course Launched on MZed – Camera Rigging Secrets and More](/assets/images/posts/anamorphic-cookbook-part-2-is-now-live-hero.jpg)
-
 **Great news for all the anamorphic lovers! We just added the [second part of the "Anamorphic Cookbook" course on MZed.co](https://www.mzed.com/courses/anamorphic-cookbook-part-2?tap_a=17272-420962&tap_s=4447088-6dd239)m. This time around, filmmaker Tito Ferradans talks about everything related to rigging. What is the best setup when you use adapters? How to deal with the weight distribution at the front when shooting on a gimbal? Which solution will help against the keystone effect? Let's peek behind the curtain of Anamorphic Cookbook Part 2 together!**
 
 [Tito Ferradans](http://www.tferradans.com/) is not only a passionate filmmaker, he's also a tech guy. Since 2012, he's been studying anamorphic lenses and sharing his knowledge and insight with the community. You might know his popular YouTube channel, "[Anamorphic on a Budget"](https://www.youtube.com/anamorphiconabudget), which has everything from reviews on adapters to modding instructions. For our educational platform [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4447088-6dd239), Tito has so far put together two in-depth courses, every minute of which provides viewers with clear information, practical tips, and expert shortcuts. Now, we are happy to provide you with a new addition to this collection that concentrates on rigging and can be of use to any filmmaker, whether you shoot anamorphic or not.
-
-Related Course
-
-[![Anamorphic Cookbook](https://www.cined.com/content/uploads/2023/06/9cfb11997aed0020924952fb8998434c-1.jpg)](https://www.mzed.com/courses/anamorphic-cookbook?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-The Anamorphic Cookbook is the ultimate course about the history of anamorphic lenses. Educator Tito Ferradans has created a fast-paced and entertaining guide, including how to put together your own rig.
-
-Here are the courses by Tito Ferradans on MZed.com:
 
 -   [Anamorfake It Until You Make It](https://www.mzed.com/courses/anamorfake-it-until-you-make-it?tap_a=17272-420962&tap_s=4447088-6dd239)
 -   [Anamorphic Cookbook](https://www.mzed.com/courses/anamorphic-cookbook?tap_a=17272-420962&tap_s=4447088-6dd239)
@@ -94,24 +84,6 @@ Of course, it is only one of the possibilities for custom rigging and just a han
 -   All the smallest bits and pieces that make your rigging journey easier.
 
 Learn all that and much more in our [latest MZed course – "Anamorphic Cookbook Part 2".](https://www.mzed.com/courses/anamorphic-cookbook-part-2?tap_a=17272-420962&tap_s=4447088-6dd239)
-
-As an **[MZed Pro member](https://www.mzed.com/?tap_a=17272-420962&tap_s=4447088-6dd239)**, you get access to over 465 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,000.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**[Join MZed Pro now and start watching today!](https://www.mzed.com/?tap_a=17272-420962&tap_s=4447088-6dd239)**
-
-**Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
 
 **Do you also use anamorphic lenses or adapters in your film and video projects? How do you** **rig all the gear?** **Have you found Tito's tips useful?** **Let's talk in the comments!**
 

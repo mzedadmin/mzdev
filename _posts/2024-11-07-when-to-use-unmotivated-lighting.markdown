@@ -84,15 +84,3 @@ Both examples mentioned above are subtle. Although the lighting in them is neith
 *Film stills from "Mandy" by Panos Cosmatos, 2018*
 
 No doubt that Nicolas Cage's character went crazy after all the pain, rage, and killings he had to go through. We also know that he is on acid at this moment. The vibrant red color, combined with intense and completely unmotivated lighting, punches us – the viewers – in the face. The scene makes us uncomfortable (as the movie does, to be honest), but isn't it the boldest and most suitable visual choice to support the character's state of mind here?
-
-## Conclusion
-
-Of course, motivating light and making it feel realistic and authentic is very important. That's a major skill every lighting designer should acquire. At the same time, it's also crucial to remember that you can forget about conventions when you feel that the story calls for something else. As the saying goes, know the rules well so you can break them effectively.
-
-**What about you? How do you feel about unmotivated light? Do you trust yourself to go for an unplausible lighting effect in order to enhance an emotional moment or create a certain vibe to the scene? Let's talk about it in the comments below!**
-
-*Feature image: film stills from "Léon: The Professional" by Luc Besson, 1994.*
-
-**Full disclosure: [MZed](https://www.mzed.com?tap_a=17272-420962&tap_s=5756085-8207c7) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-**Additional source:** "Cinematic Storytelling" by Jennifer Van Sijll, 2005.

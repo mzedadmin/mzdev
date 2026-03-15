@@ -12,10 +12,6 @@ subtitle: In this article, we explain what the Technicolor look means, and how i
 
 Our world is full of color, and so are most contemporary movies. Yet, it hasn't always been this way. If you're interested in film history, then you were probably as curious about the Technicolor era as I was. Even if you're not, this term seems to pop up more and more lately. Believe it or not, two of this year's [Oscar nominees](https://www.cined.com/oscar-nominations-2024-announced-not-without-surprises/) emulated lush, bright, and vibrant visuals from the past. But why? In this article, we explain what the Technicolor look means, and how this groundbreaking technology worked. Also, we explore some modern films inspired by this aesthetic, and why they used it.
 
-![The Technicolor Look and Its Journey – How this Technology Has Inspired Films to This Day](/assets/images/posts/technicolor-look-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 Is Technicolor simply back in fashion like everything else in our history that goes in loops? I don't believe so. We've seen movies replicating this distinct visual atmosphere now and then throughout the decades. Crafting the cinematic world so bold, saturated, and vivid that it's almost surreal is a powerful tool. Not only can it be joyful to watch, but also special colors indeed may serve storytelling needs. Let's talk below about emulating a Technicolor look in digital cinematography.
 
 ## **What is** **a Technicolor** **look?**
@@ -116,15 +112,3 @@ Using this as a reference, and after making a conversion chart that would rechar
 Another interesting insight comes from Ti West's horror movie "[Pearl](https://www.imdb.com/title/tt18925334/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_Pearl)", which also used the Golden Age of Hollywood color aesthetics as inspiration. In [one interview](https://www.indiewire.com/features/general/filmmaker-toolkit-ti-west-pearl-episode-169-1234766283/), the director explains that replicating the three-strip process is unique and you can do only so much in color correction. So, they decided to be very particular in front of the camera and made sure everything they photographed looked like Technicolor already. This approach involved a huge effort with the costumes, production design, and contrast ratio of the lighting. Well, being that mindful of color pays off for sure.
 
 <iframe loading="lazy" title="Pearl | Official Trailer HD | A24" width="500" height="281" src="https://www.youtube-nocookie.com/embed/L5PW5r3pEOg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-
-## **Conclusion**
-
-Thank you for coming with me on this long journey! I hope you gained some exciting insights and inspiration from the story of the Technicolor look and how filmmakers used it for storytelling.
-
-**What other examples of modern movies inspired by this old color approach come to mind? Why do you think directors went for such a special aesthetic? Let's talk a bit more in the comments below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4782343-47bcc4) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4782343-47bcc4)
-
-**_Feature image source:_** combined film stills from "Becky Sharp", "Pearl", and "Barbie".

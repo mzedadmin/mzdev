@@ -10,10 +10,6 @@ subtitle: Explore the evolution of matte painting in film
 
 Do you know the feeling of when you stand on a partially dressed set, look at the monitor, and witness how film magic transforms the space around you? Amazing, right? However, I believe the effect is even more impressive when a painted glass with breathtaking or impossible scenery is placed in front of the camera. Are you familiar with the technique I'm referring to? Yes, as the title suggests, today we'll delve into the world of matte painting, exploring its history and evolution in filmmaking.
 
-![The Magic of Matte Painting – Its Long History and Film Examples](/assets/images/posts/the-history-of-matte-painting-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 The use of matte paintings in cinema dates back to the early 1900s. Back then, artists used practical materials—glass panels and canvas backdrops. Naturally, the technique has evolved over the century. Nowadays, when we talk about it, we dive instead into the digital world. Why did it stick around, though? What's so useful and remarkable about the matte painting approach?
 
 ## **What is a matte painting? The tradition**
@@ -26,14 +22,6 @@ Let's start with a general understanding of the term. Imagine a live-action film
 <iframe loading="lazy" title="The Wizard Of Oz _ Emerald City" width="500" height="375" src="https://www.youtube-nocookie.com/embed/jPeLYbi5ZvM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 This was the traditional method for creating matte paintings in cinema, likely inspired by theatrical techniques. The more realistic the painting, the better the result. Combining glass plates with live-action footage in real-time gained the name "compositing." No doubt, many of you who are VFX artists are familiar with this process. We'll touch on the digital matte paintings further below.
-
-Related Course
-
-## The Indie Film Blueprint
-
-[![The Indie Film Blueprint](https://www.mzed.com/content/uploads/2024/08/e4b4f22e42fe3f9ec272a2e455061e0e-1.jpg)](https://www.mzed.com/courses/the-indie-film-blueprint?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Join instructor Rubidium Wu as he guides you through the entire indie filmmaking journey, step by step, while providing his advice on how to launch a career in filmmaking without falling for the common traps and pitfalls.
 
 ## **How it all started**
 
@@ -100,13 +88,3 @@ The matte painting technique inspires us to use film magic in all possible ways.
 Do you notice anything weird? Probably not. However, the production design team used cardboard cutouts instead of real backgrounds. Only the first rows of desks and computers, closest to the camera, were real. The ones you see in the background are just photorealistic pictures with a correct perspective, made on cardboard. Saves a lot of time and money, doesn't it? The alternative would be to dress the whole set only for a few wide shots.
 
 The virtual production approach also reminds us of matte painting, as we use either still pictures or constructed 3D environments instead of real locations and integrate them directly into the shot while we shoot. You can read more about it [here](https://www.cined.com/virtual-production-on-a-budget-chris-field-eric-kessler-on-cineshooter-unreal-engine/) and [here](https://www.cined.com/mobile-virtual-production-for-rent-a-more-affordable-approach-for-indie-filmmakers/).
-
-## **Conclusion**
-
-Matte painting has come a long way, from glass plates with acrylic paint to 2D illustrations, but it hasn't lost its simple magic. Savvy solutions like this are what make filmmaking special. It's not just about cost-cutting; it's also about creative thinking.
-
-**Have you already had experience with matte paintings of any kind? What do you think about this technique? What other creative solutions on set does it remind you of? Share with us in the comments below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5309572-2d27d8) is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/).
-
-_Feature image source:_ Lucasfilm Ltd. LLC.

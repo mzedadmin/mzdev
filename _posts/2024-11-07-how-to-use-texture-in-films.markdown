@@ -12,21 +12,11 @@ subtitle: How do we convey the sense of touch in images? By using textures, an o
 
 When we talk about visual storytelling or deconstructing film scenes, we often discuss composition, lighting, color, sound design, and music. But is there another sensory dimension? One that we human beings experience all the time in real life? Namely: The sense of touch? Well, we obviously can't let the audience touch any of the elements in the shot. However, we can indeed evoke this sensation. How? Through textures, which are a significant visual tool and, sadly, often overlooked. Let's take a look at some inspiring examples of using texture in films!
 
-![Using Texture in Films – How to Create a Sensorial Cinema Experience](/assets/images/posts/how-to-use-texture-in-films-hero.jpg)
-
 Texture is an important part of our lives. Not only does it let us learn about the world through a different sensation than sonic or visual, but it also evokes an emotional response: when we stroke our child's hair, put on fluffy fleece pajamas on Sunday, or walk barefoot through the dew-touched grass.
 
 This tool becomes all the more important in films. Yes, we cannot appeal to the dimension of haptics physiologically, but by using textures (and we will talk about different meanings for them below), filmmakers create a connection between the visual sense and the touch. That allows the audience to perceive how something feels and emotionally react.
 
 When we think about the "feel" of a particular film, we usually include many different elements in this term: the cinematography, the color schema, the narrative, the acting, and so on. Texture also belongs on this list. It describes the materials and physical means (such as smoothness or roughness) of objects shown within a frame, but not only. Texture can also be a characteristic of the medium itself, and we will talk about it a bit later.
-
-Related Course
-
-## Cinematography for Directors
-
-[![Cinematography for Directors](https://www.mzed.com/content/uploads/2024/10/thumb-300x168.jpg)](https://www.mzed.com/courses/cinematography-for-directors?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Working with a cinematographer is a skill which every Film and TV director or producer needs to master. You'll learn how to find and communicate the core of what your images need to express, and make decisions like where to place your camera and what lens to use.
 
 In his MZed course "[Cinematography for Directors](https://www.mzed.com/courses/cinematography-for-directors/?tap_a=17272-420962&tap_s=5330484-8be7ee)," seasoned filmmaker and educator [Tal Lazar](https://www.latentimages.com/) shows a simple art example of how texture can evoke a sensation of touch. Please take a look at the two paintings below.
 
@@ -95,11 +85,5 @@ For example, simulating wood, natural landscapes, or realistic skin. In general,
 I wanted to touch on the animation topic quickly because I believe that CGI artists are much more aware of how important textures are compared to live-action filmmakers. And that's a pity because, as you see in the examples above, texture has an incredible impact on the audience and should become a useful technique in your visual toolkit.
 
 Naturally, films use many combinations of techniques to tell a story, evoke an emotion, or achieve a specific atmosphere. Thus, textures also work much stronger with, say, sound design. (Imagine how the sound of rusty metal will enhance your sensory sensation). If we want our storytelling to be impactful, we should consider all the filmmaking tools as a beautiful ensemble where each instrument matters.
-
-**What is your opinion about texture in films? Do you personally pay attention to it, use it for creating a sensation of touch, or for world-building in your projects? Did you think of any other impressive films that use texture while reading? Looking forward to reading your thoughts in the comment section below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5330484-8be7ee) is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/).
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=5330484-8be7ee)
 
 _Feature image_: film stills from "The Lighthouse", "Andor", and "Barbie".

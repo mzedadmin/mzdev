@@ -10,8 +10,6 @@ subtitle: Diving into a Meaningful Conversation in Your Podcast or Video
 
 Interviews. They have existed for so long and are still a large part of podcasting, documentaries, portrait films, and corporate videos. Even if you just arrange a conversation with an expert while researching for your next script – you need the most meaningful answers you can get, don't you? Let's talk about the art of the interview and how to conduct it as effectively as possible.
 
-![The Art of the Interview – Diving into a Meaningful Conversation in Your Podcast or Video](/assets/images/posts/the-art-of-the-interview-hero.jpg)
-
 Before I became a filmmaker, I used to be a journalist for several radio and media companies. My experience as an interviewer taught me a lot once I started filming documentaries and branded content. The knowledge of guiding a meaningful conversation is widely applicable in different areas, and yes – you can learn and practice how to do it.
 
 It may seem like 'What is there to learn?' Talking to each other is easy and natural to humans. However, let's admit it: We have all encountered a show or a podcast where the host talks all the time or the guest answers in one-word sentences. To avoid that, let's revisit the basics of interviewing together with [Latasha James](https://latashajames.com/), the host of "[The Freelance Friday Podcast](https://www.youtube.com/playlist?app=desktop&list=PLUllurxaY2k4se2oLTt_JHgIiGHCe7kQm)," with thousands of listeners and viewers. In her [MZed course "How to Start a Podcast,"](https://www.mzed.com/courses/how-to-start-a-podcast?tap_a=17272-420962&tap_s=6868409-768c4b) she shares a lot of insight on the art of the interview.
@@ -22,14 +20,6 @@ It may seem like 'What is there to learn?' Talking to each other is easy and nat
 ## **The art of the interview: Do your research**
 
 The first and foremost step of every interview—here Latasha and I fully agree—is to do your research beforehand. It is so basic, but some people don't want to invest the time. Too bad! Knowing your guest's context makes for a deeper conversation. Also, it will allow you to understand the things that they'll want to focus on during the interview or what topics spark them with exciting insights.
-
-Related Course
-
-## How to Start a Podcast
-
-[![How to Start a Podcast](https://www.mzed.com/content/uploads/2024/10/MZED-How-to-start-a-podcast-300x169.jpg)](https://www.mzed.com/courses/how-to-start-a-podcast?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-So, you're interested in starting a podcast? Start here! Learn podcasting from master educator Latasha James. Planning, mastering the tech, interviewing, recording, marketing: Set yourself up for success!
 
 Thus, Latasha suggests looking your guests up on social media, finding their biographies on their website, and reading their previous interviews if they have done some. Also, get accustomed to their work. If you plan to talk about a specific topic, I highly recommend that you get a glimpse into it. Let's take as an example my recent [CineD interview](https://www.cined.com/world-building-and-writing-of-goblin-mode-a-talk-with-gamemaster-amy-vorpahl/) with the gamemaster Amy Vorpahl on writing and world-building of a tabletop RPG show:
 
@@ -86,8 +76,4 @@ Often, you will realize on the go that your guest covered several questions at o
 
 Another tip is always to give your guest the time to expand on their story whenever possible. It is better if they speak a little longer than intended than not have them speak enough. After all, you can always cut down your interview.
 
-**Let's turn the tables now! What other tips and methods do you use while conducting an interview? How do you ensure that your conversation for a podcast or a film will be meaningful? Please share your experience with us in the comments below.**
-
 **_Feature image source:_** Latasha James / MZed.
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=6868409-768c4b) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**.

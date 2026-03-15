@@ -96,8 +96,6 @@ Robbie Ryan found these fantastical backdrops to be valuable as they influenced 
 
 Did you know that "Poor Things" was also Yorgos's first time working with a composer (the soundtrack is a jewel on its own)? There are many other stories from the set of this weird yet amazing movie: from funny, shared moments to technical insights on cross-processing the film.
 
-**I must admit that I would definitely like to work on a set like this. And you? How did you like the hand-crafted and truly bonkers world of "Poor Things"? What do you think about the slightly chaotic and intuitive filming process of Yorgos? Share your thoughts with us in the comments below!**
-
 **UPD:** On the 10th of March 2024, "Poor Things" took home [four Academy Awards](https://www.cined.com/oscar-winners-2024-highlights-from-the-awards-ceremony/). Among them is the Best Actress Oscar for [Emma Stone](https://www.imdb.com/name/nm1297015/?ref_=nv_sr_srsg_1_tt_1_nm_6_q_emma) and her stunning performance in the role of Bella Baxter.
 
 *Feature image source: The ASC*

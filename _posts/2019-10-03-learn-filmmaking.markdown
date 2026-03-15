@@ -12,7 +12,7 @@ If you've just joined MZed Pro, you may be wondering which course is a good star
 
 Whether you're a beginner or advanced filmmaker, documentary or fiction creator, there is a wealth of knowledge packed in our lineup of courses. Currently there are nearly over 50 courses, totaling nearly 400 hours of education. And in each of those hours is a carefully developed lesson plan that's an essential piece to the overall course goals.
 
-![learn filmmaking](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/learn-filmmaking.jpg)
+![learn filmmaking](/assets/images/posts/learn-filmmaking.jpg)
 
 That's why we believe MZed is closer to a film school than a collection of online video tutorials. In fact, an MZed Pro membership makes for a perfect companion to students who are either in film school or are taking film studies in a traditional university.
 
@@ -24,19 +24,19 @@ Before you can become a filmmaker - whether as a profession or for hobby - you h
 
 The truth is, most kinds of filmmaking - from solo gigs to big budget produtions - are just a series of problems that you need to solve, with a limited set of tools, people, time, and money. The end product may look elegant, artistic, and straightforward - but the production is a constant battle that never ends, even after years of experience under your belt. That's because no two days of productions are ever the same.
 
-![learn filmmaking online](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/learn-filmmaking-online.jpg)
+![learn filmmaking online](/assets/images/posts/learn-filmmaking-online.jpg)
 
 So before you begin learning the ins and outs of the filmmaking process, we strongly urge you to watch [The Art of Visual Storytelling](https://www.mzed.com/courses/art-of-visual-storytelling), followed by [Alex Buono's Visual Storytelling 2](https://www.mzed.com/courses/visual-storytelling-2). Both courses were filmed over the course of several years of a touring workshop, and their 10 hours of education is incredibly packed.
 
 Why is this the course that can help you rewire your brain to think like a filmmaker? Because Alex Buono's work spans nearly every type of filmmaking out there, from commercials, to documentaries, narrative features, to live productions. And in these two courses he shows you how every week he reimagines the traditional filmmaking models to achieve all these style of productions, down to the lights, cameras, lens choice, and locations, in a matter of days.
 
-![filmmaking courses](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/filmmaking-courses.jpg)
+![filmmaking courses](/assets/images/posts/filmmaking-courses.jpg)
 
 In pulling back the curtain to the world of on-your-feet filmmaking, we see the honest truth behind every shot: it takes your own imagination, creativity, and passion for visual storytelling - along with the drive to work hard - to get beyond whatever technical challenges stand in the way of making your film work.
 
 As Film Unit Director of Photography at [Saturday Night Live](https://www.nbc.com/saturday-night-live), [Alex Buono](https://www.mzed.com/educators/alex-buono) has only a couple days each week to create music videos, commercials, comedies, and movie trailers that look and feel identical to productions that usually take weeks to months to produce. 
 
-![alex buono](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/alex-buono.jpg)
+![alex buono](/assets/images/posts/alex-buono.jpg)
 
 How is it possible to create a [Wes Andersen movie trailer](https://youtu.be/gfDIAZCwHQE) in just one day? Or a musical on the streets of New York City, with only a few hours to shoot? How do you make a small budget feature film look like it was made by a blockbuster studio?
 
@@ -44,7 +44,7 @@ Through his direction for the series [Documentary Now!](https://en.wikipedia.org
 
 That's where the lessons in these two courses are essential to rewiring your brain. Alex illustrates clearly how to achieve every style of film imaginable, using the tools you have in front of you. He shows you how to stop making excuses for yourself, and how to make films right now. And most of all, he emphasizes how to problem solve, how to work under pressure, and how to take the language of film and turn it into an actionable production plan.
 
-![learning filmmaking](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/learning-filmmaking.jpg)
+![learning filmmaking](/assets/images/posts/learning-filmmaking.jpg)
 
 In watching the gear demonstrations, it's amazing to see that the tools that we now find commonplace - like DSLR and cinema cameras with interchangeable lenses, brushless gimbals, and high powered LED lights - were such a breakthrough for filmmakers like Alex, even when he's had access to traditional filmmaking gear. He's just as interested in geeking out about gear as the rest of us, as long it helps him do something better, quicker, and cheaper.
 
@@ -56,7 +56,7 @@ The next course we recommend all MZed Pro members watch is [Philip Bloom's Cinem
 
 And like Alex, [Philip Bloom](https://www.mzed.com/educators/philip-bloom) has a background that we can all relate to. He was a news photojournalist for many years, before becoming one of the early champions of DSLR filmmaking. Since then, he's created award winning commercials, documentary films, feature films, and he served as Director of Photography for [CNN's The Wonder List](https://www.cnn.com/shows/wonder-list). 
 
-![philip bloom](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/philip-bloom.jpg)
+![philip bloom](/assets/images/posts/philip-bloom.jpg)
 
 He's done all of that with a bottomless interest in photography, filmmaking, and lucky for us, educating others along the way. With his unique intellect and delivery style, Philip shows us how to use the tools we have now to create stunning films that have the power to move people. And how to do it with nothing more than a camera, lens, and tripod.
 
@@ -64,7 +64,7 @@ In the world of freelance filmmaking, there's no set path for getting hired for 
 
 But what Philip does is show you how to create amazing work, with the world you have around you. From visual language, to interviews, timelapses, slow motion, drones, and even lens whacking ([a free and very worthwhile lesson](https://www.mzed.com/courses/philip-bloom-cinematic-masterclass/modules/1)), there is an endless stream of inspiration in this course.
 
-![philip bloom filmmaking](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/philip-bloom-filmmaking.jpg)
+![philip bloom filmmaking](/assets/images/posts/philip-bloom-filmmaking.jpg)
 
 And as you continue to improve your skills as a filmmaker, putting out beautiful work out into the world, you will find that people respond to your work, some of whom will want to hire you, and that will lead to other opportunities.
 
@@ -76,7 +76,7 @@ Now that you've received a full dose of inspiration and imagination for what's p
 
 The first course we recommend is [Vincent Laforet's Directing Motion](https://www.mzed.com/courses/vincent-laforet-directing-motion). Like Philip Bloom, [Vincent Laforet](https://www.mzed.com/educators/vincent-laforet) was one of the first advocates for DSLR filmmaking, demonstrating his methods for achieving cinematic visuals with tools that many of us already have. 
 
-![vincent laforet](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/vincent-laforet.jpg)
+![vincent laforet](/assets/images/posts/vincent-laforet.jpg)
 
 _**Directing Motion**_  was an incredibly popular touring workshop that Vincent created to teach contemporary approaches to camera motion. Blocking actors, moving cameras, and creating sequenes have been essential components of cinematography since the beginning of film. But new tools and visual styles have changed the game, and it's important for up and coming cinematographers to learn the new rules of filmmaking.
 
@@ -86,13 +86,13 @@ Perhaps the most challenging task for a cinematographer is the one-shot sequence
 
 If you want to get a dose of inspiration from cinematographers who are masters of their craft, start with one of the interviews from the [ASC Clubhouse Conversations](https://www.mzed.com/courses/asc-clubhouse-conversations). Currently at over 50 hours, with another 50 to be added soon, the Clubhouse Conversations is your chance to hear from the cinematographers you grew up admiring. 
 
-![ASC clubhouse conversations](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/asc-clubhouse-conversations-thumb.jpg)
+![ASC clubhouse conversations](/assets/images/posts/asc-clubhouse-conversations-thumb.jpg)
 
 In addition to the ASC partnership, MZed is also the exclusive host of ARRI Academy training. The best place to start is with [ARRI Christmas Master Class with Julio Macat ASC](https://www.mzed.com/courses/arri-christmas-master-class-with-julio-macat-asc). This course is edited from a live workshop taught by one of filmmaking's most legendary cinematographer.
 
 The Christmas theme is all about filming indoors in a cozy environment, using lights that create a mood unlike any other season. Macat is the perfect teacher for this course, as his first feature film was "Home Alone."
 
-![](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/arri-masterclass-camerimage.jpg)
+![](/assets/images/posts/arri-masterclass-camerimage.jpg)
 
 ## Video Editing Courses
 
@@ -100,13 +100,11 @@ When it comes to video editing courses, there are two approaches: make tutorials
 
 [The Cutting Edge](https://www.mzed.com/courses/the-cutting-edge) falls into the strategy approach. Course instructor [Adam Epstein](https://www.mzed.com/educators/adam-epstein) also works with Alex Buono on Saturday Night Live, so he has to be able to work incredibly quickly, while creating a vastly different product each time he sits down to edit.
 
- 
-
 How do you edit an epic music video in a matter of hours? How do you create a Jeep commercial that looks and sounds like an Edgar Wright film (see video above)?
 
 Just like the practical mindset of cinematography, Adam emphasizes the hack philosophy of use what you have for the purpose of telling a better story. So it's not a matter of what software you use, or which plugin or effects you enjoy - each video edit is completely different and requires you to shift approaches in order to be efficient.
 
-![video editing courses](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/video-editing-courses.jpg)
+![video editing courses](/assets/images/posts/video-editing-courses.jpg)
 
 One of the best lessons in video editing is actually [Adam's lesson in audio effects](https://www.mzed.com/courses/the-cutting-edge/modules/5). Step by step, he walks us through the process of layering sound effects in order to elevate a movie trailer. He also shows us exactly what it means when people say that audio is half the film. We think this lesson should be the first thing any video editor learns before taking on any assignment.
 
@@ -114,7 +112,7 @@ When you are ready to dive into the nitty gritty of video editing, we highly rec
 
 [Ollie Kenchington](https://www.mzed.com/educators/ollie-kenchington) is the brilliant instructor for our two color correcting courses, [Directing Color](https://www.mzed.com/courses/directing-color) and [Mastering Color](https://www.mzed.com/courses/mastering-color). Both of these courses are essential for anyone who wants to learn color grading, and they happen to feature DaVinci Resolve as the editing program of choice, even though the color lessons are universal to any software.
 
-![color grading course](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/color-grading-course.jpg)
+![color grading course](/assets/images/posts/color-grading-course.jpg)
 
 But in the Definitive Guide, Ollie walks us through the entire program, step by step, as we learn how to organize media, edit a short film, add titles and motion graphics, mix audio, color grade, and deliver and archive a final product. There are lessons specific to Resolve, but they're also valuable to watch if you want to expand your knowledge of video editing techniques.
 
@@ -130,7 +128,7 @@ There's a lot more to MZed Pro than the courses we're talking about in this arti
 
 For anyone who has an interest in writing for film, or developing a story, or even pitching ideas to producers, [Seth Worley's Writing 101](https://www.mzed.com/courses/writing-101) and [Writing 201](https://www.mzed.com/courses/writing-201) are a must watch. Seth has a deep understanding of story and writing, and he's able to teach the fundamentals with a contemporary approach.
 
-![screenwriting course](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/scriptwriting-course.jpg)
+![screenwriting course](/assets/images/posts/scriptwriting-course.jpg)
 
 If you're interested in audio production, [Cinema Sound](https://www.mzed.com/courses/cinema-sound) by [Mark Edward Lewis](https://www.mzed.com/educators/mark-edward-lewis) will give you the most comprehensive online course you'll find anywhere. It's over 86 hours!
 
@@ -140,7 +138,7 @@ Watch Mark as he edits sound effects, foley, dialogue, and music on a video, jus
 
 Want to travel the world while filming documentaries? Watch [Adventure Filmmaking with Russ Malkin](https://www.mzed.com/courses/adventure-filmmaking-russ-malkin). Russ is best known for producing the Long Way series of motorcycle adventure shows with Ewan McGregor and Charley Boorman.
 
-![](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/Long_Way_Up_Photo_010402-1536x1024.jpg)
+![](/assets/images/posts/long_way_up_photo_010402-1536x1024.jpg)
 
 Want to geek out on anamorphic lenses, adapters, and post-production effects? Tito Ferradans has two courses that you're going to love: [Anamorphic Cookbook](https://www.mzed.com/courses/anamorphic-cookbook), and [Anamorfake It Until You Make It](https://www.mzed.com/courses/anamorfake-it-until-you-make-it).
 
@@ -152,4 +150,4 @@ Is Producing more of your career path? Graham Sheldon gives you everything you n
 
 There's something for everyone at MZed, no matter what path you take on your journey to learn filmmaking. We hope this guide has been helpful to you, and if you have suggestions for future content you'd like to see here, please [get in touch](https://www.mzed.com/contact-us). Thanks!
 
-[![MZed courses](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/2022-november-mzed-courses-tiles-770px.jpg)](https://www.mzed.com/courses)
+[![MZed courses](/assets/images/posts/2022-november-mzed-courses-tiles-770px.jpg)](https://www.mzed.com/courses)

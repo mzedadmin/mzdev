@@ -11,8 +11,6 @@ subtitle: Tension is mastered by the horror genre, but you can use it in any sto
 
 Spooky season is in full swing, and what better time to cuddle into a cozy blanket and watch something nerve-tingling? Did someone say, trick or treat? I would say: trick. Or rather: tricks. This time around, we're going to take a look at a few different tricks to build tension in scripts. After all, this is where every film—suspenseful or not—begins.
 
-![Tricks to Build Tension in Scripts – Just in Time for the Spooky Season](/assets/images/posts/tips-and-tricks-to-build-tension-in-scripts-hero.jpg)
-
 Tension in scripts is not something that only horror films and thrillers are allowed to use. In my opinion, every good movie has a decent amount of tense moments and suspenseful twists. This is what gets our heart rates up and immerses us in the scenes even deeper—anticipation.
 
 In this article, however, and since Halloween is approaching, we will focus mainly on horrors and thrillers and break down some of their tricks. No jump scares, though, I promise. Quite the contrary: tools to build and hold tension.
@@ -73,7 +71,5 @@ Together with the characters, we encounter weird things: piles of stones; bundle
 > "At a time when digital techniques can show us almost anything, "The Blair Witch Project" is a reminder that what really scares us is the stuff we can't see. The noise in the dark is almost always scarier than what makes the noise in the dark."
 > 
 > A quote by Roger Ebert from his film review (1999)
-
-**Of course, all this is just the tip of the screenwriting iceberg. Nevertheless, these tools work, so we should know how to use them. And what are your favorite ways to build tension in scripts? Let's share some trick-or-treat stories in the comments below!**
 
 **_Feature image:_** film stills from "The Blair Witch Project", "A Quiet Place", and "Sunshine".

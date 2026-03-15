@@ -9,23 +9,11 @@ meta_description: Tito Ferradans explains anamorphic vs spherical lenses, the te
 subtitle: A Short Guide for Beginners
 ---
 
-![Behind the Cinematic Look of Anamorphic Lenses – A Short Guide for Beginners](/assets/images/posts/behind-the-cinematic-look-of-anamorphic-lenses-hero.jpg)
-
 **If you had followed our [NAB 2024 coverage](https://www.cined.com/labels/nab-2024/), you would have definitely noticed the word "anamorphic" popping up in every other video interview. [The first look](https://www.cined.com/atlas-orion-18mm-135mm-and-200mm-first-look/) additions to the Atlas Orion series, [BLAZAR's news](https://www.cined.com/blazar-remus-33mm-t1-6-full-frame-1-5x-anamorphic-lens-announced/), on the upcoming wide angle, and a [live demonstration](https://www.cined.com/blazar-cato-full-frame-2x-anamorphic-lens-set-first-look/) of their new affordable Cato full-frame set are just a few examples. It's remarkable how these lenses have become more accessible over time! No wonder independent shooters also consider buying a set. If you are also intrigued by this concept but have no idea what the "cinematic look of anamorphic lenses"** **means, then this article is for you. Here, we unwrap the difference between spherical vs. anamorphic lenses, explain the technology in simple words, take a glance at anamorphic adapters, and dive deep into why you would want to shoot scope in the first place.**
-
-**MZed Pro 1-Year Filmmaking Education**
 
 The theory parts of this text are based on the [MZed course "Anamorphic Cookbook"](https://www.mzed.com/courses/anamorphic-cookbook/&tap_s=4930820-4f7e22) by filmmaker [Tito Ferradans](https://www.tferradans.com/). Tito was the first [YouTuber](https://www.youtube.com/@AnamorphicOnABudget) who started exploring this technology consistently. For more than a decade, he has reviewed many lenses and adapters, released countless DIY guides, and educated and consulted numerous cinematographers. In fact, his name is already so tied to the concept of shooting scope that it is almost an unlinkable chain in our brains: Tito Ferradans = anamorphic. (I'm kidding, but also completely serious).
 
 His courses are jam-packed with expert knowledge delivered in a funny and easy-to-understand way. So if you want to dive even deeper, check out ["Anamorphic Cookbook"](https://www.mzed.com/courses/anamorphic-cookbook-part-2&tap_s=4930820-4f7e22) (and its "[Part 2](https://www.mzed.com/courses/anamorphic-cookbook-part-2&tap_s=4930820-4f7e22)") on [MZed.com](https://www.mzed.com/?tap_a=17272-420962&tap_s=4930820-4f7e22) now.
-
-Related Course
-
-## Anamorphic Cookbook
-
-[![Anamorphic Cookbook](/assets/images/posts/behind-the-cinematic-look-anamorphic-cookbook-course.jpg)](https://www.mzed.com/courses/anamorphic-cookbook?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-The Anamorphic Cookbook is the ultimate course about the history of anamorphic lenses. Educator Tito Ferradans has created a fast-paced and entertaining guide, including how to put together your own rig.
 
 ![Tito Ferradans, anamorphic expert](/assets/images/posts/behind-the-cinematic-look-anamorphic-tito.jpg)
 *Tito Ferradans. Image source: MZed*
@@ -110,26 +98,5 @@ Anamorphic lenses suffer from many artifacts – spherical aberration, chromatic
 > Tito Ferradans
 
 This was just a short introduction to the vast world of shooting scope. If you're interested in understanding anamorphic lenses in the smallest detail, check out ["Anamorphic Cookbook" on MZed.com](https://www.mzed.com/courses/anamorphic-cookbook/?tap_a=17272-420962&tap_s=4930820-4f7e22). There, Tito Ferradans explains the difference between cine vs. consumer lenses, dives into important technical aspects (like stretch factors and various focus types), and guides us step-by-step in building our own anamorphic rig and getting the best out of it. And for those of you who only want to replicate this distinct film look without buying new gear, Tito offers another course on MZed.com, called "[Anamorfake It Until You Make It](https://www.mzed.com/courses/anamorfake-it-until-you-make-it?tap_a=17272-420962&tap_s=4930820-4f7e22)".
-
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4930820-4f7e22), you have access to over 500 hours of filmmaking education. Plus, we're constantly adding more courses (several in production right now).
-
-A small portion of the hundreds and hundreds of educational content that is part of the MZed Pro subscription.
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,500.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**Full disclosure:** [**MZed**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4930820-4f7e22) is [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)**.**  
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4930820-4f7e22)
-
-**What do you think about the cinematic look of anamorphic lenses? Do you also consider getting an anamorphic set (or maybe already own one)? If so, which one? Let's talk all about shooting scope in the comments below!**
 
 _Feature image:_ a collage from film stills ("Indiana Jones", "La La Land") and the original scheme of anamorphic technology (source: Tito Ferradans / MZed).

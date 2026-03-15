@@ -77,23 +77,3 @@ At the end of the day, corporate sponsors are just as interested in authentic, r
 In the lesson, Russ also discusses other ways of funding documentaries, such as tourism authorities, philanthropists, and grants. In fact, the show "Extreme Frontiers with Charley Boorman" was partially funded by tourism authorities.
 
 The key to any pitch is to be persistent, and confident, and as Russ emphasizes, only pitch one idea at a time. It's hard for people to get on board with an idea if you're not fully behind the idea yourself.
-
-## What else do you get with MZed Pro?
-
-As an [MZed Pro member](https://www.mzed.com/), you also get access to over 300 hours of filmmaking education, including **Adventure Filmmaking with Russ Malkin**, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 40+ courses, over 600 high-quality lessons spanning over 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- The majority of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $7,600.
-- Course topics include cinematography, directing, lighting, cameras, and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-Are you interested in funding your own travel documentary? Let us know in the comments below!

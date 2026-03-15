@@ -14,7 +14,7 @@ We're excited to announce that the [Mastering Color](https://www.mzed.com/course
 
 Since it was released a year ago, Mastering Color has been a premium purchase only, or bundled together with an MZed Pro Premium membership. It's also been available for a discount to MZed Pro members. But starting this month, the course is now available in its entirety for all members.
 
-![color grading tutorial](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/color-grading-tutorial.jpg)
+![color grading tutorial](/assets/images/posts/color-grading-tutorial.jpg)
 
 For individuals who would still like to purchase the course, so they can own it for life and be able to download and watch the lessons offline, Mastering Color will still be available for purchase seperate from the MZed Pro membership.
 
@@ -24,7 +24,7 @@ Why learn to color grade? Isn't that a niche job for editors who want to pursue 
 
 Most consumer to professional cameras now shoot in LOG picture profiles, and RAW recording is rapidly gaining use as Apple's [ProRes Raw](https://www.atomos.com/proresraw), [Blackmagic RAW](https://www.premiumbeat.com/blog/what-is-blackmagic-raw/), and [Canon's Cinema RAW Light](https://www.usa.canon.com/internet/portal/us/home/explore/cinema-eos-c200-cameras/workflow) are all bringing advanced coloring workflows into everyday video production.
 
-![color matching](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/color-matching.jpg)
+![color matching](/assets/images/posts/color-matching.jpg)
 
 And it's not only editors who need to understand the essentials of color in filmmaking. Camera operators, event videographers, and even Youtubers are utilizing varying camera setups, requiring them to match color values both during production and in post.
 
@@ -36,7 +36,7 @@ The lack of advanced color instruction out there is what inspired Ollie Kenching
 
 Although most of us may understand the basics of color in our regular video productions, it's safe to say that there aren't many filmmakers who truly understand where all these industry standards come from, why we use the tools we use, and what accuracy is when we talk about color accurate displays.
 
-![color-grading-course](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/color-grading-course.jpg)
+![Color Grading Course](/assets/images/posts/color-grading-course.jpg)
 
 Lately we've also had a lot of misinformation about HDR and RAW, as a result of the industry releasing so many new tools and so quickly, without there being much education to bring along the average consumers.
 
@@ -48,7 +48,7 @@ For these reasons, Mastering Color has been a popular course for filmmakers from
 
 Although it can get very sophisticated, color correction and grading is so much more than technical wizardry. In fact, a big part of color grading is pairing color balance and accuracy with intentional feeling that you want expressed from the image. We're making movies after all, not scientific charts.
 
-![color grading training](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/color-grading-training.jpg)
+![color grading training](/assets/images/posts/color-grading-training.jpg)
 
 Ollie is an established filmmaker who produces a wide range of projects, from commercials, documentaries, to short films and branded content. He knows how different projects demand entirely different workflows, visual looks, and most importantly, intended results. In this course, Ollie is able to define the science of professional color grading, but he can also demonstrate the art of it.
 

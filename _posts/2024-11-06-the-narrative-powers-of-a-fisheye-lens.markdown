@@ -12,10 +12,6 @@ subtitle: Every lens tells a different story, even the wildest ultra-wides. Here
 
 As filmmakers, we know that lenses are not merely pieces of glass. They are our go-to devices to catch light and turn it into pure magic. Each lens has its own characteristics, special effects, and visual style, but not only that. Every one tells a different story – even the wildest ultra-wides. Today, we're talking about a fisheye lens, its distinct look, and narrative use in films.
 
-![Narrative Powers of a Fisheye Lens – With Film Examples](/assets/images/posts/the-narrative-powers-of-a-fisheye-lens-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 The name "Fisheye" comes from its inventor, physicist Robert W. Wood. In 1906, he developed a lens that should have mimicked how a fish would see the world underwater. Originally – as in the case with [anamorphic optical systems](https://www.cined.com/behind-the-cinematic-look-of-anamorphic-lenses-a-short-guide-for-beginners/) – it had nothing to do with film and photography and was mostly used for sky research, to study cloud formations in meteorology. That changed in the 1960s, and since then, we can enjoy its narrative powers in our favorite movies.
 
 In the MZed course ["The Art and Science of Lenses,"](https://www.mzed.com/courses/the-art-and-science-of-lenses/?tap_a=17272-420962&tap_s=5179465-6bb066) filmmaker and educator Tal Lazar explains the term "aberration," which we might often come across in regard to lenses (and especially extreme ones like a fisheye). The technical definition goes like this:
@@ -34,14 +30,6 @@ The mass production of the fisheye lens started decades after its invention in t
 <iframe loading="lazy" title="Seconds | Trailer HD" width="500" height="281" src="https://www.youtube-nocookie.com/embed/65OnfXgxvXU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 A typical circular fisheye lens captures extremely wide angles of view, around 180 degrees (going up to 220° in some cases). Its focal length might be 8 to 10mm or even shorter (or longer, depending on the camera sensor). As we already discussed, this creates a severe distortion at the edges of the image and sometimes even a black border surrounding the spherical shot. You've surely experienced this effect already, but if not, just imagine looking into a mirrored glass ball.
-
-Related Course
-
-## The Art & Science of Lenses
-
-[![The Art & Science of Lenses](https://www.mzed.com/content/uploads/2024/10/MZed_Art-Science-Lenses-300x169.jpg)](https://www.mzed.com/courses/the-art-and-science-of-lenses?tap_a=17272-420962&tap_s=4952488-33e876)
-
-Lenses are one of the most important creative tools in cinematography. Learn the foundations of optics and gain the ability to design lens tests, collaborate with technicians and understand technical specifications.
 
 So, what does this unique look bring to the table? First of all, it allows us to keep an object or a character in the middle of the frame and the viewer's attention, but at the same time, reveal as much of the environment around them as possible. That's why action cameras such as GoPro particularly love the fisheye lens, and we often see it used in extreme sports sequences. When an athlete wears one, it intensifies the audience's experience as they ride, say, a mind-blowing downhill trail.
 
@@ -77,18 +65,3 @@ Another character who literally lived inside the television was, of course, Trum
 <iframe loading="lazy" title="The Truman Show (5/9) Movie CLIP - Do Something! (1998) HD" width="500" height="281" src="https://www.youtube-nocookie.com/embed/6U4-KZSoe6g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 The fisheye lens not only reminds us that Truman is constantly under the heavy eye of surveillance cameras but also represents the shape of a television screen. This way, we watch his life from the same perspective as his fans. Reminds me of the "Inception" concept, if you like.
-
-## Conclusion 
-
-The fisheye look might seem "too much" for a film when you're deciding on a perfect lens for your story. Yet, as we've seen above, it produces a range of distinct and intense impacts on the audience, manipulates our perception, and amplifies the emotional response. The secret is – to apply it with knowledge and purpose, and the magic will start to work.
-
-What's your take on the fisheye lens and its narrative powers? Have you used it in your films? If so, why? What was the purpose of such a choice? Do you have any other great film examples that feature this look? Share your thoughts with us in the comments below!
-
-**_Feature image:_** film stills from "The Favourite" and "Requiem for a Dream," combined with a film poster for "Seconds" by John Frankenheimer, 1966.
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5179465-6bb066) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**.
-
-**Additional sources:**
-
--   "Cinematic Storytelling" by Jennifer Van Sijll, 2005;
--   [Nashville Film Institute](https://www.nfi.edu/fisheye-lens/#:~:text=Fisheye%20Lens%20History,study%20cloud%20formations%20in%20meteorology)

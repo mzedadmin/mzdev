@@ -16,6 +16,5 @@ In this hour-long session Tal Lazar will take a deep-dive into the type of prepa
 \- What does a cinematographer require to begin a creative collaboration with a director?  
 \- What is the role of the director when working with a cinematographer, and how to lead a creative conversation without needing much technical knowledge?  
 \- And more!**  
- 
 
 MZed Pro members will receive an email with instructions on how to join.

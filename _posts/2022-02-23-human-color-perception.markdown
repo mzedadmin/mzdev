@@ -63,31 +63,3 @@ From an evolutionary standpoint, red is the color of hemoglobin in blood, and al
 "Your flight response is built in to that and of course blood and the danger that comes with that," says Ollie. "So we have these responses to colors that are ingrained in our DNA. So once we start to understand that, we can start to build our color and the look around some of those decisions, and make some informed decisions on how we might use those colors to create balance to our images."
 
 It's fascinating to learn about the ways we respond to colors, as well as other signals like light and dark, sound and music, and the sight of human emotion. Once we understand the foundations for those biological responses, we can make better use of them in our own creative decisions.
-
-## Learn About Color With MZed Pro
-
-Want to learn more about color theory, color correction and grading, and how to master the use of color in your videos? MZed has several courses dedicated to the topic of color, including:
-
-- Directing Color
-- Mastering Color
-- Color Correction with DaVinci Resolve
-- Understanding LUTs: Theory and Application
-
-![MZed Mastering Color course interface showing color grading tools](/assets/images/posts/human-color-perception-mastering-color-course.jpg)
-*The MZed "Mastering Color" course teaches advanced color theory and grading techniques*
-
-As an MZed Pro member, you get access to nearly 300 hours of filmmaking education, plus we're constantly adding more courses. For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 42 courses, over 500 high quality lessons spanning nearly 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Exclusive access to ARRI Academy online courses.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- The majority of MZed courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,800.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-
-Join MZed Pro now to get started!
-
-How do you utilize color theory in your videos? Understanding the biological foundations of human color perception can dramatically improve your visual storytelling, helping you create more impactful and emotionally resonant films.

@@ -97,29 +97,3 @@ Do you have a friend who has struggled for the last couple of years in their cur
 Have you recently discovered a tool or workflow that has changed your world? Write a blog post, a LinkedIn post, or even a tweet. Or record a short Youtube video about it. Sharing online doesn't always have to be promotional. In fact, I think one of the things we've lost recently with the internet is the desire to help and share with our community, simply to be nice and helpful, rather than to try to sell something.
 
 When you share or educate others, you'll find that 100% of the time, you learn something yourself, and in the process, the world is better off thanks to you. And someday, karma will pay you back for your kindness.
-
-## Conclusion
-
-That's it for me in 2022. I look forward to 2023 when we at [MZed](https://www.mzed.com/) and CineD can share more insights from filmmakers around the world, lessons and courses from educators who are wise beyond their years, and new approaches to video production so that we can all continue to grow our craft and build a life centered around creating awesome video stuff.
-
-## Learn more about video production with MZed Pro
-
-As an [MZed Pro member](https://www.mzed.com/), you get access to over 500 hours of filmmaking education, including courses on experimental filmmaking techniques and breaking out of creative comfort zones.
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 55+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,500.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-Breaking out of your comfort zone isn't just about personal growth—it's about expanding your creative toolkit and discovering new opportunities you never knew existed. Whether it's trying a new shooting style, experimenting with minimal gear, or teaching others, each step outside your familiar territory makes you a more versatile and valuable filmmaker.
-
-**Do you have a goal for 2023? What creative experiment will you try first?**

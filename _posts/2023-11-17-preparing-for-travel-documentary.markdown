@@ -8,24 +8,12 @@ meta_description: Tips to ensure your  trip and production go smoothly
 subtitle: Tips to ensure your  trip and production go smoothly
 ---
 
-![Dos and Don't When Preparing for a Travel Documentary](/assets/images/posts/preparing-for-travel-documentary-hero.jpg)
-
 **Coming back from a vacation, I have to admit: I really enjoy traveling. Who doesn't? For some people, combining adventure with filmmaking and turning it into their area of expertise can be a life goal. Fortunately, nowadays, you don't need huge budgets and big production companies behind you. With a decent smartphone and a simple [YouTube channel](https://www.cined.com/how-to-start-a-youtube-channel-the-first-steps-to-launch/), anyone can make a travel documentary solo, and do it beautifully. So, in this article, we decided to gather a bunch of important dos and don'ts that can be useful for each and every filmmaker preparing for their next adventure.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 Some of the tips that you will find below come from my own experience or from my film colleagues here at CineD. Also, I included several essential insights I learned from [Russ Malkin's](https://www.bigearthtv.co.uk/russ-malkin) course "[Adventure Filmmaking with Russ Malkin](https://www.mzed.com/courses/adventure-filmmaking-russ-malkin?tap_a=17272-420962&tap_s=4221394-4bb12f)", available on [MZed.com](https://www.mzed.com/?tap_a=17272-420962&tap_s=4221394-4bb12f).
 
 ![Travel documentary expert Russ Malkin](/assets/images/posts/preparing-for-travel-documentary-russ-malkin.jpg)
 *Russ Malkin, producer and director of travel documentaries. Image source: MZed*
-
-Related Course
-
-## Adventure Filmmaking with Russ Malkin
-
-[![Adventure Filmmaking with Russ Malkin](https://www.cined.com/content/uploads/2023/06/deffeba9f7e4a5d36e84dc55b75f5811.jpg)](https://www.mzed.com/courses/adventure-filmmaking-russ-malkin?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-How do you combine filmmaking with traveling? How do you make sure you can come home in one piece? And how do you turn it into your job? Join Russ Malkin on Adventure Filmmaking.
 
 Russ is a producer and director who creates content for many broadcasters globally, including BBC, ITV, Sky, National Geographic, Apple, Amazon, and Discovery. You may know him because of his work on the famous travel documentary series, "[Long Way Round](https://tv.apple.com/show/long-way-round/umc.cmc.13c4zk3hpybm6u0cfk1x0vyi)" and "[Long Way Up](https://tv.apple.com/show/long-way-up/umc.cmc.1nv0tluok21c2f8549mdjqdnh)" with [Ewan McGregor](https://www.imdb.com/name/nm0000191/) and [Charley Boorman](https://www.imdb.com/name/nm0095564/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_Charley%2520Boorman). If you haven't watched these, consider them my personal recommendation. They are not only exciting journeys to follow, but also soulful pieces of filmmaking, reflecting life on this planet in the most kind and human way.
 
@@ -150,8 +138,4 @@ Thinking about bringing some light with you? Johnnie Behiri suggests a compact b
 
 Of course, there are also tripods, gimbals, perfect scheduling techniques, and tons of other tips that might be useful for travel filmmakers. (Our [MZed course "Adventure Filmmaking with Russ Malkin"](https://www.mzed.com/courses/adventure-filmmaking-russ-malkin?tap_a=17272-420962&tap_s=4221394-4bb12f) offers some further ones, for example).
 
-**So yes, we can talk much longer about it, but let's turn the tables now. What are the dos and don'ts you find important in preparing for a travel documentary? Which pieces of equipment do you never leave behind when going on an adventure? How do you put together a small but working setup? Let's talk in the comments below!**
-
-**Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-_Feature image source: Apple TV_
+*Feature image source: Apple TV*

@@ -11,23 +11,11 @@ subtitle: How to Find Your Swarm
 
 "Networking". For some of you, this word alone will evoke unpleasant sensations. I totally get it. We're filmmakers and want to make films, not small talk. However, creating movies, music videos, and other kinds of visual stories is a collaborative process. You need people. Preferably, people you like. Even better – the ones who know their game. And yet, it can be very difficult at times to find your swarm. But don't worry! Here we have gathered some networking tips for filmmakers and video creators that you can try out.
 
-![Networking Tips for Filmmakers – How to Find Your Swarm](/assets/images/posts/networking-tips-for-filmmakers-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 It doesn't matter whether you're a new-born filmmaker, or have a long [IMDB](https://www.imdb.com/) record. One day, you might have to move to a tiny Austrian town (hey there!), change your specification from ad producer to documentary shooter, or get a million subscribers on your YouTube channel overnight and start seeking collaborations. Life is an unpredictable beast. Yet, if you know how to grow your network from scratch, reach out to experts, and expand your connections (on- and offline), you won't ever get lost. That's what we're going to talk about further below.
 
 The concept of an "elevator pitch" can seem annoying. At the same time, if you want to network (regardless of whether digitally or in person), you will surely need a quick summary of yourself and/or your current projects. The best-case scenario is to make a short, memorable, self-introduction that also opens a door to further discussion. How?
 
 Think of yourself as a brand (sounds cheesy, I know, but it helps). What could be your creative mission? If you don't have any films in the making, answer generally. What is it you want to talk about in your work? Which values and messages are important to you? What sparks your interest? How can you help your potential clients and collaborators – to achieve what? Write it down and read it aloud. Make sure your speech lasts between 30 and 60 seconds (or 50 to 200 words).
-
-Related Course
-
-## Starting a Youtube Channel
-
-[![Starting a Youtube Channel](/assets/images/posts/networking-tips-for-filmmakers-youtube-course.jpg)](https://www.mzed.com/courses/starting-youtube-channel?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Visual artist Kitty Peters guides you through the entire process of starting a YouTube channel, from choosing a niche, setting up your studio, breaking through challenges, and figuring out how to make money along the way.
 
 In her [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4877022-e79142) course "[How to Start a Podcast](https://www.mzed.com/courses/how-to-start-a-podcast/?tap_a=17272-420962&tap_s=4877022-e79142)", marketing strategist [Latasha James](https://latashajames.com/) also suggests creating "a listener profile". Speaking broadly, you need to establish your "audience". Who would be interested in working with you? For whom can your expertise (or films, YouTube channel, podcast – pick your own variant here) be especially valuable? Imagine these people and write down a few biographical details about them. They will be your first contacts. (More tips on defining your audience and topics [here](https://www.cined.com/a-unique-podcasting-course-on-mzed-has-just-launched-learn-from-marketing-and-podcast-expert-latasha-james/)).
 
@@ -77,8 +65,4 @@ In fact, why wait? The famous NAB 2024 show in Las Vegas takes place April 14-17
 ![CineD booth at NAB](/assets/images/posts/networking-tips-for-filmmakers-nab-booth.jpg)
 *Our booth at NAB 2023. Image source: CineD*
 
-**So what is your approach to growing a network? Any other networking tips for filmmakers that you use personally? Let's exchange experiences in the comments below! Also, don't be shy to introduce yourself below this post – maybe someone from our friendly filmmaking community is looking for someone exactly like you!**
-
-Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4877022-e79142) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)
-
-Feature image source: CineD.
+*Feature image source: CineD.*

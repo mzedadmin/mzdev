@@ -12,21 +12,9 @@ subtitle: Can you light a scene with just one source? Sure! But what dramatic im
 
 Limitations ignite creativity. When we define rules and boundaries, our brain tries to find a new way around them. Are you familiar with the Oulipo movement? This was a gathering of French-speaking writers and mathematicians in the 1960s who came up with different constrained writing techniques. An example is to omit certain letters in your work or to create a poem where each line is a single word, and each successive word is one letter longer. That helped to harness new ideas. Introducing constraints is a powerful tool in filmmaking as well. Can you light a scene with just one source? Sure! But how will the image look, and what dramatic impact will it have? Trust me, the possibilities are endless. Let's dive into some of the iconic examples of using single-source lighting!
 
-![Minimalist Mastery – The Dramatic Craft of Single-Source Lighting in Film](/assets/images/posts/single-source-lighting-in-film-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 Modern lighting conventions require light in films to be believable and authentic. It shouldn't disturb the audience's immersion and distract their attention. We call it "emulate": take inspiration from reality and try to mimic it in the frame. At the same time, lighting is an impactful storytelling tool that can increase emotional reaction or indirectly emphasize some deep-lying message. Single-source lighting is no exception. You may think of it as a very dramatic option, but it can also be realistic, flattering, disturbing, or scary – just what your story needs.
 
 Filmmaker and educator [Tal Lazar](https://www.latentimages.com/) explains in his [MZed course "The Language of Lighting"](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=5190642-3568b4), that mastery lies in the correct balance. Yes, it is important to make the lighting feel realistic within your film world so it doesn't put your viewers off. On the other hand, we have to liberate ourselves from the restrictions of reality to come up with creative ideas to tell a story. Sometimes, the light should support the audience's expectations ([using practicals](https://www.cined.com/practical-lights-or-movie-lights-how-and-why-to-use-them/) is a great way to motivate your lighting choices, for example). In other cases, it should break them, and we'll take a look at a prominent example further below.
-
-Related Course
-
-## The Language of Lighting
-
-[![The Language of Lighting](https://www.mzed.com/content/uploads/2024/10/the_language_of_lighting-feature_image-300x169.jpg)](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Learn to see light like a professional cinematographer and design it to tell a story. What is the purpose of lighting in a scene? What is the difference between lighting on set or on a stage? All these questions and more are answered in this course by master educator Tal Lazar, utilizing demonstrations and many scenes from great films.
 
 How to balance the story and the realism? It's for you to decide. One of the tools, therefore, is using contrast. Shadows are a big part of our world, no arguing, and their dramatic value is as massive as the light itself. Take a look at the subsequent film still from Denis Villeneuve's "Enemy." Even if you haven't watched it, how would you describe the character? What is he going through at the moment?
 
@@ -103,11 +91,7 @@ In scenes like the ones above, light comes from a single source – the window. 
 
 Of course, if you prefer naturalistic cinematography, then you may try using the only lighting source you'll ever need – the sun. But that's a different topic altogether. If you're interested in learning more about it, read [our article on "Nomadland](https://www.cined.com/nomadland-a-masterclass-in-naturalistic-cinematography-with-dp-joshua-james-richards/)," where filmmakers took the best out of sunset light. Additionally, you may find some useful tips on lighting people outdoors [here](https://www.cined.com/lighting-people-on-location-new-course-by-the-asc-only-on-mzed/).
 
-**Let's turn the tables now! How do you feel about single-source lighting? In which cases do you go for it in your films? What are some other dramatic examples from movies I forgot to mention? Looking forward to your thoughts and suggestions in the comment section below!**
-
 **_Feature image:_** a collage, made of the film stills from "Eternal Sunshine of the Spotless Mind" by Michel Gondry, 2004; "Close Encounters of the Third Kind" by Steven Spielberg, 1977; "Blade Runner 2049" by Denis Villeneuve, 2017; Netflix series "The Crown".
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5190642-3568b4) is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/).
 
 **Additional source:**
 

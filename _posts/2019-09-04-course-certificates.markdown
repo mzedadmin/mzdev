@@ -14,13 +14,13 @@ Here at MZed we're excited about education. It's an incredible feeling to acquir
 
 That's why it's essential to pause every once in a while, and take a moment to acknowledge your achievements so far. We all need to be recognized for our hard work, but how do you do that when you're taking online, self-paced courses?
 
-![mzed-filmmaking-course-certificates](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-filmmaking-course-certificates.jpg)
+![Mzed Filmmaking Course Certificates](/assets/images/posts/mzed-filmmaking-course-certificates.jpg)
 
 ## Printable Certificates of Completion for MZed Online Courses
 
 Today we're happy to share the news that we're launching certificates of completion for most of our courses!
 
-![mzed-course-certificate](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/mzed-course-certificate.jpg)Having a certificate is a really straightforward and widely accepted way of demonstrating that you have a certain skill-set, or have studied in a specific area, and now all MZed students can do so whether it be for study, employment, or just to hang on the wall to celebrate your learning milestones.
+![Mzed Course Certificate](/assets/images/posts/mzed-course-certificate.jpg)Having a certificate is a really straightforward and widely accepted way of demonstrating that you have a certain skill-set, or have studied in a specific area, and now all MZed students can do so whether it be for study, employment, or just to hang on the wall to celebrate your learning milestones.
 
 Certificates are emailed to the address attached to your MZed account upon completion of an eligible course. You can also request a copy to be emailed to you via the [My Certificates page](https://www.mzed.com/account/certificates).
 
@@ -28,8 +28,8 @@ Certificates are emailed to the address attached to your MZed account upon compl
 
 And here's some good news if you've already completed a course (or a dozen). You can now claim certificates for courses that you completed prior to us launching this feature. To do so, just visit the [My Certificates page](https://www.mzed.com/account/certificates) and you should see any eligible courses there. Just hit the envelope icon to have the PDF emailed to you!
 
-![course-certificates-email-print](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/course-certificates-email-print.jpg)  
-![course certificates completion](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/course-certificates-completion.jpg)If you aren't seeing a course that you previously completed, just go to that course page and check that you've finished all the lessons. You can tell if you've watched a lesson as the button will now be grey and say "Re-watch", as opposed to the normal blue "Watch Now" or "Continue".
+![Course Certificates Email Print](/assets/images/posts/course-certificates-email-print.jpg)  
+![course certificates completion](/assets/images/posts/course-certificates-completion.jpg)If you aren't seeing a course that you previously completed, just go to that course page and check that you've finished all the lessons. You can tell if you've watched a lesson as the button will now be grey and say "Re-watch", as opposed to the normal blue "Watch Now" or "Continue".
 
 Please note that certificates are only generated once and are issued in the name of your account, so be sure that everything is completed (and correctly spelled!) in your account. You can update your name at any time from your account settings.
 

@@ -14,13 +14,10 @@ subtitle: Learn How to Design Light Like a Pro in New MZed Course
 
 **Just in time for Christmas and New Year, we launched our new elaborate course on MZed.com – ["The Language of Lighting"](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=4360246-c93b29). Held by a seasoned cinematographer and film school educator [Tal Lazar](https://latentimages.com/), this course opens a curtain into the beautiful world of cinematic lighting. Without light, there is no shot. Yet, the new course is not just about lamps and conventions. Lighting is a language communicating information and emotions to the viewer. Seeing and designing it to tell a story is magic on its own. The question is: are you ready to become a wizard?**
 
-**MZed Pro 1-Year Filmmaking Education Subscription**
-
 [Tal Lazar](https://www.imdb.com/name/nm1823574/) teaches at leading film schools such as Columbia University, the American Film Institute, and Sundance Institute. At the same time, he is a practitioner, his knowledge coming from his vast filmmaking experience as a cinematographer and producer. Combining these two areas of expertise, diving deep into the process, and adding a generous pinch of classic film examples, Lazar manages to light up the eyes of anyone – even those, who have no connection to lighting fixtures whatsoever.
 
 The purpose of „The Language of Lighting" is not to turn students into master lighting technicians. Designing light is a collaborative process between many different artists, so understanding how it works and learning to communicate it is beneficial for anyone, be it a director, producer, or cinematographer. That's exactly what you will achieve in roughly 4 hours of this course.
 
-![A screenshot from the course](/assets/images/posts/new-mzed-course-design-light-like-a-pro-hero.jpg)
 *A screenshot from the course. Image source: Tal Lazar/MZed*
 
 Below, we give you a sneak peek into the first of 9 modules "Seeing Light as a Cinematographer". [Head over here to enroll in "The Language of Lighting" on MZed.com and watch the rest.](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=4360246-c93b29)
@@ -47,16 +44,6 @@ Secondly, you can't just come to a desert, put two huge light sources, and call 
 
 ![Film still showing weird moonlight effects from No Country for Old Men](/assets/images/posts/new-mzed-course-no-country-moonlight.jpg)
 *A film still from "No Country for Old Men" by Coen brothers, 2007*
-
-Related Course
-
-[![The Language of Lighting](/assets/images/posts/new-mzed-course-language-lighting-course-thumb.jpg)](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Learn to see light like a professional cinematographer and design it to tell a story. What is the purpose of lighting in a scene? So many questions are answered in this course by master educator Tal Lazar, utilizing demonstrations and many scenes from great films.
-
-In normal life, moonlight comes from above and lights everything evenly. Why then some parts of this wide shot are dark and some – bright? Yet, it doesn't matter, as long you believe it is real. Filmmakers also make sure to follow significant rules to convince us. For example, the artificial light coming from the car's headlights is brighter, than the moonlight, as it should be. There are other tricks to increase believability, and Lazar shares a lot of them throughout the course.
-
-Imagine a perfect bedroom for a morning scene, with beautiful rays of the rising sun falling through the window. You arrive at such a location and it's a dream come true. Yet the first thing the crew will do is block the sunlight so that they can bring in lamps to create the exact same effect (if it is what you're heading for). Why? Unfortunately, the sun moves faster, than we can film this one particular scene. So, the next objective of lighting is consistency.
 
 Even if you have a naturalistic approach, film exclusively outdoors, and try to use only the available light, you will have to adjust your workflows in order to keep it consistent. (For instance, [read here](https://www.cined.com/nomadland-a-masterclass-in-naturalistic-cinematography-with-dp-joshua-james-richards/) how they nailed this challenge in "Nomadland").
 
@@ -108,25 +95,5 @@ and much more. You can read the description of all course modules [here](https:/
 I hope we could give you a taste of what amount of knowledge and deeper understanding of lighting you will gain from this course. This is a wonderful gift for any filmmaker, interested in enhancing their visual superpowers. So, if you're still on the lookout for a Christmas present, consider it as our suggestion. (Spoiling yourself is also an idea, of course!)
 
 ["The Language of Lighting"](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=4360246-c93b29) is available to purchase for $39.99. [**Or you can subscribe to MZed Pro**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4360246-c93b29) and watch this course, along with over 50 other courses for only $349 for the first year, and $199 for every year after that.
-
-As an **[MZed Pro member](https://www.mzed.com/?tap_a=17272-420962&tap_s=4360246-c93b29)**, you also get access to over 465 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,000.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4360246-c93b29)
-
-**Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-**What is your approach to lighting? How do you use it to tell stories? Share your experience with us in the comment section below!**
 
 _Feature image source:_ MZed.

@@ -75,23 +75,3 @@ But as Dave says, "by simply pulling in videos from the internet, by finding gre
 "But if you are going to use someone else's video, it is a typical rule of thumb to credit them. It's the right thing to do, in my opinion." You can add both on-screen credits, an embedded link button in the YouTube video, as well as credit and link in the description.
 
 If you want to learn more about when you can or cannot include other video clips in your own videos, head over to the [YouTube Fair Use Policy](https://support.google.com/youtube/answer/9783148?hl=en).
-
-## Learn more with MZed Pro
-
-As an [MZed Pro member](https://www.mzed.com/), you also get access to over 300 hours of filmmaking education, including [Speed Editing in Final Cut Pro with Dave Maze](https://www.mzed.com/courses/speed-editing-final-cut-pro), plus we're constantly adding more courses (several are currently in production).
-
-For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 40+ courses, over 600 high-quality lessons spanning over 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- The majority of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $7,600.
-- Course topics include cinematography, directing, lighting, cameras, and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)
-
-Are you ready to spice up your YouTube videos with Dave Maze's techniques? Let us know in the comments below!

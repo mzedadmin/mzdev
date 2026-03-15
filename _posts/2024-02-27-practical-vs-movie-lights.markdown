@@ -9,23 +9,11 @@ meta_description: When to use practical lights vs movie lights - Tal Lazar expla
 subtitle: How and Why to Use Them
 ---
 
-![Practical Lights or Movie Lights? – How and Why to Use Them](/assets/images/posts/practical-vs-movie-lights-hero.jpg)
-
 **In the beginning, there was light. Without light – no shot, no scene, no film. Of course, we can also tell our stories in complete darkness, but that has little to do with movies. The visual medium needs visibility. Another question is: why don't we just use practical lights instead of heavy lamps and bulky film fixtures? It would be so much easier production-wise! Cinematographer and educator [Tal Lazar](https://latentimages.com/) has not one, but a bunch of answers to this question in his [latest](https://www.cined.com/the-language-of-lighting-learn-how-to-design-light-like-a-pro-in-new-mzed-course/) [MZed course "The Language of Lighting"](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=4468321-f817ef). Let's dive into his lesson, and establish when it's okay to abandon movie lights and go solely for practicals.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 The modern lighting convention in film is all about emulation. This means that as filmmakers, our lights should be made to feel natural and believable in almost every scene. For an industry outsider or a beginner, this process might seem crazy. Imagine seeing, for the first time, the crew blacking out windows on location to simulate soft, cloudy outdoor light using artificial fixtures!
 
 Yet, practicals have something from both worlds. They are natural because they are totally real, and at the same time, they can bring a specific cinematic quality to the shot.
-
-Related Course
-
-## The Language of Lighting
-
-[![The Language of Lighting](/assets/images/posts/practical-vs-movie-lights-language-lighting-course.jpg)](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Learn to see light like a professional cinematographer and design it to tell a story. What is the purpose of lighting in a scene? What is the difference between lighting on set or on a stage? All these questions and more are answered in this course by master educator Tal Lazar, utilizing demonstrations and many scenes from great films.
 
 Let's start with the definition.
 
@@ -93,25 +81,5 @@ Last but not least, a quick tip to gain more control over your practicals. My te
 With special LED bulbs, you can avoid flickering, and easily change the color and brightness of a practical. As you can see, it allowed us to create an interesting studio atmosphere in the wide shot and even gave enough colorful output to light a close-up.
 
 Practical lights or not, if you want to create beautiful engaging shots, you should also understand how to design light to support your story. This is one main focus of Tal Lazar's course, ["The Language of Lighting" on MZed.com](https://www.mzed.com/courses/the-language-of-lighting?tap_a=17272-420962&tap_s=4468321-f817ef). He analyzes classic film examples, showcases what effect different lighting has, and dives deep into all the technical questions (how to use diffusion, calculate the correct color temperature, or work with reference images, to name a few).  
-
-As an [**MZed Pro member**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4468321-f817ef), you also get access to over 465 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,000.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4468321-f817ef)
-
-**Full disclosure: MZed is** [**owned by CineD**](https://www.cined.com/cined-acquires-mzed/)
-
-**What about you? Do you often use practical lights? What do you use them for, and which tricks do you use to include them in shots and emulate them correctly? Looking forward to your tips and opinions in the comments below!**
 
 _Feature image source:_ Tal Lazar/MZed.

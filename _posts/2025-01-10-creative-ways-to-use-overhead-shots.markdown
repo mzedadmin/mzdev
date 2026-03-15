@@ -10,8 +10,6 @@ subtitle: They're more than just gear flatlays
 
 Wouldn't it be great if we could always take a look from above and observe our situation from a different perspective? In films, this is possible – namely, with overhead shots, also known as top angle shots, top shots, top-down, bird's eye view, or god's eye view. They are not easy to execute but oh-so-powerful in framing the story. This camera perspective has been around for a long while, yet filmmakers still find creative ways to use it. (If you watched the meticulously choreographed opening shot of the recent film "The Substance" that made a lot of noise, then you know what I mean). Let's analyze some of the incredible overhead shots together – from the prominent to the newest ones – and find out how they enhance visual storytelling.
 
-![The Creative Use of Overhead Shots – Framing the Story from Above](/assets/images/posts/creative-ways-to-use-overhead-shots-hero.jpg)
-
 The great thing about overhead shots is that they can be used in a huge array of scenarios where various impacts are wished for. No, they are not just a comprehensive establisher perspective. Neither are they merely a fancy trick or eye candy. Below, we will show exactly how they work on an emotional level, as well as how they affect our unconscious perception. So, fly along and try to observe everything from above, just like an overhead shot does.
 
 ## What is an overhead shot?
@@ -102,5 +100,3 @@ Coming back to the opening scene from "The Substance," I think it speaks for its
 <iframe loading="lazy" title="The Substance - Elisabeth Sparkle Walk Of Fame Star (Opening Scene)" width="500" height="281" src="https://www.youtube-nocookie.com/embed/IyF_xRgt2h4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 From this perspective, her fame feels absolutely meaningless in the grand scheme of things, as in any human's journey. Time flies by, and at some point, we all become dust. If you want to imply this message in a scene, the top-down perspective should definitely be on your list of visual choices.
-
-**These were just some of the effects that overhead shots are capable of accomplishing. We could go on and on, but let's continue in the comments instead! Why would you use a bird's eye view perspective in your movie or video? Do you have other favorite film examples that have a different impact? Please share them with us in the comments below!**

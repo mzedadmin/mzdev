@@ -61,27 +61,3 @@ Film grain is the random distribution of black and white particles on the surfac
 *A vintage film look preset. Image source: Digby Hogan / MZed*
 
 Such grain effects are available online, and you can also find enough free options like [this one](https://www.holygrain.com/free-film-grain-download/), for example. Another way to achieve this look could be to use the built-in Premiere Pro Noise-effect with its different variations. For example, the Noise HLS Auto offers the suitable "Grain" type, and adjusting the "Noise phase" allows us to automatically animate grain to feel more authentic. You can also increase the lightness of the effect if you want it to be more visible.
-
-## Conclusion
-
-Of course, these tricks are no substitute for professionally planned and filmed cinematic shots. But they demonstrate that you can still add some style to any material in post-production and significantly increase its effect. So, don't give up on your cinematic goals, even if you have to deal with some poorly-shot footage. And if you want to discover more quick tips, check out the whole [MZed-course "Learn Everything in Premiere Pro"](https://www.mzed.com/courses/learn-everything-in-premiere-pro).
-
-How do you achieve a cinematic look in Premiere Pro? Any tips for the community that we haven't covered above? Please share them in the comments section below.
-
-## What else do you get with MZed Pro?
-
-As an [**MZed Pro member**](https://www.mzed.com/), you have access to over 500 hours of filmmaking education, including over 25 hours of "Learn Everything in Premiere Pro". Plus, we're constantly adding more courses (several are in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
-- 54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- Most of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,000.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
-- 7-day money-back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/)

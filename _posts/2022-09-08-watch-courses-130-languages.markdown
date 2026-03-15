@@ -46,23 +46,3 @@ As the last step, set your mother tongue as the destination language of the tran
 
 ![MZed course transcript translated to German showing multilingual accessibility in action](/assets/images/posts/watch-courses-130-languages-german-translation.jpg)
 *Image source: CineD / MZed*
-
-## What do you get with MZed Pro?
-
-As an [MZed Pro member](https://www.mzed.com/), you also get access to nearly 300 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 40+ courses, over 600 high-quality lessons spanning over 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Exclusive access to ARRI Academy online courses.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- The majority of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $7,600.
-- Course topics include cinematography, directing, lighting, cameras, and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-
-[Join MZed Pro now and start watching today!](https://www.mzed.com/checkout/?sku=MZEDPRO12)
-
-Are you an MZed Pro member? Have you ever used this trick to translate live transcripts into your native language? Let us know how it worked out in the comments below!

@@ -110,4 +110,3 @@ MZed Pro members get 40% off all LUTs.
 
 ![DELUTS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/deluts.jpg)
 
-* * *

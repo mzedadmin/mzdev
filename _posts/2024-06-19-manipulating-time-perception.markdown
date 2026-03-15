@@ -10,11 +10,7 @@ meta_description: Frame rate manipulation for storytelling - from 24fps conventi
 subtitle: The Storytelling Potential of Frame Rate (with Film Examples)
 ---
 
-![Manipulating Time Perception – the Storytelling Potential of Frame Rate (with Film Examples)](/assets/images/posts/manipulating-time-perception-hero.jpg)
-
 **Time is relative. In films, even more so. As filmmakers, we have developed a huge bundle of tricks for speeding it up, slowing it down, freezing it, or disrupting it. We can even glimpse into the past or future if we need to. Film time is a huge topic on its own. Here, though, we'll narrow it down and take a renewed look at one of the most basic settings every DP or videographer encounters daily: frame rate. Where do conventions like 24fps come from, when can we ignore them, and how to use frame rate as a storytelling tool? Let's explore it together by breaking down some exciting film examples.** 
-
-**MZed Pro 1-Year Filmmaking Education**
 
 The reason why we – filmmakers – alter time in movies is simple. Our goal is not to depict reality 1:1 but to create a dramatic story. That's why we include only those moments that contribute to the narrative, leaving out the rest. However, even without the editing, we sometimes manipulate time directly within the shot. Why? Hopefully, your answer is not just "because it looks cool" but "because it enhances the story".
 
@@ -32,14 +28,6 @@ The other rule is that your shutter speed should be double your frame rate. For 
 ![Conventional frame rate example 3](/assets/images/posts/manipulating-time-perception-conventional-3.jpg)
 
 If you want to play with frame rate settings (for various reasons), then you should use professional film fixtures or shoot outdoors with natural daylight. Both solutions won't cause you problems with flickering. In the US, the electricity is 60 hertz. But often, instead of shooting at 30fps with a 1/60<sup>th</sup> shutter, they prefer to go for 24fps with a 1/48<sup>th</sup> shutter and avoid domestic lights in the shot. Why? Because 24p is still the sweet spot for a cinematic look.
-
-Related Course
-
-## Filmmaking for Photographers
-
-[![Filmmaking for Photographers](/assets/images/posts/manipulating-time-perception-filmmaking-photographers.jpg)](https://www.mzed.com/courses/filmmaking-for-photographers?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Philip Bloom returns with this guide to making the jump from telling a story in a single frame to telling a story over time and space. This course is aimed at established photographers, but also holds relevant information for filmmakers.
 
 We learn it by heart in film schools, like a mantra: Use 24fps (or 23.976 fps). Some people are even convinced this frame rate looks more natural and "true to life". No, the reason for this exact number has historical roots. By trial and error, early filmmakers found out that the illusion of motion starts at 16fps. Falling below this threshold, the brain perceives separate still images instead of connecting them to a consistent film. All the silent movies were shot using this discovery (at around 16-18fps) but then projected closer to 20-24fps. That's why when we watch Charlie Chaplin's works, they look slightly sped up, which enhances the comedic effect:
 
@@ -105,10 +93,6 @@ Characters of this film are constantly looking for relief from their addiction. 
 
 Knowing the rules and conventions is important. Using this knowledge to break them with intention is where filmmaking magic begins. We might have stuck with 24fps because of its familiar look. It doesn't mean that we can't use different frame rates to alter time, emphasize intense dramatic moments, or achieve a strong (positive or negative, doesn't matter) reaction from the viewers.
 
-**What is your approach here? Do you use slow motion sometimes just for the sake of it, or do you always think about the purpose of the shot and how to execute it accordingly? What frame rate is your go-to one? Let's talk in the comments below!**
-
 **_Feature image:_** film stills from "The Matrix" by the Wachowskis (1999), "American Beauty" by Sam Mendes (1999), and "Pirates of the Caribbean" by Gore Verbinski (2003).
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5031561-920049) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
 
 **Additional source:** "Cinematic Storytelling" by Jennifer Van Sijll, 2005.

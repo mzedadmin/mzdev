@@ -11,10 +11,6 @@ subtitle: A Deep-Dive Into Seamless Storytelling
 
 **Everyone knows what a match cut looks like. Even TikTok kids are masters of seamless transitions nowadays. Yet, carefully constructed match cuts are much more than just eye candy for a wow effect. Throughout the history of cinema, filmmakers have used it as a powerful editing tool to push time forward, to plant new ideas into viewer's heads, or to smoothly glue two scenes together. Not to mention that there are so many kinds of match cuts to explore! Are you ready for a deep dive into the film theory realm? Prepare to emerge!**
 
-![Mastering Match Cuts – A Deep-Dive Into Seamless Storytelling](/assets/images/posts/mastering-match-cuts-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 A while ago, we talked about [when to set the cut and why](https://www.cined.com/when-to-cut-and-why-unlocking-the-craft-of-precise-editing/). In that article, we touched on how the audience's perception works, and what principles to apply while editing. I believe it's essential knowledge that every filmmaker should always keep in mind.
 
 There is no doubt that the mentioned theoretic parts can also be applied to match cuts. However, this art of transition also yields other interesting effects, and we will explore them below. And what's the best way to learn something (apart from practicing)? By watching outstanding film examples, of course!
@@ -28,14 +24,6 @@ If we don't go for a [long take](https://www.cined.com/how-to-create-a-suspensef
 <iframe loading="lazy" title="Scott Pilgrim Match Cuts" width="500" height="281" src="https://www.youtube-nocookie.com/embed/o7PprKOaEkA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 While there is a great variety of match cut types, there is one thing they all have in common. Using similar elements in the frame (or in audio), these cuts make a transition soft, fluid, and sometimes even invisible to the audience. It's a pleasing effect, and on a subconscious level, it can achieve a strong thematic connection between separate events, characters, or concepts.
-
-Related Course
-
-## The Cutting Edge
-
-[![The Cutting Edge](/assets/images/posts/mastering-match-cuts-cutting-edge-course.jpg)](https://www.mzed.com/courses/the-cutting-edge?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Saturday Night Live film unit Editor Adam Epstein shows you exactly how he takes a project from an empty timeline to a network broadcast in under 24 hours. Adam shares his tips, techniques and theories to maximize your results.
 
 The basic underlying principle that is used here is called "eye trace." Seasoned editor [Adam Epstein](https://www.adam-epstein.com/) explains this term in his [MZed course "The Cutting Edge"](https://www.mzed.com/courses/the-cutting-edge/modules/8?tap_a=17272-420962&tap_s=5053122-ac620e) with the help of cinema legend Walter Murch. The idea behind this is to determine exactly where the audience is looking (the middle of the frame? The upper right corner? Any focus of interest?) and to use this knowledge to carry their attention carefully – like a cup full of water – from one shot to another. It allows editors to cut "like butter" without disrupting the viewer's immersion. A well-executed match cut is the top tier of this technique.
 
@@ -115,10 +103,6 @@ Match cuts are everywhere: you will see them in TikTok trends, documentaries, an
 
 Interestingly, even a disrupted match cut works on us subconsciously. This means that when two visually rhyming images are separated by a middle shot, the audience will still continue to forge a link between the two. Be aware of that! Use match cuts as your additional editing superpower and not just a fancy trick.
 
-**How do you feel about match cuts? Do you use them often? When is the best moment to create a match cut? What's your favorite film example that I didn't mention? Share your answers with us in the comments below!**
-
 **_Feature image:_** film stills from "Everything Everywhere All at Once" by Daniels (2022) and "Lawrence of Arabia" by David Lean (1962).
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5053122-ac620e) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
 
 **Additional source:** "Cinematic Storytelling" by Jennifer Van Sijll, 2005.

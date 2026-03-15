@@ -12,10 +12,6 @@ subtitle: A new drama by Wim Wenders depicts everyday scenes in Tokyo, finding b
 
 "Live here and now! Enjoy the moment! Find beauty in the mundane!" – For some, these are just "mindful" thoughts with an unclear origin trending in social media. For Hirayama, they are postulates he builds his life on. A new, peaceful, and slightly bittersweet drama, "[Perfect Days](https://www.imdb.com/title/tt27503384/?ref_=nm_flmg_t_2_dr)" by [Wim Wenders](https://www.imdb.com/name/nm0000694/), depicts everyday scenes in Tokyo, following a toilet cleaner who has found bliss in simple things. It's so meditative that some may call this film too slow-paced and boring. However, if its central message resonates with you in any way, read along! Let's dive into the transcendental routine and explore the poetry of the quiet frames in "Perfect Days"!
 
-![The Quiet Frames of "Perfect Days" – Depicting Beauty in the Mundane](/assets/images/posts/quiet-frames-perfect-days-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
-
 [The 96th Academy Awards](https://www.oscars.org/oscars/ceremonies/2024) will be held on Sunday, the 10th of March. Thus, our short Oscars sprint is also coming to an end. To conclude it with something special, we decided to take a look at a smaller category – Best International Feature – and break down the cinematography of a quiet drama from Japan. "Perfect Days" has [strong competition this year](https://www.cined.com/oscar-nominations-2024-announced-not-without-surprises/), sharing the nomination with, for example, Jonathan Glazer's powerful "[The Zone of Interest](https://www.imdb.com/title/tt7160372/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_zone%2520of%2520)". It doesn't matter though whether Wim Wender's picture has a chance of winning or not. After all, it already won its place in our hearts. Interestingly, it's done so more with a rather simplistic approach than with fancy effects or complicated tools.
 
 ## **The quiet frames of Perfect Days: how they started**
@@ -29,14 +25,6 @@ This story begins with "[The Tokyo Toilet Project](https://tokyotoilet.jp/en/)".
 At first, the production invited Wim Wenders to make a series of short documentary films on the unique facilities to promote the project. Yet when the German director (known for his love of Japan) saw the toilets, he immediately came up with an idea for a fiction feature. Luckily, everyone agreed. So, together with his co-writer Takuma Takasaki, Wim went back to Berlin and they wrote a script in 3 weeks. The film itself was shot in Tokyo over 16 days.
 
 While it may be the least effort put into an Oscar-nominated feature, this approach seems to align better with its central message than any other would.
-
-Related Course
-
-## The Art of Visual Storytelling
-
-[![The Art of Visual Storytelling](https://www.mzed.com/content/uploads/2024/10/c20477ca77eff10d11b320849dead20c.jpg)](https://www.mzed.com/courses/art-of-visual-storytelling?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Visual storytelling cuts to the heart of the filmmaker, combining all elements of the craft to engage the viewer. Over four and a half hours, Alex Buono will teach you advanced techniques to help you improve your filmmaking results.
 
 ## **Documentary approach**
 
@@ -96,10 +84,4 @@ On the other hand, every melody we hear in "Perfect Days" somehow supports the s
 
 However, these emotions don't dictate how he lives and what choices he makes. Following the "now is now" philosophy, Hirayama finds his own happiness and bliss, even when life is an imperfect beast.
 
-**Personally, I felt a deep gratitude to the Universe and also a peaceful state of mind after watching this film. What about you? Did you like the quiet frames of "Perfect Days"? How did you find the pacing and the documentary approach? Looking forward to your answers in the comments below.**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4677954-164a45) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/?tap_a=17272-420962&tap_s=4677954-164a45)
-
-Feature image source: a film still from "Perfect Days" by Wim Wenders, 2023.
+*Feature image source: a film still from "Perfect Days" by Wim Wenders, 2023.*

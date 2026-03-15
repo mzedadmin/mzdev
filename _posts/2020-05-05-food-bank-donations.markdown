@@ -8,21 +8,20 @@ meta_description: We are humbled by your generosity - thank you!
 subtitle: We are humbled by your generosity - thank you!
 ---
 
-_**5/5/2020 Update: Because we made our donation on #GivingTuesday, a donor matched our contribution to Food Bank LA, doubling our total donation amount to over 180,000 meals!**_
-
+***5/5/2020 Update: Because we made our donation on #GivingTuesday, a donor matched our contribution to Food Bank LA, doubling our total donation amount to over 180,000 meals!***
 Because of your support during the last two months, over 90,000 meals will be provided to children and families in the Los Angeles area who are struggling to afford food right now. That is an immense achievement and we are incredibly proud of the MZed family.
 
 During the month of March and April, [20% of every sale at MZed went directly to the Regional Food Bank of Los Angeles](https://www.mzed.com/news/coronavirus-donations). That means every time you purchased an MZed Pro membership, or a course, or even a lesson, you were helping to provide healthy meals for individuals and families in need.
 
 > "We are incredibly grateful for partners who are supporting the Los Angeles Regional Food Bank and allowing us to meet the increase in demand during this unprecedented time. In the past two months, MZed has helped the Food Bank provide nearly 100,000 meals for all of our neighborhoods in need. Thank you to MZed and all of their members for their generosity." Roger Castle, Chief Development Officer. 
 
-![coronavirus donation food bank los angeles](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/lafoodbank.jpg)
+![coronavirus donation food bank los angeles](/assets/images/posts/lafoodbank.jpg)
 
 Even though we have an international team, MZed is based in Burbank, California. The Los Angeles area is home to the film industry, as well as many of our educators and members. As soon as the coronavirus lockdown closed schools in LA, we immediately heard about the hundreds of thousands of school children who would no longer have access to their daily meals that they depend on.
 
 Of course it wasn't just schools that were closed in California. Almost all of television and film production work came to a halt, which impacted many gig workers who piece together a variety of part-time work to make a living. Freelance creatives and business owners were also hit hard, and collectively everyone has been impacted in ways that will affect the film industry for a long time.
 
-![Food Bank](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/coronavirus-donations.jpg)
+![Food Bank](/assets/images/posts/coronavirus-donations.jpg)
 
 But the worst hit among us are those who were already living paycheck to paycheck, and who now struggle to even afford basic needs such as food. That's where the Food Bank helps, by providing meals for anybody who needs them.
 

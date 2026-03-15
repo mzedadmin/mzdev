@@ -8,11 +8,7 @@ meta_description: Expand your audience with these tips
 subtitle: Expand your audience with these tips
 ---
 
-![Promoting a Podcast or Video – Marketing Tips to Expand Your Audience](/assets/images/posts/promote-podcast-or-video-hero.jpg)
-
 **In our educational pieces here, we talk a lot about how to create an engaging video, how to write a compelling script, and how to start your own channel or podcast. We dive into visual storytelling, the art of thoughtful editing, the essential elements of sound design, you name it! Mastering your creative and producing skills is important, no doubt. Yet, even the best film in the world has no meaning if nobody sees it. So, let's talk about promoting a podcast or video. What tips and tricks can bring the audience to you and your work? How can you secure good deals with brands and build a strong presence in social media? All that and much more follows below.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 Even if you're a rookie in marketing, there are simple steps that anyone can take to grab attention and expand their audience (or find it to begin with, in case you're just starting out). [Latasha James](https://latashajames.com/) is an entrepreneur, marketing expert, and host of "[The Freelance Friday Podcast](https://www.youtube.com/playlist?list=PLUllurxaY2k4se2oLTt_JHgIiGHCe7kQm)" with thousands of listeners and viewers across different platforms. In her [MZed course "How to start a podcast"](https://www.mzed.com/courses/how-to-start-a-podcast?tap_a=17272-420962&tap_s=4271358-5ca7a1), she shares various professional insights that helped her build a large listener community. In this article, we've highlighted the most impactful and readily implementable tips. Needless to say, these tips can be transferred to any type of content that needs promoting (including videos and social media reels, for example).
 
@@ -20,14 +16,6 @@ One of the most important parts of promoting a podcast or video that creators te
 
 ![Example of captivating podcast title and show notes](/assets/images/posts/promote-podcast-or-video-title-example.jpg)
 *Latasha James shows how to create compelling titles that perform well. Image source: Latasha James*
-
-Related Course
-
-## How to Start a Podcast
-
-[![How to Start a Podcast](https://www.cined.com/content/uploads/2023/10/MZED-How-to-start-a-podcast-300x169.jpg)](https://www.mzed.com/courses/how-to-start-a-podcast?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-So, you're interested in starting a podcast? Start here! Learn podcasting from master educator Latasha James. Planning, mastering the tech, interviewing, recording, marketing: Set yourself up for success!
 
 In the screenshot above, you see one of Latasha's podcast episodes that performed very well in terms of clicks. As she explains, this title works for two main reasons. First, instead of just calling it "Interview with Morgan Overholt", Latasha drew the listener's attention with the massive amount of money that her guest earned on the platform [Upwork](https://www.upwork.com/). Some people may not have heard of this freelance designer, but they were definitely intrigued by the "how-to" part of the title. Also, the keyword "Upwork" is something Latasha's audience finds interesting, as they often send her questions about this platform.
 
@@ -96,25 +84,5 @@ A good media kit includes key stats of the show (the number of listeners/viewers
 Use your media kit to reach out to the companies with which you share your values, and offer them partnerships. It can be, for example, direct sponsoring (30 to 60-second ads, promoting a specific brand), or affiliate marketing. The latter brings more value to your audience because oftentimes you can offer them a discount with your affiliate link or a coupon code. At the same time, you get a small commission from each brand's sales, so it's a win-win, as Latasha explains.
 
 Promoting a podcast or video might be a real struggle, especially if you don't like or want to invest your time and energy into it. Learning from marketing experts is a simpler way to gather or expand your audience. So, to better grasp concepts like SEO and "show identity," consider watching Latasha James' full course, "[How to Start a Podcast](https://www.mzed.com/courses/how-to-start-a-podcast?tap_a=17272-420962&tap_s=4271358-5ca7a1)" on [MZed.com](https://www.mzed.com/?tap_a=17272-420962&tap_s=4271358-5ca7a1).
-
-As an [MZed Pro member](https://www.mzed.com/?tap_a=17272-420962&tap_s=4271358-5ca7a1), you also get access to over 465 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's what you'll get:
-
--   54+ courses, over 850+ high-quality lessons, spanning over 500 hours of learning.
--   Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
--   Unlimited access to stream all content during the 12 months.
--   Offline download and viewing with the MZed iOS app.
--   Discounts to ARRI Academy online courses, exclusively on MZed.
--   Most of our courses provide an industry-recognized certificate upon completion.
--   Purchasing the courses outright would cost over $9,000.
--   Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, time-lapse, pitch decks, and more.
--   7-day money-back guarantee if you decide it's not for you.
-
-**[Join MZed Pro now and start watching today!](https://www.mzed.com/?tap_a=17272-420962&tap_s=4271358-5ca7a1)**
-
-Full disclosure: MZed is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)
-
-**How did you like Latasha's tips on promoting a podcast or video? What can you add to them? Which ways work for you in terms of expanding your audience? Let's share the best practices in the comments below.**
 
 _Feature image source:_ MZed.

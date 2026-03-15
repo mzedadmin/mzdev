@@ -18,7 +18,7 @@ That's where MZed's newest course comes in! The **[Canon R5 C Ultimate Video Man
 
 The course is created by [Ollie Kenchington](https://www.mzed.com/educators/ollie-kenchington), a filmmaker who is secretly a world-class teacher. I don't know how he manages to do it but Ollie can explain a difficult concept in the most digestible way possible. He really is a born educator.
 
-![Canon R5C Ollie Kenchington course](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-video-manual-ollie-kenchington.jpg)
+![Canon R5C Ollie Kenchington course](/assets/images/posts/canon-r5c-video-manual-ollie-kenchington.jpg)
 
 As I was watching the R5 C course, I learned a ton about color and record modes that I had never fully grasped until Ollie spelled them out. So really, this course isn't only for R5 C shooters.
 
@@ -30,13 +30,7 @@ Below is a summary of the course and the individual modules. MZed Pro members ge
 
 [**Go to The Canon R5 C Ultimate Video Manual with Ollie Kenchington**](https://www.mzed.com/courses/canon-r5c-ultimate-video-manual)
 
-* * *
-
 ## **The Canon R5 C Ultimate Video Manual - Course Outline**
-
- 
-
- 
 
 In this 'Ultimate Video Manual' for the Canon EOS R5 C, professional filmmaker Ollie Kenchington drills down in to the video functionality of this exciting 8K hybrid camera.
 
@@ -48,31 +42,31 @@ Moreover, in his characteristically detailed yet accessible style, Ollie even ta
 
 In this first module, after some basic menu navigation tips, Ollie moves through the Iris and Shutter options. We are shown the differences between Speed, Angle, Clear Scan and Slow, as well as examples of when each might be called upon.
 
-![Canon R5C camera setup](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-camera-setup.jpg)
+![Canon R5C camera setup](/assets/images/posts/canon-r5c-camera-setup.jpg)
 
 ### **Dual Base ISO**
 
 Here, Ollie goes in to detail about how the R5 C's sensor handles noise, as well as the impact custom picture preset changes have on ISO levels and dynamic range handling. Ollie also touches on the importance of good quality ND filtration with third-party glass.
 
-![Canon R5C dual base ISO](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5-c-dual-base-iso.jpg)
+![Canon R5C dual base ISO](/assets/images/posts/canon-r5-c-dual-base-iso.jpg)
 
 ### **Custom Picture Presets**
 
 After wrapping up the Camera Setup menu options, Ollie dives headlong in to the Custom Picture menu. Using his trusty Calibrite Video Checker chart, Ollie goes in to detail about the differences between BT.709 Standard, WideDR, CLog3 and how they affect your camera's ability to capture detail in highlights and shadows. He also briefly pulls back the curtain on the full extent of gamma, gamut and colour matrix customisation available to Canon cinema camera users.
 
-![R5C Canon custom picture presets](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5-c-custom-color-picture-profiles.jpg)
+![R5C Canon custom picture presets](/assets/images/posts/canon-r5-c-custom-color-picture-profiles.jpg)
 
 ### **Assistance Functions**
 
 A complete run down of the in-built exposure guides and tools available are covered in this lesson. From False Color and Zebras, to Waveform monitors and Vectorscopes, Ollie is in his element here, as he brings his extensive image evaluation knowledge to bear on the R5 C.
 
-![Canon R5 C exposure assistance](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-exposure-assistance-waveform.jpg)
+![Canon R5 C exposure assistance](/assets/images/posts/canon-r5c-exposure-assistance-waveform.jpg)
 
 ### **Recording & Media Setup**
 
 Ollie turns his attention to the myriad of recording options in the camera. From sensor crop modes to resolution, codec, bit rate, chroma subsampling and frame rate options, by the time you finish this lesson, you'll not only know what options are available in this camera, but why you would choose one over another. Ollie also touches on the importance of powering the camera and the relationship between this and your recording options.
 
-![Canon R5 C recording media setup](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-recording-media-setup.jpg)
+![Canon R5 C recording media setup](/assets/images/posts/canon-r5c-recording-media-setup.jpg)
 
 ### **2nd Card Record Functions**
 
@@ -82,28 +76,28 @@ The R5 C takes both CFexpress and SD cards, allowing for multiple recording work
 
 In this module, Ollie tackles the various recording modes available. Using examples from his own work, Ollie shows the Slow & Fast Motion modes, as well as the Frame and Interval recording modes.
 
-![Canon R5C record modes tutorial](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-record-modes.jpg)
+![Canon R5C record modes tutorial](/assets/images/posts/canon-r5c-record-modes.jpg)
 
 ### **Auto Focus**
 
 Canon are renowned for pioneering stable and accurate auto focusing systems in their cinema cameras and the R5 C builds on that legacy with its powerful focusing feature set. As well as showing how to get the best from the camera's auto focus mode, Ollie also shows how to compliment manual focusing with assistive features like the Focus Guide and the 'Only Around Focus Point' mode.
 
-![Canon R5C autofocus](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5-c-autofocus.jpg)
+![Canon R5C autofocus](/assets/images/posts/canon-r5-c-autofocus.jpg)
 
 ### **Digital I.S.**
 
 In this short lesson, Ollie guides us through the different levels of digital image stabilisation available in the R5 C, showing examples of each and when one might be preferred to another.
 
-![Canon R5C course digital IS](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-digital-is-image-stabilization.jpg)
+![Canon R5C course digital IS](/assets/images/posts/canon-r5c-digital-is-image-stabilization.jpg)
 
 ### **Operator Tips**
 
 Given the small stature of the R5 C, it is the perfect camera for rigging up in a multitude of ways. In this lesson, Ollie takes us through some of the most common accessories you might choose to use when rigging this camera up, as well as offering his thoughts on power saving tips with Canon's LP-E6NH batteries.
 
-![Canon R5C accessories tips](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-operator-accessories-tips.jpg)
+![Canon R5C accessories tips](/assets/images/posts/canon-r5c-operator-accessories-tips.jpg)
 
 ### **180 VR**
 
 In Ollie's final module, he lifts the lid on creating 180 degree virtual reality videos with the R5 C and Canon's Dual Fisheye Lens. From production tips for shooting the best immersive content possible, to post-production steps needed in Adobe Premiere Pro, Ollie shows the entire workflow from start to finish, using a test shot he captures in his local town.
 
-![Canon R5C 180 VR](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/images/news/canon-r5c-vr-180.jpg)
+![Canon R5C 180 VR](/assets/images/posts/canon-r5c-vr-180.jpg)

@@ -9,11 +9,7 @@ meta_description: Essential directing tips and exercises for rehearsing with act
 subtitle: Tips and Exercises That Smart Directors Use
 ---
 
-![Rehearsing with Actors - Tips and Exercises That Smart Directors Use](/assets/images/posts/rehearsing-with-actors-hero.jpg)
-
 **Let's get it straight: I'm a huge fan of rehearsals. Whether you make feature films, music videos, or even commercials, as long as you work with real people – you will need them. Rehearsals aren't just fun and games, they are a great place for troubleshooting. If the scene doesn't work on set, you're doomed. If it doesn't work in prep, there are countless ways to fix it. Naturally, no article could ever cover all acting techniques and directing styles. (It takes years of education and experience to acquire them). However, we decided to gather some simple tips and exercises directors use while rehearsing with actors. They can come in handy, especially if you get stuck or need to figure out why a particular performance doesn't feel right.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 The first and the most important piece of advice goes like this: Create a safe environment. That's how a rehearsing process (or, in fact, any collaboration with actors) should ideally begin. You will see this tip everywhere: in textbooks, in film schools, and the depths of your common sense. In the [MZed course "Short Films 101"](https://www.mzed.com/courses/short-films-101/modules/11?t=0?tap_a=17272-420962&tap_s=4560566-45cae1), seasoned video creator [Seth Worley](https://sethworley.com/) reminds us of a simple yet essential truth:
 
@@ -21,14 +17,6 @@ The first and the most important piece of advice goes like this: Create a safe e
 *Image source: Seth Worley/MZed*
 
 That's why as a director, you should work with your actors the same way you would want to be worked with, considering their specific situation. But what exactly is their situation?
-
-Related Course
-
-## Short Films 101
-
-[![Short Films 101](/assets/images/posts/rehearsing-with-actors-short-films-course.jpg)](https://www.mzed.com/courses/short-films-101?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Writer/director Seth Worley shares his experiences making award-winning short films. In this course you'll learn how to find your voice as a filmmaker through to post-production and establishing an audience.
 
 When you think about it, being an actor is a highly demanding, very exciting, and extremely vulnerable job. You get to tear your soul apart in front of (sometimes) complete strangers, who stop doing their work and watch you with full-on attention until everyone hears "Cut!" Take after take after take. No wonder it can be embarrassing and terrifying, especially during first rehearsals, when the director and actor have yet to bond.
 
@@ -110,10 +98,6 @@ Also, due to safety reasons, it's especially important to listen to the feedback
 Of course, there are numerous other tips and exercises that you can try during your rehearsals. A lot of them are quick, easy, and reasonable. For instance, if one of your actors is under an emotional constraint, let them release it. Say: "Give me too much!" and grant them temporarily your full permission to overact. Often exaggeration alone clears a blockade.
 
 Another quick exercise is to change the position of your performers in place. Let them continue the dialogue, but stand with their backs to each other. Have one speak while the other is turned away. Experiment and observe how the energy of the acting changes.
-
-**What about you? If you work a lot with actors, what are your go-to exercises? How do you like to approach the rehearsal process? Let's share some other tips with fellow filmmakers in the comment section below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4560566-45cae1) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
 
 **Additional sources:**
 

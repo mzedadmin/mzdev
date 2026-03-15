@@ -58,9 +58,7 @@ Even though the interface is simple, there are actually several different method
 
 Dave wraps up the Speed Editing in Final Cut Pro course with some final thoughts.
 
-![Final Cut Pro editing course](https://mzed-cdn1.sfo2.cdn.digitaloceanspaces.com/uploads/news/final-cut-pro-speed-editing-dave-maze.jpg)
-
-* * *
+![Final Cut Pro editing course](/assets/images/posts/final-cut-pro-speed-editing-dave-maze.jpg)
 
 ## **Watch the Course Now**
 

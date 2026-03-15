@@ -12,10 +12,6 @@ subtitle: Do you remember the epic "Severance" intro? There is one tool, that ma
 
 Each time I stumble upon newly published stills from the upcoming season of the "[Severance](https://tv.apple.com/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx)" series, my head instantly replays one thing: its epic intro. Do you remember how beautifully odd and fascinatingly disgusting it looked, with somewhat clumsy animation and creative scene transitions? However, there is one tool that makes this intro stand out even more. Namely, orthographic projection. Sounds difficult? No worries! We will dissect this term piece by piece until we reach its pumping heart and show how it can visually impact your scenes.
 
-![Rare Yet Impactful – Orthographic Projection in Films and Animations](/assets/images/posts/orthographic-projection-in-films-and-animations-hero.jpg)
-
-**MZed Pro 1-Year Filmmaking Education**
-
 It all starts with perspective. As you know, perspective is one of the most important visual cues to create depth in your shots and make them feel realistic (we talk a lot about it here). When we mention this term, I bet everyone imagines vanishing points, lines running together, and how the size of similar objects becomes smaller and smaller in the background. Somehow, we're rarely aware that there are different ways of depicting reality other than the linear perspective. Let's put an end to this injustice!
 
 In his rather philosophical text "Perspective as Symbolic Form," Erwin Panofsky refers to a definition made by phenomenal German painter Albrecht Dürer:
@@ -23,14 +19,6 @@ In his rather philosophical text "Perspective as Symbolic Form," Erwin Panofsky 
 > Perspectiva is a Latin word which means "seeing through."
 
 Dürer lived between the 15th and 16th centuries, in times of the Renaissance, and besides his art, he worked on theoretical treatises, which involved principles of mathematics for linear perspective. Yes, it wasn't always obvious how its geometry worked, especially not until the Renaissance. More curious, though, is that even linear perspective doesn't fully reflect how we see the real world (although that is the point of it).
-
-Related Course
-
-## Alex Buono's Visual Storytelling 2
-
-[![Alex Buono's Visual Storytelling 2](https://www.mzed.com/content/uploads/2024/10/fc2ad9e139b1313381a6b0da28f5160e-2.jpg)](https://www.mzed.com/courses/visual-storytelling-2?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Building on the curriculum of "The Art of Visual Storytelling", Alex Buono deconstructs the architecture of visual style, and through live demonstration shows you how to recreate various genres and looks.
 
 The thing is, because we have two eyes (both with a curved retina), we don't see straight lines as straight. Instead, even the most vertical lines (like the walls of a building) start to bend slightly when they are located further away from us. Our brain learned to ignore that fact, but this is how we actually perceive reality. Therefore, theoretics distinguish between the "subjective" perspective and the linear perspective:
 
@@ -97,15 +85,3 @@ I know we talk a lot about different techniques in these articles, deconstructin
 > Alex Buono
 
 What Alex and I mean to imply here: Yes, you can learn different storytelling tools and become a mighty maestro of [visual subtext](https://www.cined.com/visual-subtext-makes-your-story-richer-here-is-how-it-works/) in your movies. Yet, in the end, your artist's intention does not matter because there is no invalid interpretation. Of course, you can hide subtle (or not-so-subtle) cues in your film, but after you put it out into the world, you won't run around shouting: "That's not what I meant here! Let me explain!"
-
-## Conclusion
-
-After your work (movie, art, music) is released, it leaves your family home and becomes public. Now other people will try to interpret your story and find their own meanings in it. That's okay. So yes, learn your tools, work with precision, and think about why while implying one technique or another. But after it's finished, let your film go and experience its best life on this peculiar planet.
-
-**Let's turn the tables now! How did you like the "Severance" intro, and how did it make you feel? Have you ever noticed orthographic projection in other movies? If so, could you please share some examples with us? Also, feel free to continue the philosophic discussion on perspective as the characteristic of our worldview. We're always happy to see you in the comments down below!**
-
-**_Feature image:_** a film still from the intro of the "Severance" series (by Ben Stiller, 2022, Apple TV+).
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=5113764-dd9bb6) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**.
-
-**Additional source:** "Perspective as Symbolic Form" by Erwin Panofsky, 1991.

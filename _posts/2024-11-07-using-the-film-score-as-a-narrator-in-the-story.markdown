@@ -72,15 +72,3 @@ To explain how music achieves its incredible impact on the audience, Mark breaks
 - **Harmony** is what's responsible for the emotional impact. It's a magical glue that gives us this "I feel it" notion.
 
 When you combine these three together and create a strong, un-analyzable bond, then your music starts to narrate and opens doors for an emotional reaction. And what a beautiful journey it is!
-
-## Conclusion
-
-If you are an aspiring composer and want to gain technical knowledge on creating an engaging score, head over to our [MZed course "Cinema Sound."](https://www.mzed.com/courses/cinema-sound/modules/43/?tap_a=17272-420962&tap_s=6766559-c59e21) Not only does Mark Edward Lewis break down all the terms (stems, cues, bar, etc.) into edible chunks of information, but he also demonstrates a lot of practical examples.
-
-**What are your thoughts on the idea of the score acting as a narrator? Do you agree that it can significantly enhance storytelling in a film? Or do you merely use it to create an atmosphere for your projects? What workflow do you personally use in the composer-director relationship? Share your experiences with us in the comments below!**
-
-*Feature image: a film still from "Inception" by Christopher Nolan, 2010.*
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=6766559-c59e21) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/).**
-
-**Additional source:** "Cinematic Storytelling" by Jennifer Van Sijll, 2005.

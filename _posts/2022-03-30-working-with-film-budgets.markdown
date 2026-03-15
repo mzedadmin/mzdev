@@ -72,20 +72,3 @@ There are many pieces of advice in [The Indie Film Blueprint](https://www.mzed.c
 
 ![The Indie Film Blueprint course covering comprehensive filmmaking business education](/assets/images/posts/working-film-budgets-indie-blueprint-course.jpg)
 *The Indie Film Blueprint provides comprehensive guidance on film budgeting and production*
-
-As an [MZed Pro member](https://www.mzed.com/checkout/?sku=MZEDPRO12), you get access to nearly 300 hours of filmmaking education, plus we're constantly adding more courses. For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 42 courses, over 500 high-quality lessons spanning nearly 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Exclusive access to ARRI Academy online courses.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- The majority of MZed courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $9,800.
-- Course topics include cinematography, directing, lighting, cameras and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money-back guarantee if you decide it's not for you.
-- After the first year, the annual renewal rate is $199, a savings of 57% from the new member rate.
-
-**[Join MZed Pro now to get started](https://www.mzed.com/checkout/?sku=MZEDPRO12)**!
-
-What are your thoughts on indie film budgets? Add your comment below!

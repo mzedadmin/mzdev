@@ -77,34 +77,3 @@ You can typically count on a great variety of ASC members to lead panels and dem
 **Armando Salas, ASC** (Griselda, Ozark, Strange Angel, The Terminal List) **Craig Kief, ASC** (Muppets, The Unicorn, The Kids Are Alright, Tour de Pharmacy) **Jon Joffin, ASC** (Beyond, Big Sky, Motherland: Fort Salem, Titans) **Patrick Cady, ASC** (Bosch, Girlfight, Insecure, Rectify) **Robert McLachlan, ASC, CSC** (Game of Thrones, Lovecraft, Ray Donovan, Westworld) **Michael Pessah, ASC** (Joshua Tree 1951: A Portrait of James Dean, Saving Flora, Scandalous) **Chris Probst, ASC and Jay Holben** (Lens Testing Demonstration).
 
 After the October Master Class, the next 5-day session will be held November 7-11, 2022. [Here's a continually updated page](https://theasc.com/asc/education/master-class) with the ASC Master Class info, and I also encourage you to join the ASC email newsletter for the latest announcements – the signup is at the footer of ASC's website.
-
-## If you can't learn in-person – why MZed Pro exists
-
-There's nothing that can substitute for hands-on, in-person learning, and the ASC Master Classes are some of the best opportunities out there for you to advance your filmmaking skills. MZed also started as in-person education, and even today many of the online courses at MZed actually came from in-person workshops, such as [Vincent Laforet's Direction Motion](https://www.mzed.com/courses/vincent-laforet-directing-motion), [Alex Buono's Art of Visual Storytelling](https://www.mzed.com/courses/art-of-visual-storytelling/) and [Visual Storytelling 2](https://www.mzed.com/courses/visual-storytelling-2), and [The Art and Technique of Film Editing with Tom Cross, ACE](https://www.mzed.com/courses/the-art-technique-of-film-editing). I know how important in-person workshops are, which is why it's so wonderful that ASC is continuing to invest in live learning.
-
-![Alex Buono teaching visual storytelling techniques from original in-person workshops](/assets/images/posts/asc-master-class-mzed-alex-buono-connection.jpg)
-*Image source: ASC*
-
-But not everyone can attend in-person workshops, especially if you have to travel across the world to get there. That's precisely why MZed Pro was born, to give everyone the opportunity to learn filmmaking, with access to a wide variety of courses, no matter where they are. That's also why ARRI Academy brought their exclusive certified in-person training to an online experience, exclusively on MZed.
-
-Realistically, no one course or workshop will ever be enough. Continual education is important in every field, but especially in the ever-evolving world of filmmaking. Never stop learning!
-
-## What else do you get with MZed Pro?
-
-As an [MZed Pro member](https://www.mzed.com/), you also get access to over 300 hours of filmmaking education, plus we're constantly adding more courses (several in production right now).
-
-For just $30/month (billed annually at $349), here's everything you'll get:
-
-- 40+ courses, over 600 high-quality lessons spanning over 300 hours of learning.
-- Highly produced courses from educators who have decades of experience and awards, including a Pulitzer Prize and an Academy Award.
-- Unlimited access to stream all the content during the 12 months.
-- Offline download and viewing with the MZed iOS app.
-- Discounts to ARRI Academy online courses, exclusively on MZed.
-- The majority of our courses provide an industry-recognized certificate upon completion.
-- Purchasing the courses outright would cost over $7,500.
-- Course topics include cinematography, directing, lighting, cameras, and lenses, producing, indie filmmaking, writing, editing, color grading, audio, and even how to launch a YouTube channel.
-- 7-day money back guarantee if you decide it's not for you.
-
-[**Join MZed Pro now and start watching today!**](https://www.mzed.com/checkout/?sku=MZEDPRO12)
-
-Are you considering attending an in-person workshop? Let us know in the comments below!

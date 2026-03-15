@@ -8,11 +8,7 @@ meta_description: Breaking down a couple scenes that are particularly emotional
 subtitle: Breaking down a couple scenes that are particularly emotional
 ---
 
-![Emotional Editing - How "The Bear" Series Gets Under Our Skin](/assets/images/posts/analyzing-editing-the-bear-hero.jpg)
-
 **The award season is in full swing, and wow, it's exciting to witness deserving filmmakers receive well-earned attention! Among them is "[The Bear](https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f)", a critically acclaimed FX Productions show that took home [10 Emmys](https://www.emmys.com/shows/bear) earlier this month and keeps the buzz going. If you haven't watched this series, you should. It's a firework of feelings and a rollercoaster ride that will make you hold your breath until your feet hit the ground. But how does it work? One of the biggest reasons why this show gets under our skin is the remarkable emotional editing. Here we will break down a couple of scenes and take a look from the editor's perspective.**
-
-**MZed Pro 1-Year Filmmaking Education Subscription**
 
 Although the judges of the Emmy Awards put "The Bear" in the "comedy" category, there is much more to it than just finding humor in daily life. The series follows a young, talented chef, Carmy (performed by [Jeremy Allen White](https://www.imdb.com/name/nm2087739/)), who suddenly inherits his brother's rundown beef sandwich shop in Chicago. Throughout two seasons he tries to make things work, while he and members of his team deal with issues of loss, grief, anger, anxiety, identity crisis, and stress – so much freaking stress!
 
@@ -23,14 +19,6 @@ Although the judges of the Emmy Awards put "The Bear" in the "comedy" category, 
 *Fast-paced editing creates the chaotic atmosphere of the kitchen. Image source: CineD*
 
 The script, cinematography, and acting are fantastic, transferring all these emotions straight into our heads. In addition, what truly dials up the show's intensity to an extreme is undoubtedly its unconventional editing.
-
-Related Course
-
-## The Cutting Edge
-
-[![The Cutting Edge](https://www.cined.com/content/uploads/2023/06/4befafe6995fcfbe6b54ddb7c63420d0.jpg)](https://www.mzed.com/courses/the-cutting-edge?tap_a=17272-420962&tap_s=3897887-d89a01)
-
-Saturday Night Live film unit Editor Adam Epstein shows you exactly how he takes a project from an empty timeline to a network broadcast in under 24 hours. Adam shares his tips, techniques and theories to maximize your results.
 
 ## **Stylistic choices for the editing of The Bear**
 
@@ -112,9 +100,5 @@ What do we see here? Little to no dialog (almost in the entire episode!), no exp
 When your cuts often last only 10 frames, sounds become extremely important. They help viewers comprehend the contents of fast-paced sequences more easily, and that's also true for "The Bear". Say, you see a steak in the frying pan for only a brief moment, but when you hear its hissing beforehand, you use two channels of perception instead of one and connect the dots quicker. It helps to glue the montage seamlessly, explains [Adam Epstein](https://www.adam-epstein.com/). He also mentions that he never worked as much on sound design as when he worked on this show. [Creating full sound beds](https://www.cined.com/creating-full-soundscapes-the-huge-impact-of-foley-and-sound-effects/) and setting the audio tone for different story parts, characters, and locations was indeed a huge editing tool in "The Bear" as well.
 
 By the way, Adam Epstein has [a detailed course on editing on MZed.com](https://www.mzed.com/courses/the-cutting-edge?tap_a=17272-420962&tap_s=4498480-805d69), so you can learn more about how he approaches different workflows, storytelling, and even the technical challenges of his job.
-
-**What do you think about the emotional editing of "The Bear"? Did you experience moments when it seemed "too much"? Are there any other tools that you noticed being frequently used in the show? Let's talk about this amazing series in the comments below!**
-
-**Full disclosure: [MZed](https://www.mzed.com/?tap_a=17272-420962&tap_s=4498480-805d69) is [owned by CineD](https://www.cined.com/cined-acquires-mzed/)**
 
 _Feature image source:_ Film stills from "The Bear" by Christopher Storer (FX Productions), 2023.
