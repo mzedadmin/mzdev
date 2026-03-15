@@ -1,11 +1,10 @@
 ---
 title: Learning to Both Produce and Shoot on Documentaries
 date: 2022-01-19 00:00:00 Z
-image: /assets/images/posts/learning-produce-shoot-documentaries-hero.jpg
+image: "/assets/images/posts/learning-produce-shoot-documentaries-hero.jpg"
 layout: post
-blog_category: "Educational"
-meta_description:
-  There's an art to being both a producer and shooter on docs - here's
+blog_category: Educational
+meta_description: There's an art to being both a producer and shooter on docs - here's
   how.
 subtitle: There's an art to being both a producer and shooter on docs - here's how.
 ---

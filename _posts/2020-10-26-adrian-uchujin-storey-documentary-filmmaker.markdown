@@ -4,11 +4,9 @@ date: 2020-10-26 00:00:00 Z
 image: "/assets/images/posts/adrian-uchujin-storey-documentary-filmmaker-hero.jpg"
 layout: post
 blog_category: Educational
-meta_description:
-  UK-based director, producer, shooter and editor Adrian Storey -
+meta_description: UK-based director, producer, shooter and editor Adrian Storey -
   aka Uchujin - finds inspiration in diversity of lifestyles.
-subtitle:
-  UK-based director, producer, shooter and editor Adrian Storey - aka Uchujin
+subtitle: UK-based director, producer, shooter and editor Adrian Storey - aka Uchujin
   - finds inspiration in diversity of lifestyles.
 ---
 

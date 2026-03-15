@@ -4,11 +4,9 @@ date: 2021-01-11 00:00:00 Z
 image: "/assets/images/posts/asc-master-class-larry-fong-lighting.jpg"
 layout: post
 blog_category: MZed News
-meta_description:
-  Currently taught remotely via Zoom, now anyone in the world can
+meta_description: Currently taught remotely via Zoom, now anyone in the world can
   take the ASC's cinematography workshop
-subtitle:
-  Currently taught remotely via Zoom, now anyone in the world can take the
+subtitle: Currently taught remotely via Zoom, now anyone in the world can take the
   ASC's cinematography workshop
 ---
 

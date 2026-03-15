@@ -4,11 +4,9 @@ date: 2020-03-17 00:00:00 Z
 image: "/assets/images/posts/filmmaking-for-photographers-giveaway-winners-hero.jpg"
 layout: post
 blog_category: MZed News
-meta_description:
-  12 winners will take home gear, but every entry got a free lesson
+meta_description: 12 winners will take home gear, but every entry got a free lesson
   in camera movement
-subtitle:
-  12 winners will take home gear, but every entry got a free lesson in camera
+subtitle: 12 winners will take home gear, but every entry got a free lesson in camera
   movement
 ---
 

@@ -4,11 +4,9 @@ date: 2019-12-16 00:00:00 Z
 image: "/assets/images/posts/what-does-hdr-mean-hero.jpg"
 layout: post
 blog_category: Educational
-meta_description:
-  High Dynamic Range is taking over filmmaking, monitoring, viewing,
+meta_description: High Dynamic Range is taking over filmmaking, monitoring, viewing,
   and projection, but what actually is HDR?
-subtitle:
-  High Dynamic Range is taking over filmmaking, monitoring, viewing, and projection,
+subtitle: High Dynamic Range is taking over filmmaking, monitoring, viewing, and projection,
   but what actually is HDR?
 ---
 

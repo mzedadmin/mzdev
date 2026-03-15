@@ -4,11 +4,9 @@ date: 2019-08-16 00:00:00 Z
 image: "/assets/images/posts/large-format-cameras-hero.jpg"
 layout: post
 blog_category: Educational
-meta_description:
-  Moonlight’s James Laxton ASC illustrates why a large format ARRI
+meta_description: Moonlight’s James Laxton ASC illustrates why a large format ARRI
   camera is not just for action films.
-subtitle:
-  Moonlight’s James Laxton ASC illustrates why a large format ARRI camera
+subtitle: Moonlight’s James Laxton ASC illustrates why a large format ARRI camera
   is not just for action films.
 ---
 

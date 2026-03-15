@@ -4,11 +4,9 @@ date: 2019-07-16 00:00:00 Z
 image: "/assets/images/posts/davinci-resolve-video-editing-software-hero.jpg"
 layout: post
 blog_category: Educational
-meta_description:
-  It might be wise to start your video editing journey with DaVinci
+meta_description: It might be wise to start your video editing journey with DaVinci
   Resolve. Here's why.
-subtitle:
-  It might be wise to start your video editing journey with DaVinci Resolve.
+subtitle: It might be wise to start your video editing journey with DaVinci Resolve.
   Here's why.
 ---
 

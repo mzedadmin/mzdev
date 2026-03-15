@@ -4,11 +4,9 @@ date: 2021-09-02 00:00:00 Z
 image: "/assets/images/posts/my-rode-reel-2021-hero.jpg"
 layout: post
 blog_category: MZed News
-meta_description:
-  The world's biggest film festival is back with more prizes and a
+meta_description: The world's biggest film festival is back with more prizes and a
   TikTok contest
-subtitle:
-  The world's biggest film festival is back with more prizes and a TikTok
+subtitle: The world's biggest film festival is back with more prizes and a TikTok
   contest
 ---
 

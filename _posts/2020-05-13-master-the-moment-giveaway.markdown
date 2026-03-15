@@ -4,11 +4,9 @@ date: 2020-05-13 00:00:00 Z
 image: "/assets/images/posts/master-the-moment-giveaway-hero.jpg"
 layout: post
 blog_category: MZed News
-meta_description:
-  Watch a free lesson and enter to win $4,000 worth of wedding filmmaking
+meta_description: Watch a free lesson and enter to win $4,000 worth of wedding filmmaking
   prizes!
-subtitle:
-  Watch a free lesson and enter to win $4,000 worth of wedding filmmaking
+subtitle: Watch a free lesson and enter to win $4,000 worth of wedding filmmaking
   prizes!
 ---
 
